@@ -14,7 +14,7 @@ its quite empty
 That'll fix itself eventually whenever i feel like adding more stuff, folders or wiki's.
 
 >[!info]- Important note
->chicken butt
+>haha made you look
 
 # Information
 
