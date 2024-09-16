@@ -1,16 +1,19 @@
-# introductory
+# introduction
 Hiiii
-So this is like, my place to write blogs, school stuff, random information and anything i feel like really.
+So this is like, my(Tom's) place to write blogs, school stuff, random information and anything i feel like really.
 
 At the moment you might notice something:
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 its quite empty
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 That'll fix itself eventually whenever i feel like adding more stuff, folders or wiki's.
 
 >[!info]- Important note
