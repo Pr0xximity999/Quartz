@@ -1,7 +1,9 @@
-# Tags
-
-#vps #website #server #personal-project
-
+---
+tags:
+  - vps
+  - website
+  - server
+  - personal-project
 ---
 # References
 
@@ -90,4 +92,4 @@ After this finishes successfully, you can open your browser and type \<ipAddress
 
 ## Deploying containers
 For this example, i used a container my friend made.
-Ill look into making my own containers later on.
+Ill look into making my own containers later on. #content-to-come
