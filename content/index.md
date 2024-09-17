@@ -24,8 +24,8 @@ That'll fix itself eventually whenever i feel like adding more stuff, folders or
 ## Tags
 I give every file some tags that resemble the content, things like: 
 #lectoraat / #informative / #school
-But also what language the page is in: 
-#language/dutch / #language/english  / #taal/engels / #taal/nederlands 
+But also what language the page is in:<br>
+#language/dutch / #language/english / #taal/engels / #taal/nederlands 
 
 ## Folder system
 There's a system to the folders, you'll figure it out probably.
