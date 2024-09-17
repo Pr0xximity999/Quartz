@@ -1,6 +1,6 @@
 # introduction
 Hiiii
-So this is like, my(Tom's) digital garden to write blogs, school stuff, random information, ideas i might get or anything i feel like really.
+So this is like, my(Tom's) digital garden to write blogs, school stuff, random information, ideas i might get or anything i feel like really. It's running on the quartz 4 engine.
 
 At the moment you might notice something:
 <br>
