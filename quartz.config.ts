@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "🌙Tom's Docs",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: 'G-RQ53SEPBR4'},
+    analytics: null,
     locale: "en-US",
     baseUrl: "pr0xximity999.github.io/Quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
