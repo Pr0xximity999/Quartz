@@ -22,10 +22,12 @@ That'll fix itself eventually whenever i feel like adding more stuff, folders or
 
 # Information
 ## Tags
-I give every file some tags that resemble the content, things like<br>
+I give every file some tags that resemble the content, things like:
+
 #lectoraat / #informative / #school
 
-But also what language the page is in<br>
+But also what language the page is in:
+
 #language/dutch / #language/english / #taal/engels / #taal/nederlands 
 
 ## Folder system
