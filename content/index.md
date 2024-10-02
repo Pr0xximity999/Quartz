@@ -1,3 +1,21 @@
+---
+tags:
+  - junction
+  - index
+---
+>[!warning] file name changes occurred
+>Some file numbers were wrong and had to be changed, thus some old links did not work anymore
+# New entries/updates
+
+| date       | file                                                                                                              | Language          | Notes      |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| 30/09/2024 | [[20 - 29 School/23 - Smart energy/23.03 - User Experience (UX)\|23.03 - User Experience (UX)]]                   | #language/dutch   |            |
+| 30/09/2024 | [[20 - 29 School/23 - Smart energy/23.04 - Project smart meter\|23.04 - Project smart meter]]                     | #language/dutch   |            |
+| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.05 - Plagiaat en fraude bij examens\|22.05 - Plagiaat en fraude bij examens]] | #language/dutch   |            |
+| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.06 - Blog schrijven 2\|22.06 - Blog schrijven 2]]                             | #language/dutch   |            |
+| 02/10/2024 | [[20 - 29 School/24 - Blogs/24.01 - How to write a blog\|24.01 - How to write a blog]]                            | #language/english | Added info |
+|            |                                                                                                                   |                   |            |
+
 # introduction
 Hiiii
 So this is like, my(Tom's) digital garden to write blogs, school stuff, random information, ideas i might get or anything i feel like really. It's running on the quartz 4 engine.
@@ -20,7 +38,12 @@ That'll fix itself eventually whenever i feel like adding more stuff, folders or
 >[!info]- Important note
 >haha made you look
 
+
 # Information
+
+>[!abstract] Not all files are as tidy and finished as others
+> Since i need to put time and effort (and motivation) into making and upkeeping some files, there may be some that aren't as nice to read since i havent tidied them up yet
+> sorry in advance
 ## Tags
 I give every file some tags that resemble the content, things like:
 
@@ -33,7 +56,7 @@ But also what language the page is in:
 ## Folder system
 There's a system to the folders, you'll figure it out probably.
 
-Its based on [source yet to come] #content-to-come
+Its based on [source yet to come] #management/content-to-come
 
 Basically, the top folders have number ranges consisting of 10 slots. These are usually the general category of the contents.
 >[!info] **Example:**
