@@ -42,7 +42,7 @@ That'll fix itself eventually whenever i feel like adding more stuff, folders or
 # Information
 
 >[!abstract] Not all files are as tidy and finished as others
-> Since i need to put time and effort (and motivation) into making and upkeeping some files, there may be some that aren't as nice to read since i havent tidied them up yet
+> Since i need to put time and effort (and motivation) into making and upkeeping some files, there may be some that aren't as nice to read since i havent tidied them up yet 
 > sorry in advance
 ## Tags
 I give every file some tags that resemble the content, things like:
@@ -56,7 +56,7 @@ But also what language the page is in:
 ## Folder system
 There's a system to the folders, you'll figure it out probably.
 
-Its based on [source yet to come] #management/content-to-come
+Its based on [#management/content-to-come]
 
 Basically, the top folders have number ranges consisting of 10 slots. These are usually the general category of the contents.
 >[!info] **Example:**
