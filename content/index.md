@@ -7,14 +7,12 @@ tags:
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore
 # New entries/updates
 
-| date       | file                                                                                                              | Language          | Notes      |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| 30/09/2024 | [[20 - 29 School/23 - Smart energy/23.03 - User Experience (UX)\|23.03 - User Experience (UX)]]                   | #language/dutch   |            |
-| 30/09/2024 | [[20 - 29 School/23 - Smart energy/23.04 - Project smart meter\|23.04 - Project smart meter]]                     | #language/dutch   |            |
-| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.05 - Plagiaat en fraude bij examens\|22.05 - Plagiaat en fraude bij examens]] | #language/dutch   |            |
-| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.06 - Blog schrijven 2\|22.06 - Blog schrijven 2]]                             | #language/dutch   |            |
-| 02/10/2024 | [[20 - 29 School/24 - Blogs/24.01 - How to write a blog\|24.01 - How to write a blog]]                            | #language/english | Added info |
-|            |                                                                                                                   |                   |            |
+| date       | file                                                                                                                                              | Language          | Notes      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.05 - Plagiaat en fraude bij examens\|22.05 - Plagiaat en fraude bij examens]]                                 | #language/dutch   |            |
+| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.06 - Blog schrijven 2\|22.06 - Blog schrijven 2]]                                                             | #language/dutch   |            |
+| 02/10/2024 | [[20 - 29 School/24 - Blogs/24.01 - How to write a blog\|24.01 - How to write a blog]]                                                            | #language/english | Added info |
+| 05/10/2024 | [[10 - 19 Personal projects/19 - Miscellaneous/19.01 - Changing your boot icon for UEFI sytems\|19.01 - Changing your boot icon for UEFI sytems]] | #language/english |            |
 
 # introduction
 Hiiii
