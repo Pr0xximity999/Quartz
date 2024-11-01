@@ -7,9 +7,13 @@ tags:
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore
 # New entries/updates
 
-| date       | file                                                                                                                 | Language                          | Notes |
-| ---------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ----- |
-| 29/10/2024 | [[20 - 29 School/24 - Blogs/24.05 - Slimmer worden met je metergebruik\|24.05 - Slimmer worden met je metergebruik]] | #language/dutch #taal/nederlands  |       |
+| date       | file                                                                                                                 | Language                         | Notes            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------- |
+| 29/10/2024 | [[20 - 29 School/24 - Blogs/24.05 - Slimmer worden met je metergebruik\|24.05 - Slimmer worden met je metergebruik]] | #language/dutch #taal/nederlands |                  |
+| 01/11/2024 | [[10 - 19 Personal projects/12 - Compiler/12.01 What is a compiler\|12.01 What is a compiler]]                       | #language/english #taal/engels   |                  |
+| 01/11/2024 | [[10 - 19 Personal projects/12 - Compiler/12.02 Setting up the project\|12.02 Assembling and linking]]               | #language/english #taal/engels   |                  |
+| 01/11/2024 | [[10 - 19 Personal projects/12 - Compiler/12.03 Writing assembly part 1\|12.03 Writing assembly part 1]]             | #language/english #taal/engels   | Work in progress |
+
 
 # introduction
 Hiiii
