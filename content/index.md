@@ -7,31 +7,14 @@ tags:
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore
 # New entries/updates
 
-| date       | file                                                                                                                                              | Language          | Notes      |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.05 - Plagiaat en fraude bij examens\|22.05 - Plagiaat en fraude bij examens]]                                 | #language/dutch   |            |
-| 01/10/2024 | [[20 - 29 School/22 - Lectoraten/22.06 - Blog schrijven 2\|22.06 - Blog schrijven 2]]                                                             | #language/dutch   |            |
-| 02/10/2024 | [[20 - 29 School/24 - Blogs/24.01 - How to write a blog\|24.01 - How to write a blog]]                                                            | #language/english | Added info |
-| 05/10/2024 | [[10 - 19 Personal projects/19 - Miscellaneous/19.01 - Changing your boot icon for UEFI sytems\|19.01 - Changing your boot icon for UEFI sytems]] | #language/english |            |
+| date       | file                                                                                                                 | Language                          | Notes |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ----- |
+| 29/10/2024 | [[20 - 29 School/24 - Blogs/24.05 - Slimmer worden met je metergebruik\|24.05 - Slimmer worden met je metergebruik]] | #language/dutch #taal/nederlands  |       |
 
 # introduction
 Hiiii
 So this is like, my(Tom's) digital garden to write blogs, school stuff, random information, ideas i might get or anything i feel like really. It's running on the quartz 4 engine.
 
-At the moment you might notice something:
-<br>
-<br>
-<br>
-<br>
-<br>
-its quite empty<br>
-<sup><sup>(just like my brain)</sup></sup>
-<br>
-<br>
-<br>
-<br>
-<br>
-That'll fix itself eventually whenever i feel like adding more stuff, folders or wiki's.
 
 >[!info]- Important note
 >haha made you look
