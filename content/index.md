@@ -7,13 +7,12 @@ tags:
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore
 # New entries/updates
 
-| date       | file                                                                                                                                       | Language                         | Notes |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ----- |
-| 29/10/2024 | [[20 - 29 School/24 - Blogs/24.05 - Slimmer worden met je metergebruik\|24.05 - Slimmer worden met je metergebruik]]                       | #language/dutch #taal/nederlands |       |
-| 01/11/2024 | [[10 - 19 Personal projects/12 - Compiler/12.01 What is a compiler\|12.01 What is a compiler]]                                             | #language/english #taal/engels   |       |
-| 01/11/2024 | [[10 - 19 Personal projects/12 - Compiler/12.02 Setting up the project\|12.02 Assembling and linking]]                                     | #language/english #taal/engels   |       |
-| 01/11/2024 | [[10 - 19 Personal projects/12 - Compiler/12.03 Writing assembly part 1\|12.03 Writing assembly part 1]]                                   | #language/english #taal/engels   |       |
-| 01/11/2024 | [[10 - 19 Personal projects/12 - Compiler/12.04 Assembling and linking the assembly file\|12.04 Assembling and linking the assembly file]] | #language/english #taal/engels   |       |
+| date       | file                                  | Language                         | Notes      |
+| ---------- | ------------------------------------- | -------------------------------- | ---------- |
+| 13/11/2024 | [[21.04 - Systeemdenken]] | #language/dutch #taal/nederlands | incomplete |
+| 13/11/2024 | [[25.01 - User Experience (UX)]]      | #language/dutch #taal/nederlands | moved      |
+| 13/11/2024 | [[26.02 - Doelgroep en de gebruiker]] | #language/dutch #taal/nederlands |            |
+
 
 
 # introduction
