@@ -5,14 +5,19 @@ tags:
 ---
 >[!warning] file name changes occurred
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore
+
+>[!important] Semester planning
+>Planning of the current semester can be found [[20.01 - Planning periode 2|here]]
+
 # New entries/updates
 
-| date       | file                                  | Language                          | Notes      |
-| ---------- | ------------------------------------- | --------------------------------- | ---------- |
-| 13/11/2024 | [[21.04 - Systeemdenken]]             | #language/dutch #taal/nederlands  | incomplete |
-| 13/11/2024 | [[25.01 - User Experience (UX)]]      | #language/dutch #taal/nederlands  | moved      |
-| 13/11/2024 | [[26.02 - Doelgroep en de gebruiker]] | #language/dutch #taal/nederlands  |            |
-| 13/11/2024 | [[20.01 - Planning periode 2]]        | #language/dutch #taal/nederlands  | Very nice  |
+| date       | file                                  | Language                         | Notes      |
+| ---------- | ------------------------------------- | -------------------------------- | ---------- |
+| 13/11/2024 | [[21.04 - Systeemdenken]]             | #language/dutch #taal/nederlands | incomplete |
+| 13/11/2024 | [[25.01 - User Experience (UX)]]      | #language/dutch #taal/nederlands | moved      |
+| 13/11/2024 | [[26.02 - Doelgroep en de gebruiker]] | #language/dutch #taal/nederlands |            |
+| 13/11/2024 | [[20.01 - Planning periode 2]]        | #language/dutch #taal/nederlands | very handy |
+
 
 
 
