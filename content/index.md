@@ -11,13 +11,14 @@ tags:
 
 # New entries/updates
 
-| date       | file                                                                           | Language                         | Notes                            |
-| ---------- | ------------------------------------------------------------------------------ | -------------------------------- | -------------------------------- |
-| 13/11/2024 | [[25.01 - User Experience (UX)]]                                               | #language/dutch #taal/nederlands | moved                            |
-| 13/11/2024 | [[26.02 - Doelgroep en de gebruiker]]                                          | #language/dutch #taal/nederlands |                                  |
-| 13/11/2024 | [[20.01 - Planning periode 2]]                                                 | #language/dutch #taal/nederlands | ignore my strikes (personal use) |
-| 14/11/2024 | [[21.04 - Systeemdenken]]                                                      | #language/dutch #taal/nederlands | updated                          |
-| 14/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]] | #language/dutch #taal/nederlands | Will continuously update         |
+| date       | file                                                                                          | Language                         | Notes                            |
+| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- |
+| 13/11/2024 | [[25.01 - User Experience (UX)]]                                                              | #language/dutch #taal/nederlands | moved                            |
+| 13/11/2024 | [[26.02 - Doelgroep en de gebruiker]]                                                         | #language/dutch #taal/nederlands |                                  |
+| 13/11/2024 | [[20.01 - Planning periode 2]]                                                                | #language/dutch #taal/nederlands | ignore my strikes (personal use) |
+| 14/11/2024 | [[21.04 - Systeemdenken]]                                                                     | #language/dutch #taal/nederlands | updated                          |
+| 14/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                | #language/dutch #taal/nederlands | Will continuously update         |
+| 14/11/2024 | [[20 - 29 School/27 - Robotics Prototyping/27.01 - Becky the robot\|27.01 - Becky the robot]] | #language/english #taal/engels   | robor <3<3<3<3<3                 |
 
 
 
@@ -34,8 +35,8 @@ So this is like, my(Tom's) digital garden to write blogs, school stuff, random i
 # Information
 
 >[!abstract] Not all files are as tidy and finished as others
-> Since i need to put time and effort (and motivation) into making and upkeeping some files, there may be some that aren't as nice to read since i havent tidied them up yet 
-> sorry in advance
+> Since i need to put time and effort (and motivation) into making and upkeeping some files, there may be some that aren't as nice to read since i havent tidied them up yet. 
+> Sorry in advance
 ## Tags
 I give every file some tags that resemble the content, things like:
 
