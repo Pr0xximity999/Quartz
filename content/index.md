@@ -21,7 +21,7 @@ tags:
 | 20/11/2024 | [[20.01 - Planning periode 2]]                                                                | #language/dutch #taal/nederlands | ignore my strikes (personal use) - **updated**           |
 | 20/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                | #language/dutch #taal/nederlands | Will continuously update                                 |
 | 20/11/2024 | [[20 - 29 School/25 - Informatica/25.03 - User stories\|25.03 - User stories]]                | #language/dutch #taal/nederlands | why did i make this                                      |
-| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases\|25.04 - Use Cases]]                      | #language/dutch #taal/nederlands | try and stop me                                          |
+| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases\|25.04 - Use Cases]]                      | #language/dutch #taal/nederlands | theres something wrong with me                           |
 
 
 
