@@ -11,15 +11,16 @@ tags:
 
 # New entries/updates
 
-| date       | file                                                                                          | Language                         | Notes                            |
-| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- |
-| 13/11/2024 | [[25.01 - User Experience (UX)]]                                                              | #language/dutch #taal/nederlands | moved                            |
-| 13/11/2024 | [[26.02 - Doelgroep en de gebruiker]]                                                         | #language/dutch #taal/nederlands |                                  |
-| 13/11/2024 | [[20.01 - Planning periode 2]]                                                                | #language/dutch #taal/nederlands | ignore my strikes (personal use) |
-| 14/11/2024 | [[21.04 - Systeemdenken]]                                                                     | #language/dutch #taal/nederlands | updated                          |
-| 14/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                | #language/dutch #taal/nederlands | Will continuously update         |
-| 14/11/2024 | [[20 - 29 School/27 - Robotics Prototyping/27.01 - Becky the robot\|27.01 - Becky the robot]] | #language/english #taal/engels   | robor <3<3<3<3<3                 |
-| 15/11/2024 | [[26.03 - Reflecteren]]                                                                       | #language/dutch #taal/nederlands |                                  |
+| date       | file                                                                                          | Language                         | Notes                                                    |
+| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------- |
+| 13/11/2024 | [[25.01 - User Experience (UX)]]                                                              | #language/dutch #taal/nederlands | moved                                                    |
+| 13/11/2024 | [[26.02 - Doelgroep en de gebruiker]]                                                         | #language/dutch #taal/nederlands |                                                          |
+| 13/11/2024 | [[20.01 - Planning periode 2]]                                                                | #language/dutch #taal/nederlands | ignore my strikes (personal use)                         |
+| 14/11/2024 | [[20 - 29 School/21 - lws/21.04 - Systeemdenken]]                                             | #language/dutch #taal/nederlands | updated                                                  |
+| 14/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                | #language/dutch #taal/nederlands | Will continuously update                                 |
+| 14/11/2024 | [[20 - 29 School/27 - Robotics Prototyping/27.01 - Becky the robot\|27.01 - Becky the robot]] | #language/english #taal/engels   | robor <3<3<3<3<3                                         |
+| 15/11/2024 | [[20 - 29 School/21 - lws/21.06 - Reflecteren]]                                                                       | #language/dutch #taal/nederlands | updated                                                  |
+| 15/11/2024 | [[20 - 29 School/22 - Colleges/22.07 - Inspiratie College\|22.07 - Inspiratie College]]       | #language/dutch #taal/nederlands | goed voor een beetje inzicht in het bedrijf van de casus |
 
 
 
