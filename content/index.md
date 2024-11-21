@@ -11,22 +11,25 @@ tags:
 
 # New entries/updates
 
-| date       | file                                                                                          | Language                         | Notes                            |
-| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- |
-| 13/11/2024 | [[25.01 - User Experience (UX)]]                                                              | #language/dutch #taal/nederlands | moved                            |
-| 13/11/2024 | [[25.02 - Doelgroep en de gebruiker]]                                                         | #language/dutch #taal/nederlands |                                  |
-| 13/11/2024 | [[20.01 - Planning periode 2]]                                                                | #language/dutch #taal/nederlands | ignore my strikes (personal use) |
-| 14/11/2024 | [[21.04 - Systeemdenken]]                                                                     | #language/dutch #taal/nederlands | updated                          |
-| 14/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                | #language/dutch #taal/nederlands | Will continuously update         |
-| 14/11/2024 | [[20 - 29 School/27 - Robotics Prototyping/27.01 - Becky the robot\|27.01 - Becky the robot]] | #language/english #taal/engels   | robor <3<3<3<3<3                 |
-| 15/11/2024 | [[25.03 - Reflecteren]]                                                                       | #language/dutch #taal/nederlands |                                  |
+| date       | file                                                                                          | Language                         | Notes                                                    |
+| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------- |
+| 14/11/2024 | [[20 - 29 School/21 - slb/21.04 - Systeemdenken\|21.04 - Systeemdenken]]                      | #language/dutch #taal/nederlands | updated                                                  |
+| 14/11/2024 | [[20 - 29 School/27 - Robotics Prototyping/27.01 - Becky the robot\|27.01 - Becky the robot]] | #language/english #taal/engels   | robor <3<3<3<3<3                                         |
+| 15/11/2024 | [[20 - 29 School/25 - Informatica/25.06 - Reflecteren\|21.06 - Reflecteren]]                          | #language/dutch #taal/nederlands | updated                                                  |
+| 15/11/2024 | [[20 - 29 School/22 - Colleges/22.07 - Inspiratie College\|22.07 - Inspiratie College]]       | #language/dutch #taal/nederlands | goed voor een beetje inzicht in het bedrijf van de casus |
+| 19/11/2024 | [[20 - 29 School/22 - Colleges/22.08 - Requirements\|22.08 - Requirements]]                   | #language/dutch #taal/nederlands |                                                          |
+| 20/11/2024 | [[20.01 - Planning periode 2]]                                                                | #language/dutch #taal/nederlands | ignore my strikes (personal use) - **updated**           |
+| 20/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                | #language/dutch #taal/nederlands | Will continuously update                                 |
+| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.03 - User stories\|25.03 - User stories]]                | #language/dutch #taal/nederlands | why did i make this                                      |
+| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases\|25.04 - Use Cases]]                      | #language/dutch #taal/nederlands | theres something wrong with me                           |
+
 
 
 
 
 # introduction
 Hiiii
-So this is like, my(Tom's) digital garden to write blogs, school stuff, random information, ideas i might get or anything i feel like really. It's running on the quartz 4 engine.
+So this is like, my(Tom's) digital garden to write blogs, school stuff (Mostly this rn), random information, ideas i might get or anything i feel like really. It's running on the quartz 4 engine.
 
 
 >[!info]- Important note
@@ -62,3 +65,7 @@ Inside those folders are (up to) 10 subfolders containing a certain topic (like 
 > The lecture about [[22.02 - Cyber warfare|Cyber warfare]] is file 2 inside folder 22, so 22.02
 
 If i run out of space inside a relevant topic or general topic, it means i need to sort it more specifically
+
+---
+# Super cool footer
+Have fun reading :3
