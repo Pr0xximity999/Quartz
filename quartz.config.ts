@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { provider: 'google', tagId: 'G-RQ53SEPBR4'},
     locale: "en-US",
-    baseUrl: "pr0xximity999.github.io/Quartz",
+    baseUrl: "docs.tominhisroom.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
