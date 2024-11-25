@@ -11,17 +11,14 @@ tags:
 
 # New entries/updates
 
-| date       | file                                                                                          | Language                         | Notes                                                    |
-| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------- |
-| 15/11/2024 | [[20 - 29 School/25 - Informatica/25.06 - Reflecteren\|21.06 - Reflecteren]]                  | #language/dutch #taal/nederlands | updated                                                  |
-| 15/11/2024 | [[20 - 29 School/22 - Colleges/22.07 - Inspiratie College\|22.07 - Inspiratie College]]       | #language/dutch #taal/nederlands | goed voor een beetje inzicht in het bedrijf van de casus |
-| 19/11/2024 | [[20 - 29 School/22 - Colleges/22.08 - Requirements\|22.08 - Requirements]]                   | #language/dutch #taal/nederlands |                                                          |
-| 20/11/2024 | [[20.01 - Planning periode 2]]                                                                | #language/dutch #taal/nederlands | ignore my strikes (personal use) - **updated**           |
-| 20/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                | #language/dutch #taal/nederlands | Will continuously update                                 |
-| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.03 - User stories\|25.03 - User stories]]                | #language/dutch #taal/nederlands | why did i make this                                      |
-| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases\|25.04 - Use Cases]]                      | #language/dutch #taal/nederlands | theres something wrong with me                           |
-| 21/11/2024 | [[20 - 29 School/21 - Slb/21.07 - Sprint 2 review notes\|21.07 - Sprint 2 review notes]]      | #language/dutch #taal/nederlands | :3                                                       |
-| 22/11/2024 | [[20 - 29 School/25 - Informatica/25.07 - Usability\|25.07 - Usability]]                      | #language/dutch #taal/nederlands | Ouuyyhghghhghgh                                          |
+| date       | file                                                                                     | Language                         | Notes                          |
+| ---------- | ---------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------ |
+| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.03 - User stories\|25.03 - User stories]]           | #language/dutch #taal/nederlands | why did i make this            |
+| 20/11/2024 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases\|25.04 - Use Cases]]                 | #language/dutch #taal/nederlands | theres something wrong with me |
+| 21/11/2024 | [[20 - 29 School/21 - Slb/21.07 - Sprint 2 review notes\|21.07 - Sprint 2 review notes]] | #language/dutch #taal/nederlands | :3                             |
+| 22/11/2024 | [[20 - 29 School/25 - Informatica/25.07 - Usability\|25.07 - Usability]]                 | #language/dutch #taal/nederlands | Ouuyyhghghhghgh                |
+| 20/11/2024 | [[20.01 - Planning periode 2]]                                                           | #language/dutch #taal/nederlands | Wanna see me update it again?  |
+| 20/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]           | #language/dutch #taal/nederlands | The voices                     |
 
 
 
