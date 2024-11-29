@@ -18,9 +18,9 @@ tags:
 | 21/11/2024 | [[20 - 29 School/21 - Slb/21.07 - Sprint 2 review notes\|21.07 - Sprint 2 review notes]]             | #language/dutch #taal/nederlands | :3                                                                |
 | 22/11/2024 | [[20 - 29 School/25 - Informatica/25.06 - Usability\|25.07 - Usability]]                             | #language/dutch #taal/nederlands | Ouuyyhghghhghgh                                                   |
 | 26/11/2024 | [[20.01 - Planning periode 2]]                                                                       | #language/dutch #taal/nederlands | Wanna see me update it again?                                     |
-| 26/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                       | #language/dutch #taal/nederlands | The voices                                                        |
 | 27/11/2024 | [[20 - 29 School/21 - Slb/21.10 - Presenteren\|21.10 - Presenteren]]                                 | #language/dutch #taal/nederlands | i can't keep getting away with this (don't look at the wordcount) |
 | 28/11/2024 | [[20 - 29 School/21 - Slb/21.11 - Presentatie week 3 notaties\|21.11 - Presentatie week 3 notaties]] | #language/dutch #taal/nederlands | yappification graduation                                          |
+| 26/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                       | #language/dutch #taal/nederlands | Oh the misery (ahhhhhh)                                           |
 
 
 
