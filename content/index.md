@@ -18,7 +18,7 @@ tags:
 | 28/11/2024 | [[20 - 29 School/21 - Slb/21.11 - Presentatie week 3 notaties\|21.11 - Presentatie week 3 notaties]]                  | #language/dutch #taal/nederlands | yappification graduation                                          |
 | 26/11/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                                        | #language/dutch #taal/nederlands | Oh the misery (ahhhhhh)                                           |
 | 02/12/2024 | [[20 - 29 School/26 - Software Development/26.03 - Object Oriented Programming\|26.03 - Object Oriented Programming]] | #taal/engels #language/english   | English gaming (please help me)                                   |
-| 03/12/2024 | [[20 - 29 School/25 - Informatica/25.07 - Databases\|25.07 - Databases]]                                              | #taal/nederlands #language/dutch | caught lacking                                                    |
+| 03/12/2024 | [[20 - 29 School/25 - Informatica/25.09 - Databases\|25.09 - Databases]]                                              | #taal/nederlands #language/dutch | caught lacking                                                    |
 | 03/12/2024 | [[20.01 - Planning periode 2]]                                                                                        | #language/dutch #taal/nederlands | They really gotta stop changing the scedule in the week itself 💀 |
 
 
