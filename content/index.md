@@ -20,6 +20,7 @@ tags:
 | 02/12/2024 | [[20 - 29 School/26 - Software Development/26.03 - Object Oriented Programming\|26.03 - Object Oriented Programming]] | #taal/engels #language/english   | English gaming (please help me)                                   |
 | 03/12/2024 | [[20 - 29 School/25 - Informatica/25.09 - Databases\|25.09 - Databases]]                                              | #taal/nederlands #language/dutch | caught lacking                                                    |
 | 03/12/2024 | [[20.01 - Planning periode 2]]                                                                                        | #language/dutch #taal/nederlands | They really gotta stop changing the scedule in the week itself 💀 |
+| 03/12/2024 | [[20 - 29 School/25 - Informatica/25.07 - Class Diagrams\|25.07 - Unified Modeling Language]]              | #language/english #taal/engels   | it might seem crazy what im bout to say                           |
 
 
 
