@@ -2,6 +2,8 @@
 tags:
   - junction
   - index
+  - taal/engels
+  - language/english
 ---
 >[!warning] file name changes occurred
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore
