@@ -13,9 +13,10 @@ tags:
 
 # New entries/updates
 
-| date       | file                                                                                                           | Language                         | Notes                   |
+| date       | file                                                                           | Language                         | Notes                   |
 | ---------- | ------------------------------------------------------------------------------ | -------------------------------- | ----------------------- |
-| 15/12/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]]                                 | #language/dutch #taal/nederlands | Oh the mysery (ahhhhhh) |
+| 15/12/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]] | #language/dutch #taal/nederlands | Oh the mysery (ahhhhhh) |
+| 18/12/2024 | [[20.03 - Wiskunde inlichting]]                                                | #taal/nederlands #language/dutch | gweh                    |
 
 
 
