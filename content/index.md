@@ -11,12 +11,14 @@ tags:
 >[!important] Semester planning
 >Planning of the current semester can be found [[20.01 - Planning periode 2|here]]
 
+>[!important] Extra curricular maths course
+> The info about the extra curricular maths course can be found [[20 - 29 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                           | Language                         | Notes                   |
-| ---------- | ------------------------------------------------------------------------------ | -------------------------------- | ----------------------- |
-| 15/12/2024 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]] | #language/dutch #taal/nederlands | Oh the mysery (ahhhhhh) |
-| 18/12/2024 | [[20.03 - Wiskunde inlichting]]                                                | #taal/nederlands #language/dutch | gweh                    |
+| date       | file                                                                           | Language                         | Notes                                                                       |
+| ---------- | ------------------------------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------------------- |
+| 18/12/2024 | [[20.03 - Wiskunde inlichting]]                                                | #taal/nederlands #language/dutch | gweh                                                                        |
+| 17/01/2025 | [[20 - 29 School/28 - Raportten/28.01 - groeidocument\|28.01 - groeidocument]] | #language/dutch #taal/nederlands | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
 
 
 
