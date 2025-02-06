@@ -15,11 +15,11 @@ tags:
 > The info about the extra curricular maths course can be found [[20 - 29 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                                             | Language                       | Notes                |
-| ---------- | ------------------------------------------------------------------------------------------------ | ------------------------------ | -------------------- |
-| 06/02/2025 | [[20 - 29 School/31 - Maths/31.01 - Integers (whole numbers)\|31.01 - Integers (whole numbers)]] | #taal/engels #language/english | Why did i make these |
-| 06/02/2025 | [[20 - 29 School/31 - Maths/31.02 - Ordering of integers\|31.02 - Ordering of integers]]         | #taal/engels #language/english |                      |
-| 06/02/2025 | [[20 - 29 School/31 - Maths/31.03 - Sum, difference, product and quotient\|31.03 - sum and product]]                   | #taal/engels #language/english |                      |
+| date       | file                                                                                                 | Language                       | Notes |
+| ---------- | ---------------------------------------------------------------------------------------------------- | ------------------------------ | ----- |
+| 06/02/2025 | [[20 - 29 School/31 - Maths/31.01 - Integers (whole numbers)\|31.01 - Integers (whole numbers)]]     | #taal/engels #language/english |       |
+| 06/02/2025 | [[20 - 29 School/31 - Maths/31.02 - Ordering of integers\|31.02 - Ordering of integers]]             | #taal/engels #language/english |       |
+| 06/02/2025 | [[20 - 29 School/31 - Maths/31.03 - Sum, difference, product and quotient\|31.03 - sum and product]] | #taal/engels #language/english |       |
 
 
 
