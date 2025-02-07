@@ -1,3 +1,4 @@
+import "katex/contrib/mhchem"
 import remarkMath from "remark-math"
 import rehypeKatex from "rehype-katex"
 import rehypeMathjax from "rehype-mathjax/svg"
