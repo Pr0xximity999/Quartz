@@ -6,7 +6,7 @@ tags:
   - language/english
 ---
 >[!warning] file name changes occurred
->Some file numbers were wrong and had to be changed, thus some old links did not work anymore
+>Some file numbers were wrong and had to be changed, thus some old links did not work anymore.
 
 >[!important] Period 3 planning
 >Planning of the current semester can be found [[20.5 - Planning periode 3|here]]
@@ -38,7 +38,7 @@ So this is like, my(Tom's) digital garden to write blogs, school stuff (Mostly t
 
 >[!abstract] Not all files are as tidy and finished as others
 > Since i need to put time and effort (and motivation) into making and upkeeping some files, there may be some that aren't as nice to read since i havent tidied them up yet. 
-> Sorry in advance
+> Sorry in advance.
 ## Tags
 I give every file some tags that resemble the content, things like:
 
