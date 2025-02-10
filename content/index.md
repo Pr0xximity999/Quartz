@@ -9,7 +9,7 @@ tags:
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore.
 
 >[!important] Period 3 planning
->Planning of the current semester can be found [[20.5 - Planning periode 3|here]]
+>Planning of the current semester can be found [[20.05 - Planning periode 3|here]]
 
 >[!important] Extra curricular maths course
 > The info about the extra curricular maths course can be found [[20 - 29 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
