@@ -24,6 +24,8 @@ tags:
 | 07/02/2025 | [[20 - 29 School/31 - Maths/31.05 - Integer and prime factorisation\|31.05 - Integer and prime factorisation]]                                     | #taal/engels<br>#language/english  |                                   |
 | 07/02/2025 | [[20 - 29 School/31 - Maths/31.06 - Greatest common divisor and least common multiple\|31.06 - Greatest common divisor and least common multiple]] | #taal/engels <br>#language/english | This is actually cool<br>trust me |
 | 14/02/2025 | [[20 - 29 School/21 - Slb/21.13 - Personal learning goals\|21.13 - Personal learning goals]]                                                       | #taal/engels #language/english     |                                   |
+| 19/02/2025 | [[20 - 29 School/25 - Informatica/25.03 - User stories\|25.03 - User stories]]                                                                     | #taal/nederlands #language/dutch   |                                   |
+| 19/02/2025 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases and Diagrams\|25.04 - Use Cases and Diagrams]]                                                 | #taal/nederlands #language/dutch   |                                   |
 
 
 # introduction
