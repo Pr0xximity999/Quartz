@@ -26,6 +26,7 @@ tags:
 | 14/02/2025 | [[20 - 29 School/21 - Slb/21.13 - Personal learning goals\|21.13 - Personal learning goals]]                                                       | #taal/engels #language/english     |                                   |
 | 19/02/2025 | [[20 - 29 School/25 - Informatica/25.03 - User stories\|25.03 - User stories]]                                                                     | #taal/nederlands #language/dutch   |                                   |
 | 19/02/2025 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases and Diagrams\|25.04 - Use Cases and Diagrams]]                                                 | #taal/nederlands #language/dutch   |                                   |
+| 20/02/2025 | [[20 - 29 School/30 - Secure back-end/30.02 - Getting your azure publish credentials\|30.02 - Getting your azure publish credentials]]             | #taal/engels #language/english     |                                   |
 
 
 # introduction
