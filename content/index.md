@@ -8,7 +8,7 @@ tags:
 >[!warning] file name changes occurred
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore.
 
->[!important] Period 3 planning
+>[!important] Period 3 planning (UPDATED)
 >Planning of the current semester can be found [[20.05 - Planning periode 3|here]]
 
 >[!important] Extra curricular maths course
