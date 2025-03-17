@@ -24,6 +24,7 @@ tags:
 | 25/02/2025 | [[20 - 29 School/31 - Maths/31.03 - The sum and difference\|31.03 - The sum and difference]]                                           | #taal/engels #language/english   | moved |
 | 25/02/2025 | [[20 - 29 School/31 - Maths/31.04 - The product\|31.04 - The product]]                                                                 | #taal/engels #language/english   | moved |
 | 25/02/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient and fractions\|31.05 - The quotient and fractions]]                                   | #taal/engels #language/english   | moved |
+| 17/03/2025 | [[20 - 29 School/25 - Informatica/25.11 - Unified Modeling Language\|25.11 - Unified Modeling Language]]                               | #taal/engels #language/english   |       |
 
 
 
