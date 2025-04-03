@@ -15,16 +15,11 @@ tags:
 > The info about the extra curricular maths course can be found [[20 - 29 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                                                                                   | Language                         | Notes   |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------- |
-| 14/02/2025 | [[20 - 29 School/21 - Slb/21.13 - Personal learning goals\|21.13 - Personal learning goals]]                                           | #taal/engels #language/english   |         |
-| 19/02/2025 | [[20 - 29 School/25 - Informatica/25.03 - User stories\|25.03 - User stories]]                                                         | #taal/nederlands #language/dutch |         |
-| 19/02/2025 | [[20 - 29 School/25 - Informatica/25.04 - Use Cases and Diagrams\|25.04 - Use Cases and Diagrams]]                                     | #taal/nederlands #language/dutch |         |
-| 20/02/2025 | [[20 - 29 School/30 - Secure back-end/30.02 - Getting your azure publish credentials\|30.02 - Getting your azure publish credentials]] | #taal/engels #language/english   |         |
-| 25/02/2025 | [[20 - 29 School/31 - Maths/31.03 - The sum and difference\|31.03 - The sum and difference]]                                           | #taal/engels #language/english   | moved   |
-| 25/02/2025 | [[20 - 29 School/31 - Maths/31.04 - The product\|31.04 - The product]]                                                                 | #taal/engels #language/english   | moved   |
-| 17/03/2025 | [[20 - 29 School/25 - Informatica/25.11 - Unified Modeling Language\|25.11 - Unified Modeling Language]]                               | #taal/engels #language/english   |         |
-| 20/03/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient and fractions\|31.05 - The quotient and fractions]]                                   | #taal/engels #language/english   | updated |
+| date       | file                                                                                                     | Language                       | Notes   |
+| ---------- | -------------------------------------------------------------------------------------------------------- | ------------------------------ | ------- |
+| 17/03/2025 | [[20 - 29 School/25 - Informatica/25.11 - Unified Modeling Language\|25.11 - Unified Modeling Language]] | #taal/engels #language/english |         |
+| 20/03/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient and fractions\|31.05 - The quotient and fractions]]     | #taal/engels #language/english | updated |
+| 03/04/2025 | [[20 - 29 School/31 - Maths/31.09 - Powers and roots\|31.09 - Powers and roots]]                         | #taal/engels #language/english |         |
 
 
 
