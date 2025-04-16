@@ -15,12 +15,13 @@ tags:
 > The info about the extra curricular maths course can be found [[20 - 29 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                                                     | Language                        | Notes          |
-| ---------- | -------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------- |
-| 17/03/2025 | [[20 - 29 School/25 - Informatica/25.11 - Unified Modeling Language\|25.11 - Unified Modeling Language]] | #taal/engels #language/english  |                |
-| 20/03/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient and fractions\|31.05 - The quotient and fractions]]     | #taal/engels #language/english  | updated        |
-| 03/04/2025 | [[20 - 29 School/31 - Maths/31.09 - Powers and roots\|31.09 - Powers and roots]]                         | #taal/engels #language/english  | chapters added |
-| 15/04/2025 | [[20 - 29 School/31 - Maths/31.01 - Integers\|31.01 - Integers]]                                         | #taal/engels #language/english  | chapters added |
+| date       | file                                                                                                     | Language                       | Notes                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------- |
+| 17/03/2025 | [[20 - 29 School/25 - Informatica/25.11 - Unified Modeling Language\|25.11 - Unified Modeling Language]] | #taal/engels #language/english |                                       |
+| 20/03/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient and fractions\|31.05 - The quotient and fractions]]     | #taal/engels #language/english | updated                               |
+| 03/04/2025 | [[20 - 29 School/31 - Maths/31.09 - Powers and roots\|31.09 - Powers and roots]]                         | #taal/engels #language/english |                                       |
+| 15/04/2025 | [[20 - 29 School/31 - Maths/31.01 - Integers\|31.01 - Integers]]                                         | #taal/engels #language/english | chapter about rounding added          |
+| 16/04/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient and fractions\|31.05 - The quotient and fractions]]     | #taal/engels #language/english | chapters about powers and roots added |
 
 
 
