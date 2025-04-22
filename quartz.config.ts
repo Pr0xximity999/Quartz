@@ -20,14 +20,14 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "iA Writer Quattro S",
-        body: "iA Writer Quattro S",
-        code: "iA Writer Mono V",
+        header: "Lora",
+        body: "Lora",
+        code: "Roboto Mono",
       },
       colors: {
         lightMode: {
           light: "var(--background-primary-light)",
-          lightgray: "var(--background-primary-alt-light)",
+          lightgray: "#fcf5e4",
           gray: "#b8b8b8",
           darkgray: "var(--text-normal-light)",
           dark: "var(--text-normal-light)",
@@ -85,7 +85,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+     // Plugin.CustomOgImages(),
     ],
   },
 }
