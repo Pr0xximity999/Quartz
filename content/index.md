@@ -8,21 +8,16 @@ tags:
 >[!warning] file name changes occurred
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore.
 
->[!important] Period 3 planning (UPDATED)
->Planning of the current semester can be found [[20.05 - Planning periode 3|here]]
+>[!important] Period 4 planning
+>Planning of the current semester can be found [[20 - 39 School/20 - Important notes/20.09 - Planning periode 4|here]]
 
 >[!important] Extra curricular maths course
-> The info about the extra curricular maths course can be found [[20 - 29 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
+> The info about the extra curricular maths course can be found [[20 - 39 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                                                     | Language                       | Notes                        |
-| ---------- | -------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------- |
-| 17/03/2025 | [[20 - 29 School/25 - Informatica/25.11 - Unified Modeling Language\|25.11 - Unified Modeling Language]] | #taal/engels #language/english |                              |
-| 20/03/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient, fractions, ratios and percentages\|31.05 - The quotient and fractions]]     | #taal/engels #language/english | updated                      |
-| 15/04/2025 | [[20 - 29 School/31 - Maths/31.01 - Numbers\|31.01 - Integers]]                                          | #taal/engels #language/english | chapter about rounding added |
-| 18/04/2025 | [[20 - 29 School/31 - Maths/31.09 - Powers and roots\|31.09 - Powers and roots]]                         | #taal/engels #language/english | updated                      |
-| 18/04/2025 | [[20 - 29 School/31 - Maths/31.01 - Numbers\|31.01 - Numbers]]                                           | #taal/engels #language/english | Renamed and decimals added   |
-| 18/04/2025 | [[20 - 29 School/31 - Maths/31.05 - The quotient, fractions, ratios and percentages\|31.05 - The quotient and fractions]]     | #taal/engels #language/english | Percentages and ratios added |
+| date       | file                                                                                           | Language                         | Notes                      |
+| ---------- | ---------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------- |
+| 19/05/2025 | [[20 - 39 School/20 - Important notes/20.09 - Planning periode 4\|20.09 - Planning periode 4]] | #language/dutch #taal/nederlands | motivation boost well used |
 
 
 
@@ -61,7 +56,7 @@ Basically, the top folders have number ranges consisting of 10 slots. These are 
 Inside those folders are (up to) 10 subfolders containing a certain topic (like lectures) and inside *those* folders are files that correlate to the topic (like lectures).
  Every file number is the folder number + its own number (ranging from 00 - 99) 
 >[!info] Example:
-> The lecture about [[22.02 - Cyber warfare|Cyber warfare]] is file 2 inside folder 22, so 22.02
+> The lecture about [[20 - 39 School/22 - Colleges/22.02 - Cyber warfare|Cyber warfare]] is file 2 inside folder 22, so 22.02
 
 If i run out of space inside a relevant topic or general topic, it means i need to sort it more specifically
 
