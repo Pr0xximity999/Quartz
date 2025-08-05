@@ -15,9 +15,9 @@ tags:
 > The info about the extra curricular maths course can be found [[20 - 39 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                                           | Language                         | Notes                      |
-| ---------- | ---------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------- |
-| 19/05/2025 | [[20 - 39 School/20 - Important notes/20.09 - Planning periode 4\|20.09 - Planning periode 4]] | #language/dutch #taal/nederlands | motivation boost well used |
+| date       | file                                                               | Language                       | Notes                     |
+| ---------- | ------------------------------------------------------------------ | ------------------------------ | ------------------------- |
+| 05/08/2025 | [[20 - 39 School/31 - Maths/31.10 - Variables\|31.10 - Variables]] | #language/english #taal/engels | variables mentioned!!!!!! |
 
 
 
