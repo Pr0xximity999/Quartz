@@ -15,9 +15,13 @@ tags:
 > The info about the extra curricular maths course can be found [[20 - 39 School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                                           | Language                         | Notes                      |
-| ---------- | ---------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------- |
-| 19/05/2025 | [[20 - 39 School/20 - Important notes/20.09 - Planning periode 4\|20.09 - Planning periode 4]] | #language/dutch #taal/nederlands | motivation boost well used |
+| date       | file                                                                                                        | Language                       | Notes |
+| ---------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------ | ----- |
+| 02/09/2025 | Networks - [[20 - 39 School/Year 2/Computer Networks/1 - Application Protocols\|1 - Application Protocols]] | #language/english #taal/engels |       |
+| 03/09/2025 | Hardware - [[20 - 39 School/Year 2/Hardware Interfacing/1 - Electrical components\|1 - Pre knowledge]]              | #language/english #taal/engels |       |
+| 03/09/2025 | Hardware - [[20 - 39 School/Year 2/Hardware Interfacing/2 - Led Project\|2 - Led Project]]                  | #language/english #taal/engels |       |
+| 02/09/2025 | OS'es - [[20 - 39 School/Year 2/Operating Systems/1 - Linux\|1 - Linux]]                                    | #language/english #taal/engels |       |
+
 
 
 
