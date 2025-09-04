@@ -2,6 +2,9 @@
 tags:
   - school/operating-systems
   - operating-systems/linux
+  - school/robot-fleet
+  - taal/engels
+  - language/english
 ---
 Linux was created in 1994 by Linus Torvalds.
 

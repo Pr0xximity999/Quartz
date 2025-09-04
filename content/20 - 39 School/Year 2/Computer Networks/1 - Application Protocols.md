@@ -2,6 +2,8 @@
 tags:
   - school/networks
   - school/robot-fleet
+  - taal/engels
+  - language/english
 ---
 # Communication
 Computers kind of talk like humans, they have a language and a list of rules. Humans talk in a language (like english), which is a list of rules which say what word means what.

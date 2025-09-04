@@ -1,3 +1,10 @@
+---
+tags:
+  - school/robot-fleet
+  - school/hardware
+  - language/english
+  - taal/engels
+---
 # Resistors
 A resistor is one of the most common electrical components out there.
 They generally look like this: <br>![[00 - 09 Vault Administration/02 - Attachments/Pasted image 20250903145032.png]]
