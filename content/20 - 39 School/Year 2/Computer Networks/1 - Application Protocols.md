@@ -13,11 +13,11 @@ Computers don't speak english sadly. They use a multitude of languages, or proto
 Machines need to understand one another, so internet and network protocols are all listed in RFC'c which are **Request for Comments**.
 
 A handful of known protocols are:
-- http(s)
+- http(s): Hyper Text Transfer Protocol (Secure) (port 80 and 443)
 - mqtt(s)
-- ftp
-- dns
-- smtp
+- ftp(s): File Transfer Protocol (Secure)
+- dns: Domain Name Server (port 53)
+- smtp: Simple Mail Transfer Protocol (port 25)
 # Character encoding
 When sending a message over the internet, cable or within your pc, you need to dumb it down to a simple electrical signal, or BIT's (1's and 0's/ON's and OFF's). This process of simplifying a message is called encoding.
 
