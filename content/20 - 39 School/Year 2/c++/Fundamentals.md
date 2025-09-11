@@ -91,6 +91,10 @@ A shortened if-else.
 
 ## Sizeof operator
 Sizeof returns the size in bytes of a datatype. Size can be determined by the datatype's *padding*. Padding is unused bytes added by the compiler inside structs or classes to correctly align data inside memory. Cpu's prefer that data is in certain spots in the memory.
+
+## Offsetof operator
+Offsetof returns the offset, or position, of a class's/struct's member. This isn't always 1:1 because of [[#Padding|padding]] being added to optimize cpu speed.
+
 ## Bit-wise operators
 Bit-wise operators work on bits of variables.
 - Bitwise AND (&)
@@ -115,10 +119,68 @@ The memory of a c++ program is built up from the following sections:
 - **Uninitialized data segments:** remaining global variables (zero)
 - **Heap**: dynamically allocated variable memory that *manually* is managed by the *programmer*.
 - **Stack**: temporary storage of data automatically managed by the system.
+# Padding
+CPU's are optimized for aligned data in memory. (most) programming languages make sure data types are aligned to this rule. Take this struct for example:(i added the byte size for easier understanding)
+```cpp
+struct C {
+    char c1;  // 1 byte
+    double d; // 8 bytes
+    char c2;  // 1 byte
+    int i;    // 4 bytes
+};
+```
+
+If we were to use the [[#Sizeof operator|sizeof operator]]:
+- ``c1`` would be at offset 0 (first position)
+- ``d`` would be at offset 8
+- ``c2`` would be at 16
+- ``i`` would be at 20
+
+You may be noticing that some spaces seem to be skipped. That is because of the aforementioned cpu optimization. Spaces in between datatypes are *padded* to align the next member. The reason behind it is pretty simple: 
+
+Take member ``d`` for example. It is 8 bytes long. The most efficient way for the cpu to read it is if its starting offset is divisible by 8. And since ``c1`` is a char of 1 byte, 7 bytes are added as padding.
+
+``c2`` starts (and ends) at 16 because ``d`` starts on 8 and ends on 15 (8 bytes). Since chars are just 1 byte, they don't need any padding. 
+
+``i`` cannot start at 17 since its not divisible by 4 (its size). 3 bytes will be added because the next suitable number is 20. ``i`` will fill up the struct up to 24.
+
+To recap:
+- 0        (1 byte)  : ``c1``
+- 1 - 7   (7 bytes) : padding
+- 8 - 15  (8 bytes) : ``d``
+- 16       (1 byte)  : ``c2``
+- 17 - 19 (3 bytes) : padding
+- 20 - 24 (4 bytes) : ``i``
+
+There is another rule that gets more apparent in the next example:
+
+if you were to re-order the struct as this...
+```cpp
+struct C {
+    double d; // 8 bytes
+    int i;    // 4 bytes
+    char c1;  // 1 byte
+    char c2;  // 1 byte
+};
+```
+...it would take up less space.
+- 0 - 7   (8 bytes)  : ``d``
+- 8 - 11  (4 bytes)  : ``i``     
+- 12       (1 byte)   : ``c1``    
+- 13       (1 byte)   : ``c2``     
+It all aligns....but we forgot something
+A struct also has to be a multiple of its biggest member. This is for reasons in case it is in something like an array (i don't fully know why, just that its a reason).
+the double of 8 bytes (``d``) is the biggest, so it has to be a multiple of 8. The next multiple of 8 is 16, so we add 2 more padding. Resulting in the final:
+- 0 - 7   (8 bytes)  : ``d``
+- 8 - 11  (4 bytes)  : ``i``     
+- 12       (1 byte)   : ``c1``    
+- 13       (1 byte)   : ``c2``  
+- 14 - 15 (2 bytes) : padding
+
+So, by re-arranging the datatypes, we knocked down the byte size of 24 to 16.
 
 ## Allocation
 There are two ways to allocate memory in c++: static and dynamic:
-
 ### Static allocation
 **Size**: Known during compilation
 **Location**: On the stack
@@ -157,7 +219,7 @@ An enum, or enumeration, is a self defined type that holds a list of symbolic na
 # Switch 
 A switch is a keyword that evaluates an expression and then runs a defined *(switch)case*. Switches and [[#Enums|enums]] work great together.
 
-## STD::Array
+# STD::Array
 the std::array class is a **wrapper** around the default array that makes it type-safe. A number of features are things like:
 - Fixed size during compilation
 - Elements are always in memory
