@@ -22,6 +22,7 @@ tags:
 | 03/09/2025 | Hardware - [[20 - 39 School/Year 2/Hardware Interfacing/2 - Led Project\|2 - Led Project]]                  | #language/english #taal/engels |                             |
 | 02/09/2025 | OS'es - [[20 - 39 School/Year 2/Operating Systems/1 - Linux\|1 - Linux]]                                    | #language/english #taal/engels |                             |
 | 09/09/2025 | Networks - [[20 - 39 School/Year 2/Computer Networks/2 - IP Networks\|2 - IP Networks]]                     | #language/english #taal/engels | who up forwarding they port |
+| 11/09/2025 | c++ - [[20 - 39 School/Year 2/c++/Fundamentals\|Fundamentals]]                                          | #language/english #taal/engels |                             |
 
 
 
