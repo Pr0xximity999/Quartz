@@ -15,3 +15,6 @@ The smtp is designed to transfer mails efficiently and reliably. It works on a s
 
 **3. Setting up the mail data**
 The SMTP-sender lastly sends the mail data to the SMTP-receiver (using a special sequence to terminate the message, letting the receiver know the message is finished). If the SMTP-receiver successfully processes the mail data it will send an OK reply.
+
+>[!important]
+>Commands and replies like MAIL, RCPT, or OK are **not case sensitive**, meaning they can both be upper or lower case. <br>Replies also have a numeric code.
