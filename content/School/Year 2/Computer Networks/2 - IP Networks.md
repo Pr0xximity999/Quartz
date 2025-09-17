@@ -33,8 +33,8 @@ An ipv4 (ip version 4) address consists of 32 bits (4 bytes).
 
 
 These 32 bits consist of 2 parts:
-- The network address
-- the host address
+- The **network** address
+- the **host** address
 
 The size of the network address is decided by the (Sub)net-mask<br>
 The first 3 parts of the ip are (usually) the network address and the last is the host address:

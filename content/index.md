@@ -8,19 +8,15 @@ tags:
 >[!warning] file name changes occurred
 >Some file numbers were wrong and had to be changed, thus some old links did not work anymore.
 
->[!important] Period 4 planning
->Planning of the current semester can be found [[School/20 - Important notes/20.09 - Planning periode 4|here]]
-
->[!important] Extra curricular maths course
-> The info about the extra curricular maths course can be found [[School/20 - Important notes/20.03 - Wiskunde inlichting|here]]
 # New entries/updates
 
-| date       | file                                                                                                       | Language                         | Notes                       |
-| ---------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
+| date       | file                                                                                               | Language                         | Notes                       |
+| ---------- | -------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
 | 09/09/2025 | Networks - [[School/Year 2/Computer Networks/2 - IP Networks\|2 - IP Networks]]                    | #language/english #taal/engels   | who up forwarding they port |
 | 11/09/2025 | c++ - [[School/Year 2/c++/Fundamentals\|Fundamentals]]                                             | #language/english #taal/engels   |                             |
 | 12/09/2025 | Networks - [[School/Year 2/Computer Networks/SMTP server protocol\|SMTP server protocol]]          | #language/english #taal/engels   |                             |
 | 13/09/2025 | Hardware - [[School/Year 2/Hardware Interfacing/Technische documentatie\|Technische documentatie]] | #language/dutch #taal/nederlands |                             |
+| 16/09/2025 | Networks - [[School/Year 2/Computer Networks/3 - Ip stack\|3 - Ip stack]]                          | #language/english #taal/engels   |                             |
 
 
 
