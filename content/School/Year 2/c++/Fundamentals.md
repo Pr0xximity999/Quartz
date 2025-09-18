@@ -109,6 +109,12 @@ Whenever you create a datatype in c++, like a void, char, int, double, bool, etc
 
 Typing ``int i;`` gives you an integer.<br>Typing ``p = &i`` gives you a pointer to the address of i. It is called the **address** operator.<br>Typing ``int* p`` gives you a pointer. It is called the **indirection** operator. If you have a pointer that contains an address, you can add \* to read the value of that address (``*p``). This is why it is sometimes called a **dereference** operator.
 
+To get a member value (struct or class) from a pointer, you can either type ``(*p).member`` or ``p->member``; both do the same.
+
+## Call by reference vs call by value
+When you call an object by value, it will create a copy of that object and change that value. A call by value object will be destroyed once it goes out of scope.
+
+When you call an object by reference, it will create a reference to that object, thus changes being made will affect the main object. A call by reference is made by passing the address to the object instead of a new one.
 # Arrays
 An array in c++ is basically a pointer to the first element in a continuous range of values. so a\[0] is essentially the same as \*a where a is an address (a\[1] is \*(a+1) etc).
 
@@ -234,3 +240,59 @@ the std::vector is a dynamic array added by the standard library. A number of fe
 - Gives a lot of handy functions like ``.push_back()``, ``.pop_back()``, ``.size()``, ``.clear()``, etc
 - Is dynamically allocated on the heap
 
+
+
+# Linked lists
+A Linked list is not the same as an array.
+
+A linked list is a list where every object references to the next one. This makes it so that the list can be any size at runtime. Objects can be popped out anywhere, it just needs to be handled correctly that the linked items correct themselves.
+
+One downside is that you have to step trough the entire list if you want to grab one item.
+
+A linked list is basically a [[#STD Vector|vector]].
+
+
+# Static
+Static variables within a method *retains its value between method calls*. It will not be destroyed when the variables goes out of scope.
+
+Static class members are *shared between classes*. Changing a static member value in one class will change it in another.
+
+Static class methods do *not need an instantiated class*. You can always call it.
+
+
+# Constants (consts)
+A constant modifier is given to a variable, making it immutable in turn; it cannot be changed after being initialized.
+
+It turns variables read only and makes them more optimized.
+
+# Auto
+Auto can be used on the left hand side of a variable assignment to simplify the definition of a variable. It evaluates the right hand side (right of the ``=``) to deduct what type it is.<br>``auto number = 5`` will evaluate to an int<br>``auto text = "hello"`` will evaluate to a char\[]
+``auto text = new std::string("hello")`` will evaluate to a std::string.
+
+Under the hood, auto's will be turned into their respective variable. So its more of an improvement of readability than a performance increase.
+
+# Smart pointers
+In c++, pointers are used to dynamically manage memory.
+
+If you forget to delete it, you will get a memory leak.
+
+If you double delete it, you will get undefined behavior.
+
+Smart pointers fix this problem; it is an object from the standard library. As soon as a smart pointer goes out of scope, it will free the assigned memory.
+
+Smart pointers make for an automatic way to manage memory.
+
+Some cons of shared pointers are:
+- larger memory usage over regular pointers
+- complexer than regular pointers, though sometimes they may be easier to use
+- smart pointers are a little more constricted in their functionality
+
+There are a handful of smart pointer types:
+## Unique pointer
+An unique pointer only has one owner who will be responsible for its memory. Default choice
+
+## Shared pointer
+A pointer can have multiple owners. As soon as there are no owners left, the memory will be freed.
+
+## Weak pointer
+Kind of like a shared pointer, but it doesnt block access to the allocated memory for other owners. Can be upgraded to a shared pointer to break circular shared-pointer-loops.
