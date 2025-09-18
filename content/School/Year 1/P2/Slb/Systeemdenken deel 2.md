@@ -1,0 +1,83 @@
+---
+tags:
+  - school/informatica
+  - school/ux
+  - language/dutch
+  - taal/nederlands
+  - school/robotics-prototyping
+---
+>[!important] Dit is een vervolg op systeemdenken deel 1
+> De vorige les kan je [[School/Year 1/P1/Slb/Systeemdenken|hier]] vinden
+
+In deze les worden het concept van het systeem ijsberg en de solutionary scale beschreven.
+# Opdracht groeidocument in 3 stappen
+
+1. vertrekpunt: het probleem
+	1. Wat is het kernprobleem van je case?
+2. Systeemijsberg > problemen beter begrijpen
+	1. Het probleem op 4 niveaus begrijpen
+	2. oplossingen bedenken
+3. Solutionary scale > oplossingen evalueren
+
+# Het systeem ijsberg
+Een probleem kan soms grotendeels onderwater liggen, hetgeen wat je niet ziet, maar wat wel het zichtbare deel beïnvloed.
+Het systeem ijsberg is een methode om een probleem aan te pakken, door naar de punten te kijken die je niet direct ziet (onderwater).
+
+## De lagen
+De ijsberg is opgedeeld in 4 lagen. Iedere laag beïnvloed de laag erboven.
+Hoe dieper je gaat, hoe moeilijker het is om het te beïnvloeden.
+
+### Laag 1: Events
+Dit zijn dingen die je ziet, en hoe het zich uitspeelt.
+Deze laag bepaalt hoe je reageert.
+Oplossingen op deze laag zijn makkelijk uit te voeren, maar werkt niet op een langere termijn.
+### Laag 2: Patronen ontdekken
+Dit zijn de patronen die je over tijd kan zien. Dit zijn terugkomende trends.
+Deze laag word gebruikt om te kijken wat je moet verwachten
+Wat is er al een tijd aan de gang?
+Oplossingen op deze laag vragen constante inzet.
+### Laag 3: systemen & structuren analyseren
+Het systeem en structuur dat voor de patronen zorgen die we zien.
+Wat voor fysieke structuren veroorzaken die patronen?
+Deze laag bepaalt hoe we de oplossing ontwerpen en pakt onderliggende oorzaken aan en verbetert structuren.
+### Laag 4: Mentale modellen (overtuigingen)
+Onze gedachten en overtuigingen vormen en houden onze systemen en structuren in stand.
+Deze laag transformeert onze systemen & structuren.
+Welke mentale modellen spelen een rol?
+Oplossingen op deze laag zijn het meest diepgaand en blijvend, maar kost ook het meeste tijd en inspanning om dit te behalen. Dit komt omdat je moet veranderen wat mensen geloven en denken.
+
+
+## De ijsberg voor mijn casus
+Mijn casus is dat mijn robot vuil moet detecteren en rapporteren in een kamer.
+Dit rapport moeten mensen in kunnen zien zodat ze weten waar vuil ligt.
+
+Het kernprobleem is dat er veel is om schoon te maken.
+
+
+### Laag 1 - events
+De gebeurtenissen zijn dat schoonmakers makkelijker schoon moeten maken.
+Een oplossing hiervoor is om robots in te zetten om voor hun schoon te maken
+
+### Laag 2 - Patronen
+
+
+# De solutionary scale
+> **Solutionary**: *Someone who finds revolutionary answers to life problems. A problem solver. an inventive person.*
+> -Urban dictionary
+
+De solutionary scale laat zien hoe goed een oplossing kan helpen aan het gehele probleem.
+De 2 factoren hiervoor zijn:
+- Hoe goed vermijd de oplossing nadelige effecten voor mens dier en of/de planeet?
+- Hoe goed pakt de oplossing de onderliggende oorzaken van he probleem aan?
+
+## De 4 niveaus van de solutionary scale
+
+### 1 - Sympathise oplossing
+De oplossing, terwijl goed bedoeld, draagt niet bij aan de onderliggende oorzaken van het probleem en kan zelfs onbedoelde negatieve effecten hebben.
+### 2 - Structurele oplossing
+De oplossingen pakt de onderliggende oorzaken van het probleem aan, maar heeft ook onbedoelde negatieve effecten.
+
+### 3 - Transformerende oplossing
+De oplossing pakt de onderliggende oorzaken aan en probeert negatieve effecten te voorkomen.
+### 4 - Generatieve oplossing
+De oplossing pakt de onderliggende oorzaken aan van het en voorkomt strategisch de negatieve effecten

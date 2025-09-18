@@ -1,0 +1,54 @@
+---
+tags:
+  - school/slb
+  - taal/engels
+  - language/english
+  - school/2D-graphics
+---
+Projects in school are usually meant to teach you things, or let you grow in a certain way. Sometimes these things are decided by you (within a range of things), in a group project for example.
+In these cases, you usually have to note down your personal goals; the things you want to learn within a certain time frame.
+
+# SMART notation
+
+## Specific
+Make sure your goal is written clearly and specific about the thing you want to improve.
+
+>[!example]-
+> Instead of writing "i want to become better at talking", you write "I want to learn to speak better by talking more clearly"
+
+## Measurable
+Your goal has to be measurable, so that you can gauge when it is reached. Add something measurable or make the goal itself be a certain number
+
+>[!example]-
+> "For this project i will try to ask feedback and [[School/Year 1/P2/Slb/Reflecteren|reflect]] on this at least 3 times a week"
+
+## Acceptable
+The goal has to be reachable within the allotted time frame (like the project or semester). Keep in mind what you can reach with a certain effort.
+Choose goals that you really want to reach or improve, or that will fit your role in the project (scrum master, note taker, meeting leader, etc..)
+
+>[!example]-
+>"In this project i will try to learn how to make good plannings that other people can use"
+
+## Realistic
+Make a goal that fits your needed skills, project or course. Strife for improvement and don't make your goal overambitious. Keep in mind that not everything may go as perfectly as you'd like.
+
+>[!example]-
+>Don't say "This project i will try to get rid of all my toxic social traits", but "This project i will try to focus on one or two toxic social traits and improve them".
+
+# Time-bound
+Note down the time frame or deadline in which you want to reach your goal.
+
+>[!example]-
+> "I want to improve my writing within 6 weeks"
+
+
+## Everything added together (examples)
+
+>[!example]
+>"I will try to improve my communication skills in the next 6 weeks by talking to the group leader and asking him for a summary after meetings to clear up any ambiguities."
+
+>[!example]
+>"I want to use this project to improve my social skills with my teammates by asking them for feedback on my work during meetings."
+
+>[!example]
+>"I will try to improve my self reflection in the next 4 weeks by taking 10 minutes every week to write down a summary of what i did."

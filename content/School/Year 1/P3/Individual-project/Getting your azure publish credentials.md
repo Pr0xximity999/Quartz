@@ -1,0 +1,22 @@
+---
+tags:
+  - school/secure-backend
+  - school/databases
+  - school/azure
+  - taal/engels
+  - language/english
+  - school/2D-graphics
+---
+If you're like me and you forgot to write down the azure publish credentials when creating the resource group (using the template school provided us), you might want to know where you can find the data again (since school doesn't tell you).
+
+1. Inside the azure homepage, go to **resource groups**, and go to the group you created.
+	- ![[Vault-data/Attachments/Pasted image 20250220104612.png]]
+2. In the left sidebar, open up the **options** drop-down, and go to **deployment**.
+	- ![[Vault-data/Attachments/Pasted image 20250220104814.png]]
+3. Select the deployment template you used to create the resource group (there's probably only 1)
+	- ![[Vault-data/Attachments/Pasted image 20250220105041.png]]
+4. In the left sidebar, go to the **outputs** tab.
+	- ![[Vault-data/Attachments/Pasted image 20250220104936.png]]
+
+
+Enjoy!!!!!!! :3

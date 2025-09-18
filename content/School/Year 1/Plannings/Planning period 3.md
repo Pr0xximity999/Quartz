@@ -1,0 +1,216 @@
+---
+tags:
+  - school/homework
+  - language/dutch
+  - taal/nederlands
+  - school/2D-graphics
+  - school/planning
+---
+# Inhoud
+- [[#Week 1]] 
+- [[#Week 2]] 
+- [[#Week 3]] 
+- [[#Week 4]] 
+- [[#Week 5]]
+- [[#Week 6]] 
+- [[#Week 7]] 
+- [[#Week 8]]
+- [[#Week 9]]
+- [[#Week 10]]
+
+
+# Week 1
+
+## 2D Graphics
+
+### Groepsproject (groep vormen)
+- [x] Aftrap module en projecten 
+    - Projectkeuze + inschrijven in groepen
+- [x] Workshop teamvorming
+    - Groepsopdracht: [Teampresentatie maken ](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-969767)
+    - Individuele opdracht: [Persoonlijke leerdoelen ](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-933092) opstellen
+- [x] Workshop samenwerkingsafspraken
+    - Groepsopdracht: [Samenwerkingscontract  maken ](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-969769)
+    - Inleverlink (formatief): [Samenwerkingscontract ](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-960082)
+
+### Soft dev - Verdieping
+- Klassen, Objecten, Encapsulation (herhaling)
+- Static vs. Non-static
+- Overloading: Constructors en Methods
+- Overerving
+
+- [x] _Voorbereiding 1_ [Installeren Visual Studio_ ](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-963616)
+- [x] _Voorbereiding 2 [Zie Brightspace ](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1567008)_
+
+### Soft dev - 2D Graphics
+- Intro Unity
+	- [x] Voorbereiding [_Zie Brightspace_](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-994415)
+
+- Afbeeldingen
+	- [x] Voorbereiding [_Zie Brightspace_](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-995787)
+
+- Sprites
+	- [x] _Voorbereiding [_Zie Brightspace_](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-995788)
+# Week 2
+
+## 2D Graphics (Defining)
+
+### Groepsproject
+- [x] [Sprintdemo opdrachten week 2](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-986516)
+- Workshop Communicatie opdrachtgever 
+    - [x] Groepsopdracht: [Gesprek met opdrachtgever](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-969766)
+-  Workshops Documenteren en modelleren   
+    - [x] Groepsopdracht: Plan van aanpak
+
+### Soft dev - Secure backend
+- Een functionele ASP.NET Core WebAPI met controllers, ontworpen met aandacht voor de juiste HTTP-methoden en statuscodes. Voor data-opslag wordt een lijst gebruikt als eenvoudige vorm van persistentie.  
+	- [x] _Voorbereiding - [Zie Brightspace](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-995823)_
+- Je laat de WebAPI gebruik maken van persistentie voor het lezen en schrijven van entiteiten.  
+	- [x] _Voorbereiding - [Zie Brightspace](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-995825)_
+### Soft dev - Verdieping
+- Theorie van overerving
+- Overerving (klassen)
+- Override (methodes)
+- Abstracte klassen
+ - [x] _Voorbereiding - [Zie Brightspace](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1567026)_
+# Week 3
+
+## 2D Graphics (**Requirements engineering**)
+
+### Groepsproject
+- Sprintdemo opdrachten week 3
+- Workshops Documenteren en modelleren 
+    - [x] Groepsopdracht
+	    - Inleverlink (formatief): Plan van Aanpak
+### Soft dev - Secure backend
+### Groepsproject
+- [x] Je breidt de secure backend uit met zinvolle Unit Tests en je schrijft een systeemtest voor je API in Postman.  
+	-  _Voorbereiding - [Zie Brightspace](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1000357)_
+
+- [x] Je plaatst de secure backend op een remote GIT platform zoials GitHub en realiseert een CI/CD pipeline voor het automatisch bouwen, testen en deployen van de secure backend in de cloud (Azure) .
+	 -  _Voorbereiding - Volgt_
+
+- Je breidt de secure backend uit met authenticatie en autorisatie zodat gebruikers toegang hebben tot hun eigen entiteiten en anonieme gebruikers geen gebruik kunnen maken.  
+	- [x] _Voorbereiding - Volgt_
+### Soft dev - 2D Graphics
+- volgt
+
+### Soft dev - Verdieping
+- Interfaces
+- Polymorfisme
+	- [x] _Voorbereiding - [Zie Brightspace](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1567027)_
+
+# Week 4
+
+## 2D Graphics
+### Groepsproject
+- [Sprintdemo opdrachten week 4](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-986523)
+- UX Design 
+    - [ ] Groepsopdracht: Personas, Moodboard en wireframes
+	    - Inleverlink (formatief): [UX-Design](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-960079)
+- Workshop Samenwerking versterken
+- Documenteren en modelleren
+	- Les 1: [Requirements Engineering 2](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1559921)
+	- Les 2: Tijdens dit contactmoment kunnen jullie zelfstandig werken aan jullie project requirements (of projectplan). De docent is aanwezig en kan ondersteunen bij vragen.
+
+### Soft dev - Secure backend
+- De secure backend wordt gedocumenteerd doormiddel van OpenAPI specificaties en een readme bestand. Er is voldoende ruimte voor feedback & ondersteuning.   
+	 - [x] _Voorbereiding - Volgt_
+
+### Soft dev - 2D Graphics
+- volgt
+
+>[!Important] Carnavalsvakantie
+>**3 t/m 7 maart**
+
+# Week 5
+
+## 2D Graphics (**Start Realising**)
+
+### Groepsproject
+-  [Sprintdemo opdracht week 5: Valideren UX-ontwerp en user stories](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-986526)
+- Documenteren en modelleren
+    - Werken aan project 
+    - Les 1: Vervangen voor vragenuur LU2 (woensdag 12-03)
+    - Les 2: [Designing](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1559924)
+- Sprint 0: Zelfstandig werken aan groepsproject
+### Soft dev - Verdieping
+- ~~Exception handling~~
+- ~~GIT met een groep~~
+- vervallen
+### Leeruitkomst
+- **Toetsing 1e kans**: Individueel Assessment
+
+
+# Week 6
+
+## 2D Graphics (Realising)
+
+### Groepsproject
+- [Sprintdemo opdracht week 6](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-986531)
+- UX-Design: 
+    - Groepsopdracht:  Inclusief design en toegankelijkheid
+- Documenteren en modelleren 
+    - Werken aan project 
+    - [ ] Inleveren [Testplan](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-960080) voor feedback
+    - Les 1: [Testing](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1559930)
+    - Les 2: [Realising & Releasing](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1559927)
+- Intervisie Samenwerken 
+- Sprints Zelfstandig werken aan groepsproject
+
+# Week 7
+
+## 2D Graphics (**Realising & Testing**)
+
+### Groepsproject
+- Sprintdemo opdracht week 7
+- Workshop UX-Design
+    - Groepsopdracht: Testscenario en testrapportage
+- Sprints: Zelfstandig werken aan groepsproject
+### Soft dev - Verdieping
+- Refactoring<br>_Voorbereiding - [Zie Brightspace](https://brightspace.avans.nl/d2l/le/lessons/201949/lessons/1567038)_
+
+
+# Week 8
+
+## 2D Graphics (**Testing & Releasing**)
+
+### Groepsproject
+- Sprintdemo opdracht week 8
+- Sprints: Zelfstandig werken aan groepsproject
+- **Toetsing LU1 - Groepsproject kans 1**: 
+    - Eindopdrachten:
+        - Eindopdracht Applicatie
+        - Eindopdracht Projectdocumentatie
+        - Eindopdracht Individuele projectverantwoording
+    - Inleverlinks:
+        - [Inleverlink groepsproduct](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-960066)
+        - [Inleverlink groepsproduct projectdocumentatie](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-960075) 
+        - [Inleverlink Individuele projectverantwoording ](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=201949&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-960076)
+- Expositie eindproducten + drankjes
+# Week 9
+
+## 2D Graphics (Nakijken en beoordeling)
+
+### Groepsproject
+- Beoordeling groepsproducten en individuele verantwoordingen
+- Communicatie rondom herkansingen
+### Leeruitkomst 2
+- **Toetsing 2e kans**: Individueel Assessment
+
+### LWS
+- Opdrachten gereed + SLB-gesprekken
+
+### Soft dev - 2D Graphics
+
+
+# Week 10 (**Herkansing**)
+
+## Groepsproject
+- Toetsing 2e kans groep: Inleveren (herstelopdracht) beroepsproduct en projectdocumentatie
+- Toetsing 2e kans individueel: inleveren projectverantwoording
+
+## LWS
+- Opdrachten gereed + SLB-gesprekken
+
+

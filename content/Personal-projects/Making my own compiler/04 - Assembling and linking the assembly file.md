@@ -1,0 +1,46 @@
+---
+tags:
+  - personal-project/compiler
+  - personal-project/assembly
+  - personal-project/programming
+  - personal-project/linux
+---
+Step 1 will be assembling the file we created in [[Personal-projects/Making my own compiler/03 - Writing assembly part 1|03 - Writing assembly part 1]].
+
+# Assembling the assembly file
+>[!info]
+>If you haven't installed NASM yet, you can find the instructions [[Personal-projects/Making my own compiler/02 - Setting up the project#Installing NASM|here]]
+
+Open up your terminal again and run the following command:
+```bash
+nasm -f elf64 test.asm
+```
+``elf64`` is the architecture of linux we are using (you can also write ``-felf64``)
+``test.asm`` is the assembly file you just wrote.
+
+If everything went right, the file ``test.o`` should have appeared. This is an object file.
+If you open it up in a hex editor, you can read trough it, though its quite empty![[Vault-data/Attachments/Pasted image 20241101141733.png]]
+
+After this, even though we haven't used any external libraries, we are going to run the linker to turn this into an executable.
+
+# Linking the object file into an executable
+Open up your command terminal again and run the following command:
+```bash
+ld test.o -o test
+```
+``ld`` is the linker command, ``test.o`` is the target object file, and ``-o test`` is the output executable.
+# Running the executable
+If you want to see the returned exit code, just running isnt enough.
+You need to run two commands to execute, and see the output of your program.
+Firstly, run:
+```bash
+./test
+```
+If everything went well, nothing should happen.
+Now run:
+```bash
+echo $?
+```
+If everything went right up to this point, you should see a ``0`` in the output of your command line.
+
+Congrats, you made your first program in assembly!
