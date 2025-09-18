@@ -63,4 +63,4 @@ As you can see, the first operator will decide if its either plus or minus, the 
 
 
 >[!note] next chapter
->The next chapter will go over [[Personal-projects/Maths/04 - The product|the product]]
+>The next chapter will go over [[Info-tidbits/Maths/04 - The product|the product]]

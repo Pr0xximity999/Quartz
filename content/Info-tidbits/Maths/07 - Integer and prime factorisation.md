@@ -7,7 +7,7 @@ tags:
   - maths/primes
 ---
 ## Integer factorisation (decomposition)
-[[Personal-projects/Maths/01 - Numbers|integer]] factorisation is the decomposition of a product into its factors.
+[[Info-tidbits/Maths/01 - Numbers|integer]] factorisation is the decomposition of a product into its factors.
 
 Every integer bigger than 1 which has two or more factors that are bigger than 1 are called **composite numbers**. Every other number is called a **prime number**.
 
@@ -33,4 +33,4 @@ For example, the number 864:
 
 
 >[!note] next article
->The next article will go over [[Personal-projects/Maths/08 - Greatest common divisor and least common multiple|the greatest common divisor and least common multiple]]
+>The next article will go over [[Info-tidbits/Maths/08 - Greatest common divisor and least common multiple|the greatest common divisor and least common multiple]]

@@ -37,4 +37,4 @@ $$
 
 
 >[!note] next article
->The next article will go over [[Personal-projects/Maths/07 - Integer and prime factorisation|integer and prime factorisation]]
+>The next article will go over [[Info-tidbits/Maths/07 - Integer and prime factorisation|integer and prime factorisation]]

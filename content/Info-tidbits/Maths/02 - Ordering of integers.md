@@ -5,7 +5,7 @@ tags:
   - maths/integers
   - maths/operators
 ---
-In the previous chapter we talked about [[Personal-projects/Maths/01 - Numbers|integers]], let's expand on that.
+In the previous chapter we talked about [[Info-tidbits/Maths/01 - Numbers|integers]], let's expand on that.
 
 When you work with numbers, you want a way to write down which of two numbers is bigger, smaller or equal(or a combination of).
 The standard way of doing this is trough the symbols:
@@ -137,4 +137,4 @@ A solution would be to:
 
 
 >[!note] next chapter
->The next chapter will go over [[Personal-projects/Maths/03 - The sum and difference|the sum, difference, product and quotient of numbers]]
+>The next chapter will go over [[Info-tidbits/Maths/03 - The sum and difference|the sum, difference, product and quotient of numbers]]

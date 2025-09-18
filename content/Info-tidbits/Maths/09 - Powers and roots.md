@@ -18,7 +18,7 @@ The power $2^3$ is also called *two to the third*.
 
 ## Powers with fractions
 >[!info] 
->For more info on fractions, look [[Personal-projects/Maths/05 - The quotient, fractions, ratios and percentages|here]].
+>For more info on fractions, look [[Info-tidbits/Maths/05 - The quotient, fractions, ratios and percentages|here]].
 
 Fractions are really simple: $(\frac{2}{5})^3 = \frac{2}{5} \times \frac{2}{5} \times \frac{2}{5} = \frac{2\times2\times2}{5\times5\times5} = \frac{2^3}{5^3}$
 
@@ -104,7 +104,7 @@ $$
 7^{-4} &= \frac{1}{2401}
 \end{aligned}
 $$
-The same rules apply for when the [[#Powers with a negative base|base is negative]]. As mentioned in [[Personal-projects/Maths/05 - The quotient, fractions, ratios and percentages#Negative fractions|fractions which are negative]]: it doesn't matter where the minus is added.
+The same rules apply for when the [[#Powers with a negative base|base is negative]]. As mentioned in [[Info-tidbits/Maths/05 - The quotient, fractions, ratios and percentages#Negative fractions|fractions which are negative]]: it doesn't matter where the minus is added.
 ## Products, quotients and powers of powers with equal bases
 
 >[!important] A rule of thumb
@@ -186,7 +186,7 @@ For the root to be in standard notation, the following rules have to apply:
    $$
    
    
-4. The [[Personal-projects/Maths/01 - Numbers#Rational numbers|rational numbers]] in the expression are [[Personal-projects/Maths/05 - The quotient, fractions, ratios and percentages#Simplifying fractions|simplified]]
+4. The [[Info-tidbits/Maths/01 - Numbers#Rational numbers|rational numbers]] in the expression are [[Info-tidbits/Maths/05 - The quotient, fractions, ratios and percentages#Simplifying fractions|simplified]]
    
    $$
    \frac{\sqrt{6}}{3} = \frac{1}{3}\sqrt{6}

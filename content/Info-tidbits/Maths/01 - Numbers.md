@@ -77,7 +77,7 @@ Both rational and irrational numbers are on the number line.
 ![[Vault-data/Attachments/Pasted image 20250418141316.png]]
 
 ## Rational numbers
-Rational numbers are integers that can be written like a [[Personal-projects/Maths/05 - The quotient, fractions, ratios and percentages#Fractions|fraction]] (a/b) whose denominator is *not* zero. For example: $5$ can be written as $\frac{5}{1}$ and thus is a rational number.
+Rational numbers are integers that can be written like a [[Info-tidbits/Maths/05 - The quotient, fractions, ratios and percentages#Fractions|fraction]] (a/b) whose denominator is *not* zero. For example: $5$ can be written as $\frac{5}{1}$ and thus is a rational number.
 
 Decimals in rational numbers are either of two things:
 - a finite number of decimals (can also be 0)
@@ -92,4 +92,4 @@ Irrational number's decimals are usually written with dots at the end like this:
 
 
 >[!note] next chapter
->The next chapter will go over [[Personal-projects/Maths/02 - Ordering of integers|Ordering of integers]]
+>The next chapter will go over [[Info-tidbits/Maths/02 - Ordering of integers|Ordering of integers]]

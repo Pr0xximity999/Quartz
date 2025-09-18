@@ -53,7 +53,7 @@ You can apply the rules of [[#Products and negatives|products]] for quotients as
 > Since whether the outcome is positive or negative has been solved, you can remove all minuses, calculate the outcome, and add the minuses back.<br> $-5 \times 3$ -> $5 \times 3 = 15$ -> $-5 \times 3 = -15$
 
 >[!note]- in case the equation has more than 2 numbers
->If for example you have $5 \times -3 \times -4$, you apply the [[Personal-projects/Maths/06 - Order of operations|order of operations]] and do the equation in groups of 2 (in this case left to right).<br>OR, you could count the number of minuses and, if it's an even amount, the solution is positive and vice versa.
+>If for example you have $5 \times -3 \times -4$, you apply the [[Info-tidbits/Maths/06 - Order of operations|order of operations]] and do the equation in groups of 2 (in this case left to right).<br>OR, you could count the number of minuses and, if it's an even amount, the solution is positive and vice versa.
 
 ## Integer part division
 Usually, the quotient is defined as the greatest *whole number* of times a divisor can be subtracted from a dividend before the remainder **is below $1$**. If this is the case, the quotient of two numbers is always an integer itself, or you could say that you divide and remove the decimal numbers.
@@ -71,7 +71,7 @@ If you take a pizza and cut it into 12 equal pieces....you'd have 12 pieces.
 But then if i took 5 of those slices and put strawberries on them, 5 out of 12 slices would have strawberries on them. If you want to note this down as a fraction, it would be $\frac{5}{12}$.
 The top number of a fraction is called the **numerator** and the bottom one the **denominator**. A fraction and division are the same in the sense that you could write a fraction top-to-bottom to left-to-right and get the same equation: $\frac{5}{12} = 5 / 12$.
 ## Simplifying fractions
-$\frac{1024}{2048}$ Seems like a really scary fraction, but its actually just $\frac{1}{2}$.<br>A way of simplifying factors is by calculating the [[Personal-projects/Maths/08 - Greatest common divisor and least common multiple#Greatest common divisor|greatest common divisor]] and dividing both the numerator and denominator by this number.
+$\frac{1024}{2048}$ Seems like a really scary fraction, but its actually just $\frac{1}{2}$.<br>A way of simplifying factors is by calculating the [[Info-tidbits/Maths/08 - Greatest common divisor and least common multiple#Greatest common divisor|greatest common divisor]] and dividing both the numerator and denominator by this number.
 Take $\frac{30}{160}$ for example: <br>
 
 $$
@@ -133,7 +133,7 @@ $$
 \frac{4}{9}+\frac{1}{4}-\frac{1}{2}
 $$
 
-First we calculate the denominator by calculating the [[Personal-projects/Maths/08 - Greatest common divisor and least common multiple#Least common multiple|least common multiple]] (or if you're lazy just multiply all the numbers together, which is usually the same).
+First we calculate the denominator by calculating the [[Info-tidbits/Maths/08 - Greatest common divisor and least common multiple#Least common multiple|least common multiple]] (or if you're lazy just multiply all the numbers together, which is usually the same).
 
 $$
 9 \times 4 \times 2 = 42
@@ -178,7 +178,7 @@ $$
 # The opposite of a fraction
 If we flip the numerator and denominator of $\frac{2}{3}$, we get $\frac{3}{2}$.<br>If we multiply these together we get $\frac{2}{3} \times \frac{3}{2} = \frac{6}{6} = 1$.
 
-This is kinda similar to [[Personal-projects/Maths/01 - Numbers#The opposite and absolute value|the opposite of an integer]], but in this case, the product of two opposite fractions is **1** instead of 0
+This is kinda similar to [[Info-tidbits/Maths/01 - Numbers#The opposite and absolute value|the opposite of an integer]], but in this case, the product of two opposite fractions is **1** instead of 0
 
 # Dividing with fractions
 If something is being divided by a fraction, it's the same as multiplying it with its [[#The opposite of a fraction|opposite]]. 
@@ -239,7 +239,7 @@ Take for example: $\frac{-5}{15}$
 # Fractions and powers
 
 >[!info] more info on powers
->For more info on powers, click [[Personal-projects/Maths/09 - Powers and roots#Powers|here]]
+>For more info on powers, click [[Info-tidbits/Maths/09 - Powers and roots#Powers|here]]
 ## positive powers
 Fractions with positive powers are done as followed:
 
@@ -252,7 +252,7 @@ $$
 $$
 
 ## negative powers
-Fractions with negative powers are a bit silly to solve. As mentioned in [[Personal-projects/Maths/05 - The quotient, fractions, ratios and percentages#The opposite of a fraction|31.05 - The quotient and fractions]]: the opposite of a fraction is the same as turning multiplication into division and vice versa: this also applies to fractions since negatives do the opposite of multiplication.
+Fractions with negative powers are a bit silly to solve. As mentioned in [[Info-tidbits/Maths/05 - The quotient, fractions, ratios and percentages#The opposite of a fraction|31.05 - The quotient and fractions]]: the opposite of a fraction is the same as turning multiplication into division and vice versa: this also applies to fractions since negatives do the opposite of multiplication.
 
 Following this logic, we can deduce that if we **flip the fraction, the exponent must also flip**. To prove it, i will first solve the fraction without flipping it:
 
@@ -280,7 +280,7 @@ That's a lot easier :3
 # Fractions and roots
 
 >[!info] more info on roots
->For more info on roots, click [[Personal-projects/Maths/09 - Powers and roots#Roots|here]]
+>For more info on roots, click [[Info-tidbits/Maths/09 - Powers and roots#Roots|here]]
 
 Calculating the (square) root of a fraction is the exact same as [[#Multiplying fractions|multiplying]] it: you calculate the (square) root of the numerator and the denominator.
 
@@ -349,7 +349,7 @@ Some other ratios are:
 - etc....
 
 ## Simplifying ratios
-Simplifying a ratio(finding the smallest valid one) is done in the same way as [[#Simplifying fractions|fractions]]: you find the [[Personal-projects/Maths/08 - Greatest common divisor and least common multiple#Greatest common divisor|greatest common divisor]] and divide both numbers by it.
+Simplifying a ratio(finding the smallest valid one) is done in the same way as [[#Simplifying fractions|fractions]]: you find the [[Info-tidbits/Maths/08 - Greatest common divisor and least common multiple#Greatest common divisor|greatest common divisor]] and divide both numbers by it.
 
 Example:<br>18:24 -> 6 is the gcd -> $18 \div 6 = 3$ and $24 \div 6 = 4$ -> 3:4
 
@@ -366,4 +366,4 @@ $220 \div 11 \times 10 = 200$ml of water inside the cup.
 
 
 >[!note] next chapter
->The next chapter will go over [[Personal-projects/Maths/06 - Order of operations|order of operations]]
+>The next chapter will go over [[Info-tidbits/Maths/06 - Order of operations|order of operations]]

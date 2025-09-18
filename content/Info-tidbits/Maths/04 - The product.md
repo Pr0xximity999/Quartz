@@ -55,9 +55,9 @@ Starting with a positive numbers and looking at the pattern moving down is one w
 > Since whether the outcome is positive or negative has been solved, you can remove all minuses, calculate the outcome, and add the minuses back.<br> $-5 \times 3$ -> $5 \times 3 = 15$ -> $-5 \times 3 = -15$
 
 >[!note]- in case the equation has more than 2 numbers
->If for example you have $5 \times -3 \times -4$, you apply the [[Personal-projects/Maths/06 - Order of operations|order of operations]] and do the equation in groups of 2 (in this case left to right).<br>OR, you could count the number of minuses and, if it's an even amount, the solution is positive and vice versa.
+>If for example you have $5 \times -3 \times -4$, you apply the [[Info-tidbits/Maths/06 - Order of operations|order of operations]] and do the equation in groups of 2 (in this case left to right).<br>OR, you could count the number of minuses and, if it's an even amount, the solution is positive and vice versa.
 
 
 
 >[!note] next chapter
->The next chapter will go over [[Personal-projects/Maths/05 - The quotient, fractions, ratios and percentages|the quotient and fractions]]
+>The next chapter will go over [[Info-tidbits/Maths/05 - The quotient, fractions, ratios and percentages|the quotient and fractions]]

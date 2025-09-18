@@ -32,7 +32,7 @@ The least common multiple of two numbers is again like the name says: the smalle
 Calculating the least common multiple and greatest common divisor is actually really simple.
 
 take 600 and 750 for example. Very big numbers right? It must be hard..
-Start by calculating the [[Personal-projects/Maths/07 - Integer and prime factorisation#Prime factorisation (decomposition)|prime factors]] for both.
+Start by calculating the [[Info-tidbits/Maths/07 - Integer and prime factorisation#Prime factorisation (decomposition)|prime factors]] for both.
 
 $$
 \begin{aligned}
@@ -71,7 +71,7 @@ $$
 $$
 
 >[!note] next article
->The next article will go over [[Personal-projects/Maths/08 - Greatest common divisor and least common multiple|the greatest common divisor and least common multiple]]<br>Let's write it as a fraction and omit the multiplication symbols for clarity:<br>
+>The next article will go over [[Info-tidbits/Maths/08 - Greatest common divisor and least common multiple|the greatest common divisor and least common multiple]]<br>Let's write it as a fraction and omit the multiplication symbols for clarity:<br>
 
 $$
 \frac {2^{b_1} 3^{b_2} 5^{b_3} 7^{b_4}} {2^{a_1} 3^{a_2} 5^{a_3} 7^{a_4}} ...
@@ -104,4 +104,4 @@ $$
 Cool, isn't it?
 
 >[!note] next article
->The next article will go over [[Personal-projects/Maths/09 - Powers and roots|Powers and roots]]
+>The next article will go over [[Info-tidbits/Maths/09 - Powers and roots|Powers and roots]]
