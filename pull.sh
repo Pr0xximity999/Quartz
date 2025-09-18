@@ -1,2 +1,3 @@
 git pull
-input
+echo "press any key to continue..."
+read 
