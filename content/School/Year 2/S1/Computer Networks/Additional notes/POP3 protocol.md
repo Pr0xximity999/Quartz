@@ -27,12 +27,14 @@ Keep in mind that these commands are *case insensitive*.
 - ``USER``: Used to identify the client’s username or email address
 - ``PASS``: Used to provide the client’s password for logging in
 
+
 - ``STAT``: Lists the number of emails on the server, including their size
 - ``LIST``: Retrieves a list of all emails on the server, including their size
 	- Can have an optional argument, telling the size of an email, based on index (cannot be an email marked as deleted)
 - ``RETR``: Retrieves a specific email from the server, based on its index
 - ``DELE``: Marks a specific email for deletion on the server, based on its index
 - ``RSET``: resets any actions done (no deletions or retrievals will take place)
+
 
 - ``NOOP``: NO OPeration command, used to keep the connection alive
 - ``QUIT``: Terminates the session and closes the connection
