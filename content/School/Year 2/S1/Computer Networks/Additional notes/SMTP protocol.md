@@ -7,7 +7,7 @@ tags:
 ---
 > **SMTP**: Simple Mail Transfer Protocol
 
-The smtp is designed to transfer mails efficiently and reliably. It works on a sender-receiver system where the sender is the client and the receiver the server(or an intermediate). It's workflow is very simple and step-by-step, one at a time.
+The smtp protocol is designed to transfer mails efficiently and reliably. It works on a sender-receiver system where the sender is the client and the receiver the server(or an intermediate). It's workflow is very simple and step-by-step, one at a time.
 
 **1. Setting up the mailer**<br>Once the connection is established, the SMTP-sender sends a MAIL command, telling the SMTP-receiver who the sender of the mail is. If the SMTP-receiver can accept it, it will respond with an OK reply.
 

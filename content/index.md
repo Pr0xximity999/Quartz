@@ -14,13 +14,15 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 
 
 # New entries/updates
-| date       | file                                                                                                  | Language                         | Notes                       |
-| ---------- | ----------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
-| 09/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/2 - IP Networks\|2 - IP Networks]]                    | #language/english #taal/engels   | who up forwarding they port |
-| 11/09/2025 | c++ - [[School/Year 2/S1/c++/Fundamentals\|Fundamentals]]                                             | #language/english #taal/engels   |                             |
-| 12/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/SMTP server protocol\|SMTP server protocol]]          | #language/english #taal/engels   |                             |
-| 13/09/2025 | Hardware - [[School/Year 2/S1/Hardware Interfacing/Technische documentatie\|Technische documentatie]] | #language/dutch #taal/nederlands |                             |
-| 16/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/3 - Ip stack\|3 - Ip stack]]                          | #language/english #taal/engels   |                             |
+| date       | file                                                                                                          | Language                         | Notes                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
+| 09/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/2 - IP Networks\|2 - IP Networks]]                            | #language/english #taal/engels   | who up forwarding they port |
+| 11/09/2025 | c++ - [[School/Year 2/S1/c++/Fundamentals\|Fundamentals]]                                                     | #language/english #taal/engels   |                             |
+| 12/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/Additional notes/SMTP protocol\|SMTP server protocol]] | #language/english #taal/engels   |                             |
+| 13/09/2025 | Hardware - [[School/Year 2/S1/Hardware Interfacing/Technische documentatie\|Technische documentatie]]         | #language/dutch #taal/nederlands |                             |
+| 16/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/3 - Ip stack\|3 - Ip stack]]                                  | #language/english #taal/engels   |                             |
+| 19/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/Additional notes/POP3 protocol\|POP 3 protocol]]             | #taal/engels #language/english   |                             |
+
 
 
 >[!important]- Important note
