@@ -46,7 +46,7 @@ Responses to certain commands are multi-line. Each line ends in a single CRLF, u
 
 If a line starts with a termination octet, and other characters other than the CRLF follows, something called “byte stuffing” will take place. The server will send two termination octets instead of one, which the client then interprets back into a “.” instead of a termination character.
 
-# Workflow
+# State flow
 A POP3 session is a state-based flow that progresses trough 3 states:
 - **AUTHORIZATION**: the client identifies itself
 - **TRANSACTION**: the client requests actions on the POP3 server (like acquiring or deleting mails)
