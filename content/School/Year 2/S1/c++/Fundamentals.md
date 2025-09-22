@@ -172,7 +172,7 @@ struct C {
 ...it would take up less space.
 - 0 - 7   (8 bytes)  : ``d``
 - 8 - 11  (4 bytes)  : ``i``     
-- 12       (1 byte)   : ``c1``    
+- 12       (1 byte)   : ``c1``    https://stackoverflow.com/questions/346536/difference-between-a-structure-and-a-union
 - 13       (1 byte)   : ``c2``     
 It all aligns....but we forgot something
 A struct also has to be a multiple of its biggest member. This is for reasons in case it is in something like an array (i don't fully know why, just that its a reason).
@@ -207,10 +207,10 @@ There are two ways to allocate memory in c++: static and dynamic:
 Access modifiers decide if other parts of your code have access to variables and functions in a class.
 
 C++ has private, public, and protected just [[School/Year 1/P2/Software-development/Object Oriented Programming#Encapsulation|like C#]], but c++ also has something else: a friend modifier.<br>Friend tells the program that exceptions for certain classes are made, which give them access to private/protected methods and variables.
-
 # Structs
 A struct, or structure, is a datatype that can hold multiple variables under a single variable name. Its handy to group certain variables together.
 The biggest difference between a class and a struct is that struct members are public by default (and a class's deconstructor is automatically called)
+
 
 # Typedef
 A ``typedef`` is a way to give an **alias** to a variable. It doesn't change the type, but gives it a shorter way to type it.
@@ -218,7 +218,8 @@ A ``typedef`` is a way to give an **alias** to a variable. It doesn't change the
 While using [[#Structs|structs]], you always need to explicitly type ``struct`` before using the variable. This can be fixed by using typedefs.
 
 You can also use ``using`` in modern c++.
-
+# Union
+A union is a datatype that can hold multiple members under a single variable name. It’s difference from [[#Structs]] is that a union can only hold one of its members at the same time. Because of this, the union is only as big as its biggest data member.
 # Enums
 An enum, or enumeration, is a self defined type that holds a list of symbolic names which all have a (explicit or implicit) numerical value. It can be used for things like a list of seasons, days in a week, etc.. enums work great with [[#Switch|switches]]
 
