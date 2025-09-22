@@ -6,4 +6,4 @@ tags:
   - taal/engels
   - language/english
 ---
-Lol i didn’t make any notes this period (except for the [[School/Year 1/Plannings/Planning period 4|planning]])
+Lol i didn’t make any notes this period (except for the [[School/Year 1/P4/Planning period 4|planning]])

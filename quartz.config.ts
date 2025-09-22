@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: { provider: 'google', tagId: 'G-RQ53SEPBR4'},
     locale: "en-US",
     baseUrl: "docs.tominhisroom.dev",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Planning*", "planning*"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
