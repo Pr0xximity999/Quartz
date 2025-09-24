@@ -80,6 +80,7 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 - [x] [Voorbereidende opdracht](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1136716)
 ## C++
 - [C++ workshop 3](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1082293)
+- [x] huiswerk week 3
 ## Computernetwerken
 - [Lesmateriaal](https://brightspace.avans.nl/d2l/le/lessons/251412/lessons/1747334)
 - [x] [Opdracht 3](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186049&ou=251412)
@@ -93,9 +94,9 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 ---
 # Week 4
 ## C++
-/
+- [ ] huiswerk week 4
 ## Robotvloot
-- [Contactpersoon opdrachtgever](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1140795)
+- [ ] [Contactpersoon opdrachtgever](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1140795)
 - [ ] [Inleveren 1e versie projectplan](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1130142)
 ## Computernetwerken
 - [Lesmateriaal](https://brightspace.avans.nl/d2l/le/lessons/251412/lessons/1747335)
@@ -111,7 +112,7 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 ---
 # Week 5
 ## C++
-/
+- [ ] huiswerk week 5
 ## Computernetwerken
 - [Lesmateriaal](https://brightspace.avans.nl/d2l/le/lessons/251412/lessons/1747336)
 - [ ] [Opdracht 5](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186051&ou=251412)
@@ -124,7 +125,7 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 --- 
 # Week 6
 ## C++
-/
+- [ ] huiswerk week 6
 ## Computernetwerken
 - [Lesmateriaal](https://brightspace.avans.nl/d2l/le/lessons/251412/lessons/1747337)
 - [ ] [Opdracht 6](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186052&ou=251412)
