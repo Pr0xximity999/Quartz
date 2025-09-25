@@ -64,7 +64,7 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Oopsies! this page has either been moved or doesnt exist >w<.",
+      notFound: "Oopsies! this page has either been moved or doesnt exist :3c.",
       home: "Return to Homepage",
     },
     folderContent: {
