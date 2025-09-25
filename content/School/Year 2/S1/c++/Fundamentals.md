@@ -6,6 +6,9 @@ tags:
   - taal/engels
   - programming-languages/cpp
 ---
+>[!info]
+>I use method and function interchangeably when talking about c++ methods in this document.
+
 
 # Introduction
 C++ is an unsafe programming language. "unsafe" means that you can directly access memory, which when used wrong, can lead to memory leaks and other issues.
@@ -103,6 +106,9 @@ Bit-wise operators work on bits of variables.
 - Bitwise NOT (~)
 - Shift left (<<)
 - Shift right (>>)
+
+# Operator overloading
+Operator overloading is a way to add operator functionality for data types who don’t have it. You write it like ``[datatype] operator+([datatype] input) const {}``, where \[datatype] is the datatype, like a string, and ``+`` is the operator you’re overloading. 
 
 # Pointers
 Whenever you create a datatype in c++, like a void, char, int, double, bool, etc.. It allocates a bit of memory and gives back the memory location; a *pointer*. Pointers don't hold the value of the memory location, but the *address*.
@@ -203,7 +209,32 @@ There are two ways to allocate memory in c++: static and dynamic:
 **Pros**: more flexible size wise, more fit for bigger datasets
 **Cons**: its slower, you have to manager the memory usage, otherwise you get memory leaks.
 
-# Classes - Access
+# Classes
+## Copy constructors (new)
+A copy constructor is a standard class constructor, but it’s only argument is a class object itself. It essentially **creates** a new object with the same properties.
+
+## Copy assignments (overwrite)
+Copy assignments work the same as copy constructors, but they **overwrite** an existing object.
+
+## Rule of three / five / zero
+The rule of three states that every class you create should have:
+- A destructor (for de-allocating)
+- A copy constructor (for duplicating to a new object)
+- A copy assignment constructor (for duplicating to an existing object)
+
+
+The rule of five states that every class you create should have:
+- A destructor (for de-allocating)
+- A copy constructor (for duplicating to a new object)
+- A copy assignment constructor (for duplicating to an existing object)
+- A move constructor (for moving to a new object)
+- A move assignment constructor (for moving to an existing object)
+
+
+The rule of zero states that every class you create should have:
+
+None of these, because you can use memory safe datatypes like STD vectors, strings, unique_ptr’s, etc. This way, memory allocation happens automatically.
+## Access
 Access modifiers decide if other parts of your code have access to variables and functions in a class.
 
 C++ has private, public, and protected just [[School/Year 1/P2/Software-development/Object Oriented Programming#Encapsulation|like C#]], but c++ also has something else: a friend modifier.<br>Friend tells the program that exceptions for certain classes are made, which give them access to private/protected methods and variables.
@@ -296,3 +327,13 @@ A pointer can have multiple owners. As soon as there are no owners left, the mem
 
 ## Weak pointer
 Kind of like a shared pointer, but it doesnt block access to the allocated memory for other owners. Can be upgraded to a shared pointer to break circular shared-pointer-loops.
+
+
+# Lambdas
+Lambdas are variables that hold a method body inside them. They work just as a method, accepting arguments (if set up that way), and returning values. Lambda’s are usually used as arguments inside methods.
+
+Lambdas can also be used **anonymously**: the lambda is defined *inside* the parameter section of a method, and isn’t bound to a variable.
+
+# Function pointer
+Function pointers are as the name suggests, pointers to functions. It is like a lambda, but you reference to another function, which them can be ran.
+
