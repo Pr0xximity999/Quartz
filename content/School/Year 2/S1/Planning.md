@@ -18,14 +18,14 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 	- [[#Week 3#Computernetwerken|Computernetwerken]]
 	- [[#Week 3#Hardware interfacing|Hardware interfacing]]
 	- [[#Week 3#Linux OS|Linux OS]]
-- [[#Week 4|Week 4]] (CURRENT WEEK)
+- [[#Week 4|Week 4]]
 	- [[#C++|C++]]
 	- [[#C++#Robotvloot|Robotvloot]]
 	- [[#C++#Computernetwerken|Computernetwerken]]
 	- [[#C++#Arduino|Arduino]]
 	- [[#C++#Hardware interfacing|Hardware interfacing]]
 	- [[#C++#Robotica|Robotica]]
-- [[#Week 5|Week 5]]
+- [[#Week 5|Week 5]] (CURRENT WEEK)
 	- [[#Week 5#C++|C++]]
 	- [[#Week 5#Computernetwerken|Computernetwerken]]
 	- [[#Week 5#Arduino|Arduino]]
@@ -94,13 +94,13 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 ---
 # Week 4
 ## C++
-- [ ] huiswerk week 4
+- [x] huiswerk week 4
 ## Robotvloot
-- [ ] [Contactpersoon opdrachtgever](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1140795)
-- [ ] [Inleveren 1e versie projectplan](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1130142)
+- [x] [Contactpersoon opdrachtgever](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1140795)
+- [x] [Inleveren 1e versie projectplan](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=dropbox&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1130142)
 ## Computernetwerken
 - [Lesmateriaal](https://brightspace.avans.nl/d2l/le/lessons/251412/lessons/1747335)
-- [ ] [Opdracht 4](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186050&ou=251412)
+- [x] [Opdracht 4](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186050&ou=251412)
 ## Arduino
 - [Miniproject Arduino](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1144485)
 ## Hardware interfacing
