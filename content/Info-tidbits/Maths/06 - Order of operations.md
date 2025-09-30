@@ -6,6 +6,7 @@ tags:
   - school/extra-curricular
   - maths/operators
 ---
+y
 > **Operation**: An action that can be done with two numbers, like addition or multiplication.
 
 > **Operator**: A symbol that defines the operation enacted between two numbers.

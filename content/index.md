@@ -14,16 +14,17 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 
 
 # New entries/updates
-| date       | file                                                                                                       | Language                         | Notes                       |
-| ---------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
-| 09/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/2 - IP Networks\|2 - IP Networks]]                         | #language/english #taal/engels   | who up forwarding they port |
-| 11/09/2025 | c++ - [[School/Year 2/S1/c++/Fundamentals\|Fundamentals]]                                                  | #language/english #taal/engels   |                             |
-| 12/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/Additional notes/SMTP protocol\|SMTP server protocol]]     | #language/english #taal/engels   |                             |
-| 13/09/2025 | Hardware - [[School/Year 2/S1/Hardware Interfacing/Technische documentatie\|Technische documentatie]]      | #language/dutch #taal/nederlands |                             |
-| 16/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/3 - Ip stack\|3 - Ip stack]]                               | #language/english #taal/engels   |                             |
-| 19/09/2025 | Networks - [[School/Year 2/S1/Computer Networks/Additional notes/POP3 protocol\|POP 3 protocol]]           | #taal/engels #language/english   |                             |
-| 22/09/2025 | networks - [[School/Year 2/S1/Computer Networks/4 - Delay, Loss, throughput\|4 - Delay, Loss, throughput]] | #taal/engels #language/english   |                             |
-| 23/09/2025 | maths - [[School/Year 2/S1/Maths/Booleans\|Booleans]]                                                      | #taal/engels #language/english   |                             |
+| date       | file                                                                                                       | Language                        | Notes                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------- |
+| 22/09/2025 | networks - [[School/Year 2/S1/Computer Networks/4 - Delay, Loss, throughput\|4 - Delay, Loss, throughput]] | #taal/engels #language/english  |                                        |
+| 23/09/2025 | maths - [[School/Year 2/S1/Maths/Booleans\|Booleans]]                                                      | #taal/engels #language/english  |                                        |
+| 29/09/2025 | networks - [[School/Year 2/S1/Computer Networks/5 - Cryptography\|5 - Cryptography]]                       | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Introduction\|Introduction]]                                                  | #taal/engels  #language/english | Split these apart in multiple articles |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Data types and Operators\|Data types and Operators]]                          | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Classes and Types\|Classes and Types]]                                        | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/The pre-processor\|The pre-processor]]                                        | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Pointers, Arrays, and Memory\|Pointers, Arrays, and Memory]]                  | #taal/engels #language/english  |                                        |
+
 
 
 
