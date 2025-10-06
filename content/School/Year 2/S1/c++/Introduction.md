@@ -39,3 +39,5 @@ For information on macros, defines, and the pre-processor, see [[School/Year 2/S
 For information about classes, enums, types, etc…, see [[School/Year 2/S1/c++/Classes and Types|Classes and Types]]
 
 For info about everything memory, pointers and all that jazz, see [[School/Year 2/S1/c++/Pointers, Arrays, and Memory|Pointers, Arrays, and Memory]].
+
+For things about mulithreading, see [[School/Year 2/S1/c++/Multitasking & Concurrency|Multitasking & Concurrency]]
