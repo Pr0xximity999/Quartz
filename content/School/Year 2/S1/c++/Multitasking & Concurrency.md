@@ -57,3 +57,30 @@ When trying to get the value from a future object, the thread waits until the pr
 OpenMP is an API and compiler-derivatives used for parallel programming, mostly used in scientific calculations. It focuses on data-parallelism by running multiple calculations in parallel.
 
 Compared to threads, it also runs on multiple cpu cores and uses different runtime-libraries, is more focused on rough parallel tasks instead of fine ones, and is more scalable.
+
+## Reductions
+Since OpenMP runs on multiple cpu cores, splitting the work could lead to race-conditons and eventual loss of data. 
+
+A parallel is defined inside the `#pragma` section
+```cpp
+#pragma omp parallel for
+for (int i = 0; i < n; ++i) {
+    sum += arr[i];
+}
+```
+
+Whenever sum is being updated, a local copy is made, the value is added to that copy, and that copy then overwrites the old value. If two writes would happen at once, one would *overwrite* the other, leading to loss in data
+
+
+That’s where reduction comes into play. Reduction tells the parallel method to make their own local copy, and add it back up in the end:
+```cpp
+int sum = 0;
+
+#pragma omp parallel for reduction(+:sum)
+for (int i = 0; i < n; ++i) {
+    sum += arr[i];
+}
+
+```
+
+the `+` sign tells the parallel to add the number back up, and apply the output value to `sum`
