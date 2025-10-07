@@ -25,6 +25,7 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 | 30/09/2025 | c++ - [[School/Year 2/S1/c++/The pre-processor\|The pre-processor]]                                        | #taal/engels #language/english  |                                        |
 | 30/09/2025 | c++ - [[School/Year 2/S1/c++/Pointers, Arrays, and Memory\|Pointers, Arrays, and Memory]]                  | #taal/engels #language/english  |                                        |
 | 04/10/2025 | qml - [[Info-tidbits/Qml/Fundamentals\|Fundamentals]]                                                      | #language/english #taal/engels  |                                        |
+| 07/10/2025 | networks - [[School/Year 2/S1/Computer Networks/6 - Debugging & Tooling\|6 - Debugging & Tooling]]         |                                 |                                        |
 
 
 
