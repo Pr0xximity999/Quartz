@@ -25,12 +25,12 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 	- [[#C++#Arduino|Arduino]]
 	- [[#C++#Hardware interfacing|Hardware interfacing]]
 	- [[#C++#Robotica|Robotica]]
-- [[#Week 5|Week 5]] (CURRENT WEEK)
+- [[#Week 5|Week 5]] 
 	- [[#Week 5#C++|C++]]
 	- [[#Week 5#Computernetwerken|Computernetwerken]]
 	- [[#Week 5#Arduino|Arduino]]
 	- [[#Week 5#FreeRTOS|FreeRTOS]]
-- [[#Week 6|Week 6]]
+- [[#Week 6|Week 6]] (CURRENT WEEK)
 	- [[#Week 6#C++|C++]]
 	- [[#Week 6#Computernetwerken|Computernetwerken]]
 	- [[#Week 6#Hardware interfacing|Hardware interfacing]]
@@ -112,10 +112,10 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 ---
 # Week 5
 ## C++
-- [ ] huiswerk week 5
+- [x] huiswerk week 5
 ## Computernetwerken
 - [Lesmateriaal](https://brightspace.avans.nl/d2l/le/lessons/251412/lessons/1747336)
-- [ ] [Opdracht 5](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186051&ou=251412)
+- [x] [Opdracht 5](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186051&ou=251412)
 ## Arduino
 - [Miniproject Arduino](https://brightspace.avans.nl/d2l/common/dialogs/quickLink/quickLink.d2l?ou=251412&type=content&rcode=6732FF79-B5DB-4C16-8D5F-8BB819AE9F16-1144485)
 
@@ -125,10 +125,10 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 --- 
 # Week 6
 ## C++
-- [ ] huiswerk week 6
+- [x] huiswerk week 6
 ## Computernetwerken
 - [Lesmateriaal](https://brightspace.avans.nl/d2l/le/lessons/251412/lessons/1747337)
-- [ ] [Opdracht 6](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186052&ou=251412)
+- [x] [Opdracht 6](https://brightspace.avans.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=186052&ou=251412)
 
 ## Hardware interfacing
 /
