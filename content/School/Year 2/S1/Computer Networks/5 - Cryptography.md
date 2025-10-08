@@ -46,16 +46,16 @@ Symmetric cryptography is when you can encrypt and decrypt a message with the sa
 # Asymmetric Cryptography
 Asymmetric cryptography is a way more secure version of symmetric cryptography. It is called asymmetric because it requires **two keys**: A **public** and **private key**. Asymmetric encryption is a bit slower than symmetric encryption because it requires more mathematical power on the cpu’s end, but managing keys is way more easy.
 
-The private key can encrypt and decrypt messages, and the public key can *only decrypt* messages, not encrypt it. This ensures your data cannot be tampered with, because the data can be read, but not modified and encrypted again. This achieves **Authenticity** and **Integrity**. Not confidentiality, because everyone can read the message.
+The private key can decrypt and sign messages, and the public key can *only encrypt* messages, not decrypt it. This ensures your data cannot be tampered with, because the data cannot be read, but it can be modified and encrypted again. This achieves **confidentiality**, but not Authenticity and Integrity  because everyone can send messages or impersonate someone.
 
-But this public-private-key system also works the other way around. Public keys can encrypt messages that only private keys can read. This way, if Alice sends a message to Bob using Bob’s public key, only Bob can read it using Alice’s private key. This achieves **Confidentiality**, But still no integrity, because everyone can send Bob messages using his public key.
+But this public-private-key system also works the other way around. Private keys can sign messages that public keys can verify. Along with the message, the signature in the form of a **hash** will be sent that will only match up if the message has not been tampered with (edited). A hash is a one-way encoding method that cant be decrypted unless you enter the exact same input to compare the outcome. This way, if Alice sends a message to Bob using her private key to sign the message, Bob can verify it using Alice’s public key. This achieves **Integrity** and **authenticity**, But no confidentiality, because everyone can still read the messages.
 
-This is how we come to our final step, ensuring all 3 aspects:<br>By sending a code, or **hash**, along with the message, you can ensure the validity of a message. A hash is a one-way encoding method that cant be decrypted unless you enter the exact same input to compare the outcome.<br>If Alice were to send a message to bob with a hash, encrypted by her private key(usually called **signing** the message) to ensure **authenticity**(only she could have encrypted the message). <br>Bob would know that the message is not tampered with because of the hash, ensuring **integrity**. <br>And because the actual message was encrypted by Bob’s public key, only Bob can read the message using his private key, ensuring **confidentiality**.
+This is how we come to our final step, ensuring all 3 aspects:<br>By sending a code, or **hash**, along with the message, you can ensure the validity of a message and the person who sent it. By encrypting the message using the receivers public key, only they can read it. 
 
+If Alice were to send a message with a signature (to ensure **authenticity**) to bob, encrypted by his private key to ensure **confidentiality**. Bob would know that the message is not tampered with because of the hash, ensuring **integrity**.
 # Hashing
 A hash is a one way algorithm to change text (NOT AN ENCRYPTION METHOD!!), meaning that after hashing a piece of text, it wont be able to be reversed again.
 One of the most used hashing algorithms is SHA, which has such a complicated and big mathematical process, that the chance of two pieces of text having the same hash is astronomically small.
-
 
 # Certificate authorities
 When browsing online, you mostly use https connection, the s stands for “secure”, meaning that your connection is encrypted. https websites are also validated to be the actual website you want to connect to. How you may ask? Trough the use of **certificates**.
