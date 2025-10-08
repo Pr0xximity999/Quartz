@@ -92,6 +92,9 @@ A constant modifier is given to a variable, making it immutable in turn; it cann
 
 It turns variables read only and makes them more optimized.
 
+## Constant expressions (constexpr)
+A constant expression is a function which calculates its outcome at compile time, instead of runtime.
+
 # Auto
 Auto can be used on the left hand side of a variable assignment to simplify the definition of a variable. It evaluates the right hand side (right of the =) to deduct what type it is.<br>``auto number = 5`` will evaluate to an int<br>``auto text = "hello"`` will evaluate to a char\[]
 ``auto text = new std::string("hello")`` will evaluate to a std::string.
