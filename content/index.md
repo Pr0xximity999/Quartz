@@ -14,17 +14,17 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 
 
 # New entries/updates
-| date        | file                                                                                                       | Language                        | Notes                                  |
-| ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------- |
-| 22/09/2025  | networks - [[School/Year 2/S1/Computer Networks/4 - Delay, Loss, throughput\|4 - Delay, Loss, throughput]] | #taal/engels #language/english  |                                        |
-| 23/09/2025  | maths - [[School/Year 2/S1/Maths/Booleans\|Booleans]]                                                      | #taal/engels #language/english  |                                        |
-| 29/09/2025  | networks - [[School/Year 2/S1/Computer Networks/5 - Cryptography\|5 - Cryptography]]                       | #taal/engels #language/english  |                                        |
-| 30/09/2025  | c++ - [[School/Year 2/S1/c++/Introduction\|Introduction]]                                                  | #taal/engels  #language/english | Split these apart in multiple articles |
-| 30/09/2025  | c++ - [[School/Year 2/S1/c++/Data types and Operators\|Data types and Operators]]                          | #taal/engels #language/english  |                                        |
-| 30/09/2025  | c++ - [[School/Year 2/S1/c++/Classes and Types\|Classes and Types]]                                        | #taal/engels #language/english  |                                        |
-| 30/09/2025  | c++ - [[School/Year 2/S1/c++/The pre-processor\|The pre-processor]]                                        | #taal/engels #language/english  |                                        |
-| 30/09/2025  | c++ - [[School/Year 2/S1/c++/Pointers, Arrays, and Memory\|Pointers, Arrays, and Memory]]                  | #taal/engels #language/english  |                                        |
-| 01/10//2025 | OS - [[School/Year 2/S1/Operating Systems/FreeRTOS\|FreeRTOS]]                                             | #language/english #taal/engels  |                                        |
+| date       | file                                                                                                       | Language                        | Notes                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------- |
+| 22/09/2025 | networks - [[School/Year 2/S1/Computer Networks/4 - Delay, Loss, throughput\|4 - Delay, Loss, throughput]] | #taal/engels #language/english  |                                        |
+| 23/09/2025 | maths - [[School/Year 2/S1/Maths/Booleans\|Booleans]]                                                      | #taal/engels #language/english  |                                        |
+| 29/09/2025 | networks - [[School/Year 2/S1/Computer Networks/5 - Cryptography\|5 - Cryptography]]                       | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Introduction\|Introduction]]                                                  | #taal/engels  #language/english | Split these apart in multiple articles |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Data types and Operators\|Data types and Operators]]                          | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Classes and Types\|Classes and Types]]                                        | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/The pre-processor\|The pre-processor]]                                        | #taal/engels #language/english  |                                        |
+| 30/09/2025 | c++ - [[School/Year 2/S1/c++/Pointers, Arrays, and Memory\|Pointers, Arrays, and Memory]]                  | #taal/engels #language/english  |                                        |
+| 09/10/2025 | OS - [[School/Year 2/S1/Operating Systems/FreeRTOS\|FreeRTOS]]                                             | #language/english #taal/engels  |                                        |
 
 
 
