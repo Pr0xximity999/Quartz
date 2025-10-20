@@ -32,11 +32,11 @@ C++ is really popular for embedded systems like microcontrollers because of thei
 
 
 # List of articles
-For info on datatypes, modifiers, literals, operators, etc.. see [[School/Year 2/S1/c++/Data types and Operators|Data types and Operators]].
+For info on datatypes, modifiers, literals, operators, etc.. see [[School/Year 2/S1/c++/Types and Operators|Types and Operators]].
 
 For information on macros, defines, and the pre-processor, see [[School/Year 2/S1/c++/The pre-processor|The pre-processor]].
 
-For information about classes, enums, types, etc…, see [[School/Year 2/S1/c++/Classes and Types|Classes and Types]]
+For information about classes, enums, types, etc…, see [[School/Year 2/S1/c++/Classes|Classes]]
 
 For info about everything memory, pointers and all that jazz, see [[School/Year 2/S1/c++/Pointers, Arrays, and Memory|Pointers, Arrays, and Memory]].
 

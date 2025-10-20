@@ -7,7 +7,7 @@ tags:
   - programming-languages/cpp
 ---
 # Pointers
-Whenever you assign/create a [[School/Year 2/S1/c++/Data types and Operators|data type]] in c++, like a void, char, int, double, bool, etc.. It allocates a bit of memory and gives back the memory location; a *pointer*. Pointers don't hold the value of the memory location, but the *address*.
+Whenever you assign/create a [[School/Year 2/S1/c++/Types and Operators|data type]] in c++, like a void, char, int, double, bool, etc.. It allocates a bit of memory and gives back the memory location; a *pointer*. Pointers don't hold the value of the memory location, but the *address*.
 
 Typing ``int i;`` gives you an integer.<br>Typing ``p = &i`` gives you a pointer to the address of i. It is called the **address** operator.<br>Typing ``int* p`` gives you a pointer. It is called the **indirection** operator. If you have a pointer that contains an address, you can add \* to read the value of that address (``*p``). This is why it is sometimes called a **dereference** operator.
 
@@ -72,6 +72,28 @@ the std::vector is a dynamic array added by the standard library. A number of fe
 - Elements are always in memory
 - Gives a lot of handy functions like ``.push_back()``, ``.pop_back()``, ``.size()``, ``.clear()``, etc
 - Is dynamically allocated on the heap
+
+# Standard Template Library (STL)
+The STL contains a bunch of helpful functionalities
+## Containers
+STL containers can be things like Lists, Arrays, maps, etc..<br>There are a bunch, all for different use cases.
+
+For the full list, see [this](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/).
+
+## Algorithms
+STL algorithms are used to manipulate containers.
+
+It contains searching algorithms to look trough containers, sorting and re-arranging algorithms to sort and re-position container items, algorithms to manipulate containers without sorting them, and counting/comparing algorithms.
+
+Here are 5 random examples:
+- **find()**: looks for the specified element and returns the first result, if present.
+- **is_sorted()**: checks if the list if sorted by the specified (or default) sorting algorithm.
+- **copy()**: copies the elements of one range to another, preserving their order
+- **count()**: returns the number of items in a container.
+- **equal()**: checks if the two ranges have the same elements in the same order. 
+
+For the full list, see [this](https://www.geeksforgeeks.org/cpp/c-magicians-stl-algorithms/).
+
 # Memory
 The memory of a c++ program is built up from the following sections:
 - **Code segment**: run able code + constants
@@ -90,7 +112,7 @@ struct C {
 };
 ```
 
-If we were to use the [[School/Year 2/S1/c++/Data types and Operators#Sizeof operator|sizeof operator]]:
+If we were to use the [[School/Year 2/S1/c++/Types and Operators#Sizeof operator|sizeof operator]]:
 - ``c1`` would be at offset 0 (first position)
 - ``d`` would be at offset 8
 - ``c2`` would be at 16
