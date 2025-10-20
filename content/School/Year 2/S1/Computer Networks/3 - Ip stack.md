@@ -9,6 +9,7 @@ tags:
 >This article is a bit of a mess and might not always make sense, ma bad
 
 
+# IP stack layers
 The ip stack consists of 7 layers:
 - Application layer
 - Presentation layer
@@ -18,6 +19,33 @@ The ip stack consists of 7 layers:
 - Data link layer
 - Physical layer
 
+>[!info] Each layer will tack on a bit more data to the packet
+>When a payload is sent over the network layer (outside of your own network), it will add the ip address to the payload. Transport layer packets don't have that, so when its not needed anymore, it will be removed.
+>The datalink layer will add something else: a MAC address
+
+## Application layer
+The application layer lets applications communicate with one another. Think of protocols like `HTTP(S)`, `SMTP(S)` or `DNS`.
+
+There isn’t really any real data ‘packets’ on this layer yet.
+
+## Transport layer
+This layer handles data between sockets using IP + port addresses (from IP+port till IP+port). [[School/Year 2/S1/Computer Networks/1 - Application Protocols#Multiplexing|Multiplexing]] happens on this layer. Things like video streaming, emailing, or the `FTP` protocol runs on this layer. [[Info-tidbits/Network protocols/TCP protocol|TCP]] and [[#User Datagram Protocol (UDP)|UDP]] also run on this layer, creating a peer-to-peer connection.
+
+Packets on this layer adds the source and destination port to the data of the application layer. It can now be considered a ‘real’ packet.
+
+## Network layer
+The network layer changes packets to be able to be sent ‘outside’ its own IP range. An IP address is added to the packet, so that the router can correctly route it to the right destination router. 
+
+This layer does **not** send the packet though, that will happen on the next layer.
+
+## Datalink layer
+This layer handles communication between devices on the same network. A router will cross reference the packet’s IP address with one on its routing table (more on that later on). If it does not have one, it will broadcast the IP address on its network and wait for a machine to respond with its [[#Mac address|MAC]]-address and it will be sent to that one.
+
+This coupling of IP and MAC addresses is done via the [[#Access Resolution Protocol]].
+
+Lastly the packet will be sent to one more layer.
+## Physical layer
+This is the ultimate transport method for every packet: a wire of some sort. Think of optic fiber or just a metal cable. Nothing special going on here
 # Transmission Control Protocol (TCP)
 A TCP connection uses a mechanism to ensure that data transfer is done properly.<br>This is achieved by using a *three way handshake* 
 
@@ -65,12 +93,6 @@ One thing UDP *can* do which TCP cannot, is broadcasting data. Because TCP prope
 # UDP vs TCP
 UDP is mostly used for when a quick transmission is needed. Like sending a message to a mars rover (which takes 8 - 20 minutes for just a single ping), or when querying a dns server when browsing to a website. TCP is used when the data *needs* to be properly sent.
 
-# Transport, Network, and Datalink layers
-The network layer manages communication between different hosts (machines), while the transport layer manages communication between processes on the same host.<br>The transport layer specifies the services of the network layer.
-
->[!info] Each layer will tack on a bit more data to the packet
->When a payload is sent over the network layer (outside of your own network), it will add the ip address to the payload. Transport layer packets don't have that, so when its not needed anymore, it will be removed.
->The datalink layer will add something else: a MAC address
 # Mac address
 > **MAC** -> Medium Access Control
 
