@@ -36,35 +36,3 @@ Access modifiers decide if other parts of your code have access to variables and
 
 C++ has private, public, and protected just [[School/Year 1/P2/Software-development/Object Oriented Programming#Encapsulation|like C#]], but c++ also has something else: a friend modifier.<br>Friend tells the program that exceptions for certain classes are made, which give them access to private/protected methods and variables.
 
-# Structs
-A struct, or structure, is a datatype that can hold multiple variables under a single variable name. Its handy to group certain variables together.
-The biggest difference between a class and a struct is that struct members are public by default (and a class's deconstructor is automatically called)
-
-# Typedef
-A ``typedef`` is a way to give an **alias** to a variable. It doesn't change the type, but gives it a shorter way to type it.
-
-While using [[#Structs|structs]], you always need to explicitly type ``struct`` before using the variable. This can be fixed by using typedefs.
-
-You can also use ``using`` in modern c++.
-
-# Enums
-An enum, or enumeration, is a self defined type that holds a list of symbolic names which all have a (explicit or implicit) numerical value. It can be used for things like a list of seasons, days in a week, etc.. enums work great with switches.
-## Switch 
-A switch is a keyword that evaluates an expression and then runs a defined *(switch)case*.
-
-```c++
-switch (text)
-{
-	case "string1":
-		//do things
-		break;
-	case "string2":
-		//do things
-		break;
-	case "string3":
-		//do things
-		break;
-}
-```
-
-Not adding a ``break`` at the end of the case will cause the execution to “fall-trough“ the next case without evaluating it.
