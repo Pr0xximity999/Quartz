@@ -80,7 +80,7 @@ and endpoint has, yet again, an endpoint descriptor. A data structure containing
 # Step 2: sending and receiving data
 USB communication works via “pipes”, which are a logical connection between the host and endpoint. Pipe is software side, endpoint is hardware side.
 
-Every pipe is host-initiated, which is different from [[School/Year 2/S1/Computer Networks/Additional notes/Transmission Control Protocol (TCP)|TCP]]. The host sends data in “transactions”:
+Every pipe is host-initiated, which is different from [[Info-tidbits/Network protocols/TCP protocol|TCP]]. The host sends data in “transactions”:
 - Phase 1: token phase (telling the device its going to send data)
 	- host - peripheral
 - Phase 2: data phase (here is the data)

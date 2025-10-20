@@ -7,7 +7,7 @@ tags:
 ---
 A router usually has a buffer which holds packets before they are sent off. Whenever this buffer is full, new packets won’t be stored and will be dropped (**loss**). This can happen whenever the router doesn’t handle the packets quick enough: packets are being processed slower than they are being received(**delay**).
 
-Lost packets will be either sent again ([[School/Year 2/S1/Computer Networks/Additional notes/Transmission Control Protocol (TCP)|TCP]]), or never ([[School/Year 2/S1/Computer Networks/3 - Ip stack#User Datagram Protocol (UDP)|UDP]]).
+Lost packets will be either sent again ([[Info-tidbits/Network protocols/TCP protocol|TCP]]), or never ([[School/Year 2/S1/Computer Networks/3 - Ip stack#User Datagram Protocol (UDP)|UDP]]).
 
 Some reasons for delay can be:
 - processing inside of the node (router)

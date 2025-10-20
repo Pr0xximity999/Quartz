@@ -9,13 +9,13 @@ tags:
 # Intro
 >**POP3**: Post Office Protocol (version 3)
 
-The POP3 protocol is an outdated protocol that used to be a way to access and download messages held by a mail server. POP was developed largely because [[School/Year 2/S1/Computer Networks/Additional notes/SMTP protocol|SMTP]] lacks a method for queuing messages on the recipient’s mail server.
+The POP3 protocol is an outdated protocol that used to be a way to access and download messages held by a mail server. POP was developed largely because [[Info-tidbits/Network protocols/SMTP protocol|SMTP]] lacks a method for queuing messages on the recipient’s mail server.
 
 POP used to be able to run on systems that couldn’t support a full fledged mail server.
 
 POP provides a system for a user to temporarily log into their mail server to download messages (and delete them off the server).
 
-The POP protocol is a bit similar to the [[School/Year 2/S1/Computer Networks/Additional notes/SMTP protocol|SMTP]] protocol in the way that the client talks to the server in keywords.
+The POP protocol is a bit similar to the [[Info-tidbits/Network protocols/SMTP protocol|SMTP]] protocol in the way that the client talks to the server in keywords.
 
 # Commands
 All commands in POP3 start with a case insensitive keyword, and may be followed by one or two arguments. All commands are terminated by a newline(CRLF) pair. 
@@ -58,7 +58,7 @@ A POP3 session is a state-based flow that progresses trough 3 states:
 >The server MUST respond to any unrecognized, unimplemented or syntactically invalid commands with a negative status indicator. This also includes commands that are sent in the wrong state of the session.
 >The server MAY also have a inactivity logout timer. This timer should reset if the client sends any commands. If the timer expires, all commands the client has sent should NOT enter the UPDATE state and the server closes the connection without sending any message.
 
-**1. AUTHORIZATION state**<br>The POP3 session begins with the client connecting to the server(usually listening on port 110) over [[School/Year 2/S1/Computer Networks/Additional notes/Transmission Control Protocol (TCP)|TCP]] and the server greeting the client (``+OK``.
+**1. AUTHORIZATION state**<br>The POP3 session begins with the client connecting to the server(usually listening on port 110) over [[Info-tidbits/Network protocols/TCP protocol|TCP]] and the server greeting the client (``+OK``.
 
 The user must send a ``USER`` command followed by its identification. 
 

@@ -32,7 +32,7 @@ Only if the sender receives an acknowledge,  will the data be sent.
 The SYN and ACK messages are sent with an identification number with it to prevent duplicates and to ensure the messages are sent in order.
 
 
-For more info, see [[School/Year 2/S1/Computer Networks/Additional notes/Transmission Control Protocol (TCP)|Transmission Control Protocol (TCP)]]
+For more info, see [[Info-tidbits/Network protocols/TCP protocol|TCP protocol]]
 ## Checksum
 A checksum can be sent with a network package to check if the package has been tampered with/is damaged. The checksum is a numerical sequence that can be mathematically referenced with the data to validate it.
 

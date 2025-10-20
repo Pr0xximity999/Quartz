@@ -1,4 +1,4 @@
-A TCP connection is a two way communication protocol that uses a mechanism to ensure that data transfer is done properly.<br>This is achieved by using a *three way handshake* 
+A TCP (Transmission Control Protocol) connection is a two way communication protocol that uses a mechanism to ensure that data transfer is done properly.<br>This is achieved by using a *three way handshake* 
 
 Before the data is sent, the sender sends a **SYN**(sync).
 
