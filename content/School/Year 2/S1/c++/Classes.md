@@ -35,4 +35,3 @@ None of these, because you can use memory safe datatypes like STD vectors, strin
 Access modifiers decide if other parts of your code have access to variables and functions in a class.
 
 C++ has private, public, and protected just [[School/Year 1/P2/Software-development/Object Oriented Programming#Encapsulation|like C#]], but c++ also has something else: a friend modifier.<br>Friend tells the program that exceptions for certain classes are made, which give them access to private/protected methods and variables.
-

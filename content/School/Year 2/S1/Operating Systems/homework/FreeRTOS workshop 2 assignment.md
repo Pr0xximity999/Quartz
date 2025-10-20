@@ -173,4 +173,3 @@ De lcd word buiten de tasks gedefinieerd, de counters worden binnen de tasks ged
 Jelle denkt dat de ene task word uitgevoerd als de andere task in een delay zit, waardoor het beide goed loopt.<br>Thomas denkt dat door race conditions de cursor foutief word gezet, waardoor de teksten niet altijd op de juiste regels worden geprint.
 
 
-

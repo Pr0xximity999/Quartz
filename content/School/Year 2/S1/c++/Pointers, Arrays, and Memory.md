@@ -72,26 +72,21 @@ the std::vector is a dynamic array added by the standard library. A number of fe
 - Elements are always in memory
 - Gives a lot of handy functions like ``.push_back()``, ``.pop_back()``, ``.size()``, ``.clear()``, etc
 - Is dynamically allocated on the heap
-
+- 
 # Standard Template Library (STL)
 The STL contains a bunch of helpful functionalities
 ## Containers
 STL containers can be things like Lists, Arrays, maps, etc..<br>There are a bunch, all for different use cases.
-
 For the full list, see [this](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/).
-
 ## Algorithms
 STL algorithms are used to manipulate containers.
-
 It contains searching algorithms to look trough containers, sorting and re-arranging algorithms to sort and re-position container items, algorithms to manipulate containers without sorting them, and counting/comparing algorithms.
-
 Here are 5 random examples:
 - **find()**: looks for the specified element and returns the first result, if present.
 - **is_sorted()**: checks if the list if sorted by the specified (or default) sorting algorithm.
 - **copy()**: copies the elements of one range to another, preserving their order
 - **count()**: returns the number of items in a container.
 - **equal()**: checks if the two ranges have the same elements in the same order. 
-
 For the full list, see [this](https://www.geeksforgeeks.org/cpp/c-magicians-stl-algorithms/).
 
 # Memory
