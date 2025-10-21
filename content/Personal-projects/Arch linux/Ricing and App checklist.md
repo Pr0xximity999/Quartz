@@ -22,3 +22,4 @@ tags:
 	- [ ] theme
 	- [ ] typing suggestions
 	- [ ] other qol things
+	- [ ] yazi
