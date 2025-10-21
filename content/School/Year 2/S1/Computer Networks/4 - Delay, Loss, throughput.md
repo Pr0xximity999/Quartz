@@ -37,7 +37,7 @@ Throughput in this case is the rate of bits/time unit. It is also called **bandw
 Your throughput is defined by the slowest medium, since that will bottleneck the rest.
 
 ## Internet scenario
-Since your’e not alone on the internet, you have to share your internet bandwidth with other people from your isp (internet service provider). This can also impact your throughput at peak usage times.
+Since your’e not alone on the internet, you have to share your internet bandwidth with other people from your ISP (internet service provider). This can also impact your throughput at peak usage times.
 
 # Pipelining
 Instead of waiting for a single package to get acknowledged (stop and wait), a machine can send multiple packets in parallel, which drastically improves performance. This is called pipelining.
@@ -47,6 +47,6 @@ Instead of waiting for a single package to get acknowledged (stop and wait), a m
 
 HTTP 1.0 had an issue with RTT, every request did a new handshake for every element id had to fetch. Twice. This was very slow an inefficient.
 
-HTTP 1.1 fixed this, by keeping the connection alive. This makes the website able to retrieve data over the open connection. It also introduced pipelining, so now multiple resources can be requested at the same time. Most browsers have between 5 to 10 tcp connections open at the same time.
+HTTP 1.1 fixed this, by keeping the connection alive. This makes the website able to retrieve data over the open connection. It also introduced pipelining, so now multiple resources can be requested at the same time. Most browsers have between 5 to 10 TCP connections open at the same time.
 
-HTTP 2.0 also introduced streaming of data: having a constant datastream to send packets in segments, like loading a part of an image.
+HTTP 2.0 also introduced streaming of data: having a constant data stream to send packets in segments, like loading a part of an image.

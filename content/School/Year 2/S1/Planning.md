@@ -30,13 +30,13 @@ Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 	- [[#Week 5#Computernetwerken|Computernetwerken]]
 	- [[#Week 5#Arduino|Arduino]]
 	- [[#Week 5#FreeRTOS|FreeRTOS]]
-- [[#Week 6|Week 6]] (CURRENT WEEK)
+- [[#Week 6|Week 6]]
 	- [[#Week 6#C++|C++]]
 	- [[#Week 6#Computernetwerken|Computernetwerken]]
 	- [[#Week 6#Hardware interfacing|Hardware interfacing]]
 	- [[#Week 6#FreeRTOS|FreeRTOS]]
 - [[#Week 7|Week 7]]
-- [[#Week 8|Week 8]]
+- [[#Week 8|Week 8]] (CURRENT WEEK)
 	- [[#Week 8#Computernetwerken|Computernetwerken]]
 - [[#Week 9|Week 9]]
 	- [[#Week 9#Onderzoeksproject INFRA|Onderzoeksproject INFRA]]

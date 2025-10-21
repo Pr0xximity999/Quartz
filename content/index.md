@@ -7,7 +7,7 @@ tags:
 banner: "[[Vault-data/Banners/field-at-day.jpg]]"
 ---
 # introduction
-Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, my(Tom's) digital garden to write blogs, school stuff (Mostly this rn), random information, ideas i might get or anything i feel like really. It's running on the [quartz 4 engine](https://quartz.jzhao.xyz/).
+Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, my(Tom's) digital garden to write blogs, school stuff (Mostly this rn), random information, ideas i might get or anything i feel like really. It's running on the [quartz 4 engine](https://quartz.jzhao.xyz/) and written using [obsidian](https://obsidian.md/).
 
 >[!warning] The location of notes are in a constant quantum state
 >This vault is very susceptible to change, edits, and moving of files (i’m very indecisive of how i want it to be structured x3), so do not expect old urls to always work.

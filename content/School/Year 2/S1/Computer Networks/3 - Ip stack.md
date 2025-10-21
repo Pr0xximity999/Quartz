@@ -6,7 +6,7 @@ tags:
   - language/english
 ---
 >[!important]
->This article is a bit of a mess and might not always make sense, ma bad
+>This article is a bit of a mess and might not always make sense, ma bad 😔
 
 
 # IP stack layers
@@ -20,7 +20,8 @@ The ip stack consists of 7 layers:
 - Physical layer
 
 >[!info] Each layer will tack on a bit more data to the packet
->When a payload is sent over the network layer (outside of your own network), it will add the ip address to the payload. Transport layer packets don't have that, so when its not needed anymore, it will be removed.
+>When a payload is sent over the network layer (outside of your own network), it will add the ip address to the payload. 
+>Transport layer packets don't have that, so when its not needed anymore, it will be removed.
 >The datalink layer will add something else: a MAC address
 
 ## Application layer
@@ -29,9 +30,11 @@ The application layer lets applications communicate with one another. Think of p
 There isn’t really any real data ‘packets’ on this layer yet.
 
 ## Transport layer
-This layer handles data between sockets using IP + port addresses (from IP+port till IP+port). [[School/Year 2/S1/Computer Networks/1 - Application Protocols#Multiplexing|Multiplexing]] happens on this layer. Things like video streaming, emailing, or the `FTP` protocol runs on this layer. [[Info-tidbits/Network protocols/TCP protocol|TCP]] and [[#User Datagram Protocol (UDP)|UDP]] also run on this layer, creating a peer-to-peer connection.
+This layer handles data between sockets using IP + port addresses (from IP+port till IP+port). [[School/Year 2/S1/Computer Networks/1 - Application Protocols#Multiplexing|Multiplexing]] happens on this layer. 
 
-Packets on this layer adds the source and destination port to the data of the application layer. It can now be considered a ‘real’ packet.
+Things like video streaming, emailing, or the `FTP` protocol , [[Info-tidbits/Network protocols/TCP protocol|TCP]] and [[#User Datagram Protocol (UDP)|UDP]] also run on this layer, creating a peer-to-peer connection.
+
+Packets on this layer add the source and destination port to the data of the application layer. It can now be considered a ‘real’ packet.
 
 ## Network layer
 The network layer changes packets to be able to be sent ‘outside’ its own IP range. An IP address is added to the packet, so that the router can correctly route it to the right destination router. 
@@ -43,9 +46,9 @@ This layer handles communication between devices on the same network. A router w
 
 This coupling of IP and MAC addresses is done via the [[#Access Resolution Protocol]].
 
-Lastly the packet will be sent to one more layer.
+Lastly the packet will be sent to the last layer, which will actually transmit the package.
 ## Physical layer
-This is the ultimate transport method for every packet: a wire of some sort. Think of optic fiber or just a metal cable. Nothing special going on here
+This is the ultimate transport method for every packet: a wire of some sort. Think of optic fiber or just a metal cable. Nothing special going on here.
 # Transmission Control Protocol (TCP)
 A TCP connection uses a mechanism to ensure that data transfer is done properly.<br>This is achieved by using a *three way handshake* 
 
@@ -55,10 +58,9 @@ In case that the receiver acknowledges the data, it sends back an **ACK**.
 
 In case that no acknowledge is sent, the sender will send another sync. 
 
-Only if the sender receives an acknowledge,  will the data be sent.
+Only if the sender receives an acknowledge,  will the data be sent (**SYN ACK**).
 
 The SYN and ACK messages are sent with an identification number with it to prevent duplicates and to ensure the messages are sent in order.
-
 
 For more info, see [[Info-tidbits/Network protocols/TCP protocol|TCP protocol]]
 ## Checksum
@@ -67,7 +69,7 @@ A checksum can be sent with a network package to check if the package has been t
 If the checksum invalidates the package, the receiver will send back an **NACK** (not acknowledge) response
 
 ## Splitting of data (segmentation)
-TCP splits data in segments. This way, if one packet receives a NACK, you don't need to send the *whole* pakcet again (imagine having to send a 500 mb packet again).
+TCP splits data in segments. This way, if one packet receives a NACK, you don't need to send the *whole* packet again (imagine having to send a 500 MB packet again).
 
 Another reason why TCP packets are segmented is because of the Maximum Segment Size (MSS) of the ethernet protocol. The ethernet protocol is limited by 1500 bytes (usually), which is depicted by the Maximum Transmission Unit (MTU).
 
@@ -96,8 +98,7 @@ UDP is mostly used for when a quick transmission is needed. Like sending a messa
 # Mac address
 > **MAC** -> Medium Access Control
 
-A network card on a machine (even routers) holds its own address on its own: a MAC address. A MAC address is a sequence of 6 pairs of hexadecimal numbers. It is the physical address of a machine. It's usually 6 bytes long (2^48 possibilit)
-ies). Your MAC address is stored in the Read Only Memory (ROM) of your network adapter. The first 24 bits is defined by your manufacturer. MAC addresses have no actual meaning behind them; they're just random.
+A network card on a machine (even routers) holds its own address on its own: a MAC address. A MAC address is a sequence of 6 pairs of hexadecimal numbers. It is the physical address of a machine. It's usually 6 bytes long (2^48 possibilities). Your MAC address is stored in the Read Only Memory (ROM) of your network adapter. The first 24 bits is defined by your manufacturer. MAC addresses have no actual meaning behind them; they're just random.
 
 ## Access Resolution Protocol
 The coupling between a MAC and IP address of a machine is done by ARP (Address Resolution Protocol). Each router and machine has its own ARP module. The coupling of the MAC and IP address is stored in the cache.

@@ -5,11 +5,10 @@ tags:
   - taal/engels
   - language/english
 ---
-Computers are digital systems, which means that they at their base can only hold two values: 1's and 0's, a HIGH or LOW electrical signal.
-
+Computers are digital systems, which means that at their base they can only hold two values: 1's and 0's, a HIGH or LOW electrical signal.
 
 # Digit number systems
-This is the so called 2-digit number system, or base 2.<Br>Most humans count in base 10, 0-9 and then one number to the left. Every number to the left is the base to the power of its position: 
+Digital systems use the so called 2-digit number system, or base 2.<Br>Most humans count in base 10, 0-9 and then one number to the left. Every number to the left is the base to the power of its position: 
 - 0 to the left is $10^{0}=1$. Anything to the power 0 is 1.
 - 1 to the left is $10^{1}=10$.
 - 5 to the left is $10^{5}=100000$ 
@@ -19,32 +18,31 @@ This works for all bases. The higher the base, the more numbers you can represen
 
 To convert binary to decimal, you add all the positions with a 1 and their values:<br>$01001 = (0\times16)+(1\times8)+(0\times4)+(0\times2)+(1\times1)=8+1=9$<br>$11001 = (1\times16)+(1\times8)+(0\times4)+(0\times2)+(1\times1)=16+8+1=25$
 
-Converting binary to hexadecimal(base 16, 0-F) is also quite easy.
+Converting binary to hexadecimal(base 16, 0..9-A...F) is also quite easy.
 You slice the bits in groups of 4($2^{4}=16$), and count all the groups as if they were individual bits:<br>
 10010100 = 1001 and 0100, which are 9 and 4, so 94$hex$
 10110110 = 1011 and 0110, which are 11 and 6, so 116$hex$
 
-# Anatomy of an ip address
-An ipv4 (ip version 4) address consists of 32 bits (4 bytes).
+# Anatomy of an IP address
+An IPv4 (IP version 4) address consists of 32 bits (4 bytes).
 
-4 bytes(32 bits) means that each number can be between 0 and 255 in decimal. Each ip address is a number between 255.255.255.255 and 000.000.000.000. Realistically there is some nuance in what ip addresses are actually used (some are reserved).
+4 bytes(32 bits) means that each number can be between 0 and 255 in decimal. Each IP address is a number between 255.255.255.255 and 000.000.000.000. Realistically there is some nuance in what IP addresses are actually used (some are reserved).
 
-192.168.132.12 (11000000.1010000.1000100.00001100)
-
+> **192.168.132.12**: (11000000.1010000.1000100.00001100)
 
 These 32 bits consist of 2 parts:
 - The **network** address
 - the **host** address
 
 The size of the network address is decided by the (Sub)net-mask<br>
-The first 3 parts of the ip are (usually) the network address and the last is the host address:
+The first 3 parts of the IP are (usually) the network address and the last is the host address:
 - 192.168.132 -> network address
 - .12 -> host address
 
 There are two possible notations for a net-mask:
-- 192.168.132.12 / 24 -> in most unix environments
+- 192.168.132.12 / 24 -> in most UNIX environments
 - 192.168.132.12 mask 255.255.255.0 -> most windows environments
-This decided where the network address stops and the host address starts.
+This decides where the network address stops and the host address starts.
 
 the number 24 tells you the size of the given network address: 24 bits(3 bytes), or (192.168.132.x).
 
@@ -58,11 +56,11 @@ These can be applied to bits as a whole to change them into a different number:
 01101010 (106) AND <br>10100010 (162) = <br>00100010 (34)
 
 # Your home network
-The biggest property of a home(local) network is that you can directly connect within devices on your network. For hosts outside of your network, you'll need a router or gateway (your internet provider box thingie), which *can* be reached from your home network.
+The biggest feature of a home(local) network is that you can directly connect with devices on your network. For hosts outside of your network, you'll need a router or gateway (your internet provider box thingie), which *can* be reached from your home network.
 
-A local network is usually called LAN (Local Area Network).<br>A network outside of your local network is called WAN (Wide Area Network).
+A local network is usually called **LAN** (Local Area Network).<br>A network outside of your local network is called **WAN** (Wide Area Network).
 
->[!Important] Special Ip addresses
+>[!Important] Special IP addresses
 >- 244.0.0.0 / 4 (Multicast)
 >- **192.168.0.0 / 16 (Private range)**
 >- **172.16.0.0 / 12 (Private range)**
@@ -72,17 +70,17 @@ A local network is usually called LAN (Local Area Network).<br>A network outside
 >- **127.0.0.1 (Localhost)**
 
 
-# Shortage of ipv4 addresses
-since ipv4 addresses are 32 bits, there are roughly 4.2 billion addresses. And we ran out. So we need more bits. Thats when ipv6 was born (ipv5 we dont talk about....).
+# Shortage of IPv4 addresses
+since IPv4 addresses are 32 bits, there are roughly 4.2 billion addresses. And we ran out. So we need more bits. That’s when IPv6 was born (IPv5 we don’t talk about....).
 
-Ipv6 has 128 bits, which is such an immense amount number of addresses, that theres almost as much grains of sand on the earth as addresses. (very big)
+IPv6 has 128 bits, which is such an immense amount number of addresses, that there’s almost as much grains of sand on the earth as addresses. (very big)
 
-Theres also another way to use up less ipv4 addresses. Its called Network Address Translation.
+Theres also another way to use up less IPv4 addresses. Its called Network Address Translation.
 
 # Network Address Translation (NAT)
-When you send a network request to a WAN server, your router can translate your ipv6 address to its public ipv4 address. It will send the request to the server, await its response, and translate the address back into ipv6 (keeping tabs of everything in a table). This way, you can give internal networks all their own ip, while not taking up any public ipv4 addresses.
+When you send a network request to a WAN server, your router can translate your IPv6 address to its public IPv4 address. It will send the request to the server, await its response, and translate the address back into IPv6 (keeping tabs of everything in a table). This way, you can give internal networks all their own ip, while not taking up any public IPv4 addresses.
 
-This principle is called NAT or Masquerading. You cannot connect to a ipv4 address using a ipv6 request. This is why NAT is crucial.
+This principle is called NAT or Masquerading. You cannot connect to a IPv4 address using a IPv6 request. This is why NAT is crucial.
 
 ![[Vault-data/Attachments/Pasted image 20250909144810.png]]
 
