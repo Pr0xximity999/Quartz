@@ -13,6 +13,15 @@ I installed Neovim using ``sudo pacman -S nvim`` and ran the command `nvim`. Ins
 - all the basic movement keys like `hjkl` for left, down, up, and right respectively
 - saving (writing) a file with `:w` and quitting a file with `:q` (or `:wq` to write-quit, `:q!` to force quit in case there’s unwritten changes)
 
+# Default settings
+I want my tabs to be 2 spaces, because the default is really wide. Line numbers are also disabled by default, so i enabled those too.
+
+```lua
+vim.o.tabstop = 2 -- A TAB character looks like 4 spaces
+vim.o.shiftwidth = 2 -- Number of spaces inserted when indenting
+vim.cmd("set number") -- Line numbers
+```
+
 # Plugins
 >[!important] plugin megathread
 >Use [this](https://github.com/rockerBOO/awesome-neovim) website to find a bunch of awesome neovim plugins :3
@@ -111,9 +120,8 @@ saving this file using `:w` will automatically update lazy:
 Press ENTER or type command to continue
 ```
 
-The only thing left to do is open the lazy menu and install all uninstalled plugins.
-
-![[Vault-data/Attachments/Neovim everforest theme.png]]
+Adding `vim.cmd("colorscheme everforest")` to the main `lazy.lua` file will enable the colorscheme.
+![[Pasted image 20251024233737.png]]
 
 Looking better :3
 
@@ -140,40 +148,18 @@ Finally, `vim.lsp.enable("qmlls")` has to be added to the main `lazy.lua` file t
 ## Code completion
 For code completion i will be using [coq_nvim](https://github.com/ms-jpq/coq_nvim) since it’s supposedly extremely fast, which i like.
 
-```
-return {
-  "neovim/nvim-lspconfig", -- REQUIRED: for native Neovim LSP integration
-  lazy = false, -- REQUIRED: tell lazy.nvim to start this plugin at startup
-  dependencies = {
-    -- main one
-    { "ms-jpq/coq_nvim", branch = "coq" },
-
-    -- 9000+ Snippets
-    { "ms-jpq/coq.artifacts", branch = "artifacts" },
-
-    -- lua & third party sources -- See https://github.com/ms-jpq/coq.thirdparty
-    -- Need to **configure separately**
-    { 'ms-jpq/coq.thirdparty', branch = "3p" }
-    -- - shell repl
-    -- - nvim lua api
-    -- - scientific calculator
-    -- - comment banner
-    -- - etc
-  },
-  init = function()
-    vim.g.coq_settings = {
-        auto_start = true, -- if you want to start COQ at startup
-        -- Your COQ settings here
-    }
-  end,
-  config = function()
-    -- Your LSP settings here
-  end,
-}
-```
-
-`:COQdeps` has to be ran after to install additional dependencies.
+`:COQdeps` has to be ran after installation to install additional dependencies.
 
 ![[Vault-data/Attachments/Neovim autocomplete.png]]
 
 Looking pretty sweet :3 
+
+## Colorizer
+A colorizer highlights color values as their respective color. I will be using [nvim-colorizer](https://github.com/catgoose/nvim-colorizer.lua) for this.
+
+![[Pasted image 20251025001813.png]]
+Works as expected.
+
+## Similar word highlighter
+Other ides have this functionality where if you select a piece of text, or a variable, that similar words/variables light up. [interestingwords.nvim](xiyaowong/transparent.nvim) achieves the same.
+
