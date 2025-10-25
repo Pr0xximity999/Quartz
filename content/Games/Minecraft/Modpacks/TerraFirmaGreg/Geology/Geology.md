@@ -6,7 +6,7 @@ tags:
   - language/english
 banner:
 ---
-\[*Sourced from the in-game TFC handbook*]<br>The world of TFC is divided into large continents. Landmasses who are many kilometers wide and separated by oceans.
+\[*Sourced from the in-game TFC handbook and Wikipedia* ]<br>The world of TFC is divided into large continents. Landmasses who are many kilometers wide and separated by oceans.
 
 >[!important] Most of this is real-life info btw
 >Apart from the obvious minecraft world aspects, most of the geology in TFG is based on *real life* geology. Which is one hell of an autism self report.
@@ -37,7 +37,9 @@ With all that in mind, there are four types of rocks (already mentioned througho
 ## Rock types
 
 ### Sedimentary rock
-[Sedimentary](https://en.wikipedia.org/wiki/Sedimentary_rock) rocks are formed by the accumulation or deposition(cementation) of mineral or organic particles (sediments, geological and biological detrius) . Sedimentation is any process that causes these particles to settle. They are typically found on the top of layers of rock in continental areas. Geological detrius originates from weathering and erosion of existing rocks (carried by water), or from the solidification of molten lava blobs erupted by volcanoes.
+[Sedimentary](https://en.wikipedia.org/wiki/Sedimentary_rock) rocks are formed by the accumulation or deposition(cementation) of mineral or organic particles (sediments, geological and biological detrius) . Sedimentation is any process that causes these particles to settle. Geological detrius originates from weathering and erosion of existing rocks (carried by water), or from the solidification of molten lava blobs erupted by volcanoes.
+
+They are typically found on the top of layers of rock in continental areas. 
 
 Some sedimentary rocks are:
 - Shale
@@ -62,7 +64,6 @@ Some metamorphic rocks are:
 Igneous rocks are formed from magma cooling on or in the earths surface. There are two types of Igneous rock: intrusive and extrusive.
 #### Igneous rock grades
 igneous rocks can have cerrtain grades, or modifiers that can change some properties about them.
-
 ##### Felsic rock
 Felsic is a rock modifier describing igneous rock that are relatively rich in elements that form feldspar(rock ground consisting of minerals like aluminium, sodium, calcium, potassium or barium) and quartz. Felsic is a mix of the words **fel**dspar and **sil**i**c**a. It’s opposite version (or contrast) is [[#Mafic rock|mafic rock]].
 
