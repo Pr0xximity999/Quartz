@@ -7,7 +7,7 @@ tags:
 ---
 Today school gave us a tiny robot. It's intention is to be used in a case with a certain company to achieve a certain goal. The current goal is not yet known.
 
-![[Vault-data/Attachments/3dgifmaker63353.gif]]
+![[Vault-data/Attachments/becky.gif]]
 she does spin though
 # Layout
 The robot consists of 4 different boards, split on two layers.
