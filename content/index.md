@@ -14,16 +14,17 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 
 
 # New entries/updates
-| date       | file                                                                                    | Language                       | Notes            |
-| ---------- | --------------------------------------------------------------------------------------- | ------------------------------ | ---------------- |
-| 20/10/2025 | c++ - [[School/Year 2/S1/c++/Types and Operators\|Data types and Operators]]            | #taal/engels #language/english | updated          |
-| 20/10/2025 | c++ - [[School/Year 2/S1/c++/Classes\|Classes and Types]]                               | #taal/engels #language/english | updated          |
-| 20/10/2025 | [[Personal-projects/theming/Spicetify\|Spicetify]]                                      | #taal/engels #language/english | ricing go brrrrr |
-| 20/10/2025 | networks - [[School/Year 2/S1/Computer Networks/3 - Ip stack\|3 - Ip stack]]            | #taal/engels #language/english | updated          |
-| 21/10/2025 | OS - [[School/Year 2/S1/Operating Systems/FreeRTOS\|FreeRTOS]]                          | #taal/engels #language/english | atomics added    |
-| 21/10/2025 | [[Personal-projects/Arch linux/Neovim\|Neovim]]                                         | #taal/engels #language/english |                  |
-| 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/Introduction\|TerrafirmaGreg - introduction]] | #taal/engels #language/english | the horrors      |
-| 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/Geology/Geology\|TerrafirmaGreg - geology]]   | #taal/engels #language/english | autism check     |
+| date       | file                                                                                                                | Language                       | Notes            |
+| ---------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------- |
+| 20/10/2025 | [[Personal-projects/theming/Spicetify\|Spicetify]]                                                                  | #taal/engels #language/english | ricing go brrrrr |
+| 20/10/2025 | networks - [[School/Year 2/S1/Computer Networks/3 - Ip stack\|3 - Ip stack]]                                        | #taal/engels #language/english | updated          |
+| 21/10/2025 | OS - [[School/Year 2/S1/Operating Systems/FreeRTOS\|FreeRTOS]]                                                      | #taal/engels #language/english | atomics added    |
+| 21/10/2025 | [[Personal-projects/Arch linux/Neovim\|Neovim]]                                                                     | #taal/engels #language/english |                  |
+| 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/Introduction\|TerrafirmaGreg - introduction]]                             | #taal/engels #language/english | the horrors      |
+| 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Index\|TerrafirmaGreg - geology]]                       | #taal/engels #language/english | autism check     |
+| 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay\|TerraFirmaGreg - Clay]]                         | #language/english #taal/engels |                  |
+| 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Sticks 'n stones\|TerraFirmaGreg - Sticks ‘n Stones]] | #language/english #taal/engels |                  |
+| 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire\|TerraFirmaGreg - Heat and fire]]       | #language/english #taal/engels |                  |
 
 
 
