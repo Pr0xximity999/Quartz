@@ -1,8 +1,8 @@
 ---
 tags:
-  - school/networks
   - taal/nederlands
   - language/dutch
+  - school/praktijkonderzoek
 ---
 LU2: je voert praktijkgericht onderzoek uit naar de geschiktheid van verschillende infrastructuurtechnieken voor robots binnen een gegeven casus.
 
