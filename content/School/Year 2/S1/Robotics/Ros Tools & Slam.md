@@ -41,3 +41,11 @@ You can also add your own tags.
 
 ## Xacro
 Xacro can be used to compile down multiple URDF files to a single one by importing them with special syntax. Xacro can then be used to publish that file single to the robot, which is available on the `/robot_description` topic.
+
+# Transforms (TF2)
+Transforms are created to make position based things easier. The way it works is by first creating a *base* transform. By using math translations, you can calculate how to go from one transform to another. Using this, you can calculate the line between other transforms by first going to the *base*.
+
+TF2 is a library that handles the transform communication between transforms using broadcasts.
+
+# Slam
+Simultaneously Localize And Map(SLAM) is a program to map out an area and note down specific locations for navigation later on.
