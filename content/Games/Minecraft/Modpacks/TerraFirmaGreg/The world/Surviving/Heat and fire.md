@@ -2,6 +2,8 @@
 tags:
   - games/minecraft
   - modpacks/terrafirmagreg/survival
+  - taal/engels
+  - language/english
 banner:
 ---
 Fire is a very important technological advancement. You won’t get far in life without it.
@@ -84,4 +86,4 @@ To build a pit kiln you’ll need:
 >[!note]
 >Torches can start fires simply by tossing the torch on a pit kiln and waiting a few seconds.
 
-# Charcoal forges
+# Charcoal forgesmelted
