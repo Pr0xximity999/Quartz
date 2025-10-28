@@ -19,7 +19,7 @@ Starting out, you should read the resources tab, currently containing:
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Ores, metal and casting|Ores, metal and casting]]
 
 Some very important information about the world is in the geology folder, currently containing:
-- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Index|geology index]]
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Geology intro|geology index]]
 
 And lastly if you want to stay alive, read up in the surviving tab, currently only containing:
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire|Heat and fire]]

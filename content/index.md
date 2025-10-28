@@ -21,7 +21,7 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 | 21/10/2025 | OS - [[School/Year 2/S1/Operating Systems/FreeRTOS\|FreeRTOS]]                                                      | #taal/engels #language/english | atomics added    |
 | 21/10/2025 | [[Personal-projects/Arch linux/Neovim\|Neovim]]                                                                     | #taal/engels #language/english |                  |
 | 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/Introduction\|TerrafirmaGreg - introduction]]                             | #taal/engels #language/english | the horrors      |
-| 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Index\|TerrafirmaGreg - geology]]                       | #taal/engels #language/english | autism check     |
+| 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Geology intro\|TerrafirmaGreg - geology]]                       | #taal/engels #language/english | autism check     |
 | 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay\|TerraFirmaGreg - Clay]]                         | #language/english #taal/engels |                  |
 | 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Sticks 'n stones\|TerraFirmaGreg - Sticks ‘n Stones]] | #language/english #taal/engels |                  |
 | 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire\|TerraFirmaGreg - Heat and fire]]       | #language/english #taal/engels |                  |
