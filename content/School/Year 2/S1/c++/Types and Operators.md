@@ -60,7 +60,7 @@ Compares two values and returns either true or false.
 ## Logical operators
 Evaluates two values and returns either true or false.
 - AND (&&)
-- OR (||)#include <boost_1_89_0/boost/un>
+- OR (||)
 - NOT (!)
 
 ## Ternary operator
