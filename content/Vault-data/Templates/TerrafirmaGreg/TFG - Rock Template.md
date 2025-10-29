@@ -5,6 +5,8 @@ tags:
   - games/minecraft
   - modpacks/terrafirmagreg
   - modpacks/terrafirmagreg/geology
+  - taal/engels
+  - language/english
 template_type: CA00
 image: "[[Vault-data/Attachments/NO-IMAGE.png]]"
 name: rock name
