@@ -74,3 +74,59 @@ De user plane is waar je mee verbind, vanaf hier worden user input geregeld.
 
 
 
+# Quality of Service Class Identifier
+Binnen een telefoon netwerk zijn verschillende services. Deze hebben allemaal een bepaalde Quality of Service (QoS) identificatie. Deze identificaties hebben allemaal een minimale delay wat het nog verdraagbaar maakt.
+
+# Technologie geschiedenis
+Vroeger werd alles gebouwd door Nokia, Ericsson, Huawei allemaal zelf gemaakt. Allemaal gemaakt voor hun eigen bedrijf. 
+
+Later werden systemen gevisualiseerd door bedrijven zoals HPE en Dell. Alles werd op virtual machines gemaakt en dat word op hardware gedraaid.
+
+Tegenwoordig word alles op containers gedraaid in programma’s zoals Kubernetes, alles is cloud native en veel makkelijker om mee om te gaan.
+
+Qua hardware was het iets meer, maar qua kosten was het een stuk goedkoper. Het kan werken op commerciële hardware.
+
+# Terminology
+>**Network function**: een gestandaardiseerd, goed gedefinieerde functionele blok in de Core network architecture. Een network function geeft dezelfde functie voor alle providers.
+
+
+# 5G core
+In 5G zijn allemaal verbeteringen gemaakt. Natuurlijk gewoon de internet verbindingen, maar ook dingen zoals:
+- media versturen, journalisten hebben geen satellietbussen meer nodig
+- voertuigen besturen en infrastructuur, bussen die verbindingen kunnen gebruiken bijvoorbeeld
+- Kritische besturing van afstand bestuurbare apparaten
+- Interactie tussen mensen en IoT (internet of things), nog in ontwikkeling
+
+het 5G core netwerk word dan bovenop bestaande infrastructuur bebouwd, wat soms goed werkt voor oude functies, maar niet voor de nieuwe functies. Daarom worden er steeds meer netwerken volledig vervangen door 5G dominante opstellingen, wat sneller en veiliger is. Momenteel is het in nederland nog in ontwikkeling, maar er word verwacht dat het rond 2026 allemaal overgezet is.
+
+
+## Locaties
+Qua Europa loopt nederland behoorlijk achter. Veel delen van de wereld zijn al overgestapt (natuurlijk hebben de meeste landen nog niet eens 4G).
+
+## Use cases
+**eMBB**: evolved mobile broadband → veel gebruikers, veel data, mindere latency is minder belangrijk. (grotendeels voor gebruikers)
+
+**URLLC**: Ultra Reliable Low Latency Communication → minder gebruikers, latency is erg belangrijk, net zoals data gebruik. (robotica, gaming, medische doeleinden)
+
+**MMTC**: Massive Machine Type communication → Heel veel apparaten, kleine beetjes data. (moet super veel apparaten ondersteunen)
+
+Network Slicing → virtuele netwerken met specifieke eigenschappen (moet een beetje van alle use cases coveren)
+Network Exposure → een “programmeerbaar netwerk”; externe applicaties kunnen network functionaliteit gebruiken voor bijvoorbeeld locatie, authenticatie en berichten sturen.
+
+## Architectuur
+5G architectuur heeft ook weer 3 lagen, maar er lopen meer functies in parallel. Functies spreken met elkaar door middel van interfaces.
+
+Een andere methode die word toegepast is de **service bus** architectuur. Alles is parallel op 1 laag, en je “subscribed” naar een functie (zoals in mqtt). Je stuurt al je data naar 1 punt, die het dan onderling regelt en alles terug stuurt wat je nodig hebt. De overhead en bouwen van dit soort netwerk is moeilijker, maar het is veel makkelijker en sneller om mee te werken.
+
+# Networks slicing
+Slicing zorg ervoor dat gebruikers in bepaalde slices worden gestopt, waardoor je buiten bepaalde netwerken kan zitten en toch in drukke plekken een goede verbinding hebben. Bijvoorbeeld een journalist fotograaf in een druk voetbal stadion. De redactie bepaald voor een andere “slice” waardoor ze toch een goede verbinding hebben.
+
+# Hoe kan je low latency realiseren
+Soms kan je latency erg oplopen, terwijl je met de server aan de andere kant van de gang te verbinden? 
+
+Een manier is om een antenne en user gateway op te zetten in je eigen gebouw.
+
+# Netwerk exposure door API’s
+Deze informatie is allemaal super nieuw.
+
+Als je functionaliteit wilt bieden over 5G, moet je er wel voor zorgen dat het werkt voor alle providers. Door middel van meerdere API’s kunnen deze functionaliteiten worden opengesteld voor verschillende providers.
