@@ -27,64 +27,26 @@ Het doel van dit onderzoek is om de meest geschikte communicatiemethode te vinde
 Het enigste wat binnen de scope valt is hoe ver de robots van elkaar moeten rijden (in het geval van een directe connectie tussen robots) en hoe de firewall van het ziekenhuis in elkaar zit (of je direct andere apparaten kan benaderen).
 
 ## 2.5 - Hoofdvragen en deelvragen
-Wat is de onderzoeksvraag (hoofdvraag) die je gaat beantwoorden? Selecteer een van de gegeven vragen en controleer of deze concreet en specifiek is geformuleerd als een open vraag.
+De hoofdvraag van dit document is: “Welke communicatiemethode is het meest efficiënt voor gegevensuitwisseling tussen robots?”. Deze vraag is op zichzelf al best open geformuleerd, maar kan verduidelijkt worden met een aantal deelvragen:
+1.  Welke communicatiemethode heeft de beste bulk-bericht mogelijkheden
+2. Welke communicatiemethode kunnen de robots ondersteunen
 
-Formuleer per onderzoeksvraag minimaal 2 deelvragen. Geef per deelvraag een korte toelichting waarom deze deelvraag nodig en relevant is (doorloop de 4 denkstappen uit de les, zie PowerPoint)
-
-_Hulpvragen: Welke kleinere vragen helpen bij het beantwoorden van de onderzoeksvraag?  Welke informatie/kennis heb ik al? En welke inzichten ontbreken nog?  Zijn je deelvragen specifiek en concreet geformuleerd? Geven al jouw deelvragen samen het antwoord op de onderzoeksvraag. Wat ontbreekt nog?_
-1. 
-2.  .
-
-etc.
-
+Hulpvragen hierbij kunnen zijn:
+- Welke communicatiemethoden zijn er?
+- Welke communicatiemethoden zijn outdated?
+- Welke communicatiemethoden zijn lichtgewicht en snel?
+- Welke communicatiemethoden hebben weinig overhead?
 ## 2.6 - Methoden en technieken
-Beschrijf – per deelvraag – met welke onderzoeksmethode jullie data gaan verzamelen en analyseren. Licht toe per methode kort toe waarom deze geschikt is en hoe jullie de kwaliteit van het onderzoek waarborgen. Bestudeer de ICT research methods goed om de juiste keuzes te maken en te onderbouwen?
+Voor deelvraag 1 en 2 zullen voor beide onderzoeken van literatuuronderzoek gebruik gemaakt worden.
 
-_Hulpvragen:  Welke onderzoeksmethode past het best bij de aard van de deelvraag? Waarom is deze methode geschikt om deze deelvraag te beantwoorden? Is de methode haalbaar en uitvoerbaar binnen de beschikbare tijd, middelen en expertise?_
-
-- ☐ Literatuuronderzoek (ook bij vooronderzoek)
-    
-- ☐ Prototype light: test opstelling bouwen en (iteratief) meten en testen
-    
-- ☐ Peer review
-    
-- ☐ Bestaand product analyse, specifiek: onderzoekdata van peers
-- ☐ Data-analyse
-- ☐ Multi-criteria analyse
-- ☐ Anders, namelijk: ______________________
-
+Aangezien al bestaande communicatiemethoden gebruikt gaan worden, is er al genoeg informatie op het internet te vinden. Daarnaast is er niet genoeg tijd om testopstellingen te maken voor alle communicatiemethoden en is er tijdens het maken van dit onderzoek geen toegang tot de infrastructuur van meerdere robots, om het op echte hardware te testen.
 ## 2.7 - Middelen
-Beschrijf - per onderzoeksmethode - de middelen die nodig zijn om het onderzoek te kunnen uitvoeren. Licht toe kort toe waarom deze middelen nodig zijn om de kwaliteit van het onderzoek te waarborgen._  
-  
-Hulpvraag: Wat hebben jullie per onderzoeksmethode nodig  om deze goed en betrouwbaar te kunnen uitvoeren?  Waarvoor zijn de middelen nodig voor een betrouwbaar onderzoek? Denk qua middelen aan:_
-
-- _Hardware / robots_
-    
-- _Netwerken / infrastructuur_
-    
-- _Software / simulaties_
-    
-- _Data / toegang tot bronnen_
-    
-- _Tijd / ondersteuning_
-    
-- _Middelen om data mee vast te leggen_
-- _Etc._
-
+Voor literatuuronderzoek zijn er databronnen en tijd nodig. Er moet immers gezocht worden naar informatie over verschillende communicatie methoden. Dit kost ook tijd, aangezien deze bronnen opgezocht en gelezen moeten worden. De de data word vastgelegd in een persoonlijk documentje, waarna de informatie op een nette manier in dit document gezet kan worden.
 ## 2.8 - Analysemethoden
+De analysemethode zal vooral kwantitatief zijn, omdat er merendeels data verzameld zal worden met gebruik van openbare internet bronnen (zie [[#7 - Bronnenlijst]]).
 
 ## 2.9 - Criteria
-Definieer de criteria die belangrijk zijn voor je onderzoek.
-
-_Hulpvragen: Aan de hand van elke criteria gaan jullie je onderzoeksresultaten vergelijken of evalueren? Denk aan: snelheid, betrouwbaarheid, energieverbruik, kosten, veiligheid, enz._
-
-Criteria:
-
-1.
-
-2.
-
-Etc.
+De criteria waar in dit onderzoek vooral naar gekeken zal worden, is snelheid en veiligheid. De robots moeten op tijd hun status door kunnen geven aan de vloot, zodat er zo efficiënt mogelijk gehandeld kan worden. Daarnaast moeten alleen de operators bij de diagnostieken kunnen van de robot, wat dus veilig moet worden overgedragen.
 
 # 3 - Analyse & resultaten
 
