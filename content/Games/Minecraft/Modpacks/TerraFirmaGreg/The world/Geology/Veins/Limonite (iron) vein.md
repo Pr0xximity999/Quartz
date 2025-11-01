@@ -2,16 +2,17 @@
 tags:
   - modpacks/terrafirmagreg/geology/veins
   - games/minecraft
-  - modpacks/terrafirmagreg
   - taal/engels
   - language/english
-banner:
+  - modpacks/terrafirmagreg
+banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Chalk (Sedimentary) 
+- Igneous extrusive (dacite)
 # Surface
-- Coal Surface Bud (C, Chipped coal)
-- Coal Surface Rock (C)
+- Small Limonite (FeOH2)
+- Small Hematite (Fe2O3)
+- Goethite Surface Rock (FeOH2)
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

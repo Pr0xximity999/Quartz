@@ -8,7 +8,7 @@ tags:
 banner:
 ---
 # Found in
-- Basalt (Extrusive Igneous)
+- Igneous extrusive (dacite, basalt)
 # Surface
 - Small Native copper
 - Small Cassiterite (tin)

@@ -14,9 +14,6 @@ banner:
 - Chalk (Sedimentary)
 # Surface
 - Small Native Gold (Au)
-- Small Bismuthinite (Bi)
-- Sulfur Surface Rock (S)
-- Lead Surface Rock (Pb)
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
