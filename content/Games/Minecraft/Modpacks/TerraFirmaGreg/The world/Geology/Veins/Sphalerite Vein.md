@@ -8,7 +8,8 @@ tags:
 banner:
 ---
 # Found in
-- Chalk (Sedimentary)
+- Sedimentary (Chalk, Shale)
+- Igneous extrusive (dacite, basalt)
 # Surface
 - Small Sphalerite (ZnS)
 - Sulfur Surface Rock (S)

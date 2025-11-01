@@ -2,18 +2,15 @@
 tags:
   - modpacks/terrafirmagreg/geology/veins
   - games/minecraft
-  - modpacks/terrafirmagreg
   - taal/engels
   - language/english
-banner:
+  - modpacks/terrafirmagreg
+banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Igneous extrusive (dacite, basalt)
+- Sedimentary (Shale)
 # Surface
-- Small Native copper
-- Small Cassiterite (tin)
-- Chalcophyrite Surface Rock (CuFeS2)
-- Pyrite Surface Rock (FeS2)
+- Rock Salt Surface Rock (KCl)
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
