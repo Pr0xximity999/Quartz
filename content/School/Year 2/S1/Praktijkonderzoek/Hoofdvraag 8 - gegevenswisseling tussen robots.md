@@ -35,7 +35,6 @@ Hulpvragen hierbij kunnen zijn:
 - Welke communicatiemethoden zijn er?
 - Welke communicatiemethoden zijn outdated?
 - Welke communicatiemethoden zijn lichtgewicht en snel?
-- Welke communicatiemethoden hebben weinig overhead?
 ## 2.6 - Methoden en technieken
 Voor deelvraag 1 en 2 zullen voor beide onderzoeken van literatuuronderzoek gebruik gemaakt worden.
 
@@ -48,6 +47,7 @@ De analysemethode zal vooral kwantitatief zijn, omdat er merendeels data verzame
 ## 2.9 - Criteria
 De criteria waar in dit onderzoek vooral naar gekeken zal worden, is snelheid en veiligheid. De robots moeten op tijd hun status door kunnen geven aan de vloot, zodat er zo efficiënt mogelijk gehandeld kan worden. Daarnaast moeten alleen de operators bij de diagnostieken kunnen van de robot, wat dus veilig moet worden overgedragen.
 
+Als er teveel resultaten zijn zullen er geen testopstellingen gemaakt worden.
 # 3 - Analyse & resultaten
 
 # 4 - Conclusies

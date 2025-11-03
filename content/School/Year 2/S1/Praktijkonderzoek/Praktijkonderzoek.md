@@ -36,6 +36,9 @@ In je wiki moet je **verantwoording** gebruiken en tijdens je assessment.
 
 > Het is nog niet zeker of je verplicht word om GenAI te gebruiken.
 
+>[!important] Liever geen ai?
+>Je hoeft niet perse ai te gebruiken, maar als je het wel doen moet je het verantwoorden
+
 # Wat leer je deze week
 Je leert het verschil tussen problemen oplossen en onderzoeken.
 
@@ -87,3 +90,50 @@ Problemen die een onderbouwing of meer diepere kennis nodig hebben kan je beter 
 2. bepaal/bedenk wat je moet weten
 3. formuleer concrete deelvragen
 4. check de volledigheid
+
+# Welke ICT research methods gebruiken we?
+1. Literature onderzoek
+2. Prototyping
+3. Available Product Analysis
+4. Peer reviews
+5. Data analytics
+6. Multi-criteria decision making
+
+## Literatuur onderzoek
+**Doel**: Begrijpen wat er al bekend is over technologieën, protocollen, architecturen en eerdere toepassingen.
+
+Wanneer gebruiken?
+- Definities van dingen opzoeken
+- Best practices, wat moet je wel een niet doen
+- Technische specificaties voor testopstellingen
+- Meningen, standpunten en toekomstvisies van experts
+
+## Prototyping
+Doel: Een werkend model bouwen en testen om prestaties, gedrag of gebruik te evalueren
+
+Wanneer gebruik je dit:
+- prestatieonderzoek zoals reactie tijd
+- observaties van gedrag
+- testscenario’s om hypotheses te toetsen
+- iteratieven verbeteringen maken
+
+## Bestaand product analyse
+**Doel**: Vergelijken van eigen resultaten met bestaande data van andere mensen, eerdere projecten of externe bronnen
+
+Wanneer gebruik je dit:
+
+
+## Data-analyse
+
+## Multi-criteria analyse (MCA)
+
+
+# Testopzet
+- wat zijn externe factoren?
+- waarop ga je testen (Criteria)
+- stappenplannen maken
+- Verklein je scope door kritische vragen te stellen over het onderwerp
+
+Als je informatie niet duidelijk weet, kun je ook aannames doen. **Schrijf deze aannames dan ook op**.
+
+
