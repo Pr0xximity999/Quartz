@@ -86,4 +86,25 @@ To build a pit kiln you’ll need:
 >[!note]
 >Torches can start fires simply by tossing the torch on a pit kiln and waiting a few seconds.
 
-# Charcoal forgesmelted
+# Charcoal forges
+Out of al the methods listed here, the charcoal forge is the best way to heat up stuff. They’re usually used for smithing purposes with an anvil.
+
+## Building the forge
+To create a charcoal forge, you can place down 5 stone blocks of any type filled with [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Charcoal|charcoal]] in the middle (consisting of 7 or 8 layers), which is then lit. 
+
+Bellows can be placed adjacent and one block up to the forge in order to raise the maximum temperature.
+
+![[Vault-data/Attachments/Heat and fire charcoal forge.png]]
+
+But that’s not all, the forge needs a chimney in order to work properly.
+
+The block above the forge middle needs to be either air or a crucible. Next to that, either the block directly above the air block, or any of 8 nearby blocks (horizontally) need to see the sky.
+
+Here’s a visualization which blocks i mean by that:<br>![[Vault-data/Attachments/Heat and fire forge chimney.png]]
+
+Any of the blue stained glass blocks need to see the sky.
+
+## Using the forge
+Clicking the forge opens up an inventory interface that looks something like this:<br>![[Vault-data/Attachments/Heat and fire forge interface.png]]
+
+The bottom 5 slots in the v pattern are used for fuel(which can be either coal or charcoal), items that are to be molten can be placed in the upper 5 slots of the v pattern, and finally, any item placed in the right column will be filled up when stuff gets molten (like vessels and molds).

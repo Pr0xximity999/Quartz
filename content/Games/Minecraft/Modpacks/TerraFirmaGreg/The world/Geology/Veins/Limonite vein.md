@@ -2,9 +2,9 @@
 tags:
   - modpacks/terrafirmagreg/geology/veins
   - games/minecraft
+  - modpacks/terrafirmagreg
   - taal/engels
   - language/english
-  - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in

@@ -5,7 +5,7 @@ tags:
   - modpacks/terrafirmagreg
   - taal/engels
   - language/english
-banner:
+banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Might be connected to
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Magnetite Vein|Magnetite Vein]]

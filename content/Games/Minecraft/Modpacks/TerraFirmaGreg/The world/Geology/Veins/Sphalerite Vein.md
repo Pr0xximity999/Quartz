@@ -5,7 +5,7 @@ tags:
   - modpacks/terrafirmagreg
   - taal/engels
   - language/english
-banner:
+banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
 - Sedimentary (Chalk, Shale)

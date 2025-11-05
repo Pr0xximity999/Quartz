@@ -24,9 +24,10 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 | 25/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Geology intro\|TerrafirmaGreg - geology]]               | #taal/engels #language/english   | autism check                                           |
 | 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay\|TerraFirmaGreg - Clay]]                         | #language/english #taal/engels   |                                                        |
 | 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Sticks 'n stones\|TerraFirmaGreg - Sticks ‘n Stones]] | #language/english #taal/engels   |                                                        |
-| 26/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire\|TerraFirmaGreg - Heat and fire]]       | #language/english #taal/engels   |                                                        |
 | 29/10/2025 | [[School/Year 2/S1/GastColleges/Gastcollege 5G Core Networks - deel 2\|Gastcollege 5G Core Networks - deel 2]]      | #language/dutch #taal/nederlands | onion rings, you picking up?                           |
 | 29/10/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Gold Vein\|Vein entries]]                         | #taal/engels #language/english   | Only listing one, check the file explorer for the rest |
+| 05/11/2025 | [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire\|TerraFirmaGreg - Heat and fire]]       | #language/english #taal/engels   | added the forge                                        |
+
 
 
 

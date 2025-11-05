@@ -5,7 +5,7 @@ tags:
   - modpacks/terrafirmagreg
   - taal/engels
   - language/english
-banner:
+banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
 - Chalk (sedimentary)
@@ -13,6 +13,9 @@ banner:
 - Native Copper (Cu)
 - Small Tetrahedrite (Copper, Cu3SbS3Fe)
 - Stibnite Surface Rock (Sb2S3)
+
+# Underground
+- Copper ore
 
 
 # Veins (does not work on web)
