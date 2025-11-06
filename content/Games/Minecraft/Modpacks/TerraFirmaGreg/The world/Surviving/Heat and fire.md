@@ -105,6 +105,6 @@ Here’s a visualization which blocks i mean by that:<br>![[Vault-data/Attachmen
 Any of the blue stained glass blocks need to see the sky.
 
 ## Using the forge
-Clicking the forge opens up an inventory interface that looks something like this:<br>![[Vault-data/Attachments/Heat and fire forge interface.png]]
+Clicking the burning pile in the middle of the forge (after lighting it) opens up an inventory interface that looks something like this:<br>![[Vault-data/Attachments/Heat and fire forge interface.png]]
 
 The bottom 5 slots in the v pattern are used for fuel(which can be either coal or charcoal), items that are to be molten can be placed in the upper 5 slots of the v pattern, and finally, any item placed in the right column will be filled up when stuff gets molten (like vessels and molds).
