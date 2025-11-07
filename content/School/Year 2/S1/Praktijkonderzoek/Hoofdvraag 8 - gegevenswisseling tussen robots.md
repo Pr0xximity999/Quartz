@@ -25,7 +25,7 @@ Voor deelvraag 1 en 2 zullen voor beide onderzoeken van literatuuronderzoek gebr
 
 Bij deelvraag 1 zal er ook prototypes gemaakt worden als er niet teveel communicatiemethoden van pas komen, aangezien er maar beperkte tijd is om dit onder zoek te doen. Deze prototypes zullen echter niet op de originele hardware van de robots getest worden, aangezien er geen toegang is tot een robotvloot om dit fatsoenlijk te testen.
 
-Tot slot word er een multi criteria analysis toegepast op deelvraag 1 omdat het onderzoek veel nuance kan hebben en deze minimaal moet blijven.
+Tot slot word er een multi criteria analysis toegepast op deelvraag 1 omdat het onderzoek veel nuance kan hebben en deze minimaal moet blijven. Deze criteria staan naast andere criteria in [[#2.5 - Criteria]] beschreven.
 ## 2.3 - Middelen
 Voor literatuuronderzoek zijn er databronnen en tijd nodig. Er moet immers gezocht worden naar informatie over verschillende communicatie methoden. Dit kost ook tijd, aangezien deze bronnen opgezocht en gelezen moeten worden. De de data word vastgelegd in een persoonlijk documentje, waarna de informatie op een nette manier in dit document gezet kan worden.
 ## 2.4 - Analysemethoden
@@ -37,6 +37,8 @@ De criteria waar in dit onderzoek vooral naar gekeken zal worden, is snelheid en
 Of de communicatiemethode serverloos is of niet zal niet een bepalende factor zijn (soms zal de server optie een stuk voordeliger zijn), maar de voorkeur gaat wel uit naar een methode die geen server nodig heeft op goed te werken. Desnoods kan 1 robot fungeren als een server, waar de andere robots doorheen communiceren.
 
 Zoals besproken in [[#2.2 - Methoden en technieken]] zullen er alleen maar testopstellingen en prototypen gemaakt worden voor schaalbare communicatiemethoden als het aantal niet te groot is. Het exacte aantal waarop dit niet meer van toepassing is is geen vast getal en zal besloten worden aan de hand van de beschikbare tijd, aantal communicatiemethoden en de complexiteit van alle methoden.
+
+De bronnen die gebruikt worden moeten wel betrouwbaar zijn, hierom zullen alleen bronnen gebruikt worden waarvan bekend is dat deze legitiem zijn (zoals bronnen van google scholar).
 
 Tot slot moet de communicatiemethode simpel zijn om te implementeren. Het moet het liefst het JSON/text format ondersteunen omdat die in het verleden het meest gebruikt is bij school opdrachten. 
 # 3 - Analyse & resultaten
