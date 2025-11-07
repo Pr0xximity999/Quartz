@@ -127,7 +127,6 @@ Wanneer gebruik je dit:
 
 ## Multi-criteria analyse (MCA)
 
-
 # Testopzet
 - wat zijn externe factoren?
 - waarop ga je testen (Criteria)
