@@ -13,6 +13,10 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Small Limonite (FeOH2)
 - Small Hematite (Fe2O3)
 - Goethite Surface Rock (FeOH2)
+# Underground
+- Limonite ore
+- Hematite ore
+- Goethite ore
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

@@ -14,6 +14,8 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Chalk (Sedimentary)
 # Surface
 - Small Native Gold (Au)
+# Underground
+- Gold ore
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
