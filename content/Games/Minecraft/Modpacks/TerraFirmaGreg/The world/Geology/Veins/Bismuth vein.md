@@ -9,11 +9,17 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
 - Sedimentary (shale)
+- Igneous intrusive (diorite)
 # Surface
 - Small Bismuthinite (Bi)
 - Small Silver (Ag)
 - Sulfur Surface Rock (S)
 - Lead Surface Rock (Pb)
+# Underground
+- Bismuth ore
+- Silver ore (scarce)
+- Sulfur ore
+- Lead ore
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
