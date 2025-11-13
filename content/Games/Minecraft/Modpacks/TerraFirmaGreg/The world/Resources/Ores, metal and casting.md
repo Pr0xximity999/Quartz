@@ -29,7 +29,7 @@ In TFC, every ore contains a certain amount of units, or **mB (millibuckets)** o
 
 In order to extract this metal, it needs to be **melted**, and made into tools using a process called **casting**.
 
-You will need a [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay#Knapping clay|small vessel]], [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire#Pit kilns|pit kiln]], one or more [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay#Knapping clay|mold(s)]], and at least 144 mB of a suitable metal for casting: copper.
+You will need a [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay#Knapping clay|small vessel]], [[Games/Minecraft/Modpacks/TerraFirmaGreg/Surviving/Heat and fire#Pit kilns|pit kiln]], one or more [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay#Knapping clay|mold(s)]], and at least 144 mB of a suitable metal for casting: copper.
 
 There are four types of copper (alloys) you can use:
 - Copper
@@ -42,7 +42,7 @@ Bismuth bronze is the easiest bronze to make, but its also the weakest. Black br
 ## The casting process
 Firstly, collect the ores you want to melt down. Put them in the **small vessel** and make sure you put in the right amount in case you want to alloy. Be also sure to not overfull it, as it can only hold up to 3024 mB of liquid, excess will be voided!
 
-Next, place the vessel in the [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire#Pit kilns|pit kiln]] and heat it up. The vessel will heat up and eventually melt down.
+Next, place the vessel in the [[Games/Minecraft/Modpacks/TerraFirmaGreg/Surviving/Heat and fire#Pit kilns|pit kiln]] and heat it up. The vessel will heat up and eventually melt down.
 
 The next steps will need a bit of a hurry, as the metal is cooling down and will solidify eventually. If this happens, you need to re-heat it again.
 

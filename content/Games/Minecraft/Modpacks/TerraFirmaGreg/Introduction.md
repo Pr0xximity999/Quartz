@@ -22,6 +22,6 @@ Some very important information about the world is in the geology folder, curren
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Geology intro|geology index]]
 
 And lastly if you want to stay alive, read up in the surviving tab, currently only containing:
-- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Surviving/Heat and fire|Heat and fire]]
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/Surviving/Heat and fire|Heat and fire]]
 # All files (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Files.base|All TFC Files]]

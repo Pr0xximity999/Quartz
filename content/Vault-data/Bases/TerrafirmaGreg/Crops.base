@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("modpacks/terrafirmagreg/rocks")
+        - file.hasTag("modpacks/terrafirmagreg/farming/crops")
     sort:
       - property: file.name
         direction: DESC
