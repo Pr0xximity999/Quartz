@@ -161,5 +161,5 @@ A colorizer highlights color values as their respective color. I will be using [
 Works as expected.
 
 ## Similar word highlighter
-Other ides have this functionality where if you select a piece of text, or a variable, that similar words/variables light up. [interestingwords.nvim](xiyaowong/transparent.nvim) achieves the same.
+Other IDEs have this functionality where if you select a piece of text, or a variable, that similar words/variables light up. [interestingwords.nvim](xiyaowong/transparent.nvim) achieves the same.
 

@@ -9,7 +9,7 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
 - Igneous Extrusive (Dacite)
-- Sedimentary (Shale)
+- Sedimentary (Shale, chalk)
 # Surface
 - Small Cassiterite (SnO2)
 - Asbestos Surface Rock (Mg3Si2H4O9)

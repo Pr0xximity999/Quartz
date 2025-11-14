@@ -8,7 +8,9 @@ tags:
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Chalk (sedimentary)
+- Sedimentary (Chalk)
+- Igneous extrusive (Dacite)
+- Igneous intrusive (Diorite)
 # Surface
 - Native Copper (Cu)
 - Small Tetrahedrite (Copper, Cu3SbS3Fe)

@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.hasTag("modpacks/terrafirmagreg/farming/crops")
+        - '!file.inFolder("Vault-data/Templates")'
     sort:
       - property: file.name
         direction: DESC
