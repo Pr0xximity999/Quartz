@@ -42,6 +42,18 @@ De bronnen die gebruikt worden moeten wel betrouwbaar zijn, hierom zullen alleen
 
 Tot slot moet de communicatiemethode simpel zijn om te implementeren. Het moet het liefst het JSON/text format ondersteunen omdat die in het verleden het meest gebruikt is bij school opdrachten. 
 # 3 - Analyse & resultaten
+## 3.1 - Protocollen
+Tijdens het onderzoek kwamen er veel communicatie protocollen voorbij om ervoor te zorgen dat het maken van een testopstellingen haalbaar is word er een top 3 uitgekozen. 
+Hier is een lijst van alle protocollen die interessant kunnen zijn voor een robotvloot in geen specifieke volgorde:
+### 3.1.1 - Zigbee
+Zigbee is een low-power mesh-netwerk protocol dat gemaakt is voor een minimaal vertraagde, draadloze communicatie tussen apparaten die met een batterij aangedreven zijn. Zigbee word meestal gebruikt als communicatie middel in huis-automatiseringsapparaten en industriële doeleinden zoals stoplichten. Het ligt een beetje tussen Bluetooth en Wi-Fi in.
+
+### 3.1.2 - MQTT
+Message Queuing Telemetry Transport, of MQTT, is een lichtgewicht subscriber-publisher protocol gemaakt voor IoT apparaten, cloud applicatie en robotvloten. MQTT bestaat uit 2 bestandsdelen: een message broker(server) en een aantal clients. Clients sturen berichten naar een “topic” op de broker, die dan weer doorgestuurd word naar alle clients die een subscriptie hebben naar die topic. 
+
+### 3.1.3 - CoAP
+**Co**nstrained **A**pplication **P**rotocol (CoAp) is een UDP-gebaseerd protocol gemaakt voor microcontrollers met lage ROM en RAM, ook wel constrained nodes^[[RFC-7228](https://datatracker.ietf.org/doc/html/rfc7228)]genoemd. Het protocol is ontworpen voor een machine-to-machine (M2M) applicaties, zoals smart energy of het automatisering van gebouwen. 
+CoAP bied een request/response interactie model tussen applicaties, ondersteunt ingebouwde discovery-of-services, concepten zoals URIs en internet media types en kan makkelijk interfacen met HTTP. Het heeft weinig overhead en is erg gemakkelijk in het gebruik.
 
 # 4 - Conclusies
 
@@ -51,3 +63,8 @@ Tot slot moet de communicatiemethode simpel zijn om te implementeren. Het moet h
 In dit document is geen gebruik gemaakt van een AI-assistent.
 
 # 7 - Bronnenlijst
+[Robot Communication Protocols: A Comprehensive Guide](https://thinkrobotics.com/blogs/learn/robot-communication-protocols-a-comprehensive-guide)
+[Wikipedia - Zigbee](https://en.wikipedia.org/wiki/Zigbee)
+[Wikipedia - MQTT](https://en.wikipedia.org/wiki/MQTT)
+[Wikipedia - CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol)
+[RFC 7252 - CoAP](https://datatracker.ietf.org/doc/html/rfc7252)
