@@ -8,8 +8,6 @@ Using the right kernel can help you to either blur an image or perform edge dete
 - Convolutie filter: generieke filter voor afbeeldingen
 - Filter op basis van matrix → kernel
 
-  
-
 ##### Binaire Morphologie
 - Werkt op binaire afbeeldingen
 - Om gaten te vullen in een masker
