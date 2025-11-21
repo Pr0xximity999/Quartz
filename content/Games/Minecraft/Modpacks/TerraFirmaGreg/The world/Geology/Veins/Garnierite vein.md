@@ -8,6 +8,7 @@ tags:
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
+- Sedimentary (Dolomite)
 - Igneous Extrusive (Dacite)
 # Surface
 - Small Garnierite (NiO)

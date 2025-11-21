@@ -9,7 +9,8 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
 - Sedimentary (shale)
-- Igneous intrusive (diorite)
+- Igneous intrusive (Diorite)
+- Igneous extrsuvie (Andesite)
 # Surface
 - Small Bismuthinite (Bi)
 - Small Silver (Ag)
