@@ -22,6 +22,8 @@ Kaolin clay only spawns if it meets all of these criteria:
 - The area’s annual rainfall *must* be *at least* 300mm
 Check the climate tab (temperature icon) in your inventory to see the temperature and rainfall. You will need to go *east to increase rainfall* and *south to increase temperature*
 
-When all of these criteria meet, you can start looking for its *clay indicator*. There is a single type of flower that grows on or above kaolin clay: The **Blood Lily**.
+When all of these criteria meet, you can start looking for its *clay indicator*. There is a single type of flower that grows on or above kaolin clay: The **Blood Lily**. Be mindful that this flower will wilt away in the winter, so as soon as it loads in, it will start disappearing if you’re not looking around quick enough.
 
 ![[Vault-data/Attachments/Kaolin Clay blood lily.png]]
+
+Once you’ve found it, you’re set for a while. These veins are HUUGE
