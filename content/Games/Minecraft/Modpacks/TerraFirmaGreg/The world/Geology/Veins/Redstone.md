@@ -2,23 +2,18 @@
 tags:
   - modpacks/terrafirmagreg/geology/veins
   - games/minecraft
-  - modpacks/terrafirmagreg
   - taal/engels
   - language/english
+  - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Sedimentary (Chalk, Claystone)
-- Igneous extrusive (Dacite)
-- Igneous intrusive (Diorite)
+- Sedimentary (Claystone)
 # Surface
-- Native Copper (Cu)
-- Small Tetrahedrite (Copper, Cu3SbS3Fe)
-- Stibnite Surface Rock (Sb2S3)
-
+- Ruby surface bud
+- Redstone surface rock
 # Underground
-- Copper ore
-
+- 
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
