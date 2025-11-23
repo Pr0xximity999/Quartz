@@ -8,7 +8,7 @@ tags:
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Sedimentary (shale)
+- Sedimentary (Shale, Dolomite)
 - Igneous intrusive (Diorite)
 - Igneous extrsuvie (Andesite)
 # Surface
