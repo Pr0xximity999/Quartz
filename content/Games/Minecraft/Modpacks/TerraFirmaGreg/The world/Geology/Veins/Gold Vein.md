@@ -11,8 +11,7 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Magnetite Vein|Magnetite Vein]]
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Silver Vein|Silver Vein]]
 # Found in
-- Sedimentary (chalk)
-- Igneous intrusive (granite)
+- Chalk (Sedimentary)
 # Surface
 - Small Native Gold (Au)
 # Underground

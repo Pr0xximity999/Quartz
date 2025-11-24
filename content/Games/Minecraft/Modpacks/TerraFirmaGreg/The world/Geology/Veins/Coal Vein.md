@@ -8,7 +8,7 @@ tags:
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Sedimentary (Chalk, Claystone, Dolomite) 
+- Sedimentary (Chalk) 
 # Surface
 - Coal Surface Bud (C, Chipped coal)
 - Coal Surface Rock (C)

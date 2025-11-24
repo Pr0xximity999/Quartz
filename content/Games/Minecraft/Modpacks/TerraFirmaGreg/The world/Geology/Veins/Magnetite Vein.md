@@ -7,8 +7,11 @@ tags:
   - language/english
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
+# Might be connected to
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Gold Vein|Gold Vein]]
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Silver Vein|Silver Vein]]
 # Found in
-- Sedimentary (Chalk, Claystone)
+- Chalk (Sedimentary)
 # Surface
 - Small Magnetite (Fe3O4)
 - Vanadium Magnetite Surface Rock (Fe3O4)V

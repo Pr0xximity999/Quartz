@@ -8,8 +8,8 @@ tags:
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Sedimentary (Chalk, Shale, Claystone, Dolomite)
-- Igneous extrusive (Dacite, Basalt)
+- Sedimentary (Chalk, Shale)
+- Igneous extrusive (dacite, basalt)
 # Surface
 - Small Sphalerite (ZnS)
 - Sulfur Surface Rock (S)

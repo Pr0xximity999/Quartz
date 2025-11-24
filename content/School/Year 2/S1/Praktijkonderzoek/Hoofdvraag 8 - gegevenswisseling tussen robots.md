@@ -45,23 +45,15 @@ Tot slot moet de communicatiemethode simpel zijn om te implementeren. Het moet h
 ## 3.1 - Protocollen
 Tijdens het onderzoek kwamen er veel communicatie protocollen voorbij om ervoor te zorgen dat het maken van een testopstellingen haalbaar is word er een top 3 uitgekozen. 
 Hier is een lijst van alle protocollen die interessant kunnen zijn voor een robotvloot in geen specifieke volgorde:
-### 3.1.1 - LoRa
-Het LOng RAnge protocol (LoRa) is een fysiek radiocommunicatie protocol gemaakt voor apparaten met weinig processing power en batterijcapaciteit. LoRa gebruikt een licentie-vrije radiofrequentie, wat betekent dat iedereen er gebruik van kan maken. LoRa apparaten hebben de mogelijkheid om hun locatie te traceren en gecombineerd met het lange bereik maakt het dat een uitstekende communicatiemethode voor IoT apparaten (of een robotvloot).
+### 3.1.1 - Zigbee
+Zigbee is een low-power mesh-netwerk protocol dat gemaakt is voor een minimaal vertraagde, draadloze communicatie tussen apparaten die met een batterij aangedreven zijn. Zigbee word meestal gebruikt als communicatie middel in huis-automatiseringsapparaten en industriële doeleinden zoals stoplichten. Het ligt een beetje tussen Bluetooth en Wi-Fi in.
 
 ### 3.1.2 - MQTT
 Message Queuing Telemetry Transport, of MQTT, is een lichtgewicht subscriber-publisher protocol gemaakt voor IoT apparaten, cloud applicatie en robotvloten. MQTT bestaat uit 2 bestandsdelen: een message broker(server) en een aantal clients. Clients sturen berichten naar een “topic” op de broker, die dan weer doorgestuurd word naar alle clients die een subscriptie hebben naar die topic. 
 
 ### 3.1.3 - CoAP
-COnstrained Application Protocol (CoAP) is een UDP-gebaseerd protocol gemaakt voor microcontrollers met lage ROM en RAM, ook wel constrained nodes([RFC-7228](https://datatracker.ietf.org/doc/html/rfc7228)) genoemd. Het protocol is ontworpen voor een machine-to-machine (M2M) applicaties, zoals smart energy of het automatisering van gebouwen. 
+**Co**nstrained **A**pplication **P**rotocol (CoAp) is een UDP-gebaseerd protocol gemaakt voor microcontrollers met lage ROM en RAM, ook wel constrained nodes^[[RFC-7228](https://datatracker.ietf.org/doc/html/rfc7228)]genoemd. Het protocol is ontworpen voor een machine-to-machine (M2M) applicaties, zoals smart energy of het automatisering van gebouwen. 
 CoAP bied een request/response interactie model tussen applicaties, ondersteunt ingebouwde discovery-of-services, concepten zoals URIs en internet media types en kan makkelijk interfacen met HTTP. Het heeft weinig overhead en is erg gemakkelijk in het gebruik.
-
-## 3.2 - Prototypen
-Voor LoRa zal er geen prototype gemaakt worden aangezien er geen mogelijkheid is om een radiocommunicatiechip te gebruiken tijdens het maken van dit onderzoek.
-
-### 3.2.1 - MQTT
-Voor dit prototype is er een MQTT broker nodig (de server) en een library om mqtt calls te maken. 
-- Voor de broker zal er gebruikt worden gemaakt van [emqx](https://www.emqx.com/en), wat zal draaien in een docker container.
-- Voor de MQTT C++ library zal [patho.mqtt.cpp](https://github.com/eclipse-paho/paho.mqtt.cpp) gebruikt worden; een open source mqtt library.
 
 # 4 - Conclusies
 
@@ -72,7 +64,7 @@ In dit document is geen gebruik gemaakt van een AI-assistent.
 
 # 7 - Bronnenlijst
 [Robot Communication Protocols: A Comprehensive Guide](https://thinkrobotics.com/blogs/learn/robot-communication-protocols-a-comprehensive-guide)
-[Wikipedia - LoRa](https://en.wikipedia.org/wiki/LoRa)
+[Wikipedia - Zigbee](https://en.wikipedia.org/wiki/Zigbee)
 [Wikipedia - MQTT](https://en.wikipedia.org/wiki/MQTT)
 [Wikipedia - CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol)
 [RFC 7252 - CoAP](https://datatracker.ietf.org/doc/html/rfc7252)

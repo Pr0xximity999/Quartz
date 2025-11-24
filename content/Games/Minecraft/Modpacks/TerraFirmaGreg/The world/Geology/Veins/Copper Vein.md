@@ -8,7 +8,7 @@ tags:
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
 # Found in
-- Sedimentary (Chalk, Claystone)
+- Sedimentary (Chalk)
 - Igneous extrusive (Dacite)
 - Igneous intrusive (Diorite)
 # Surface

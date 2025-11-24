@@ -136,3 +136,12 @@ Wanneer gebruik je dit:
 Als je informatie niet duidelijk weet, kun je ook aannames doen. **Schrijf deze aannames dan ook op**.
 
 
+# Onderzoek doen en prototypen
+>[!important]
+>Al je prototypes moet in c++ gemaakt worden
+
+Het is belangrijk dat je een beetje een goede structuur en verhaal maakt van je onderzoek, niet alleen bulletpoints.
+
+Zorg ervoor dat je test scenarios je deelvragen afdekken. Maak specifieke scenarios voor iedere deelvraag. Documenteer al je resultaten.
+
+
