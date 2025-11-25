@@ -17,11 +17,11 @@ het doen van **onderzoek naar de ideale infrastructuur voor jullie robot casus**
 
 het **publiceren** van jullie onderzoeksopzet, resultaten en conclusies op een gezamenlijke **groepswiki**. (DevOps omgeving toegankelijk voor twee klassen).
 
-Het **kennisdelen met peers** via de wiki
+- Het **kennisdelen met peers** via de wiki
 
-Het geven van **peerfeedback** en het stellen van kritische vragen aan je groepsgenoten.
+- Het geven van **peerfeedback** en het stellen van kritische vragen aan je groepsgenoten.
 
-Het **reflecteren op het verloop en resultaten** van jouw onderzoek (inde wiki en tijdens het assessment).
+- Het **reflecteren op het verloop en resultaten** van jouw onderzoek (inde wiki en tijdens het assessment).
 
 >[!info] locatie brightspace
 >De vakinhoudelijke kennis staat onder **Infrastructuur en computernetwerken**.
