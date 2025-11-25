@@ -15,7 +15,10 @@ Good thing people on the internet fixed that.
 # Installation
 Of course this step differs from operating system to even what method of installation you use. You can find all the different commands [here](https://spicetify.app/).
 
-If the installer asks you if you want to install the marketplace, reply with Y(es). This will make installing other things way easier.
+If the installer asks you if you want to install the marketplace, reply with Y(es). This will make installing other things way easier. Otherwise, use this command to install it (on linux):
+```bash
+curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh
+```
 
 Since i use arch linux, i will be installing the AUR package, using `yay`.
 

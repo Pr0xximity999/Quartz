@@ -68,7 +68,6 @@ Problemen die een onderbouwing of meer diepere kennis nodig hebben kan je beter 
 - **Kwantitatief**: verzameling van data, loganalyse, a/b testing, enquêtes
 - **Design research**: prototyping, proof-of-concept
 - **Case study**: praktijkproject analyseren
-
 # 5 typen onderzoeksmethoden
 - veldonderzoek (context begrijpen)
 - lab-onderzoek (ideeën testen)
@@ -76,20 +75,12 @@ Problemen die een onderbouwing of meer diepere kennis nodig hebben kan je beter 
 - showroom (presenteren)
 - workshops (experimenteren)
 
-
-# onderzoeksproces
-1. probleemanalyse
-2. onderzoeksontwerp
-3. data verzamelen
-4. data-analyse
-5. rapportage
-
-
 # Stappen deelvragen opstellen
 1. begrijp de onderzoeksvraag/hoofdvraag
 2. bepaal/bedenk wat je moet weten
 3. formuleer concrete deelvragen
 4. check de volledigheid
+Zie [[School/Year 2/S1/Praktijkonderzoek/Onderzoeksstappen|onderzoeksstappen]] voor meer info.
 
 # Welke ICT research methods gebruiken we?
 1. Literature onderzoek
@@ -143,5 +134,4 @@ Als je informatie niet duidelijk weet, kun je ook aannames doen. **Schrijf deze 
 Het is belangrijk dat je een beetje een goede structuur en verhaal maakt van je onderzoek, niet alleen bulletpoints.
 
 Zorg ervoor dat je test scenarios je deelvragen afdekken. Maak specifieke scenarios voor iedere deelvraag. Documenteer al je resultaten.
-
 
