@@ -67,15 +67,16 @@ Aan de hand van de verzamelde data word er een tabel gemaakt met de scores, serv
 
 De score zal 1-5 punten zijn, waar 1 het laagst is en 5 het hoogst, serverafhankelijkheid zal een simpele ja of nee zijn, plus- en minpunten en verklaringen zullen in tekst geschreven worden.
 
-| Protocol | Schaalbaarheid | Server-afhankelijk? | Pluspunt(en) | Minpunt(en) | Verklaring |
-| -------- | -------------- | ------------------- | ------------ | ----------- | ---------- |
-| Zigbee   |                |                     |              |             |            |
-| MQTT     |                |                     |              |             |            |
-| CoAP     |                |                     |              |             |            |
-| LoRa     |                |                     |              |             |            |
+| Protocol | Schaalbaar-heid | Verklaring                                                                                                                                                                                    | Server-afhankelijk? | Pluspunt(en)                                           | Minpunt(en)                                                |
+| -------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
+| Zigbee   | 2               | Zigbee is een meshnetwerk protocol die ontworpen is om meerdere apparaten aan elkaar te verbinden, maar door zijn lage datasnelheid is het niet geschikt voor een constante, grote datastroom | nee                 | Laag stroomverbruik, draadloos                         | Het is meer geschikt voor sensoren dan voor een robotvloot |
+| MQTT     | 5               | Schaalbaarheid en het ondersteunen van veel apparaten is waar MQTT voor is gemaakt                                                                                                            | ja                  | Werkt met veel apparaten                               | Heeft een server nodig                                     |
+| CoAP     | 3               | CoAp heeft ondersteuningen voor het maken van een meshnetwerk                                                                                                                                 | beide               | geschikt voor kleine chips en heeft geen stroom nodig  | Werkt alleen met UDP                                       |
+| LoRa     | 3               | LoRa is perfect voor langeafstands-communicatie, maar het heeft een extreem lage datasnelheid                                                                                                 | nee                 | Werkt over een lange afstand zonder internetverbinding | Heeft een radiochip nodig, zeer lage datasnelheid          |
 
 
-# 4 - Conclusies
+# 4 - Conclusie
+Alhoewel alle communicatiemethoden geschikt kunnen zijn voor een robotvloot, zijn er toch methoden die een betere kandidaat zijn dan andere. Gebaseerd op de multi-criteria-analyse dat, ondanks dat het afhankelijk is van een server, MQTT de meest efficiënte methode is als het gaat om schaalbaarheid. Ondanks dat CoAp ook een zeer geschikt en handig protocol is, heeft MQTT toch een betere ondersteuning om efficienter (en met minder werk) onderlinge communicatie op te zetten tussen robots.
 
 # 5 - Reflectie
 
