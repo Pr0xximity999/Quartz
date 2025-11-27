@@ -7,16 +7,16 @@ tags:
   - language/english
 ---
 # General info
-Barley is a single block crop that can be planted on farmland.
+ Garlic is a **single** block crop that can be planted on **farmland**.
 
-Barley crops will produce barley(seeds) as a product, which will give grains when eaten.
+ Garlic crops will produce garlic (seeds) as a product.
 
 >[!success] Requirements
-> **Temperature**: -8 - 26 °C
-> **Hydration**: 18 - 75%
+> **Temperature**: -20 - 18°C
+> **Hydration**: 15 - 75%
 > **Nutrient**: Nitrogen
 > ---
-> ![[Vault-data/Attachments/Barley crop.png]]
+> ![[Vault-data/Attachments/Garlic crop mc.png]]
 
 ---
 ![[Vault-data/Bases/TerrafirmaGreg/Crops.base|Crops]]

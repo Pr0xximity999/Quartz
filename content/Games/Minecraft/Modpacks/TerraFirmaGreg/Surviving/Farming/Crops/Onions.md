@@ -7,16 +7,16 @@ tags:
   - language/english
 ---
 # General info
-Barley is a single block crop that can be planted on farmland.
+ Onions are a **single** block crop a that can be planted on **farmland**.
 
-Barley crops will produce barley(seeds) as a product, which will give grains when eaten.
+ Onion crops will produce Onion(seeds) as a product.
 
 >[!success] Requirements
-> **Temperature**: -8 - 26 °C
-> **Hydration**: 18 - 75%
+> **Temperature**: 0 - 30°C
+> **Hydration**: 25 - 90%
 > **Nutrient**: Nitrogen
 > ---
-> ![[Vault-data/Attachments/Barley crop.png]]
+> ![[Vault-data/Attachments/Onions crop mc.png]]
 
 ---
 ![[Vault-data/Bases/TerrafirmaGreg/Crops.base|Crops]]

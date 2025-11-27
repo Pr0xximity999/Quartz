@@ -7,16 +7,16 @@ tags:
   - language/english
 ---
 # General info
- is a that can be planted on.
+Rye is a **single** block that can be planted on **farmland**.
 
- crops will produce (seeds) as a product.
+Rye crops will produce rye (seeds) as a product.
 
 >[!success] Requirements
-> **Temperature**: °C
-> **Hydration**: 
-> **Nutrient**: 
+> **Temperature**: -11 - 30°C
+> **Hydration**:  25 - 85%
+> **Nutrient**: Phosphorus
 > ---
-> !
+> ![[Vault-data/Attachments/Rye crop mc.png]]
 
 ---
 ![[Vault-data/Bases/TerrafirmaGreg/Crops.base|Crops]]
