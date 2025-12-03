@@ -8,7 +8,7 @@ Oak-D camera’s are pieces of hardware that have the functionality of a regular
 ![[Vault-data/Attachments/OakD Camera.png]]
 An image of an OakD camera model
 
-This OakD has both a stereo camera and an infrared(IR) night vision camera. It has a model processing power of 4 Terra operations (TOP). Running a model will classify any objects it can detect and send it to a data stream along with the camera’s output. Extracting the type of data is defined by an **operator type**.
+This OakD has both a stereo camera and an infrared(IR) night vision camera. It has a model processing power of 4 Terra operations (TOP). Running a model will classify any objects it can detect and send it to a data stream along with the camera’s output. 
 https://derivative.ca/UserGuide/OAK-D
 
 # DepthAi API
