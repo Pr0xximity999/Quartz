@@ -46,15 +46,9 @@ In the **main router**:
 - Set the router’s IP DHCP range from `192.168.1.10`  to `192.168.1.100`.
 	- This can once again disconnect you from the router’s wifi network.
 
-For all **sub routers**:
+In the **sub routers**:
 - Connect with the router
 - Navigate to `192.168.8.1` in your browser and log in
 - Navigate to the **NETWORK>LAN** tab
 - Set the router’s IP address under the *LAN* section to `192.168.[num].1`, where num is the first free number that comes in the DHCP range of the *main router*. (aka 192.168.1.**11**,12,13, etc..)
 	- This will either kick you out of the dashboard or automatically reload the right IP address. Navigate to it yourself if you don’t get redirected
-
-Back in the **main router**:
-- Connect, navigate, and log in (use the newly used ip address)
-- Navigate to the **NETWORK>LAN** tab and scroll to the bottom where it says “address reservation”
-- Identify which router is which by cross referencing their mac address (or some other way)
-- Give each router the reserved ip `192.168.1.[num]`, where num is the same number that was given to it on the sub router step
