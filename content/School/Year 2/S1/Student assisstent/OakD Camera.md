@@ -1,8 +1,7 @@
 ---
 tags:
-  - school/student-assistent
-  - taal/engels
-  - language/english
+  - school/robot-fleet
+  - school/computer-machine-vision
 ---
 Oak-D camera’s are pieces of hardware that have the functionality of a regular camera with depth vision, but also enable you to run machine learning models inside them for computer vision. 
 
