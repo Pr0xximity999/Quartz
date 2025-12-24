@@ -50,6 +50,10 @@ Voorrangsborden zijn er in verschillende soorten en maten
 >Verleen voorrang aan **bestuurders** op kruisende wegen en **sta volledig stil**, ook als als er geen verkeer is.
 >Er staat een stopstreep op de weg.
 
+>[!info]- Verkeersbord RVV BB04 verkorte of versmalde uitvoegstrook
+>![[Vault-data/Attachments/6 - Verkeersborden uitvoegstrook.png]]
+>De uitvoeg- of vluchtstrook is verkort of versmalt
+
 >[!info]- Verkeersbord RVV C06 Verbod meer dan 2 wielen
 >![[Vault-data/Attachments/6 - Verkeersborden verbod 4wielen.png]]
 >Een verbod voor voertuigen met **meer dan 2 wielen**. Dus ook een motor met zijspan
@@ -66,6 +70,11 @@ Voorrangsborden zijn er in verschillende soorten en maten
 >![[Vault-data/Attachments/6 - Verkeersborden slecht wegdek.png]]
 >Dit is een stuk wegdek die hobbels sleuven en gaten kan bevatten. Verlaag je snelheid bij dit bord.
 >Verwar deze niet met J38 - Verkeersdrempel
+
+>[!info]- Verkeersbord RVV J07 Gevaarlijke daling
+>![[Vault-data/Attachments/6 - Verkeersborden gevaarlijke daling.png]]
+>Na dit bord zal de weg afnemen met een steile daling.
+>Rem niet te veel, maar schakel vooral terug.
 
 >[!info]- Verkeersbord RVV J08 Gevaarlijk Kruispunt
 >![[Vault-data/Attachments/6 - Verkeersborden gevaarlijk kruispunt.png]]
@@ -98,7 +107,21 @@ Voorrangsborden zijn er in verschillende soorten en maten
 >![[Vault-data/Attachments/6 - Verkeersborden strookverbod 2 meter.png]]
 >Voertuigen breder dan 2 meter mogen niet op de linker strook rijden
 
+>[!info]- Verkeersbord RVV L13 Verkeerstunnel
+>![[Vault-data/Attachments/6 - Verkeersborden verkeerstunnel.png]]
+>Dit bord geeft aan dat er een tunnel komt van 2,2 kilometer lang.
+>Dit is **anders** dan OB411, waar een bord zonder pijlen betekent dat het *over* 2,2 kilometer is. Let hier goed op
+
 >[!info]- Verkeersbord RVV OB54 Uitzondering (brom)fietsers
 >![[Vault-data/Attachments/6 - Verkeersborden uitzondering bromfiets.png]]
 >Het bord wat hier boven hangt **geld niet** voor (brom)fietsers.
 
+>[!info]- Verkeersbord RVV OB411 Afstandsaanduiding
+>![[Vault-data/Attachments/6 - Verkeersborden afstandsaanduiding.png]]
+>Dit bord geeft aan voor hoe lang een waarschuwing geld.
+>LET OP: Als er geen pijlen bij staan betekent het dat deze waarschuwing pas **over** 1,5 KM is
+
+
+>[!important] Algemene info
+>- Het is in het algemeen veiliger op de autosnelweg dan op een andere weg zoals een N-weg
+>- Een bord met een U\[getal] en een pijl geeft een vaste uitwijkroute aan
