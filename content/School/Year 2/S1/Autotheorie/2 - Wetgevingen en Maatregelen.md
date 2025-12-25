@@ -1,7 +1,5 @@
 ---
 tags:
-  - language/dutch
-  - taal/nederlands
 banner:
 ---
 ## Identificatie

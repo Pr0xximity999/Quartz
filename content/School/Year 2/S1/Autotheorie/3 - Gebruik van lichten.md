@@ -1,7 +1,5 @@
 ---
 tags:
-  - taal/nederlands
-  - language/dutch
 banner:
 ---
 # Soorten lampen
