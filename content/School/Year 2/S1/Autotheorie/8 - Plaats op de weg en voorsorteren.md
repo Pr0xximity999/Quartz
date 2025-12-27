@@ -24,3 +24,6 @@ Je mag op de middenberm voorsorteren, tenzij je de weg achter je blokkeert.
 >[!important]
 >- Als je wilt afslaan en moet wachten op tegenliggers, dan houd je de wielen van je auto naar voren toe.
 >	- Als je van achteren geraakt word, schiet je dan niet de sloot in of iets anders naast de weg
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/9 - Snelheid|9 - Snelheid]]

@@ -41,3 +41,6 @@ Je mag nooit inhalen bij:
 >[!note] Motorrijders in de file
 >Motorrijders mogen in de file tussen de auto’s passeren. Let hier dus goed op.
 >Wijk uit zodat de motorrijder kan passeren.
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/13 - Voorrang en kruispunten|13 - Voorrang en kruispunten]]

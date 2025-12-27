@@ -49,4 +49,5 @@ Naast een geldboete kan de politie ook andere straffen op je legen:
 
 
 
-
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/3 - Gebruik van lichten|3 - Gebruik van lichten]]

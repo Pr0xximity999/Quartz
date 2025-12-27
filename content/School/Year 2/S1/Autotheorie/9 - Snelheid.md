@@ -20,3 +20,6 @@ In een **woonerf** mag je niet harder dan **15 km/h**, of stapvoets rijden.
 Op een **autoweg** (te herkennen aan het autobord of de groene middenstreep) mag je maximaal **100 km/h** en minimaal **50 km/h**.
 
 Op de **autosnelweg** mag je tussen 06:00 en 19:00 **100 km/h** en tussen 19:00 en 06:00 is deze **120/130 km/h**. Je mag minimaal **60 km/h** rijden op een snelweg.
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/10 - Stilstaan en parkeren|10 - Stilstaan en parkeren]]

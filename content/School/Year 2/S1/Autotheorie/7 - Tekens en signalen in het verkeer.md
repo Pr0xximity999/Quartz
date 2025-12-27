@@ -56,3 +56,6 @@ Als de rechter arm van de verkeersregelaar naar beneden staat (zoals een slagboo
 Als de linker arm van de verkeersregelaar naar beneden staat mogen de mensen achter hem **niet** doorrijden.
 
 Staat zijn arm omhoog met zijn elleboog op een haakse hoek? dan mag niemand doorrijden.
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/8 - Plaats op de weg en voorsorteren|8 - Plaats op de weg en voorsorteren]]

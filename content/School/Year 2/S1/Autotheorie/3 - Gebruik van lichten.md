@@ -35,4 +35,5 @@ banner:
 - 2 Rode retroreflectoren
 - 2 Wit/Geel achteruitrijlicht
 
-
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/4 - Gordels en airbags|4 - Gordels en airbags]]

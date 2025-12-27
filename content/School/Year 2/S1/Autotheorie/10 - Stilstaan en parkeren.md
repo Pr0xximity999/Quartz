@@ -60,3 +60,5 @@ Een parkeerschijfzone is te herkennen aan de blauwe streep. Binnen deze zone mag
 >[!important]
 >Je mag de parkeerschijf altijd naar boven afronden op het hele of halve uur.
 
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/11 - Geven van tekens en signalen|11 - Geven van tekens en signalen]]

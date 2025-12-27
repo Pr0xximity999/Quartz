@@ -19,3 +19,6 @@ Huisdieren mogen in de kofferbak los zitten, maar ze moeten op een bank wel een 
 Probeer tijdens het rijden 25cm van de airbag af te zitten. 
 
 Airbags zijn **niet verplicht**, maar worden in elke nieuwe auto geplaatst. Als een kinderzitje andersom in de bijrijders stoel zit **moet** de airbag uitgeschakeld worden.
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/5 - Spiegels en banden|5 - Spiegels en banden]]

@@ -123,3 +123,6 @@ Voorrangsborden zijn er in verschillende soorten en maten
 >[!important] Algemene info
 >- Het is in het algemeen veiliger op de autosnelweg dan op een andere weg zoals een N-weg
 >- Een bord met een U\[getal] en een pijl geeft een vaste uitwijkroute aan
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/7 - Tekens en signalen in het verkeer|7 - Tekens en signalen in het verkeer]]

@@ -31,3 +31,6 @@ Claxonneren of knipperen met je groot licht doe je alleen als:
 
 >[!important]
 >Met je lichten knipperen mag ook om automobilisten te signaleren over hun licht die uit/te groot staat
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/12 - Inhalen|12 - Inhalen]]

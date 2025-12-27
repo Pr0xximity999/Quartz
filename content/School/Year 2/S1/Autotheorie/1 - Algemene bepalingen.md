@@ -47,3 +47,5 @@ Je rijbewijs is 10 jaar geldig.
 >- Je mag NOOIT een kopie van je rijbewijs te hebben
 >- Als je bent afgereden in een automaat, mag je niet in een schakelauto rijden
 
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/2 - Wetgevingen en Maatregelen|2 - Wetgevingen en Maatregelen]]

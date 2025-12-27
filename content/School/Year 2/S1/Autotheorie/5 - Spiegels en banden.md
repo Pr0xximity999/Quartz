@@ -50,3 +50,6 @@ Als er veel water op de weg ligt kan je band grip verliezen met de weg en gaan g
 Tijdens aqua-planning moet je je gas loslaten. Hierdoor maken je banden weer contact met het wegdek en krijg je je grip weer.
 
 Bredere banden zijn meer vatbaar voor aqua-planing, net zoals een wegdek met spoorvorming. Spoorvorming zijn wegen met remstrepen waar water langer in blijft liggen. Spoorvorming komt meer voor om het rechter wegdek omdat daar meer auto’s rijden.
+
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/6 - Verkeersborden|6 - Verkeersborden]]
