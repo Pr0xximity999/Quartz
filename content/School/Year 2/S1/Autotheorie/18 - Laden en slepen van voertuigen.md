@@ -44,3 +44,5 @@ Let er wel op dat de auto niet:
 - Een voertuig met 2 wielen mag **nooit** een voertuig slepen
 - De gesleepte bestuurder moet een rijbewijs hebben
 
+>[!note] Volgend onderdeel
+>[[School/Year 2/S1/Autotheorie/19 - Milieubewust en energiezuinig rijden|19 - Milieubewust en energiezuinig rijden]]
