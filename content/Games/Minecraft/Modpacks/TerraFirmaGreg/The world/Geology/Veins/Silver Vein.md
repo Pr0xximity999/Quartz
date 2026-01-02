@@ -15,6 +15,7 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 # Surface
 - Small Silver (Ag)
 - Small Chromite (FeCr2O4)
-
+# Underground
+- 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

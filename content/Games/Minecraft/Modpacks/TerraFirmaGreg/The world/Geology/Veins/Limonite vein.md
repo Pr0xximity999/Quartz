@@ -14,9 +14,9 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Small Hematite (Fe2O3)
 - Goethite Surface Rock (FeOH2)
 # Underground
-- Limonite ore
-- Hematite ore
-- Goethite ore
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Limonite|Limonite]]
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Hematite|Hematite]]
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Goethite|Goethite]]
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
