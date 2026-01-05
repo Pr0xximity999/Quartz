@@ -6,7 +6,7 @@ tags:
   - taal/engels
   - language/english
 ---
-See [[School/Year 2/S1/Robotics/Ros2 commands cheatsheet|Ros2 commands cheatsheet]] for some commands.
+See [[School/Year 2/S1/Robotics/ros2 commands|ros2 commands]] for some commands.
 
 # Rviz robot visualizer
 Rviz can be used to visualize the robot in a 3d digital space. It shows all the parts of a robot and how it “sees” the digital world. You can set up nodes that correspond to certain parts of the robot, or a position in the digital world.

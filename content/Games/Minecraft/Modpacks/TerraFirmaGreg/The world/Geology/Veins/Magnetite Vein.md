@@ -17,8 +17,8 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Vanadium Magnetite Surface Rock (Fe3O4)V
 
 # Underground
-- Pyrite ore
-- Chalcopyrite ore
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Pyrite|Pyrite]]
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Chalcopyrite|Chalcopyrite]]
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
