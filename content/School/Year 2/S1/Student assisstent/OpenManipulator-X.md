@@ -97,10 +97,26 @@ ros2 run open_manipulator_teleop open_manipulator_x_teleop
 # Launch moveit
 First install moveIt by running 
 ```bash
-sudo apt install ros-jazzy-moveit
+sudo apt install ros-humble-moveit
 ```
 
 Then, launch moveit (after starting the arm) by running:
 ```bash
 ros2 launch open_manipulator_moveit_config open_manipulator_x_moveit.launch.py
+```
+
+# Launch gazebo
+**Terminal 1**
+```bash
+ros2 launch open_manipulator_bringup open_manipulator_x_gazebo.launch.py
+```
+
+**Terminal 2**
+```bash
+ros2 launch open_manipulator_moveit_config open_manipulator_x_moveit.launch.py use_sim:=true
+```
+
+**Terminal 3**
+```bash
+ros2 launch open_manipulator_gui open_manipulator_x_gui.launch.py
 ```

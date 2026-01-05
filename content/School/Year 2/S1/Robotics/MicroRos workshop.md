@@ -8,7 +8,7 @@ tags:
 ---
 > **MicroROS**: a framework for embedded and deep-embedded robot components with extremely constrained computational resources
 
-MicroROS is connected over 45g/wifi/ethernet to connect it up to the main ros network. While [[School/Year 2/S1/Robotics/Ros2 introduction|ROS]] runs on a single board computer or laptop, MicroROS runs on microcontrollers, which listen to topics it’s subscribed to via the ROS2 Agent.
+MicroROS is connected over 45g/wifi/ethernet to connect it up to the main ros network. While [[School/Year 2/S1/Robotics/Introduction ROS2|ROS]] runs on a single board computer or laptop, MicroROS runs on microcontrollers, which listen to topics it’s subscribed to via the ROS2 Agent.
 
 One advantage of using MicroROS controllers over one singular big controller, is separation-of-concerns. Every microcontroller does only waht it needs to do and if a microcontroller gets overloaded and blows up, your main controller will stay unharmed.
 
