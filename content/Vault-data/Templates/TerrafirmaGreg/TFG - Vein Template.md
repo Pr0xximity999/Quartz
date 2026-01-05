@@ -7,12 +7,19 @@ tags:
   - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
-# Found in
+# Earth
+## Rock types
 - 
-# Surface
+## Surface
 - 
-# Underground
+## Underground
 - 
-
+# Beneath
+## Rock types
+- 
+## Surface
+- 
+## Underground
+- 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

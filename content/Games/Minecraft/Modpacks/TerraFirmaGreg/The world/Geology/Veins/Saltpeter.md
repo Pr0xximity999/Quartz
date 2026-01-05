@@ -7,7 +7,7 @@ tags:
   - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
-# Found in
+# Rock types
 - Igneous Intrusive (Granite, Gabbro, Diorite)
 - Metamorphic (Quartzite, Slate, Phyllite, Schist, Gneiss, Marble)
 # Surface

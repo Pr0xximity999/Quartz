@@ -7,7 +7,7 @@ tags:
   - language/english
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
-# Found in
+# Rock types
 - Igneous Extrusive (Dacite, Andesite)
 - Sedimentary (Shale, chalk)
 # Surface

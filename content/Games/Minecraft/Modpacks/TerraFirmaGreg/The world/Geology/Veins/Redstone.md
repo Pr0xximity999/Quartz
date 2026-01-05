@@ -7,13 +7,13 @@ tags:
   - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
-# Found in
+# Rock types
 - Sedimentary (Claystone)
 # Surface
 - Ruby surface bud
 - Redstone surface rock
 # Underground
-- 
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Redstone|Redstone]]
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

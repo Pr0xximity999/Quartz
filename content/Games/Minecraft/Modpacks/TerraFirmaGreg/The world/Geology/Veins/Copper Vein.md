@@ -7,7 +7,7 @@ tags:
   - language/english
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 ---
-# Found in
+# Rock types
 - Sedimentary (Chalk)
 - Igneous extrusive (Dacite)
 - Igneous intrusive (Diorite)
@@ -17,8 +17,7 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Stibnite Surface Rock (Sb2S3)
 
 # Underground
-- Copper ore
-
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Copper|Copper]]
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

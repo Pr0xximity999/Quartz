@@ -11,7 +11,7 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Igneous Intrusive (Granite, Gabbro, Diorite)
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Geology intro#Metamorphic rock|Metamorphic]] (Quartzite, Slate, Phyllite, Schist, Gneiss, Marble)
 # Veins
-- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Cassiterite vein|Cassiterite vein]]
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Cassiterite|Cassiterite]]
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Saltpeter|Saltpeter]]
 # Description
 10% nitrogen, 40% potassium when used as fertilizer (powder form)

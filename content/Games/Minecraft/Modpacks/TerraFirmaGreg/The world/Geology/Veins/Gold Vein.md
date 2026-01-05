@@ -10,12 +10,12 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 # Might be connected to
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Magnetite Vein|Magnetite Vein]]
 - [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Veins/Silver Vein|Silver Vein]]
-# Found in
+# Rock types
 - Chalk (Sedimentary)
 # Surface
 - Small Native Gold (Au)
 # Underground
-- Gold ore
+- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Gold|Gold]]
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
