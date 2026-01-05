@@ -15,15 +15,18 @@ Dit bestand word de service die aangeroepen word en de gelinkte script runt. Pla
 
 ```service
 [Unit]
-Description=Beschrijving van de service.
+Description=Beschrijving
+After=network.target
 
 [Service]
 Type=simple
-ExecStart=/bin/bash /usr/bin/scripts/scriptnaam
-Restart="always"
+Restart=always
+ExecStart=/usr/bin/bash /usr/bin/scripts/scriptnaam.extensienaam
+User=rens
 
 [Install]
 WantedBy=multi-user.target
+
 ```
 
 Link de unit file door het volgende commando te runnen:
