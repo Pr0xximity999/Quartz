@@ -17,7 +17,8 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Stibnite Surface Rock (Sb2S3)
 
 # Underground
-- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Copper|Copper]]
+- Copper ore
+
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

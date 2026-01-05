@@ -14,7 +14,6 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 - Cobalt Surface Rock (Co)
 - Cobaltite Surface Rock (CoAsS) 
 - Pentlandite Surface Rock (Ni9S8)
-# Underground
-- 
+
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]

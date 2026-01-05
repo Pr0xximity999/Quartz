@@ -15,7 +15,7 @@ banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
 # Surface
 - Small Native Gold (Au)
 # Underground
-- [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Geology/Minerals/Gold|Gold]]
+- Gold ore
 
 # Veins (does not work on web)
 ![[Vault-data/Bases/TerrafirmaGreg/Veins.base|Veins]]
