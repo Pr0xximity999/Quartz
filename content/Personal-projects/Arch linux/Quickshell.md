@@ -8,4 +8,4 @@ tags:
 ---
 [Quickshell](https://quickshell.org/) is a toolkit you can use to create status bars, widgets, lockscreens and everything else desktop related. It uses the QtQuick qml framework.
 
-See [[|this]] article for info on qt qml itselff
+See [[|this]] article for info on qt qml itself
