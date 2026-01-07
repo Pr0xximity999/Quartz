@@ -291,3 +291,94 @@ Move joint 1 origin up to match base link, change rotation axis to z, move first
     </joint>
 </robot>
 ```
+
+# Xacro
+Xacro makes urdfs able to be spread across files.
+
+Create file `tutorial_robot.urdf.xacro` and `common_properties.xacro`. Rename `arm.urdf` to `arm.xacro`
+
+Tutorial robot:
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<robot name="tutorial_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+    <xacro:include filename="common_properties.xacro"/>
+    <xacro:include filename="arm.xacro"/>
+</robot>
+```
+
+common properties:
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+    <material name="grey">
+        <color rgba="0.5 0.5 0.5 1"/>
+    </material>
+
+    <material name="blue">
+        <color rgba="0 0 0.5 1"/>
+    </material>
+</robot>
+```
+
+Arm (top of the file):
+```xml
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+```
+
+New launch command:
+```bash
+ros2 launch urdf_tutorial display.launch.py model:=/home/rens/tutorial_ws/src/tutorial_description/urdf/tutorial_robot.urdf.xacro
+```
+
+# Launch file
+Inside `tutorial_description/launch`, create `display.launch.xml`.
+```xml
+<launch>
+    <let name="urdf_path" 
+        value="$(find-pkg-share tutorial_description)/urdf/tutorial_robot.urdf.xacro"/>
+
+    <node pkg="robot_state_publisher" exec="robot_state_publisher">
+        <param name="robot_description" 
+            value="$(command 'xacro $(var urdf_path)')"/>
+    </node>
+
+    <node pkg="joint_state_publisher_gui" exec="joint_state_publisher_gui"/>
+
+    <node pkg="rviz2" exec="rviz2" output="screen"/>
+</launch>
+```
+
+```bash
+cd ~/tutorial_ws/
+colcon build
+source ~/.bashrc
+ros2 launch tutorial_description display.launch.xml 
+```
+
+## Rviz config
+- Global options > fixed_frame: `base_link`
+- Add > Robotmodel /Select robot_description under description topic tab
+- Add > TF
+- Save as > `~/tutorial_ws/src/tutorial_description/tutorial_urdf.rviz`
+
+Edit `display.launch.xml`:
+```xml
+<launch>
+    <let name="urdf_path" 
+        value="$(find-pkg-share tutorial_description)/urdf/tutorial_robot.urdf.xacro"/>
+    <let name="rviz_config_path"
+        value="$(find-pkg-share tutorial_description)/rviz/tutorial_urdf.rviz"/>
+
+    <node pkg="robot_state_publisher" exec="robot_state_publisher">
+        <param name="robot_description" 
+            value="$(command 'xacro $(var urdf_path)')"/>
+    </node>
+
+    <node pkg="joint_state_publisher_gui" exec="joint_state_publisher_gui"/>
+
+    <node pkg="rviz2" exec="rviz2" output="screen" args="-d $(var rviz_config_path)"/>
+</launch>
+```
+
+ 
