@@ -107,8 +107,16 @@ Je: Overigens, de opbouw van je rapportage zit eigenlijk in elke..is een combina
 \[11:55 - ]
 T: Dit was ook van de wiki zelf. Daar snapte **Jelle** de feedback niet van. Er stond “In de evaluatie van HV7 wordt gezegd dat het onderzoek betrouwbaar is omdat er meerdere metingen zijn, en dat uitschieters zijn verwijderd. Dat blijkt nergens uit. Klopt dit wel? Waar zijn de data om dit aan te tonen.”. Dan vroeg **Jelle** zich af wat ermee bedoelt word.
 Je: Als je de data niet laat zien en ook niet beschrijft hoe je de uitschieters eruit hebt gehaald…
-Jo: Het woordje “uitschieters” word pas bij de evaluatie van het onderzoek. Dus je moet gaan beschrijven van “hey ik heb deze data en dit is een uitschieter, dat is niet goed. We denken dat het komt door A B en C en daarom hebben we hem weggehaald want we denken dat het niet belangrijk is.”
-Je: Dus als je kijkt naar het opbouw van je onderzoek. Je maakt de hoofd en deelvragen
+Jo: Het woordje “uitschieters” komt pas bij de evaluatie van het onderzoek. Dus je moet gaan beschrijven van “hey ik heb deze data en dit is een uitschieter, dat is niet goed. We denken dat het komt door A B en C en daarom hebben we hem weggehaald want we denken dat het niet belangrijk is.”
+Je: Dus als je kijkt naar het opbouw van je onderzoek. Je maakt de hoofd en deelvragen. Daarna ga je een onderzoeksopzet maken. Je gaat je data verzamelen. Dit kan een literatuuronderzoek zijn maar ook een prototype. En dan ga je kijken en dan ga je kijken wat die resultaten nou betekenen en wat ze…of ze kloppen. Dan ga je vervolgens je data analyseren van “wat kan ik met die data?”. Maar je moet ons in je rapportage meenemen in die stappen. Als ik 4 keer een 4 krijg, of 20 keer en 4 en een keer een 20, dan is die 20 waarschijnlijk een uitschieter. Dan ga je onderzoeken waar dat vandaan komt.
+T: En dat moet je allemaal documenteren?
+Je: Ja al die stappen moet je documenteren.
+Jo: Wat ik lees is dat jullie juist geen uitschieters eruit hebben gehaald, maar dat je veel samples gebruikt. En dat lees ik pas in de evaluatie en dat wil ik eigenlijk zien al van te voren. Waarom ga ik dit niet duizend keer doen of een miljoen keer?
+Je: Dus wij kunnen niet in jullie hoofd kijken, neem ons mee in al je stappen en vertel letterlijk wat je hebt gedaan in een samenvatting.
+T: Oke
+Jo: En wat betreft dat, ik betwijfel niet dat de resultaten gewoon valide zijn, maar we willen dat je gaat schrijven hoe je dat hebt aangepakt en hebt gekozen. We missen daarbij gewoon vaak de waarom vraag.
+Dat is typisch iets wat studenten vaak vergeten. In hun hoofd is dat allemaal duidelijk (dat doe ik want, dit en dit en dit), maar dat willen we ook op papier zien.
+Je: Kijk ook nog goed naar wat betrouwbaar en valide betekent. Het zijn 2 verschillende dingen. Valide gaat of je wel de juiste dingen aan het meten bent en betrouwbaar is of je meting klopt. En dan nog herhaalbaarheid
 # Feedback leraren
 - De rubric leid
 - Neem tussendoor elkaars werk door, vraag om feedback en zorg dat je elkaars werk begrijpt. Doe dit niet op het laatste moment, want dan onthoud je het niet goed
@@ -121,8 +129,11 @@ Je: Dus als je kijkt naar het opbouw van je onderzoek. Je maakt de hoofd en deel
 	- Deelvragen kunnen ook vragen zijn die het onderzoek starten, niet perse om de eindvraag te beantwoorden
 - Uitschieters komen pas bij de evaulatie omhoog, niet bij het onderzoek zelf. Beschrijf je onderzoeksproces meer. Documenteer je stappen.
 	- “hey ik heb deze data en dit is een uitschieter, dat is niet goed. We denken dat het komt door A B en C en daarom hebben we hem weggehaald want we denken dat het niet belangrijk is.”
-
-Vergeet de waarom vraag niet. anderen kunnen niet in jouw hoofd kijken. Kijk het verschil tussen valide en betrouwbaar.
+- Neem de lezers mee in je onderzoek, stap voor stap
+	- Vergeet de waarom vraag niet. anderen kunnen niet in jouw hoofd kijken. Kijk het verschil tussen valide en betrouwbaar.
+- Kijk ook nog goed naar wat betrouwbaar en valide betekent. Het zijn 2 verschillende dingen. 
+	- Valide gaat of je wel de juiste dingen aan het meten bent 
+	- Betrouwbaar is of je meting klopt.
 
 Lees de hoofd en deelvragen nog goed door.
 
