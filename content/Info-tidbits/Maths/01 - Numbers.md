@@ -1,0 +1,96 @@
+---
+tags:
+  - taal/engels
+  - language/english
+  - maths/integers
+publish: "true"
+---
+# Positive numbers (non-negative)
+Positive numbers are numbers that are *bigger* than 0.
+The following numbers are examples of positive numbers:<br>
+$$1,2,6,12,43,55,182,1042,45544$$
+<br>If you'd draw a line with 0 in the middle, positive numbers would be *on the right of 0*
+
+# Negative numbers (non-positive)
+Negative numbers are numbers that are *smaller* than 0.
+The following numbers are examples of negative numbers (note that they all start with a **minus(-)** sign:<br>
+$$-4, -7,-18,-24,-65 -73, -273,-584, -3499349.$$
+<br>If you'd draw a line with 0 in the middle, positive numbers would be *on the left of 0*
+# Zero (non-positive and non-negative)
+0 (zero) is a special number, it's *neither positive or negative*. Zero lays in between positive and negative.
+# Integers
+**Integers**, or **whole numbers**, are numbers like 1 2 45 765 2343, -5, -76, -1023 and also 0.
+Integers are split into 3 categories:
+
+# Decimals
+A **decimal number** is a number with a comma(or dot) inside it, they're not whole numbers. Numbers like: $5.5$, $10.734$, and $0.235$ are decimal numbers. 
+
+The numbers behind the comma(or dot) are called **decimals**; $4.15$ is a decimal number with 2 decimals in it.
+# The opposite and absolute value
+The opposite of a number is its positive/negative counterpart.<br>To be more mathematical about it: If you add a number and its opposite number, the result will always be $0$<br>The mathematical notation for the absolute value is $-n$ where n is any number<br>For example:<br>The opposite of $19$ is $-19$
+The opposite of $-402$ is $402$
+
+The absolute value is the positive counterpart of a number.<br>So every positive number is its own absolute value, but the opposite isnt.<br>The mathematical notation for the absolute value is $|n|$ where n is any number<br>For example:
+The absolute value of $-20$  $20$, or $|-20| = 20$
+The absolute value of $55$ is 55 or $|55| = 55$
+# Ranking of numbers
+If you'd take the number $4832$, you could say that it consists of:
+- $4$ thousands
+- $8$ hundreds
+- $3$ tens
+- 2 singles
+The same could be done with $0.1258$:
+- $0$ singles
+- $1$ tenths
+- $2$ hundredths
+- $5$ thousandths
+- $8$ ten thousandths
+
+As you can see positive and negative have both the same name, but negatives have -ths suffixed at the end.
+
+# Rounding
+Rounding a number means you either round an integer to an integer with a higher rank, a decimal number to an integer, or a decimal number to a decimal number with less decimals.
+
+The reason why you would round a number is so simplify it visually or when extra numbers are redundant.
+
+The way you round a number is by first deciding where you want to round to.
+- rounding to a whole number
+- rounding to 3 decimals
+- rounding to a ten
+
+After that you look to the number on the *right* of the chosen number and see if its in either $0 - 4$ or $5 - 9$. 
+
+If its the former, it means the number becomes 0 (rounding down) and nothing else happens. If it's the latter, the number also becomes 0, but the number on the left goes up by 1.
+
+For example:
+- $0.147$ rounded to two decimals becomes $0.15$ because $7$ is between 5 and 9.
+- $0.143$ rounded to two decimals becomes $0.14$ because $3$ is between 0 and 4.
+- $0.145$ rounded to two decimals becomes $0.15$ because $5$ is between 5 and 9.
+
+When you round a number, you use the approximate sign($\approx$) instead of the equals($=$) sign.
+
+Sometimes you have to decide to either force to round down (floor) or round up (ceiling).
+
+A way to note this is: $\lfloor5\rfloor$ for floor, and $\lceil 5 \rceil$, and both combined is $\lfloor5 \rceil$, which rounds to the nearest integer(normal rounding).
+
+# Real numbers
+Both rational and irrational numbers are on the number line.
+![[Vault-data/Attachments/Pasted image 20250418141316.png]]
+
+## Rational numbers
+Rational numbers are integers that can be written like a [[Info-tidbits/Maths/05 - The quotient, fractions, ratios and percentages#Fractions|fraction]] (a/b) whose denominator is *not* zero. For example: $5$ can be written as $\frac{5}{1}$ and thus is a rational number.
+
+Decimals in rational numbers are either of two things:
+- a finite number of decimals (can also be 0)
+- an infinite number of decimals which have a repeating pattern to them
+
+Rational number's decimals are sometimes written with a bar like this: $5.\overline{437382}$.
+
+## Irrational numbers
+Irrational numbers are numbers that have an infinite number of decimals which do not repeat. They cannot be written like a fraction.
+Numbers like $\sqrt{2}$, $\sqrt{3}$, and $\pi$ are irrational.
+Irrational number's decimals are usually written with dots at the end like this: $2.1453728...$
+
+
+>[!note] next chapter
+>The next chapter will go over [[Info-tidbits/Maths/02 - Ordering of integers|Ordering of integers]]

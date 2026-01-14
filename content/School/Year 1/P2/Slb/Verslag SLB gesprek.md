@@ -1,0 +1,26 @@
+---
+tags:
+  - school/slb
+  - taal/nederlands
+  - language/dutch
+  - school/robotics-prototyping
+---
+Gister had in een slb gesprek, hierover moet ik een aantal vragen beantwoorden.
+
+# Wat is je bijgebleven het afgelopen jaar?
+Noteer zoveel mogelijk en houd zoveel mogelijk bij, want informatie kan om de haverklap veranderen en als je het zelf bij houd kan je makkelijker die veranderingen in de gaten houden. Je kan niet op school vertrouwen als er iets aangekondigt word dus wees voorbereid op andere scenarios.
+Veel programmeerkennis heb ik niet opgedaan door mijn voorheen mbo opleiding.
+Ik heb daarintegen wel geleerd om zelf extra uitdagingen te verzinnen.
+
+# Heb je al een voorkeur voor I of TI?
+Ja, ik ga voor TI kiezen, wat al vast stond voordat ik de opleiding starte.
+Ik merk wel dat ik in de lessen niet echt weet wat nou I of TI is.
+
+## Hoe kan de SLB'er je helpen in deze keuze
+Niet, hij staat al vast.
+
+# Waar hoop je je volgende periode in te kunnen verdiepen?
+De beveiliging van apps en 2d graphics. API's weet ik al van hoe het werkt (heb er zelf een geschreven).
+
+# Persoonlijke ontwikkelactiviteit?
+Ik ga volgende periode wiskunde volgen als voorbereiding op de TI opleiding.

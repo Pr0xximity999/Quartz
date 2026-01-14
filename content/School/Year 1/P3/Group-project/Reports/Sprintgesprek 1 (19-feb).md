@@ -1,0 +1,63 @@
+---
+tags:
+  - school/2D-graphics
+  - taal/nederlands
+  - language/dutch
+  - school/group-project
+---
+# Crew
+Christian - Gespreksleider
+Martijn - Mede-spreker
+Thomas - Notulist
+
+# Functionele eisen
+- Het kind moet aan een visuele lijn kunnen zien wat voor voortgang hij heeft gemaakt.
+- Het kind moet interactie kunnen hebben met de mascotte
+- Het kind moet informatie kunnen vinden over de behandeling
+- De ouder moet de voortgang van het kind inzien
+- Het kind moet beloningen kunnen krijgen als ze een stap in het traject afronden
+- De informatie die het kind te zien krijgt moet makkelijk te begrijpen zijn voor 5 jarigen
+# Belangrijkste
+kinderen die binnenkomen duidelijkheid geven over diabetes-1.
+De onderzoeken, meten van insuline, spuiten van bloed.
+We hopen dat die verduidelijking voor spanningsverlichting zorg.
+
+Must haves: 
+- Het visualiseren van het traject is het meest belangrijkste.
+	- hoe ziet zon process eruit, wat ga je doen etc 
+- de app moet kunnen openen
+- er moet een inlogpagina zijn die veilig is (ieder kind heeft zijn eigen data)
+- Uitleg geven over wat er komen gaat
+
+## Beste manier van angst vermijden
+een van de grootste punten van angst is onduidelijkheid. het ziekenhuis word geassocieerd met dingen zoals spuitjes. Duidelijkeheid geven (over ook spannende dingen) kan verlichting geven. Probeer een behandeling leuker te maken (gameification: stickers, speeltjes, iets leuks zoals een minigame etc.)
+# Ideeën (Christian )
+Kleine mascotte in de app die het kind ondersteunt
+na een afspraak word genoteerd in de app met een leuke sticker (ziet de eigenaar zo voor zich)
+Een tijdlijn wat het kind volgt
+
+Een ouder en kinderaccount: ouders hebben overzicht over het kind zijn traject.
+
+De eigenaar wilt erg graag duidelijkheid op de tijdlijn
+Het kan zijn dat een kind een extra controle krijgt of een andere arts (soms is er iets extras nodig), dus het is fijn om iets meer variatie in de routes te krijgen.
+
+> Is de leeftijd afhankelijk voor de behandeling van het kind?
+> Dat zit vooral in de communicatie met de doctor
+
+> Hoe kunnen we het beste communiceren van het kind?<br>Leesvaardigheden is het grootste punt, jongere kinderen kunnen minder goed lezen, gebruik simpele taal of plaatjes/animaties om dingen uit te leggen
+
+
+# Functionaliteit app
+
+> Hoeveel helpt de ouder mee met de app
+> Ik verwacht dat de ouders meehelpen met het maken van een account etc.
+
+
+> Moet er goed overzicht worden gehouden over het account van de app?
+> Het is fijn dat de ouders kunnen zien waar het kind op het tijdlijn, ze hoeven niet te traceren wat het kind allemaal precies heeft gedaan. Ouders kunnen meer details krijgen en een strakker beeld dan het kind (die meer kleuren heeft).
+
+# Opmerking Jouke
+Probeer met de basis van het product te starten en niet alles tegelijkertijd
+
+# Veiligheid en privacy
+Kijk naar de AVG met hoe persoonlijke gegevens om word gegaan; het zijn medische gegevens dus beveilig het goed. (traject, locatie, behandelingen etc)

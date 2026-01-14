@@ -1,0 +1,47 @@
+---
+tags:
+  - school/slb
+  - taal/nederlands
+  - language/dutch
+  - school/robotics-prototyping
+---
+> "*Probeer de problemen te houden binnen je casus. Iets zoals brightspace kan je niet zoveel aan doen*." -Jouke Corbijn
+
+
+**Chris**: heeft moeite met de visual studio (code) extensie van de raspberry pi, dat we worden geforceerd om in vscode te werken. Het licht aan vscode, want Chris gebruikt liever andere IDE's en door die extensie kan dat niet.
+> "*Visual studio code zuigt*" -Chris
+
+Ik mis wat uitdaging voor de opdrachten. Heel veel word het voorgekauwd waardoor het voelt alsof mijn handje teveel word vast gehouden.
+Er zijn niet genoeg opties. 
+
+**Sophie**: Ik heb nogsteeds moeite met brightspace. Het is nu iets beter maar ik heb nogsteeds moeite met het navigeren. 
+De announcements zijn ook erg vaag. We krijgen announcements van andere jaren, die onnodig voor ons zijn. 
+Daarnaast heb ik moeite met de robots met wat ik precies moet doen. Zoals gister de les van OOP, ik weet niet wat ik er precies mee moet.
+Ik hoef niet perse stap voor stap informatie te krijgen, maar het zou wel fijn zijn om te weten wat we kunnen doen.
+
+**Jurre**: Ik vind het moeilijk om uit bed te komen om naar de les te gaan omdat je niet weet of de les nuttig is. Er zijn soms nutteloze lessen. Bijvoorbeeld begin van deze week hadden we een practicum terwijl we nog geen sensoren hadden waardoor die les eigenlijk voor niks was.
+
+> "*Je kan ook zelf aan lessen werken voordat je ze hebt gehad. Zoals de presentatie van de sensoren. Tijdens de practica kan je dan vooruit werken.*" -Chris
+
+
+**Ayman**: ik vind deze opleiding niet helemaal beginners proof. Ik wist al voor deze studie dat het moeilijk zou zijn, maar niet op deze manier. Het tempo is te snel.
+Er zouden oefeningen moeten zijn voor de opdrachten. Niet zo zeer repetitie maar meer het toepassen op grotere opdrachten. 
+
+> "*Je kan online opdrachten vinden die heel simpel zijn. Als je veel van die opdrachten doet, zoals simpele reken methodes maakt, word je er veel beter in. Veel oefenen en ook leren je fouten te fixen helpt je te leren programmeren*" -Chris
+
+> "*Leer problemen opzoeken, leer googlen. Je kan veel beter programmeren als je weet hoe je dingen online moet opzoeken. Grijp niet gelijk naar ai, doe dat als je er niet uitkomt met google. Als je daarnaast voorbeeld code vind, type het lijn voor lijn uit, want dan leer je lijn voor lijn.*" -Thomas
+
+> "*Vraag aan ai om code te maken waar een fout in zit. Kijk dan lijn voor lijn of je de code begrijpt en kan zien of je de fout kan spotten. Als je het niet spot vraag dan om een hint*" -Chris
+
+> "*Je zou misschien kijken naar andere mensen en zien dat ze het veel beter doen dan jij, maar die mensen waren ooit ook op een punt waar jij nu bent.*" -Chris
+
+> "*Je kan jezelf altijd vergelijken met beter persoon, kijk naar hoe je een week, een maand, een jaar geleden was en vergelijk jezelf daarmee.*" 
+> -Thomas
+
+
+
+**Martijn**: Ik kom naar school voor het luisteren naar de les. En als er niks is om naar te luisteren kom ik voor niks naar school, want op school vind ik het lastig om te werken. Het lukt me niet om te concentreren. Het voelt ook vrij claustrofobisch. 
+
+**Thomas**: ik mis een beetje richting bij sommige opdrachten. Ik word dan snel overweldigt omdat ik niet precies weet waar ik moet beginnen en wat ik allemaal nodig heb. Hierdoor voelen de opdrachten dan ook erg lang omdat het lastig in te schatten is hoe lang ik er mee bezig ben.
+
+> "*Probeer een planning te maken van wanneer je wat doet om er wat meer overzicht aan te geven.*" -Jurre
