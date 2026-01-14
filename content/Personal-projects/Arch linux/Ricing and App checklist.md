@@ -5,6 +5,7 @@ tags:
   - personal-project/theming
   - taal/engels
   - language/english
+publish: "true"
 ---
 - [ ] global shared theme
 - [ ] neovim

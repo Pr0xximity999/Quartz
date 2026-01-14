@@ -4,6 +4,7 @@ tags:
   - school/robot-fleet
   - taal/engels
   - language/english
+publish: "true"
 ---
 A router usually has a buffer which holds packets before they are sent off. Whenever this buffer is full, new packets won’t be stored and will be dropped (**loss**). This can happen whenever the router doesn’t handle the packets quick enough: packets are being processed slower than they are being received(**delay**).
 

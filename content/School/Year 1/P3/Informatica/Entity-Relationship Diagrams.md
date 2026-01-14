@@ -6,6 +6,7 @@ tags:
   - taal/engels
   - design/diagrams
   - school/2D-graphics
+publish: "true"
 ---
 > "*Datamodelling is the act of making an abstract representation of a set of concepts, properties, relations, and constraints on data entities*"
 

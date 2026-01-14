@@ -4,6 +4,7 @@ tags:
   - modpacks/terrafirmagreg/survival
   - taal/engels
   - language/english
+publish: "true"
 banner:
 ---
 Fire is a very important technological advancement. You won’t get far in life without it.

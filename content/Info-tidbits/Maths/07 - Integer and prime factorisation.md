@@ -5,6 +5,7 @@ tags:
   - maths/integers
   - maths/product
   - maths/primes
+publish: "true"
 ---
 ## Integer factorisation (decomposition)
 [[Info-tidbits/Maths/01 - Numbers|integer]] factorisation is the decomposition of a product into its factors.

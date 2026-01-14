@@ -1,6 +1,7 @@
 ---
 tags:
   - programming-languages/qml
+publish: "true"
 ---
 # Intro
 The definition of QML, Qt, and QtQuick are a bit vague and confusing, so i will try my best to explain it.

@@ -5,6 +5,7 @@ tags:
   - modpacks/terrafirmagreg/farming/crops
   - taal/engels
   - language/english
+publish: "true"
 ---
 # General info
 Bananas are a special kind of fruit tree. They grown only vertically, lack leaves, and only fruit at the topmost block.

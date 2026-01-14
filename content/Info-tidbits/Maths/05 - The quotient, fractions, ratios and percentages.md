@@ -6,6 +6,7 @@ tags:
   - maths/percentages
   - language/english
   - taal/engels
+publish: "true"
 ---
 # The quotient of two numbers
 Dividing two numbers by one another is called the **quotient**.

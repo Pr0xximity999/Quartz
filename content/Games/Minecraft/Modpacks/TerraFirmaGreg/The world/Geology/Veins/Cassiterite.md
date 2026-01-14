@@ -6,6 +6,7 @@ tags:
   - language/english
   - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
+publish: "true"
 ---
 # Rock types
 - Igneous Intrusive (Granite, Diorite, Gabbro)

@@ -4,6 +4,7 @@ tags:
   - school/technische-informatica
   - taal/engels
   - language/english
+publish: "true"
 ---
 Today school gave us a tiny robot. It's intention is to be used in a case with a certain company to achieve a certain goal. The current goal is not yet known.
 

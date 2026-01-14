@@ -4,6 +4,7 @@ tags:
   - school/hardware
   - language/english
   - taal/engels
+publish: "true"
 ---
 # Resistors
 A resistor is one of the most common electrical components out there.

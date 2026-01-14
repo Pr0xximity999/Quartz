@@ -5,6 +5,7 @@ tags:
   - programming-languages/ROS
   - taal/engels
   - language/english
+publish: "true"
 ---
 # Domains
 Robots on the same networks sometimes don’t need to share the same topics because this can cause issues with shared variables like driving speed and direction. This can be fixed with domains.

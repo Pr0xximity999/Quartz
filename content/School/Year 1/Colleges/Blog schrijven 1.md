@@ -8,6 +8,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/robotics-prototyping
+publish: "true"
 ---
 De blogs zijn belangrijk om onze kennis te toetsen
 

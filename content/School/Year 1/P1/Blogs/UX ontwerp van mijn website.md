@@ -5,6 +5,7 @@ tags:
   - school/smart-energy
   - language/dutch
   - taal/nederlands
+publish: "true"
 ---
 Voor het maken van mijn projectwebsite moet ik een wireframe ontwerpen. Een wireframe is een hele simpele layout van hoe de website er ongeveer uit gaat zien.
 

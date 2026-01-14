@@ -4,6 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/smart-energy
+publish: "true"
 ---
 
 # Slimmer worden door een slimme meter

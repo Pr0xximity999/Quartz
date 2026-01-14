@@ -4,6 +4,7 @@ tags:
   - taal/engels
   - language/english
   - school/2D-graphics
+publish: "true"
 ---
 Projects in school are usually meant to teach you things, or let you grow in a certain way. Sometimes these things are decided by you (within a range of things), in a group project for example.
 In these cases, you usually have to note down your personal goals; the things you want to learn within a certain time frame.

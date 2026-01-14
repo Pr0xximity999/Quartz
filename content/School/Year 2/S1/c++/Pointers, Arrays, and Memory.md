@@ -5,6 +5,7 @@ tags:
   - language/english
   - taal/engels
   - programming-languages/cpp
+publish: "true"
 ---
 # Pointers
 Whenever you assign/create a [[School/Year 2/S1/c++/Types and Operators|data type]] in c++, like a void, char, int, double, bool, etc.. It allocates a bit of memory and gives back the memory location; a *pointer*. Pointers don't hold the value of the memory location, but the *address*.

@@ -4,6 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/robot-fleet
+publish: "true"
 ---
 >[!info] Bij deel 1 was ik niet
 >Hier zijn dus geen notities over :P

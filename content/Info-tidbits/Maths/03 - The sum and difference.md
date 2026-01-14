@@ -7,6 +7,7 @@ tags:
   - maths/difference
   - maths/quotient
   - maths/product
+publish: "true"
 ---
 # The sum of two numbers
 Adding two numbers together is called the **sum**.

@@ -4,6 +4,7 @@ tags:
   - school/robot-fleet
   - taal/engels
   - language/english
+publish: "true"
 ---
 >[!important]
 >This article is a bit of a mess and might not always make sense, ma bad 😔

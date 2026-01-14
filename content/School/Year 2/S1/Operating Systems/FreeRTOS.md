@@ -5,6 +5,7 @@ tags:
   - taal/engels
   - language/english
   - operating-systems/freertos
+publish: "true"
 ---
 >**FreeRTOS**: Free Real Time Operating System
 

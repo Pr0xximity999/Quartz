@@ -5,6 +5,7 @@ tags:
   - personal-project/assembly
   - personal-project/linux
   - operating-systems/linux
+publish: "true"
 ---
 >[!important] I will be using wsl ubuntu for this project
 > You can get download instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install)

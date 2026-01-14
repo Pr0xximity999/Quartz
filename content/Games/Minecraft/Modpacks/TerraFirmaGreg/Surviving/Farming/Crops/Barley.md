@@ -5,6 +5,7 @@ tags:
   - modpacks/terrafirmagreg/farming/crops
   - taal/engels
   - language/english
+publish: "true"
 ---
 # General info
 Barley is a single block crop that can be planted on farmland.

@@ -4,6 +4,7 @@ tags:
   - taal/nederlands
   - school/robotics-prototyping
   - school/slb
+publish: "true"
 ---
 
 >[!abstract] handige bronnen voor het maken van een reflectie

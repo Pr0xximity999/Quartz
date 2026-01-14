@@ -4,6 +4,7 @@ tags:
   - school/robot-fleet
   - taal/engels
   - language/english
+publish: "true"
 ---
 Boolean systems have two outputs: true and false, 1 and 0, T and F.
 

@@ -4,6 +4,7 @@ tags:
   - school/robot-fleet
   - taal/engels
   - language/english
+publish: "true"
 ---
 Computers are digital systems, which means that at their base they can only hold two values: 1's and 0's, a HIGH or LOW electrical signal.
 

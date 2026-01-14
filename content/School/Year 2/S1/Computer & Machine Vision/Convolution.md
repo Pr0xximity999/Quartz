@@ -1,3 +1,10 @@
+---
+tags:
+  - taal/engels
+  - language/english
+  - school/robot-fleet
+publish: "true"
+---
 You can see images as a matrix of numbers. Convolution is grabbing the values of the pixels around one pixel, and doing some math with it, depending on your **kernel**(filter) matrix.
 
 Using the right kernel can help you to either blur an image or perform edge detection.

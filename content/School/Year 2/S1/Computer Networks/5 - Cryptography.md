@@ -4,6 +4,7 @@ tags:
   - school/robot-fleet
   - taal/engels
   - language/english
+publish: "true"
 ---
 Having a computer network opens you up to all kind of threats. Malware, Dos(Denial Of service) attacks, people hijacking your network. One way to defend yourself from these attacks is a firewall.
 

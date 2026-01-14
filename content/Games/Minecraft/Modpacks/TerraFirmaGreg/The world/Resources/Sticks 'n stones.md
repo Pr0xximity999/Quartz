@@ -4,6 +4,7 @@ tags:
   - games/minecraft
   - taal/engels
   - language/english
+publish: "true"
 banner:
 ---
 \[*Sourced from the in-game TFC handbook* ]

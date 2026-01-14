@@ -5,6 +5,7 @@ tags:
   - programming-languages/ROS
   - taal/engels
   - language/english
+publish: "true"
 ---
 See [[School/Year 2/S1/Robotics/ros2 commands|ros2 commands]] for some commands.
 

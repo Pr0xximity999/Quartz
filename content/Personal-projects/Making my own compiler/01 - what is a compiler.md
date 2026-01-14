@@ -2,6 +2,7 @@
 tags:
   - personal-project/programming
   - personal-project/compiler
+publish: "true"
 ---
 Compilers seem like these black magic thingies that take code and make executables, but its actually just an app on your computer that you can make.
 

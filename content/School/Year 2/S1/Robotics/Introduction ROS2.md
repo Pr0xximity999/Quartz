@@ -5,6 +5,7 @@ tags:
   - programming-languages/ROS
   - taal/engels
   - language/english
+publish: "true"
 ---
 >**ROS**: Robot Operating System, is a set of software libraries and tools for building robot applications.
 

@@ -3,6 +3,7 @@ tags:
   - taal/engels
   - language/english
   - maths/integers
+publish: "true"
 ---
 # Positive numbers (non-negative)
 Positive numbers are numbers that are *bigger* than 0.

@@ -5,6 +5,7 @@ tags:
   - language/english
   - taal/engels
   - programming-languages/cpp
+publish: "true"
 ---
 >[!info]
 >I use method and function interchangeably when talking about c++ methods in this document.

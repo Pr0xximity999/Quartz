@@ -5,6 +5,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/smart-energy
+publish: "true"
 ---
 In ons project smart energy moeten we een webapplicatie maken die data van onze meters uitleest. Deze data moet dan gevisualiseerd worden op verschillende manieren afhankelijk van welke opdracht je hebt gekozen. 
 Deze handeling betekent dat je persoonlijke data van een huishouden naar je website brengt. 

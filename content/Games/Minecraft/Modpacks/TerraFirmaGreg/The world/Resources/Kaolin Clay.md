@@ -4,6 +4,7 @@ tags:
   - games/minecraft
   - taal/engels
   - language/english
+publish: "true"
 banner:
 ---
 Kaolin clay is a better version of its [[Games/Minecraft/Modpacks/TerraFirmaGreg/The world/Resources/Clay|regular brother]]. It can be used to make fire clay, a material that doesn’t have many uses, but is still important nonetheless. You will need to to make a crucible for example.
