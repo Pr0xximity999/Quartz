@@ -1,6 +1,7 @@
 ---
 tags:
 banner:
+draft: "true"
 ---
 # Bestuurders en voetgangers
 > **Het verkeer**: Alle weggebruikers. Bestuurders *en* voetgangers.
