@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: { provider: 'google', tagId: 'G-RQ53SEPBR4'},
     locale: "en-US",
     baseUrl: "docs.tominhisroom.dev",
-    ignorePatterns: ["private", "templates", ".obsidian", "Planning*", "planning*"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Planning*", "planning*", "Student Assistent/", "Project Robotfleet/"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -69,6 +69,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.ExplicitPublish(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
