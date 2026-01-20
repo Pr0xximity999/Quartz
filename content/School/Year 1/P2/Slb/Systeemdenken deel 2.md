@@ -5,6 +5,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/robotics-prototyping
+publish: "true"
 ---
 >[!important] Dit is een vervolg op systeemdenken deel 1
 > De vorige les kan je [[School/Year 1/P1/Slb/Systeemdenken|hier]] vinden
