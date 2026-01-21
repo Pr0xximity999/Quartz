@@ -6,6 +6,24 @@ tags:
 banner:
 publish: "false"
 ---
+>[!important] For the case study (part 1)
+>- Write down every stakeholder in your system on a blank piece of paper. Push yourself to think past the obvious.
+>- Add any technologies or objects that are relevant. Again, push past the obvious.
+>- Draw arrows between the different parts of your system to identify how they’re connected
+>	- Are there casual loops or other feedback loops?
+>- Reflect on what specific areas you want to examine more closely. What questions come up for you? What gaps do you see?
+>
+>Tomorrow:
+>- Explore which SDGs are relevant to the case
+>	- The obvious and the less obvious
+>	- What are the inter-linkages
+>- How does your proposed solution affect these SDGs?
+
+>[!important] For the case study (part 2)
+>- Define the problem
+>- Analyse the problem using the systems iceberg
+>- Brainstorm solutions using the systems iceberg
+>- Evaluate solutions using the solutionary scale
 # Part 1 - Lesson (part 1)
 ## What is a system?
 Systems are two or more parts that form a whole. Everything around you is a system. 
@@ -50,19 +68,6 @@ Habits of a systems thinker:
 - Finding where unintended consequences might arise
 - Finding leverage points to change a system
 - Resisting drawing quick conclusions
-## For the case study
-- Write down every stakeholder in your system on a blank piece of paper. Push yourself to think past the obvious.
-- Add any technologies or objects that are relevant. Again, push past the obvious.
-- Draw arrows between the different parts of your system to identify how they’re connected
-	- Are there casual loops or other feedback loops?
-- Reflect on what specific areas you want to examine more closely. What questions come up for you? What gaps do you see?
-
-Tomorrow:
-- Explore which SDGs are relevant to the case
-	- The obvious and the less obvious
-	- What are the inter-linkages
-- How does your proposed solution affect these SDGs?
-
 
 ## Write down
 **What is a system?**<br>A system is an interconnected web of different things influencing one another, creating a functioning whole. Changing/removing something from the system will either influence or stop the functioning as a whole.
@@ -156,10 +161,3 @@ A solutionary is someone that creates solutions that will cause a good change in
 >- empathy and respect for cultural diversity
 >- critical thinking
 >- willingness and ability to act (locally and globally)
-
-## For the case study
->[!important] For the case study
->- Definie the problem
->- Analyse the problem using the systems iceberg
->- Brainstorm solutions using the systems iceberg
->- Evaluate solutions using the solutionary scale
