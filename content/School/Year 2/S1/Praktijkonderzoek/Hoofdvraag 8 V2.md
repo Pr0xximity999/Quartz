@@ -12,8 +12,8 @@ Een robotvloot kan niet functioneren zonder onderlinge communicatie. Deze commun
 
 In dit onderzoek word er over “communicatiemethoden” en “communicatieprotocollen” geschreven. In de context van dit onderzoek word hiermee het zelfde bedoelt.
 
-## 1.1 - Inhoud
-[[_TOC_]]
+Een robotvloot kan ook wel een Multi-Robot System, of afgekort MRS (Jawhar et al., 2018) genoemd worden. De term MRS zal meerdere keren voorkomen in dit onderzoek.
+
 # 2 - Onderzoeksopzet
 ## 2.1 - Onderzoeksvraag en deelvragen
 De hoofdvraag van dit document is: “*Welke communicatiemethode is het meest efficiënt voor gegevensuitwisseling tussen robots?*”. 
@@ -24,123 +24,104 @@ Hierom worden er een aantal deelvragen opgesteld. Deze vragen zullen de scope va
 
 ### 2.1.1 - Context specifieke informatie
 Voordat de concretere deelvragen opgesteld worden zullen er alvast aantal definities aangegeven worden.
-- Een “communicatiemethode” is een hardware agnostisch communicatie protocol waarmee een computerapplicatie data kan uitwisselen ()
-- De robot zal de rekenkracht hebben van een raspberry pi
+- Een “communicatiemethode” is een hardware agnostisch communicatie protocol waarmee een computerapplicatie data kan uitwisselen
+- De robot zal de rekenkracht hebben van een raspberry pi 4
 - Communicatiesnelheid is niet cruciaal, maar moet ook niet merkbaar lang zijn
-	- Een stop-commando bijvoorbeeld, moet binnen een seconde uitgevoerd worden
+	- Een stop-commando bijvoorbeeld moet snel genoeg uitgevoerd worden dat de robot niet tegen iets aan rijd
 ### 2.1.2 - Deelvragen
 Deze deelvragen zijn:
-1. Welke communicatiemethoden zijn er?
+1. Wat is benodigd voor onderlinge communicatie in een robotvloot?
 2. Wat betekent het voor een communicatiemethode om efficiënt te zijn?
 3. Welke communicatiemethoden zijn mogelijk binnen de restricties van de robothardware?
-4. Vereist een gekozen communicatiemethode een server?
+4. Welke communicatiemethode is het meest geschikt binnen de restricties van deelvraag 1 - 3?
+
 ## 2.2 - Methoden en technieken
 Aangezien er al bestaande informatie en onderzoeken gepubliceerd staan op het internet, is een literatuuronderzoek het meest geschikt om de deelvragen te kunnen beantwoorden.
 
-Zoekmachines zoals Google en Google Scholar zullen gebruikt worden om bronnen met informatie te vinden. Om deze bronnen te vinden kan er gedacht worden aan queries zoals “list of communication protocols”, “robot fleet communication protocols”, “most efficient communication protocols”, of andere zinnen die betrekking hebben tot communicatieprotocollen en een van de deelvragen.
+Zoekmachines zoals Google en Google Scholar zullen gebruikt worden om bronnen met informatie te vinden. Om deze bronnen te vinden worden er search queries gebruikt die betrekking hebben tot communicatieprotocollen en één van de deelvragen, zoals “robot fleet communication requirements”, “list of communication protocols”, “robot fleet communication protocols”, “most efficient communication protocols” of “performance evaluation communication protocols robots”.
 
-Informatie zal vooral kwantitatief zijn aangezien het meer om de karakteristieken gaat dan om de diepgaande betekenis van de communicatiemethoden. Het gaat immers over de efficiëntie van een protocol.
+Voor het vergelijken van de communicatiemethoden zal er een multi-criteria-analyse gebruikt worden. een MCA is hier perfect voor aangezien communicatieprotocollen veel becijferbare eigenschappen heeft.
 
----
+## 2.3 - Scope
+In dit onderzoek word er niet gekeken naar de beveiligingsaspecten van de communicatiemethoden. In een vervolgonderzoek kan dit wel gedaan worden, maar om de scope van dit onderzoek niet te groot te maken is het besluit genomen om dit achterwege te laten.
 
-Omdat het om al bestaande communicatiemethoden gaat zal er voor deelvraag 1 en 2 gebruik worden gemaakt van literatuuronderzoek. Er is genoeg informatie op het internet te vinden over dit onderwerp, dus andere vormen van onderzoek zullen niet nodig zijn. Search queries die gebruikt worden zullen dingen zijn zoals “List of communication methods used in a robot fleet” en “Communication methods capable of supporting a large robot fleet”.
-  
-Voor het onderzoeken van beide deelvragen zal er een multi-criteria-analyse toegepast worden, omdat het onderzoek nuance kan hebben en deze minimaal moet blijven. Deze criteria staan naast andere criteria in [[#2.5 - Criteria]]beschreven.
-## 2.3 - Benodigde middelen
-Naast triviale elementen zoals een werkende internetverbinding, een werkende computer en een zoekmachine, in dit geval google, is tijd vooral van belang als het gaat om een literatuuronderzoek. 
-Een multi-criteria-analyse draait vooral om een kritische blik naar de gegeven informatie en het op een juiste manier afwegen.
+## 2.4 - Benodigde middelen
+Voor dit onderzoek is een werkende computer nodig met een internet verbinding, waarmee er door gebruik van een zoekmachine (google (scholar) in dit geval) informatie opgezocht kan worden. Voor voor het vergelijken van de informatie over communicatiemethoden met betrekking tot de MCA is er vooral een kritische blik en logische beredenatie nodig om de juiste score te geven.
 
-## 2.4 - Analysemethoden
-De analysemethode zal vooral een kwantitatieve data-analyse zijn. Er zal aan de hand van de multi-criteria-analyse besloten worden welke communicatiemethode het meest geschikt is voor dit project. De verzamelde data zal worden verzameld met gebruik van openbare internetbronnen (zie [[#7 - Bronnenlijst]]).
-  
-## 2.5 - Criteria
-De criteria waar in dit onderzoek vooral naar gekeken zal worden, is schaalbaarheid en server afhankelijkheid. De robots moeten op tijd hun status door kunnen geven aan de vloot. Als het aantal robots toe neemt moet deze snelheid niet verloren gaan.
-  
-Of de communicatiemethode serverloos is of niet zal niet een bepalende factor zijn, soms zal de server optie een stuk gunstiger zijn, maar de voorkeur gaat wel uit naar een methode die geen server nodig heeft om goed te functioneren. Desnoods kan 1 robot fungeren als een server, waar de andere robots doorheen kunnen communiceren. Daarentegen zal uit dit onderzoek komen of het inderdaad een betere optie is om wel of niet een server te utiliseren.
-  
-De bronnen die gebruikt worden moeten wel betrouwbaar zijn, hierom zullen alleen bronnen gebruikt worden waarvan bekend is dat deze legitiem zijn, zoals bronnen van Google Scholar en Wikipedia, en wiens informatie overeenkomt met meerdere websites.
-  
-Tot slot moet de communicatiemethode simpel zijn om te implementeren. Het moet het liefst het JSON/text format ondersteunen omdat die in het verleden het meest gebruikt is bij school opdrachten. 
-# 3 - Onderzoeksresultaten & Analyse
-## 3.1 - Onderzoek naar protocollen
-Tijdens het onderzoek kwamen veel communicatieprotocollen voorbij (Sarraf, 2025). Uit deze protocollen zijn er 4 gekozen die interessant kunnen zijn voor een robot vloot:
-### 3.1.1 - Zigbee
-Zigbee is een low-power mesh-netwerk protocol dat gemaakt is voor een minimaal vertraagde, draadloze communicatie tussen apparaten die met een batterij aangedreven zijn met een bereik tussen de 10 en 100 meter en een datasnelheid rond de 250 kbit/s (Wikipedia contributors, 2025d). Zigbee wordt meestal gebruikt als communicatiemiddel in huisautomatisering apparaten, sensoren en industriële doeleinden zoals stoplichten. Het ligt een beetje tussen Bluetooth en Wi-Fi in. Zigbee heeft geen server nodig en communiceert direct tussen apparaten.
-  
-  
-### 3.1.2 - MQTT
-Message Queuing Telemetry Transport, of MQTT, is een lichtgewicht subscriber-publisher protocol gemaakt voor IoT apparaten, cloud applicatie en robot vloten (Wikipedia contributors, 2025b). MQTT bestaat uit 2 bestanddelen: een message broker(server) en een aantal clients. Clients sturen berichten naar een “topic” op de broker, die dan weer doorgestuurd wordt naar alle clients die een subscription hebben naar dit topic. MQTT is gemaakt om een groot aantal berichten per seconde te kunnen verwerken zonder grote vertraging. De snelheid van MQTT is afhankelijk van de internetsnelheid van de server en client.
-  
-  
-### 3.1.3 - CoAP
-**Co**nstrained **A**pplication **P**rotocol (CoAp) is een UDP-gebaseerd protocol gemaakt voor microcontrollers met lage ROM en RAM, ook wel constrained nodes genoemd (_RFC 7228: Terminology For Constrained-Node Networks_, z.d.-b). Het protocol is ontworpen voor machine-to-machine (M2M) applicaties, zoals smart energy of de automatisering van gebouwen (_RFC 7252: The Constrained Application Protocol (CoAP)_, z.d.). 
-CoAP biedt een request/response interactie model tussen applicaties, ondersteunt ingebouwde discovery-of-services, concepten zoals URIs en internet media types en kan makkelijk interfacen met HTTP (Wikipedia contributors, 2025a). Het heeft weinig overhead en is erg gemakkelijk in het gebruik.
-  
-  
-### 3.1.4 - LoRa
-Het **Lo**ng **Ra**nge protocol LoRa is een radio communicatieprotocol dat op de fysieke laag werkt met een openbare, licentievrije radiofrequentie.
-LoRa is ontworpen voor apparaten met een lage rekencapaciteit en geheugen en werkt over lange afstanden (tussen de 330 kilometer in perfecte omstandigheden, tot 10 kilometer in normale omstandigheden). Deze eigenschappen zorgen wel voor een ander probleem: LoRa, met een datasnelheid tussen de 0.3 kbit/s en 27 kbit/s is de laagste communicatiesnelheid van de 4 beschreven protocollen(Wikipedia contributors, 2025c).
-  
-  
-## 3.2 - Multi-criteria-analyse
-Aan de hand van de verzamelde data wordt er een tabel gemaakt met de scores, server afhankelijkheid, plus- en minpunten en een verklaring die de communicatiemethoden krijgen. 
-  
-De score zal 1-5 punten zijn, waar 1 het laagst is en 5 het hoogst, server afhankelijkheid zal een simpele ja of nee zijn, plus- en minpunten en verklaringen zullen in tekst geschreven worden.
-### 3.2.1 -  Wegingen
-Alle criteria zullen een weging krijgen om te representeren hoe belangrijk deze is voor de uiteindelijke keuze.
-- **Schaalbaarheid**: 40%
-- **Server afhankelijkheid**: 10%
-- **Pluspunt(en)**: 25%
-- **Minpunt(en)**: 25%
+## 2.5 - Analysemethoden
+Informatie analyseren zal vooral kwantitatief zijn aangezien het meer om de karakteristieken gaat dan om de diepgaande betekenis van de communicatiemethoden. Het gaat immers over de efficiëntie van een protocol.
 
-### 3.2.2 - MCA tabel
+## 2.6 - Criteria
+De criteria opgesteld voor dit onderzoek zijn zo geschreven dat alles een deelname kan nemen aan de MCA. Deze criteria worden dus opgesteld zodat iedere communicatiemethode met elkaar vergeleken kan worden.
 
-| Protocol | Schaalbaarheid | Verklaring                                                                                                                                                                                    | Server-afhankelijk? | Pluspunt(en)                                           | Minpunt(en)                                                |
-| -------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-| Zigbee   | 2               | Zigbee is een mesh netwerk protocol die ontworpen is om meerdere apparaten aan elkaar te verbinden, maar door zijn lage datasnelheid is het niet geschikt voor een constante, grote datastroom | nee                 | Laag stroomverbruik, draadloos                         | Het is meer geschikt voor sensoren dan voor een robot vloot |
-| MQTT     | 5               | Schaalbaarheid en het ondersteunen van veel apparaten is waar MQTT voor is gemaakt                                                                                                            | ja                  | Werkt met veel apparaten                               | Heeft een server nodig                                     |
-| CoAP     | 3               | CoAp heeft ondersteuningen voor het maken van een mesh netwerk                                                                                                                                 | beide               | geschikt voor kleine chips en heeft geen stroom nodig  | Werkt alleen met UDP                                       |
-| LoRa     | 3               | LoRa is perfect voor langeafstands-communicatie, maar het heeft een extreem lage datasnelheid                                                                                                 | nee                 | Werkt over een lange afstand zonder internetverbinding | Heeft een radiochip nodig, zeer lage datasnelheid          |
-  
+De criteria waarmee de communicatiemethoden worden vergeleken zijn:
+1. Latency
+	Al hoewel de vertraging in communicatie niet extreem cruciaal is voor dit onderzoek, word het wel meegenomen in deze criteria (al is dit wel met een lagere weging ten opzichte van andere criteria)
+2. Percentage van succesvolle berichtoverdrachten
+	Een bericht wat soms niet door komt is geen probleem, maar dit moet niet te vaak gebeuren.
+3. Schaalbaarheid
+	Des te groter de vloot, des te meer load komt op het hele netwerk. De methode moet goed om kunnen gaan met het groeien van het netwerk.
+4. Geheugen gebruik / CPU load
+	Een raspberry pi 4 heeft niet als te veel geheugen, maar 1, 2, 4, of 8 GB (Raspberry Pi Foundation, z.d.). Dit onderzoek gaat uit van 8 gigabytes aan geheugen.
+	Hier naast moet de belasting op de processor ook niet dusdanig veel zijn dat het het opereren van de robot belemmerd
+5. Server-afhankelijkheid
+	Een centrale server draaien voor een robotvloot, op een robot of een aparte Raspberry pi, kan voor onnodige druk / gebruik van cruciale resources zorgen.
+
+![image](https://assets.raspberrypi.com/static/blueprint-labelled-97975f4b1159239a8e248d180be87e3e.svg)
+*Figuur 1: Raspberry Pi 4 Tech Specs (Raspberry Pi Foundation, z.d.)*
+
+
+# 3 - Data Verzameling & Analyse
+## 3.1 - Deelvraag 1
+> “***Wat is benodigd voor onderlinge communicatie in een robotvloot?***”
+
+Het gebruik van meerdere, *verbonden* robots in plaats van alleenstaande robots zorgt voor een verbetering in distributie en specialisatie. Het toepassen van deze robots vereist goede communicatie en onderlinge uitwisseling van informatie (Gielis et al., 2022). 
+
+Wanneer het bijvoorbeeld gaat om ontdekking van terrein is het essentieel dat de robots onderling communiceren en bijhouden waar ze al geweest zijn en in de toekomst, moeten ze deze kaart kunnen gebruiken om efficient onderling paden en routes te plannen (_Coordinated Multi-robot Exploration_, 2005).
+
+Een van de meest belangrijke vormen van coördinatie in een multi robot systeem word gezien wanner robots onderling samenwerken om in een formatie te bewegen en die formatie aan te houden, zoals een zwerm vogels. “Flocking” is een vorm van groepscoördinatie met meerdere robots met hetzelfde doeleind (_A Review Of Research in Multi-robot Systems_, 2012)
+
+
+Voor een succesvolle vloot zijn er 3 heuristische regels opgesteld door Reynolds in 1987:
+1. Vloot centralisatie: Probeer dichtbij andere vlootgenoten te blijven
+2. Obstakel ontwijking: Ontwijk botsingen met vlootgenoten te voorkomen
+3. Snelheidsafstemming: Probeer even snel te gaan als vlootgenoten
+(Reynolds, 1987)
+
+Deze regels worden ook wel cohesie, scheiding en opstelling genoemd.
+
+Het benodigde in een robotvloot wat betreft communicatie is dus dat informatie over diens positie, snelheid en omgeving efficient doorgestuurd kan worden op een betrouwbare, snelle manier.
+
+## 3.2 - Deelvraag 2
+> “***Wat betekent het voor een communicatiemethode om efficiënt te zijn?***”
+
+Zoals besproken in deelvraag 1 moet een robotvloot onderling informatie over zichzelf en zijn omgeving uitwisselen. Hieruit kunnen kan geconcludeerd worden dat de efficiëntie van een communicatiemethode hem vooral ligt in de juiste werking van de gegevensuitwisseling en dat deze dus zo min mogelijk belemmerd moet worden.
+
+In [[#2.6 - Criteria]] waren er een aantal criterium vastgesteld die \[gebruik worden om communicatiemethoden te vergelijken]
+## 3.3 - Deelvraag 3
+
+## 3.4 - Deelvraag 4 (MCA)
+
 # 4 - Conclusie
-Alhoewel alle communicatiemethoden geschikt kunnen zijn voor een robot vloot, zijn er toch methoden die een betere kandidaat zijn dan andere. 
-  
-Gebaseerd op de multi-criteria-analyse dat, ondanks dat het afhankelijk is van een server, MQTT de meest efficiënte communicatie methode is voor een robot vloot. 
-  
-Ondanks dat CoAp ook een zeer geschikt, serverloos en handig protocol is met de machine-to-machine communicatie en de discovery-of-services, heeft MQTT toch een betere ondersteuning om efficiënter onderlinge communicatie op te zetten tussen robots als het aantal hiervan groeit. 
-LoRa heeft zeer sterke eigenschappen met zijn langeafstandscommunicatie en optionele server onafhankelijkheid, maar valt af omdat de datasnelheid te laag is om een plausibele uitkomst te zien in de snelheid waarmee de communicatie plaatsvindt. Zigbee, hoewel deze ook serverloos is, is meer gespecialiseerd op losse componenten zoals sensoren dan op gehele robot vloten, waardoor deze ook afvalt.
-  
-# 5 - Evaluatie
-Hoewel er natuurlijk ruimte is voor een meer gedetailleerd onderzoek in meerdere communicatiemethoden, paste dat niet in de tijd waarin dit onderzoek gemaakt kon worden. 
-  
-Voor de communicatiemethoden die wél onderzocht waren met de tijd die ik had, beantwoordt het de hoofdvraag “Welke communicatiemethode is het meest efficiënt voor gegevensuitwisseling tussen robots?” goed genoeg. De deelvragen daarentegen waren niet de beste keuze die gemaakt konden worden bij deze hoofdvraag. Hier kwam ik te laat achter om nog andere deelvragen te kiezen.
-  
-Daarentegen was de keuze om een multi-criteria-analyse te doen voor de gevonden data een betere keuze dan een prototype maken aangezien dat zoveel tijd had gekost dat het onderzoek waarschijnlijk niet op tijd af was gekomen.
-  
-Qua validiteit van de criteria ben ik van mening dat het de scope goed genoeg afbakent tot wat de deelvragen moeten beantwoorden. Misschien zou ik de volgende keer meer tijd moeten besteden om betere criteria te bedenken om nog betere criteria te krijgen.
-  
-De uitvoering van dit onderzoek zal kleine variaties hebben afhankelijk van welke google searches je precies uitvoert, maar zolang het in de context van de beschreven queries blijft moet het niet te veel variëren. 
-  
-Hetzelfde geld voor de reproduceerbaarheid. De methoden en technieken kunnen meet duidelijkheid bevatten. Welke dingen precies weet ik niet precies, maar ik merk dat het beter uitgewerkt kon worden.
-  
-De samenwerking tussen mij en mijn duo genoot was aanwezig maar niet in overvloed. Ik (Thomas) heb aan deze hoofdvraag gewerkt, terwijl Jelle aan hoofdvraag 8 heeft gewerkt. Dit zorgde ervoor dat er, naast ik die vroeg hoe de progressie ging en wat feedback heen en weer, niet veel onderlinge samenwerking was om deze 2 hoofdvragen uit te onderzoeken.
-  
-Mijn aanpak voor dit onderzoek was best chaotisch, ik vond het lastig om richting te vinden en waar ik moest beginnen. Mijn keuze om geen generatieve AI te gebruiken voor dit onderzoek, omdat ik wilde kijken of het mogelijk was om dit zonder AI te doen, zorgde ervoor dat ik soms houvast en duidelijkheid miste van wat de beste manier was om dit aan te pakken. Na het maken van dit onderzoek heb ik zeker meer duidelijkheid voor dit probleem en zal het makkelijker gaan.
-  
-# 6 - Verantwoording gebruik AI-assistent
+
+## 4.2 Aanbevelingen
+Door dit onderzoek heen kwamen er een aantal punten aan het licht wat ik de toekomst aangepast kan worden om dit onderzoek accurater of relevanter te maken:
+1. Houd rekening met de beveiliging van een communicatiemethode
+	De veiligheid van een communicatiemethode kan de deciding factor zijn in sommige situaties waar de integriteit van informatie cruciaal is.
+
+# 5 - Reflectie
+
+# # 6 - Verantwoording gebruik AI-assistent
 In dit document is geen gebruik gemaakt van een AI-assistent.
-  
 # 7 - Bronnenlijst
-_RFC 7228: Terminology for Constrained-Node Networks_. (z.d.). IETF Datatracker. https://datatracker.ietf.org/doc/html/rfc7228
-  
-_RFC 7252: The Constrained Application Protocol (CoAP)_. (z.d.). IETF Datatracker. https://datatracker.ietf.org/doc/html/rfc7252
-  
-Sarraf, G. (2025, 31 maart). _Robot Communication Protocols: A Comprehensive guide_. ThinkRobotics.com. https://thinkrobotics.com/blogs/learn/robot-communication-protocols-a-comprehensive-guide
-  
-Wikipedia contributors. (2025a, juni 27). _Constrained Application Protocol_. Wikipedia. https://en.wikipedia.org/wiki/Constrained_Application_Protocol
-  
-Wikipedia contributors. (2025b, oktober 28). _MQTT_. Wikipedia. https://en.wikipedia.org/wiki/MQTT
-  
-Wikipedia contributors. (2025c, november 2). _LoRa_. Wikipedia. https://en.wikipedia.org/wiki/LoRa
-  
-Wikipedia contributors. (2025d, november 18). _Zigbee_. Wikipedia. https://en.wikipedia.org/wiki/Zigbee
+Raspberry Pi Foundation. (z.d.). _Raspberry PI 4 Model B Specifications_. https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/.
+
+
+
+Gielis, J., Shankar, A., & Prorok, A. (2022). A Critical Review of Communications in Multi-robot Systems. _Current Robotics Reports_, _3_(4), 213–225. https://doi.org/10.1007/s43154-022-00090-9
+
+_A review of research in multi-robot systems_. (2012, 1 augustus). IEEE Conference Publication | IEEE Xplore. https://ieeexplore.ieee.org/abstract/document/6304778
+
+_Coordinated multi-robot exploration_. (2005, 1 juni). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/1435481
+
+Reynolds, C. W. (1987). Flocks, herds and schools: A distributed behavioral model. _Symbolics Graphics Division_, 25–34. https://doi.org/10.1145/37401.37406
