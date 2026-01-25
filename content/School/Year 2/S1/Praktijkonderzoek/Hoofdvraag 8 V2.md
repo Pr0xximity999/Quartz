@@ -5,12 +5,12 @@ tags:
   - taal/nederlands
 banner:
 ---
-> Een peer review van dit document is [hier](/LU2-%2D-Onderzoeksproject/Wiki-%2D-B3.2-%2D-Thomas-&-Jelle/8-%2D-Beste-communicatie-methode/Peer-review-%2D-Jarek) te vinden
-  
 # 1 - Inleiding
 In dit document zal er een probleem uitgelegd, opgezet, uitgevoerd en geëvalueerd worden. De onderzoekvraag die behandeld zal worden luid “*Welke communicatiemethode is het meest efficiënt voor gegevensuitwisseling tussen robots (in een vloot)?*”. 
 
 Een robotvloot kan niet functioneren zonder onderlinge communicatie. Deze communicatie moet snel en eenvoudig gebeuren zodat het zo efficiënt mogelijk is.
+
+In dit onderzoek word er over “communicatiemethoden” en “communicatieprotocollen” geschreven. In de context van dit onderzoek word hiermee het zelfde bedoelt.
 
 ## 1.1 - Inhoud
 [[_TOC_]]
@@ -37,7 +37,9 @@ Deze deelvragen zijn:
 ## 2.2 - Methoden en technieken
 Aangezien er al bestaande informatie en onderzoeken gepubliceerd staan op het internet, is een literatuuronderzoek het meest geschikt om de deelvragen te kunnen beantwoorden.
 
-google scholar? lists of communication protocols? What makes a protocol efficient? etc
+Zoekmachines zoals Google en Google Scholar zullen gebruikt worden om bronnen met informatie te vinden. Om deze bronnen te vinden kan er gedacht worden aan queries zoals “list of communication protocols”, “robot fleet communication protocols”, “most efficient communication protocols”, of andere zinnen die betrekking hebben tot communicatieprotocollen en een van de deelvragen.
+
+Informatie zal vooral kwantitatief zijn aangezien het meer om de karakteristieken gaat dan om de diepgaande betekenis van de communicatiemethoden. Het gaat immers over de efficiëntie van een protocol.
 
 ---
 
