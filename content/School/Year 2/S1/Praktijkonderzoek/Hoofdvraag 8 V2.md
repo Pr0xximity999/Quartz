@@ -97,7 +97,9 @@ Het benodigde in een robotvloot wat betreft communicatie is dus dat informatie o
 
 Zoals besproken in deelvraag 1 moet een robotvloot onderling informatie over zichzelf en zijn omgeving uitwisselen. Hieruit kunnen kan geconcludeerd worden dat de efficiëntie van een communicatiemethode hem vooral ligt in de juiste werking van de gegevensuitwisseling en dat deze dus zo min mogelijk belemmerd moet worden.
 
-In [[#2.6 - Criteria]] waren er een aantal criterium vastgesteld die \[gebruik worden om communicatiemethoden te vergelijken]
+In het hoofdstuk [[#2.6 - Criteria]] waren er een aantal criterium vastgesteld die in de vergelijking van de communicatiemethoden gebruikt zullen worden. Deze zijn daarentegen ook om vast te leggen wat efficiëntie betekent in de context van communicatiemethoden.
+
+
 ## 3.3 - Deelvraag 3
 
 ## 3.4 - Deelvraag 4 (MCA)
@@ -115,8 +117,6 @@ Door dit onderzoek heen kwamen er een aantal punten aan het licht wat ik de toek
 In dit document is geen gebruik gemaakt van een AI-assistent.
 # 7 - Bronnenlijst
 Raspberry Pi Foundation. (z.d.). _Raspberry PI 4 Model B Specifications_. https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/.
-
-
 
 Gielis, J., Shankar, A., & Prorok, A. (2022). A Critical Review of Communications in Multi-robot Systems. _Current Robotics Reports_, _3_(4), 213–225. https://doi.org/10.1007/s43154-022-00090-9
 
