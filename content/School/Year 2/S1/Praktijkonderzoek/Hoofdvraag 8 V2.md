@@ -97,7 +97,22 @@ Het benodigde in een robotvloot wat betreft communicatie is dus dat informatie o
 
 Zoals besproken in deelvraag 1 moet een robotvloot onderling informatie over zichzelf en zijn omgeving uitwisselen. Hieruit kunnen kan geconcludeerd worden dat de efficiëntie van een communicatiemethode hem vooral ligt in de juiste werking van de gegevensuitwisseling en dat deze dus zo min mogelijk belemmerd moet worden.
 
-In het hoofdstuk [[#2.6 - Criteria]] waren er een aantal criterium vastgesteld die in de vergelijking van de communicatiemethoden gebruikt zullen worden. Deze zijn daarentegen ook om vast te leggen wat efficiëntie betekent in de context van communicatiemethoden.
+In het hoofdstuk [[#2.6 - Criteria]] waren er een aantal criterium vastgesteld die in de vergelijking van de communicatiemethoden gebruikt zullen worden. Deze zijn daarentegen ook een perfecte opsomming om uit leggen wat efficiëntie betekent in de context van communicatiemethoden.
+
+Een aspect wat niet vergeten moet worden, is **latency**. 
+
+
+1. Latency
+	Al hoewel de vertraging in communicatie niet extreem cruciaal is voor dit onderzoek, word het wel meegenomen in deze criteria (al is dit wel met een lagere weging ten opzichte van andere criteria)
+2. Percentage van succesvolle berichtoverdrachten
+	Een bericht wat soms niet door komt is geen probleem, maar dit moet niet te vaak gebeuren.
+3. Schaalbaarheid
+	Des te groter de vloot, des te meer load komt op het hele netwerk. De methode moet goed om kunnen gaan met het groeien van het netwerk.
+4. Geheugen gebruik / CPU load
+	Een raspberry pi 4 heeft niet als te veel geheugen, maar 1, 2, 4, of 8 GB (Raspberry Pi Foundation, z.d.). Dit onderzoek gaat uit van 8 gigabytes aan geheugen.
+	Hier naast moet de belasting op de processor ook niet dusdanig veel zijn dat het het opereren van de robot belemmerd
+5. Server-afhankelijkheid
+	Een centrale server draaien voor een robotvloot, op een robot of een aparte Raspberry pi, kan voor onnodige druk / gebruik van cruciale resources zorgen.
 
 
 ## 3.3 - Deelvraag 3
@@ -110,6 +125,7 @@ In het hoofdstuk [[#2.6 - Criteria]] waren er een aantal criterium vastgesteld d
 Door dit onderzoek heen kwamen er een aantal punten aan het licht wat ik de toekomst aangepast kan worden om dit onderzoek accurater of relevanter te maken:
 1. Houd rekening met de beveiliging van een communicatiemethode
 	De veiligheid van een communicatiemethode kan de deciding factor zijn in sommige situaties waar de integriteit van informatie cruciaal is.
+2. Latency meer naar de voorgrond brengen (?)
 
 # 5 - Reflectie
 
