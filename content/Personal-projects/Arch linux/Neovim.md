@@ -7,6 +7,7 @@ tags:
   - applications/tui
 publish: "true"
 banner: "[[Vault-data/Banners/field-illustration.jpg]]"
+banner_x: 0
 ---
 Neovim: the scary TUI(Text User Interface) text editor that doesn’t use a mouse. It always seemed interesting to me, though i never had the motivation to fully commit to it.
 

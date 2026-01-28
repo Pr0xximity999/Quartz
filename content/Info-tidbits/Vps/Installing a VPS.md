@@ -7,10 +7,6 @@ tags:
   - taal/engels
 publish: "true"
 ---
-# References
-
-https://docs.oldmartijntje.nl/30-39-Applications/31-System-related/31.06-Setting-up-a-VPS
---- 
 # Definition
 A VPS stands for Virtual Private Server.
 It's basically a server you can use for anything stored somewhere in the cloud.
@@ -28,23 +24,19 @@ The costs seem to be either €4,50 or €5.45 per month for 300gb ssd, 6gb ram 
 # Setup
 
 ## Connecting to the machine
-i used [PuTTy](https://putty.org/)
+i used [PuTTy](https://putty.org/), but you might as well use good ol ssh
 
 I followed the contabo help desk page to connect with a windows local machine to the linux server as referenced [here](https://help.contabo.com/en/support/solutions/articles/103000271271-how-do-i-connect-to-my-contabo-server-#How-do-I-connect-to-a-Linux-server-using-a-Windows-local-computer?) 
 I logged into the contabo control panel to get my ip address and port and tried to log into the linux machine.
 
-ITS A COMMAND LINE INTERFACE WOAHH
-thats so dope
-![[Pasted image 20240620122809.png]]
-
 >[!info]
->Heads up, if you wanna past something in a cli (comand line interface), you gotta right click instead of the usual Ctrl + V
+>Heads up, if you wanna past something in a cli (comand line interface), you gotta right click instead of the usual Ctrl + V. In some cases Ctrl + Shift + V also works.
 
 ## Installing docker
 I needed to install docker onto the vps
 to do that, i used the command
 ```bash
-sudo install docker.io
+sudo apt install docker.io
 ```
 
 Though, doing this did not result in docker installing, but instead bash throwing an error
