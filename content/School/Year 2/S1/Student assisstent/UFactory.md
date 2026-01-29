@@ -59,8 +59,20 @@ source install/setup.bash
 ```
 
 # Running the Ufactory xarm_planner with xarm_api
+The xarm repository has a ros2 api to control the ufactory arm.
 
+To run the arm planner node, run:
+```bash
+# 【simulated UFACTORY850
+ros2 launch xarm_planner uf850_planner_fake.launch.py [add_gripper:=true]
+# 【real UFACTORY850
+ros2 launch xarm_planner uf850_planner_realmove.launch.py robot_ip:=192.168.1.181 [add_gripper:=true]
+```
 
+To run a test program, type:
+```bash
+ros2 launch xarm_planner test_xarm_planner_api_pose.launch.py dof:=6 robot_type:=uf850
+```
 # Running the Ufactory arm in gazebo
 Gazebo is software that can be used to test real-life hardware in a simulated environment.
 
