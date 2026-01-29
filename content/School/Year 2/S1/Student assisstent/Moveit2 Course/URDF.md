@@ -10,7 +10,7 @@ publish: "true"
 mkdir -p ~/tutorial_ws/src
 cd ~/tutorial_ws
 colcon build
-echo "source ~/tutorial_ws/install/setup.bash" >> ~/.bashrc
+source ~/tutorial_ws/install/setup.bash
 ros2 pkg create tutorial_description
 cd tutorial_description
 rm -r include/ src/
