@@ -5,23 +5,14 @@ tags:
   - language/english
 publish: "true"
 ---
-Gazebo is software that can be used to test real-life hardware in a simulated environment.
 
-# Installing gazebo
-Gazebo can be installed independently or with ROS.
-
-```bash
-sudo apt-get install ros-${ROS_DISTRO}-ros-gz
-```
-
-# Installing the Ufactory xarm software
-
+>[!important]
+>For every bit of info on xarm software, look on the [ros2 xarm GitHub](https://github.com/xArm-Developer/xarm_ros2)
 # Prerequisites
 - ROS2 [Jazzy](https://docs.ros.org/en/ros2_documentation/jazzy/Installation.html)
 - [Moveit2](https://moveit.ros.org/install-moveit2/binary/)
-- [Gazebo](https://gazebosim.org/docs/harmonic/install_ubuntu/)
-
-# Installing ufactory-xarm-ros2
+# Installing the Ufactory xarm software
+## Installing ufactory-xarm-ros2
 ```bash
 # Skip this step if you already have a target workspace
 cd ~
@@ -52,9 +43,9 @@ xarm_gazebo: Cannot locate rosdep definition for [sdformat14]
 >For some reason, `libsdformat14` cannot be installed or found in any way, and thus fails.
 >The `xarm_gazebo` package requires `sdformat14`.
 
-Ignore it and move on.
+Ignore it and move on. It works fine, somehow
 
-# Building
+## Building
 ```bash
 # Remember to source ros2 and moveit2 environment settings first
 cd ~/dev_ws/
@@ -67,7 +58,33 @@ colcon build --packages-select xarm_api
 source install/setup.bash
 ```
 
-# Running
+# Running the Ufactory xarm_planner with xarm_api
+The xarm repository has a ros2 api to control the ufactory arm.
+
+To run the arm planner node, run:
+```bash
+# 【simulated UFACTORY850
+ros2 launch xarm_planner uf850_planner_fake.launch.py [add_gripper:=true]
+# 【real UFACTORY850
+ros2 launch xarm_planner uf850_planner_realmove.launch.py robot_ip:=192.168.1.181 [add_gripper:=true]
+```
+
+To run a test program, type:
+```bash
+ros2 launch xarm_planner test_xarm_planner_api_pose.launch.py dof:=6 robot_type:=uf850
+```
+# Running the Ufactory arm in gazebo
+Gazebo is software that can be used to test real-life hardware in a simulated environment.
+
+## Installing gazebo
+Gazebo can be installed independently or with ROS.
+
+```bash
+sudo apt-get install ros-${ROS_DISTRO}-ros-gz
+```
+
+
+## Running gazebo + moveit
 >[!important]
 >Make sure `ros-jazzy-gz-ros2-control` is installed
 
