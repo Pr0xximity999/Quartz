@@ -15,9 +15,9 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 
 
 # New entries/updates
-| date       | file                                                                  | Language                       | Notes |
-| ---------- | --------------------------------------------------------------------- | ------------------------------ | ----- |
-| 18/12/2025 | [[Info-tidbits/Standards/IEC 62056-6-1 - OBIS\|IEC 62056-6-1 - OBIS]] | #taal/engels #language/english |       |
+| date       | file                                                                                                                                  | Language                         | Notes |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----- |
+| 02-02-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Gastsprekers/Wat cybercriminaliteit met ons doet\|Wat cybercriminaliteit met ons doet]] | #language/dutch #taal/nederlands |       |
 
 
 
