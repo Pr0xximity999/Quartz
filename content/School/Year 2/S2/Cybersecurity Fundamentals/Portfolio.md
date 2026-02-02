@@ -14,3 +14,42 @@ Ik denk dat deze module mij gaat leren hoe je een systeem kan infiltreren, maar 
 
 ## Wat moet een cybersecurity expert weten, kunnen en doen?
 Een cybersecurity expert moet weten welke tools je kan gebruiken voor verschillende situaties, hoe je informatie over iets kan vinden online (eigenschappen over een systeem, eventuele exploits/beveiligingsmethoden). 
+
+# OSINT opdracht - dox je groepsgenoten
+### Martijn van Houwelingen
+Woont in: Gorinchem
+Werkt bij: Simpelsubsidie
+Vriendin: [Haddassa de Bondt](https://www.facebook.com/profile.php?id=100072970818297)
+Overige:
+- [LinkedIn](https://www.linkedin.com/in/martijn-van-houwelingen/?originalSubdomain=nl)
+- [Facebook](https://www.facebook.com/martijn.vanhouwelingen.58)
+
+### Mick Jacobs
+![[Vault-data/Attachments/Portfolio mick jacobs mugshot.png|300]]
+Geboren op: 12 juli
+Woont in: Breda
+Werkt bij: Snow world
+overige:
+- [Linked-in](https://www.linkedin.com/in/mick-jacobs-7aa239234/)
+- [voetbal](https://www.svsprundel.nl/profiel/364/mick-jacobs/?tab=1) van 2012 tot 2018
+### Joey Merkx
+![[Vault-data/Attachments/Portfolio joey merkx mugshot.png|400]]
+Woont in: Vugt
+Werkt bij: De Efteling, operator bij max en Moritz
+Familie:
+- Moeder: Brenda Merkx 
+	- [Facebook](https://www.facebook.com/brenda.merkx), werkt bij vecozo
+- Overige:
+	- [Facebook](https://www.facebook.com/joey.merkx.9)
+### Jasper de Ronde
+![[Vault-data/Attachments/Portfolio jasper de ronde mugshot.png|350]]
+Woont in: Waalwijk
+Familielid:
+- Matthijs de Ronde
+	- [Facebook](https://www.facebook.com/matthijs.deronde.1)
+- Tonke de Ronde
+	- [Facebook](https://www.facebook.com/tonke.deronde)
+Overige:
+- [Facebook](https://www.facebook.com/profile.php?id=61559211236911&sk=reviews_given)
+- [LinkedIn](https://www.linkedin.com/in/jmc-de-ronde/)
+- [Github](https://github.com/JMCdeRonde)

@@ -48,32 +48,3 @@ Stap 6: Gebruik je inzichten:
 
 >[!important]
 > Weet wat je met de info doet die je vind. Het mag dan wel openbare data zijn, maar het gaat nogsteeds over je medemens. Respecteer iemands privacy <3
-
-## Dossier (pls don’t leak)
-### Martijn van Houwelingen
-Woont in: Gorinchem
-Werkt bij: Simpelsubsidie
-Vriendin: [Haddassa de Bondt](https://www.facebook.com/profile.php?id=100072970818297
-Overige:
-- [LinkedIn](https://www.linkedin.com/in/martijn-van-houwelingen/?originalSubdomain=nl)
-- [Facebook](https://www.facebook.com/martijn.vanhouwelingen.58)
-
-### Mick Jacobs
-Woont in: Breda
-Werkt bij: Snow world
-overige:
-- [Linked-in](https://www.linkedin.com/in/mick-jacobs-7aa239234/)
-- [voetbal](https://www.svsprundel.nl/profiel/364/mick-jacobs/?tab=1)
-### Joey Merkx
-Woont in: Vugt
-Werkt bij: De Efteling, operator bij max en Moritz
-Familie:
-- Moeder: Brenda Merkx 
-	- [Facebook](https://www.facebook.com/brenda.merkx), werkt bij vecozo
-### Jasper de Ronde
-Woont in: Waalwijk
-Overige:
-- [Facebook](https://www.facebook.com/profile.php?id=61559211236911&sk=reviews_given)
-
-### Luke van de Ven
-
