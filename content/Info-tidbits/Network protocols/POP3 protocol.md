@@ -1,6 +1,5 @@
 ---
 tags:
-  - school/networks
   - internet-protocols/pop3
   - taal/engels
   - language/english

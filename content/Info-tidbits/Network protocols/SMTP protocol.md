@@ -1,6 +1,5 @@
 ---
 tags:
-  - school/networks
   - internet-protocols/smtp
   - language/english
   - taal/engels
