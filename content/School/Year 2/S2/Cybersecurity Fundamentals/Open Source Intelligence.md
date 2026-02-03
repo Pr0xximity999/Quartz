@@ -48,3 +48,37 @@ Stap 6: Gebruik je inzichten:
 
 >[!important]
 > Weet wat je met de info doet die je vind. Het mag dan wel openbare data zijn, maar het gaat nogsteeds over je medemens. Respecteer iemands privacy <3
+
+# OSINT opdracht - dox je groepsgenoten
+### Martijn van Houwelingen
+Woont in: Gorinchem
+Werkt bij: Simpelsubsidie
+Vriendin: [Haddassa de Bondt](https://www.facebook.com/profile.php?id=100072970818297)
+Overige:
+- [LinkedIn](https://www.linkedin.com/in/martijn-van-houwelingen/?originalSubdomain=nl)
+- [Facebook](https://www.facebook.com/martijn.vanhouwelingen.58)
+Kwaliteit: 
+### Joey Merkx
+![[Vault-data/Attachments/Portfolio joey merkx mugshot.png|400]]
+Woont in: Vugt
+Werkt bij: De Efteling, operator bij max en Moritz
+Familie:
+- Moeder: Brenda Merkx 
+	- [Facebook](https://www.facebook.com/brenda.merkx), werkt bij vecozo
+- Overige:
+	- [Facebook](https://www.facebook.com/joey.merkx.9)
+Kwaliteit: Groepsleider, kan overzicht houden en
+### Jasper de Ronde
+![[Vault-data/Attachments/Portfolio jasper de ronde mugshot.png|350]]
+Woont in: Waalwijk
+Familielid:
+- Matthijs de Ronde
+	- [Facebook](https://www.facebook.com/matthijs.deronde.1)
+- Tonke de Ronde
+	- [Facebook](https://www.facebook.com/tonke.deronde)
+Overige:
+- [Facebook](https://www.facebook.com/profile.php?id=61559211236911&sk=reviews_given)
+- [LinkedIn](https://www.linkedin.com/in/jmc-de-ronde/)
+- [Github](https://github.com/JMCdeRonde)
+
+Kwaliteit: 
