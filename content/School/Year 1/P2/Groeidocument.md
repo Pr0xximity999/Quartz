@@ -11,7 +11,7 @@ tags:
 >[!important] **Voor als je dit leest in een pdf**
 >Hoi, wat zie je er goed uit vandaag!<br>
 >Leuk dat je me groeidocument nakijkt.<br>
->De opmaak en alle toeters en bellen ziet er zo uit omdat ik deze pdf heb 'geprint' vanaf mijn [[School/Year 1/P3/Group-project/Reports/Groeidocument|website]]. <br>
+>De opmaak en alle toeters en bellen ziet er zo uit omdat ik deze pdf heb 'geprint' vanaf mijn [[School/Year 1/P2/Groeidocument|website]]. <br>
 >Dit kan als side effect ervoor zorgen dat de text niet netjes op 1 pagina staat. Ik kan dit niet echt fixen aangezien ik het dan alles moet overtypen in word, wat het hele nut verpest van typen in markup.<br>
 >Ik vind markup fijner typen dan word, en aangezien ik mijn notities host op mijn website kan ik net zo goed dit er ook op stoppen zodat ik de pagina kan 'printen' als pdf. Dusss ja.<br>
 >:3
