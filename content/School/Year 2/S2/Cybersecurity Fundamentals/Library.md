@@ -16,7 +16,6 @@ publish: "true"
 # Basismaatregelen
 - [NCSC – Basismaatregelen Cybersecurity (Wat kun je zelf doen)](https://www.ncsc.nl/wat-kun-je-zelf-doen/weerbaarheid/beschermen/basismaatregelen-cybersecurity)
 - [Basisbeveiliging van Nederland](https://basisbeveiliging.nl/)
-- 
 # Bug bounty programma’s
 - [HackerOne – Bug Bounty Programs](https://hackerone.com/bug-bounty-programs)
 - [Rabobank – Kwetsbaarheden melden](https://www.rabobank.nl/veiligbankieren/kwetsbaarheden-melden)
