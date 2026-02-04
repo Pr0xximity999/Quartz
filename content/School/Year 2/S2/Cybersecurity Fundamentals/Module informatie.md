@@ -6,20 +6,6 @@ tags:
 banner:
 publish: "true"
 ---
-# Table of contents
-- [[#Inhoud|Inhoud]]
-	- [[#Inhoud#Module 1: ‘Wat is cybersecurity?’|Module 1: ‘Wat is cybersecurity?’]]
-	- [[#Inhoud#Module 2: ‘Hoe wordt je weerbaar tegen cybercriminelen?’|Module 2: ‘Hoe wordt je weerbaar tegen cybercriminelen?’]]
-	- [[#Inhoud#Module 3: ‘Mens en techniek’|Module 3: ‘Mens en techniek’]]
-- [[#Toetsing|Toetsing]]
-	- [[#Toetsing#Toetsvorm|Toetsvorm]]
-		- [[#Toetsvorm#Portfolio|Portfolio]]
-		- [[#Toetsvorm#Assessment|Assessment]]
-	- [[#Toetsing#Toets|Toets]]
-	- [[#Toetsing#Inzage|Inzage]]
-- [[#Portfolio|Portfolio]]
-	- [[#Portfolio#Hoe zit het portfolio eruit|Hoe zit het portfolio eruit]]
-
 # Inhoud
 >[!important] Leeruitkomst
 >*Je analyseert en beschrijft actuele cybersecurityvraagstukken, neemt daarbij relevante normen, raamwerken en wet- en regelgeving in acht, en doet onderbouwde voorstellen voor passende technische, organisatorische en mensgerichte maatregelen. Je beschikt over basiskennis van de belangrijkste cybersecuritythema’s en kunt de toepassing hiervan mondeling verantwoorden. Je legt je aanpak, bevindingen en adviezen overzichtelijk schriftelijk vast.*
