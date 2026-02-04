@@ -11,7 +11,7 @@ publish: "false"
 ## 2.1 - Waarom deze module?
 De keuze voor de cyber security module heb ik gemaakt omdat het proberen breken van beveiliging mij interessant lijkt. Rond poken in een systeem om te kijken hoe het werkt en hoe je binnen kan komen is altijd al een kleine hobby van mij geweest (ook al kwam ik nooit ver). 
 ## 2.2 - Wat denk ik te leren?
-Ik denk dat deze module mij gaat leren hoe je een systeem kan infiltreren, maar ook hoe je jezelf er tegen moet beveiligen en wat je moet doen als er een inbraak is. Daarnaast hoop ik dat we gaan leren hoe je met gebruik van [[School/Year 2/S2/Cybersecurity Fundamentals/Open Source Intelligence|open source intelligence]] meer informatie te vinden over een doelwit. 
+Ik denk dat deze module mij gaat leren hoe je een systeem kan infiltreren, maar ook hoe je jezelf er tegen moet beveiligen en wat je moet doen als er een inbraak is. Daarnaast hoop ik dat we gaan leren hoe je met gebruik van open source intelligence meer informatie te vinden over een doelwit. 
 
 ## 2.3 - Wat moet een cybersecurity expert weten, kunnen en doen?
 Een cybersecurity expert moet weten welke tools je kan gebruiken voor verschillende situaties, hoe je informatie over iets kan vinden online (eigenschappen over een systeem, eventuele exploits/beveiligingsmethoden). 
@@ -35,14 +35,14 @@ Dit moet ik doen door middel van het vinden, analyseren en samenvatten van 2 bro
 Artikel 1: https://www.nctv.nl/onderwerpen/c/cybersecuritybeeld-nederland
 Artikel 2: https://www.enisa.europa.eu/publications/foresight-cybersecurity-threats-for-2030-update-2024-extended-report
 
-## 4.1 -	Artikel 1:
+## 4.1 - Artikel 1:
 a.	Welke soorten organisaties worden het meest getroffen door deze dreigingen en waarom?
 -	Overheidsinstanties en grotere bedrijven: dit om te zorgen voor ontwrichting in de samenleving en politieke oorlog te kunnen voeren.
-Kleine bedrijven: door de inzet van AI waardoor ze worden gehacked zonder dat de hacker weet wie hij heeft gehacked. Denk hierbij aan het voorbeeld van de NOS waar ze 200.000 euro vroegen om de ransomware weg te halen.
+Kleine bedrijven: door de inzet van AI waardoor ze worden gehackt zonder dat de hacker weet wie hij heeft gehackt. Denk hierbij aan het voorbeeld van de NOS waar ze 200.000 euro vroegen om de ransomware weg te halen.
 b.	Wat zijn de belangrijkste motieven van cybercriminelen zoals beschreven in het rapport?
 -	De grootste reden is om politieke oorlog te kunnen voeren. Dit doen ze door middel van het land te proberen te polariseren. Als er meerdere groepen tegenover elkaar staan in een land dan is het land niet bezig met het buitenland.
 c.	Hoe kunnen deze dreigingen de operationele activiteiten van een organisatie beïnvloeden?
--	Operationele bedrijven zullen meer geld gaan inversteren in de beveiliging van hun organisatie. Als zij toch worden aangevallen dan kunnen zij veel geld verliezen of zelf failliet gaan. Als het grote overheidsinstanties zijn kan een hack zorgen voor grote maatschappelijke onwrichting. Dit opent de deur voor meer (cyber)criminaliteit waardoor de burger direct wordt beinvloed.
+-	Operationele bedrijven zullen meer geld gaan investeren in de beveiliging van hun organisatie. Als zij toch worden aangevallen dan kunnen zij veel geld verliezen of zelf failliet gaan. Als het grote overheidsinstanties zijn kan een hack zorgen voor grote maatschappelijke ontwrichting. Dit opent de deur voor meer (cyber)criminaliteit waardoor de burger direct wordt beïnvloed.
 d.	Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport
 -	De telecomsector blijft een erg aantrekkelijk doelwit vanwege het vitale belang van deze sector voor de samenleving. Bijvoorbeeld als het C2000 systeem uitvalt kan de meldkamer geen 112 meldingen meer doorzetten naar de hulpdiensten. Dit lijdt direct tot falen van de hulpverlening.
  
