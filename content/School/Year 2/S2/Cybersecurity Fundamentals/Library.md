@@ -6,6 +6,8 @@ tags:
 banner:
 publish: "true"
 ---
+# Overige informatie sources
+- [OSINT Framework - What information can you find and how to use it?](https://osintframework.com/)
 # Interessante video’s
 - [NPO – Black-out (Het is niet de vraag of, maar wanneer)](https://npo.nl/start/serie/black-out_1/seizoen-1/blackout)
 - [Dit zijn Poetins cyberstrijders](https://www.youtube.com/watch?v=jVpauNmrYpY)

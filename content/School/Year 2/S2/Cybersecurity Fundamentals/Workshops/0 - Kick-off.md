@@ -6,18 +6,25 @@ tags:
 banner:
 publish: "false"
 ---
-# Intro
+# CYBOK
+>**Cybok**: Cyber Security Body Of Knowledge
+
+![[Vault-data/Attachments/0 - Kick-off CYbok.png]]
+
+# Verwachtingen
+Dit is de eerste uitvoering van deze keuzemodule, hiervoor was het puur een minor. Inzet en groei staan centraal deze periode. Maak aantekeningen!!! je onthoud niet alles
+# Intro OSINT
 > **OSINT**: Open-Source Intelligence
 
 OSINT is het verzamelen en analyseren van openbaar beschikbare informatie om inzichten en inlichtingen te verzamelen. De aanpak hiervan stelt onderzoekers, analisten, journalisten en criminelen in staat om waardevolle inzichten te halen uit een schat aan informatie.
 
-Professioneel doxxen dus
+Professioneel doxxen basically
 
 Toepassingen hiervan zijn:
-- Threat intelligence: cyber, terroriste, bedrijfsspionage
-- Onderzoek: vermissingen, strafrecht, due dillgence
-- Concurrentie: strategie en tactiek van concurrenten
-- Geopolitieke ontwikkelingen: wereldwijde gebeurtenissen en bewegingen
+- **Threat intelligence**: cyber, terroriste, bedrijfsspionage
+- **Onderzoek**: vermissingen, strafrecht, due dillgence
+- **Concurrentie**: strategie en tactiek van concurrenten
+- **Geopolitieke ontwikkelingen**: wereldwijde gebeurtenissen en bewegingen
 
 Online bronnen:
  - zoekmachines
@@ -29,6 +36,10 @@ Databases:
 - overheid
 - wetenschap
 - commercieel
+Speciale tools:
+- Analyse metadata
+- Geolocatie
+- Webscrapers
 # Blijf legaal!!
 Zorg ervoor dat je de de juiste toestemming/verantwoording hebt als het komt tot pen-testing van bedrijven. Volg de regels en blijf binnen de lijnen werken die toegestaan zijn.
 
@@ -60,7 +71,6 @@ Vriendin: [Haddassa de Bondt](https://www.facebook.com/profile.php?id=1000729708
 Overige:
 - [LinkedIn](https://www.linkedin.com/in/martijn-van-houwelingen/?originalSubdomain=nl)
 - [Facebook](https://www.facebook.com/martijn.vanhouwelingen.58)
-Kwaliteit: 
 ### Joey Merkx
 ![[Vault-data/Attachments/Portfolio joey merkx mugshot.png|400]]
 Woont in: Vugt
@@ -70,7 +80,6 @@ Familie:
 	- [Facebook](https://www.facebook.com/brenda.merkx), werkt bij vecozo
 - Overige:
 	- [Facebook](https://www.facebook.com/joey.merkx.9)
-Kwaliteit: Groepsleider, kan overzicht houden en
 ### Jasper de Ronde
 ![[Vault-data/Attachments/Portfolio jasper de ronde mugshot.png|350]]
 Woont in: Waalwijk
@@ -83,5 +92,3 @@ Overige:
 - [Facebook](https://www.facebook.com/profile.php?id=61559211236911&sk=reviews_given)
 - [LinkedIn](https://www.linkedin.com/in/jmc-de-ronde/)
 - [Github](https://github.com/JMCdeRonde)
-
-Kwaliteit: 
