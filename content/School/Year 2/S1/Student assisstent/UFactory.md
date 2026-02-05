@@ -58,6 +58,9 @@ colcon build --packages-select xarm_api
 source install/setup.bash
 ```
 
+# Running the Ufactory xarm_moveit_config 
+Controlling the xarm via movieit is possible.
+
 # Running the Ufactory xarm_planner with xarm_api
 The xarm repository has a ros2 api to control the ufactory arm.
 
