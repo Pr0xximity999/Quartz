@@ -4,7 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
 banner:
-publish: "false"
+publish: "true"
 ---
 # Intro
 Wet- en regelgevingen hebben 2 hoofd richtingen:

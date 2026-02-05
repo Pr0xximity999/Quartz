@@ -4,8 +4,9 @@ tags:
   - language/dutch
   - taal/nederlands
 banner:
-publish: "false"
+publish: "true"
 ---
+
 >[!important] Opdracht
 >Doel: Je vertrouwd maken met de wet- en regelgeving en normen die belangrijk zijn voor cybersecurity. Door het onderzoek naar deze richtlijnen ga je begrijpen waarom vereisten nodig zijn, waaraan organisaties moeten voldoen om een effectieve cybersecurity strategie te ontwikkelen en implementeren
 >1. Onderzoek wetten en regels rond cybercrimaneliteit , zowel nationaal en internationaal.

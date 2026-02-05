@@ -21,37 +21,37 @@ In deze opdracht moest je informatie vinden over groepsgenoten op het internet, 
 
 Het lastige was vooral om de persoonlijkheid van iemand online te vinden, aangezien veel groepsgenoten niet veel persoonlijke belevingen op hun sociale media zetten.
 ## 3.1 - Joey
-Joey is een groepsleider. Hij straalt zelfverzekerdheid uit en laat zich niet snel beïnvloeden.
+Joey had het meeste informatie beschikbaar, vooral door zijn Facebook kon ik familieconnecties vinden, waaronder zijn moeder die veel kinderfoto’s van hem had gepost. Daarnaast vond ik zijn Instagram account, maar deze was wel privé. Door zijn LinkedIn kon ik zijn werk plek vinden.
+
+Uit de online vergaarde informatie en het omgaan met Joey over de dag heen kan ik concluderen dat Joey een groepsleider type is. Hij straalt zelfverzekerdheid uit en laat zich niet snel beïnvloeden. Daarentegen kan hij daardoor iets te ijverig zijn en heeft een “rem” nodig om werk onder te verdelen
 ## 3.2 - Jasper
-Jasper houd goed focus over dingen en straalt leiderschap uit.
+Jasper was het minst informatie over te vinden van de 3. Hij had een Facebook waar zijn woonplaats stond en 1 foto van zichzelf. Zijn LinkedIn had ook niet veel informatie. Door wat slimme zoektermen kon ik wel 2 familieleden van hem vinden.
+
+Tijdens de omgang met Jasper straalde hij focus en leiderschap uit.
 ## 3.3 - Martijn
-Martijn heeft veel kennis over front-end en heeft ook veel overzicht.
+Martijn was een doorgestoken kaart voor mij omdat ik hem al jaren ken en dus weet waar ik moet zoeken. Ik vond zijn Facebook (met relatiestatus en familieleden), GitHub met projecten en software waar hij aan werkte, LinkedIn met up to date werkstatus (en de website waar hij aan werkt) en Instagram. 
+Door de informatie heen kon je wel dien dat Martijn veel kennis over front-end heeft en dat hij een goed overzicht houd over zijn kennis.
 
 # 4 - Opdracht: Waarom is cybercrime belangrijk voor bedrijven?
-Voor deze opdracht moet ik een dieper inzicht krijgen in cyberbedreigingen, de impact ervan op organisaties en waarom cybersecurity cruciaal is voor moderne organisaties. 
-
-Dit moet ik doen door middel van het vinden, analyseren en samenvatten van 2 bronnen die over een dreiging praten; 1 artikel in Nederland en 1 artikel buiten Nederland.
+Voor deze opdracht moesten we een dieper inzicht krijgen in cyberbedreigingen, de impact ervan op organisaties en waarom cybersecurity cruciaal is voor moderne organisaties. Door middel van het zoeken van dreigingsbeeld rapporten kregen wij een beeld van wat de motieven waren van criminelen, hoe het organisaties beïnvloed en waarom het belangrijk is om hier rekening mee te houden.
 
 Artikel 1: https://www.nctv.nl/onderwerpen/c/cybersecuritybeeld-nederland
 Artikel 2: https://www.enisa.europa.eu/publications/foresight-cybersecurity-threats-for-2030-update-2024-extended-report
 
-## 4.1 - Artikel 1:
-a.	Welke soorten organisaties worden het meest getroffen door deze dreigingen en waarom?
--	Overheidsinstanties en grotere bedrijven: dit om te zorgen voor ontwrichting in de samenleving en politieke oorlog te kunnen voeren.
-Kleine bedrijven: door de inzet van AI waardoor ze worden gehackt zonder dat de hacker weet wie hij heeft gehackt. Denk hierbij aan het voorbeeld van de NOS waar ze 200.000 euro vroegen om de ransomware weg te halen.
-b.	Wat zijn de belangrijkste motieven van cybercriminelen zoals beschreven in het rapport?
--	De grootste reden is om politieke oorlog te kunnen voeren. Dit doen ze door middel van het land te proberen te polariseren. Als er meerdere groepen tegenover elkaar staan in een land dan is het land niet bezig met het buitenland.
-c.	Hoe kunnen deze dreigingen de operationele activiteiten van een organisatie beïnvloeden?
--	Operationele bedrijven zullen meer geld gaan investeren in de beveiliging van hun organisatie. Als zij toch worden aangevallen dan kunnen zij veel geld verliezen of zelf failliet gaan. Als het grote overheidsinstanties zijn kan een hack zorgen voor grote maatschappelijke ontwrichting. Dit opent de deur voor meer (cyber)criminaliteit waardoor de burger direct wordt beïnvloed.
-d.	Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport
--	De telecomsector blijft een erg aantrekkelijk doelwit vanwege het vitale belang van deze sector voor de samenleving. Bijvoorbeeld als het C2000 systeem uitvalt kan de meldkamer geen 112 meldingen meer doorzetten naar de hulpdiensten. Dit lijdt direct tot falen van de hulpverlening.
+## 4.1 - Artikel 1, Nationaal
+**Welke soorten organisaties worden het meest getroffen door deze dreigingen en waarom?**<br>Overheidsinstanties en grotere bedrijven worden het meest getroffen. Dit is omdat cybercriminelen een ontwrichting willen veroorzaken in de samenleving, wat leid tot politieke oorlog.
+Kleine bedrijven daarentegen worden ook zeer vaak het slachtoffer. Door AI worden hacks van deze kleine bedrijven geheel automatisch uitgevoerd, waardoor de hacker eigenlijk niet weet wie hij nu gehackt heeft. Deze onwetendheid zorgt wel voor interessante momenten, zoals toen NOS werd gehackt en “maar” 200.000 euro werd gevraagd om ransomware te verwijderen. 
+
+**Wat zijn de belangrijkste motieven van cybercriminelen zoals beschreven in het rapport?**<br>De grootste reden is om politieke oorlog te kunnen voeren. Dit word gedaan door een poging tot de polarisatie van een land. Des te meer groepen tegenover elkaar staan, des te minder ze bezig zijn met wat er buiten hun land gebeurt.
+
+**Hoe kunnen deze dreigingen de operationele activiteiten van een organisatie beïnvloeden?**<br>Getroffen of geïntimideerde bedrijven zullen meer geld uitgeven aan beveiliging van hun systemen, want als ze getroffen worden kan dat tot grot schade zorgen (of zelfs een faillissement). 
+
+**Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport**<br>De telecomsector blijft een erg aantrekkelijk doelwit vanwege het vitale belang van deze sector voor de samenleving. Telecommunicatie is cruciaal in de samenleving, omdat er zonder de mogelijkheid tot bellen of internet chaos zal ontstaan. Als bijvoorbeeld het C2000 systeem van de hulpdiensten uitvalt, kan de meldkamer geen 112 meldingen meer doorgeven aan hulpdiensten.
  
-## 4.2 - Artikel 2:
-a.	Welke soorten organisaties worden het meest getroffen door deze dreigingen en waarom?
--	Het rapport laat een samenstelling zien van technische kwetsbaarheden in combinatie met geopolitieke spanningen. Hackers zullen vaker aanvallen doen op overheden om een land te proberen te onwrichten. Dit wordt een nieuw kernonderdeel van oorlogvoering. 
-b.	Wat zijn de belangrijkste motieven van cybercriminelen zoals beschreven in het rapport?
--	Cybercriminaliteit wordt steeds professioneler en schaalbaarder, met goed georganiseerde criminele netwerken die hun activiteiten efficiënt inrichten. Hoewel sommige cyberactiviteiten ook politieke of ideologische doelen kunnen dienen, blijven financiële motieven dominant bij cybercriminelen.
-c.	Hoe kunnen deze dreigingen de operationele activiteiten van een organisatie beïnvloeden?
--	Door cyberaanvallen of geopolitieke spanningen kunnen digitale diensten uitvallen, toeleveringsketens worden onderbroken en cruciale informatie worden gecompromitteerd. Er zijn weinig services die eu breed gehost worden. De invloeden zijn veel merkbaarder als landen binnen de eu individueel geraakt worden.
-d.	Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport
--	Het rapport benadrukt het structurele tekort aan cybersecurity-vaardigheden in Europa waardoor wij erg kwetsbaar zijn
+## 4.2 - Artikel 2, Internationaal
+**Welke soorten organisaties worden het meest getroffen door deze dreigingen en waarom?**<br>Opnieuw komt in dit rapport ook weer naar boven dat overheden het meest aangevallen worden omdat deze technisch kwetsbaarder zijn in combinatie met het motief van het ontwrichten van een land. Dit begint ook een kernonderdeel te worden in oorlogen.
+
+**Wat zijn de belangrijkste motieven van cybercriminelen zoals beschreven in het rapport?**<br>Hoewel veel cyberaanvallen een geopolitiek doeleind hebben, blijft geld toch de grootste motivatie bij cybercriminelen. 
+**Hoe kunnen deze dreigingen de operationele activiteiten van een organisatie beïnvloeden?**<br>Het uitvallen van digitale diensten en het breken van supply chains is een grote dreiging voor organisaties. Ondanks dit zijn er weinig diensten die de EU breed aanbied om hier iets tegen te doen. Bedrijven moeten dan toch hun eigen geld en manschappen investeren om hun systemen te beveiligen.
+
+**Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport?**<br>Cybercriminelen zijn meer gebruik gaan maken van meer advancement technologie, zoals “distributed ledger technology”- oftewel crypto - en de dark net. Door deze middelen heen proberen ze de constantie surveillance van cybersecurity eenheden te omzeilen. Een ander populaire methode is deepfakes: het verdoezelen van de waarheid door geefakte videos. Het nare effect hiervan is dat mensen steeds minder vertrouwend en meer paranoïde zijn.

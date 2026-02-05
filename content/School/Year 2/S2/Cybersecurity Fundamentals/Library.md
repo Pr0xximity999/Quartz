@@ -6,6 +6,8 @@ tags:
 banner:
 publish: "true"
 ---
+>[!important]
+>Deze lijst zal uitgebreid worden als er meer informatiebronnen gevonden zijn, dus check from time to from of er nieuwe sources bij staan :3
 # Overige informatie sources
 - [OSINT Framework - What information can you find and how to use it?](https://osintframework.com/)
 # Interessante video’s
@@ -46,6 +48,7 @@ publish: "true"
 - [Rathenau Instituut – Online ontspoord](https://www.rathenau.nl/nl/digitalisering/online-ontspoord)
 
 # Podcasts
+- [Darknet Diaries - Hacker stories](https://darknetdiaries.com/)
 - [CISO Praat (Spotify)](https://open.spotify.com/show/0qSxCHWV66I2Fd2hJB97qT)
 - [NCSC – Enter de podcast](https://www.ncsc.nl/wat-doet-het-ncsc-voor-jou/enter-de-podcast)
 - [All the Cyber Ladies](https://channels.podcastfeed.eu/94092f40-e2cd-405e-b0a6-caf29b3495b1)
