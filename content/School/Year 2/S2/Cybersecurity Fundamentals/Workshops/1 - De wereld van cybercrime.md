@@ -34,7 +34,7 @@ Phone phreaken (uitgesproken als freaking) is een term gemaakt voor de handeling
 # Definitie cybercriminaliteit
 Cybercriminaliteit kan in 2 vormen worden omschreven: enige en ruime zin.
 
-Cybercriminaliteit in **enige zin**, zijn strafbare gedragingen waarbij beide de computer en netwerken het doelwit als het middel zijn van criminaliteit. Het is gedrag wat de integriteit, beschikbaarheid en exclusiviteit van data en computergegevens aantast. Over de jaren heen zijn hier nieuwe misdaden ontstaan die in het verleden nog niet bestonden.
+Cybercriminaliteit in **enge zin**, zijn strafbare gedragingen waarbij beide de computer en netwerken het doelwit als het middel zijn van criminaliteit. Het is gedrag wat de integriteit, beschikbaarheid en exclusiviteit van data en computergegevens aantast. Over de jaren heen zijn hier nieuwe misdaden ontstaan die in het verleden nog niet bestonden.
 
 Cybercriminaliteit in een **ruime zin** word meer gezien als *gedigitaliseerde criminaliteit*. Dit is meer criminaliteit waarbij computers en internet als mediums gebruikt word om traditionele misdaden te plegen.
 

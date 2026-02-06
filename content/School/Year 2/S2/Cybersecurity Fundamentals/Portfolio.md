@@ -55,3 +55,9 @@ Kleine bedrijven daarentegen worden ook zeer vaak het slachtoffer. Door AI worde
 **Hoe kunnen deze dreigingen de operationele activiteiten van een organisatie beïnvloeden?**<br>Het uitvallen van digitale diensten en het breken van supply chains is een grote dreiging voor organisaties. Ondanks dit zijn er weinig diensten die de EU breed aanbied om hier iets tegen te doen. Bedrijven moeten dan toch hun eigen geld en manschappen investeren om hun systemen te beveiligen.
 
 **Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport?**<br>Cybercriminelen zijn meer gebruik gaan maken van meer advancement technologie, zoals “distributed ledger technology”- oftewel crypto - en de dark net. Door deze middelen heen proberen ze de constantie surveillance van cybersecurity eenheden te omzeilen. Een ander populaire methode is deepfakes: het verdoezelen van de waarheid door geefakte videos. Het nare effect hiervan is dat mensen steeds minder vertrouwend en meer paranoïde zijn.
+
+
+# 5 - 
+
+# 6 - Opdracht: Governance
+Deze opdracht gaat over de beleid, rolverdeling en taken binnen Avans. Door een pdf door te lezen met de taakverdelingen en verantwoordelijkheden 
