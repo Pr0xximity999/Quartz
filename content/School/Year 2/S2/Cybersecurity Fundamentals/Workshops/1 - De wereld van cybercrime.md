@@ -3,6 +3,7 @@ tags:
 banner:
 publish: "true"
 ---
+
 >[!info]
 >Deze les is deels gegeven in de vorm van een gastlezing, die je [[School/Year 2/S2/Cybersecurity Fundamentals/Gastsprekers/De wereld van cybercrime|hier]] kan vinden.
 

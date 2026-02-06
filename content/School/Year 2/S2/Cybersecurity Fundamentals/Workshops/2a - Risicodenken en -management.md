@@ -28,7 +28,7 @@ ICT maakt deze acties al een stuk makkelijker, maar gelukkig zijn er regels en w
 # Risico’s
 > **Risico**: iets wat je niet wilt dat het gebeurt, maar de kans is er wel
 
-Hoe groter het risico, hoe meer je eraan werkt om het te voorkomen. Neem bijvoorbeeld een brand melder, die waarschuwt je als een brand start zodat je er tijdig iets aan kan doen: een **repressie maatregel**.<br>Eigenlijk moet een brand niet eens starten, je wilt het voorkomen: een **preventie maatregel**.
+In relatie tot cybersecurity, is een risico een kans dat een mogelijk gevaar resulteert in een daadwerkelijk incident en wat de consequenties hiervan zijn voor de operaties van een organisatie.<br>Hoe groter het risico, hoe meer je eraan werkt om het te voorkomen. Neem bijvoorbeeld een brand melder, die waarschuwt je als een brand start zodat je er tijdig iets aan kan doen: een **repressie maatregel**.<br>Eigenlijk moet een brand niet eens starten, je wilt het voorkomen: een **preventie maatregel**.
 
 Een risico in formule vorm: `Risico = Bloodstelling * Kans * Gevolg` / `R = B * W * E`. 
 - **Blootstelling** (B): Wanneer en waar het gevaar zich voordoet
