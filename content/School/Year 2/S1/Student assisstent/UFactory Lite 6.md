@@ -8,6 +8,10 @@ publish: "true"
 
 >[!important]
 >For every bit of info on xarm software, look on the [ros2 xarm GitHub](https://github.com/xArm-Developer/xarm_ros2)
+
+>[!important]
+>For manual control of the robot arm, download the [UFactory Studio software](https://www.ufactory.us/ufactory-studio)
+
 # Prerequisites
 - ROS2 [Jazzy](https://docs.ros.org/en/ros2_documentation/jazzy/Installation.html)
 - [Moveit2](https://moveit.ros.org/install-moveit2/binary/)
@@ -59,23 +63,29 @@ source install/setup.bash
 ```
 
 # Running the Ufactory xarm_moveit_config 
-Controlling the xarm via movieit is possible.
+Controlling a physical arm via moveit is possible trough the use of the `xarm_moveit_config` package. 
+```bash
+ros2 launch xarm_moveit_config lite6_moveit_fake.launch.py [add_gripper:=true]
+```
+It may be a bit buggy to use at times, but there’s nothing you can do about it.
 
 # Running the Ufactory xarm_planner with xarm_api
 The xarm repository has a ros2 api to control the ufactory arm.
 
 To run the arm planner node, run:
 ```bash
-# 【simulated UFACTORY850
-ros2 launch xarm_planner uf850_planner_fake.launch.py [add_gripper:=true]
-# 【real UFACTORY850
-ros2 launch xarm_planner uf850_planner_realmove.launch.py robot_ip:=192.168.1.181 [add_gripper:=true]
+# 【simulated Lite6】launch xarm_planner_node
+ros2 launch xarm_planner lite6_planner_fake.launch.py [add_gripper:=true]
+
+# 【real Lite6】launch xarm_planner_node
+ros2 launch xarm_planner lite6_planner_realmove.launch.py robot_ip:=192.168.1.117 [add_gripper:=true]
 ```
 
 To run a test program, type:
 ```bash
-ros2 launch xarm_planner test_xarm_planner_api_pose.launch.py dof:=6 robot_type:=uf850
+ros2 launch xarm_planner test_xarm_planner_api_pose.launch.py dof:=6 robot_type:=lite
 ```
+
 # Running the Ufactory arm in gazebo
 Gazebo is software that can be used to test real-life hardware in a simulated environment.
 
@@ -95,5 +105,5 @@ sudo apt-get install ros-${ROS_DISTRO}-ros-gz
 ```bash
 cd ~/dev_ws/
 source install/setup.bash
-ros2 launch xarm_moveit_config uf850_moveit_gazebo.launch.py
+ros2 launch xarm_moveit_config lite6_moveit_gazebo.launch.py
 ```
