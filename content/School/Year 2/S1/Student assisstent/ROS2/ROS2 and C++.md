@@ -6,8 +6,8 @@ tags:
 publish: "true"
 ---
 >[!important] Sources
->[Create a simple ROS2 client and server node](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Service-And-Client.html)
->[create a simple ROS2 interface](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
+>- [Create a simple ROS2 client and server node](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Service-And-Client.html)
+>- [Create a simple ROS2 interface](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
 
 # Setup workspace
 **Create workspace**
