@@ -6,6 +6,22 @@ tags:
 banner:
 publish: "true"
 ---
+>[!important] Opdracht
+>Je gaat met je projectgroep aan de slag met de volgende opdracht. Een aantal groepen zullen volgende les een presentatie geven hierover
+>
+>**Opdracht A**
+>*Deze opdracht is ook input op de volgende opdracht!!!*
+>1. Zoek op het internet echte voorbeelden van aanvallen en verschillende kwaadwillenden
+>2. Maak een risicomatrix waarbij je je eigen invulling geeft van de verschillende impact niveaus. Zorg ervoor dat je hier vanuit meerdere hoeken uit kijkt
+>3. Formuleer een antwoord op welke manier je de kans van de risico’s kan beoordelen. Dit kan je uit werken door de hand van je eigen gekozen voorbeeld
+>4. Zoek door middel van een literatuuronderzoek de meest bekende kwetsbaarheden en dreigingen en zet deze in een lijst. Deze moet je gebruiken in je risicoassessment
+> 
+>**Opdracht B**
+>*Deze opdracht is ook input op de volgende opdracht!!!*
+>1. Verdiep jezelf in IT en OT en maak een presentatie waarin je de verschillen tussen beide punten kan uitleggen en de belangrijkste aspecten van deze twee
+>2. Zoek verschillende definities van IT en OT systemen. Onderbouw welke van de 2 het makkelijkst te hanteren is. Kijk of je in 1 zin kan uitleggen wat het verschil is.
+>3. Verdiep je in genoemde standaarden voor risicoanalyse. Vergelijk deze en beargumenteer op welke wijze je de risico analyse en -assessment gaat uitvoeren. Maak een uitvoering van 1 A4’tje lang hoe je dit bij een bedrijf zal doen. 
+>4. Onderzoek de bow-tie methodiek en maak een diagram op basis van een van de onderstaande casussen, waarbij 1 top event “loss of control” word genomen. Houd hierbij rekening met de CIA driehoek: verlies van integriteit, vertrouwelijkheid en beschikbaarheid. Schrijf al de aannames die je doet op.
 # Intro
 Zoals [[School/Year 2/S2/Cybersecurity Fundamentals/Workshops/3 - Governance van Cybersecurity|voorheen]] besproken, is governance de regels en cultuur binnen een organisatie die de veiligheid van een bedrijf bepalen.
 
@@ -72,15 +88,15 @@ Er zijn genoeg standards rondom risico assessment en management:
 - [NIST SP-800-30](https://csrc.nist.gov/pubs/sp/800/30/r1/final) - Risk assessment process
 - [IRAM2](https://www.securityforum.org/solutions-and-insights/information-risk-assessment-methodology-2-iram2/) - Information and Risk Assessment Methodology, version 2
 
-Een Nederlandse standaard die veel in de overheid gebruikt word is MAPGOOD:
-- **Mens**: Mensen die nodig zijn om het informatiesysteem te beheren en gebruiken 
-- **Apparatuur**: 
-- **Programmatuur**: 
-- **Gegevens**: 
-- **Organisatie**: 
-- **Omgeving**: 
-- **Diensten**: 
-\[Nog af maken]
+Een Nederlandse standaard die veel in de overheid gebruikt word is MAPGOOD.
+Het MAPGOOD-model is gemaakt voor het in kaart brengen van bedreigingen en risico’s op het gebied van informatiebeveiliging. Het somt een aantal invalshoeken op waar rekening mee gehouden moet worden als er naar dreigingen en risico’s gekeken word.<br>Het MAPGOOD-model kijkt naar de volgende invalshoeken:
+- **Mens**: Mensen die nodig zijn om het informatiesysteem te beheren en gebruiken (direct of indirect)
+- **Apparatuur**: Apparatuur die nodig is voor het functioneren van het informatiesysteem (webservers, applicaties, werkstations, etc…) 
+- **Programmatuur**: Programmatuur waaruit het informatiesysteem bestaat
+- **Gegevens**: Gegevens die door het systeem worden verwerkt
+- **Organisatie**: Organisatie die nodig is om het informatiesysteem te laten functioneren
+- **Omgeving**: Omgeving waarin het informatiesysteem functioneert
+- **Diensten**: Externe diensten die nodig zijn om het systeem te laten functioneren
 
 
 # Bow-tie diagram
