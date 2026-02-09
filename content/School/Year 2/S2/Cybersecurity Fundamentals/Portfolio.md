@@ -57,7 +57,35 @@ Kleine bedrijven daarentegen worden ook zeer vaak het slachtoffer. Door AI worde
 **Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport?**<br>Cybercriminelen zijn meer gebruik gaan maken van meer advancement technologie, zoals “distributed ledger technology”- oftewel crypto - en de dark net. Door deze middelen heen proberen ze de constantie surveillance van cybersecurity eenheden te omzeilen. Een ander populaire methode is deepfakes: het verdoezelen van de waarheid door geefakte videos. Het nare effect hiervan is dat mensen steeds minder vertrouwend en meer paranoïde zijn.
 
 
-# 5 - 
+# 5 - Workshop 3: Weerbaar tegen cybercrime
+    
+Als student wordt ik niet echt betrokken bij de cyberveiligheid. Nu als een Informatica student zit het wel in mijn studie, maar als algemene student niet echt. Nu gebruikt avans wel [[Soft Controls]] die ik merk:
+    
+- Voorbeeldgedrag
+    - Transparantie
+    
+    Maar alleen echt wanneer je er zelf naar op zoek gaat, als student kan ik wel vinden wat avans doet aan cyberveiligheid, maar ik moet er dan actief naar zoeken. Als student mis ik **betrokkenheid** en **Bespreekbaarheid**. En nu doe ik er zelf wel onderzoek naar omdat ik er geintresseerd in ben, zo kijk ik videos over cybersecurity en doe ik er onderzoek naar. Maar ideaal zou zijn als school hier meer een hand in heeft. Als student heb ik advies voor de [[CISO]] van avans, en het gaat vooral over de volgende soft skills:
+    
+    - Betrokkenheid
+    - Helderheid
+    - Bespreekbaarheid
+    - Aanspreekbaarheid
+    
+    Als student zou ik adviseren om meer aan deze [[Soft Controls]] te werken. En ik zie het voor me als volgt:
+    
+2. **Betrokkenheid** Als Student zou ik aanraden om aan de studenten voorlichtingen te geven over cyberveiligheid. Er zijn veel dingen die ik als [[ICT]]'er logisch vind, maar mijn peers niet. Dingen zoals:
+    
+    - Het gebruiken van [[USB]]-sticks die je vind
+    - Wat is [[2FA]] en hoe gebruik je het?
+    - Dat je je laptop moet locken las je wegloopt
+    - Hoe maak je een goed wachtwoord
+    - Wat is een wachtwoorden kluis
+    - Herkennen van AI-gegenereerde pictographie
+    - Awareness over verspreiden van privacy gevoelige gegevens over apps zoals [[Whatsapp]] en wat het verschil is met [[Signal]]
+    
+    Dit is informatie die ik als [[ICT]]'er logisch vind, maar waarvan ik af weet dat andere studenten hier geen verstand van hebben en snel de fout in gaan. **Helderheid** Op dit moment is er geen plek waar je een melding kan doen bij verdenking van cybercriminaliteit. Als er een plek / persoon is waar studenten dingen kunnen melden, kan er sneller en effectiever geacteerd worden op eventuele dreigingen en veiligheidsrisico's **Bespreekbaarheid** Als student zou ik aanraden om een algemeen informatiepunt op te richten waar studenten heen kunnen met hun vragen over cybercriminaliteit of andere cyber gerelateerde vragen, op die manier is het duidelijk aan studenten dat ze dingen vragen, en zien ze dat het een belangrijk issue is.
+    
+3. **Aanspreekbaarheid** Als student zou ik aanraden om de sfeer zo te maken dat een student ook leraren kan aanspreken op mogelijke cyberfouten die de student en leraar maken. Op die manier leert iedereen van de fouten en wordt er een nadruk gelegd op verbetering. Dit kan het makkelijker maken voor een student om ook weer dingen durven te vragen en zorgt uiteindelijk voor een positieve feedback loop.
 
 # 6 - Opdracht: Governance
 Deze opdracht gaat over de beleid, rolverdeling en taken binnen Avans. Door een pdf door te lezen met de taakverdelingen en verantwoordelijkheden 
