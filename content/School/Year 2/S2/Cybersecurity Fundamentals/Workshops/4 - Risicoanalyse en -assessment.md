@@ -6,6 +6,7 @@ tags:
 banner:
 publish: "true"
 ---
+
 >[!important] Opdracht
 >Je gaat met je projectgroep aan de slag met de volgende opdracht. Een aantal groepen zullen volgende les een presentatie geven hierover
 >
@@ -127,3 +128,9 @@ IT is more data directed like computer systems or networks.
 > - [YouTube - Aurora Generator Cyber Test in 2 x mins](https://www.youtube.com/watch?v=9pkDmvF8C2A)
 > - [YouTube - Staged aurora cyber attack reveals vulnerability in power grid](https://www.youtube.com/watch?v=fJyWngDco3g)
 
+# Sources
+- https://en.wikipedia.org/wiki/Information_technology
+- https://en.wikipedia.org/wiki/Operational_technology
+- https://www.ncsc.nl/ot-operational-technology
+- https://www.cisco.com/site/us/en/learn/topics/industrial-iot/what-is-ot-vs-it.html
+- https://xenoncyber.ca/ot-vs-it/

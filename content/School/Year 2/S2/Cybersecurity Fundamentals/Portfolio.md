@@ -7,7 +7,7 @@ banner:
 publish: "false"
 ---
 # 1 - Inleiding
-# 2 - Opdracht: Reflectie voor de module
+# 2 - Opdracht 1 A: Reflectie voor de module
 ## 2.1 - Waarom deze module?
 De keuze voor de cyber security module heb ik gemaakt omdat het proberen breken van beveiliging mij interessant lijkt. Rond poken in een systeem om te kijken hoe het werkt en hoe je binnen kan komen is altijd al een kleine hobby van mij geweest (ook al kwam ik nooit ver). 
 ## 2.2 - Wat denk ik te leren?
@@ -16,7 +16,7 @@ Ik denk dat deze module mij gaat leren hoe je een systeem kan infiltreren, maar 
 ## 2.3 - Wat moet een cybersecurity expert weten, kunnen en doen?
 Een cybersecurity expert moet weten welke tools je kan gebruiken voor verschillende situaties, hoe je informatie over iets kan vinden online (eigenschappen over een systeem, eventuele exploits/beveiligingsmethoden). 
 
-# 3 - Opdracht: OSINT
+# 3 - Opdracht 1 B: OSINT
 In deze opdracht moest je informatie vinden over groepsgenoten op het internet, deze info analyseren en beredeneren wat voor positie ze hebben in het team. 
 
 Het lastige was vooral om de persoonlijkheid van iemand online te vinden, aangezien veel groepsgenoten niet veel persoonlijke belevingen op hun sociale media zetten.
@@ -32,7 +32,7 @@ Tijdens de omgang met Jasper straalde hij focus en leiderschap uit.
 Martijn was een doorgestoken kaart voor mij omdat ik hem al jaren ken en dus weet waar ik moet zoeken. Ik vond zijn Facebook (met relatiestatus en familieleden), GitHub met projecten en software waar hij aan werkte, LinkedIn met up to date werkstatus (en de website waar hij aan werkt) en Instagram. 
 Door de informatie heen kon je wel dien dat Martijn veel kennis over front-end heeft en dat hij een goed overzicht houd over zijn kennis.
 
-# 4 - Opdracht: Waarom is cybercrime belangrijk voor bedrijven?
+# 4 - Opdracht 2: Waarom is cybercrime belangrijk voor bedrijven?
 Voor deze opdracht moesten we een dieper inzicht krijgen in cyberbedreigingen, de impact ervan op organisaties en waarom cybersecurity cruciaal is voor moderne organisaties. Door middel van het zoeken van dreigingsbeeld rapporten kregen wij een beeld van wat de motieven waren van criminelen, hoe het organisaties beïnvloed en waarom het belangrijk is om hier rekening mee te houden.
 
 Artikel 1: https://www.nctv.nl/onderwerpen/c/cybersecuritybeeld-nederland
@@ -57,7 +57,7 @@ Kleine bedrijven daarentegen worden ook zeer vaak het slachtoffer. Door AI worde
 **Zijn er trends of patronen in de doelwitten of methoden van aanval die worden benadrukt in het rapport?**<br>Cybercriminelen zijn meer gebruik gaan maken van meer advancement technologie, zoals “distributed ledger technology”- oftewel crypto - en de dark net. Door deze middelen heen proberen ze de constantie surveillance van cybersecurity eenheden te omzeilen. Een ander populaire methode is deepfakes: het verdoezelen van de waarheid door geefakte videos. Het nare effect hiervan is dat mensen steeds minder vertrouwend en meer paranoïde zijn.
 
 
-# 5 - Workshop 3: Weerbaar tegen cybercrime
+# 5 - Opdracht 3: Weerbaar tegen cybercrime
     
 Als student wordt ik niet echt betrokken bij de cyberveiligheid. Nu als een Informatica student zit het wel in mijn studie, maar als algemene student niet echt. Nu gebruikt avans wel [[Soft Controls]] die ik merk:
     
@@ -87,5 +87,21 @@ Als student wordt ik niet echt betrokken bij de cyberveiligheid. Nu als een Info
     
 3. **Aanspreekbaarheid** Als student zou ik aanraden om de sfeer zo te maken dat een student ook leraren kan aanspreken op mogelijke cyberfouten die de student en leraar maken. Op die manier leert iedereen van de fouten en wordt er een nadruk gelegd op verbetering. Dit kan het makkelijker maken voor een student om ook weer dingen durven te vragen en zorgt uiteindelijk voor een positieve feedback loop.
 
-# 6 - Opdracht: Governance
+# 6 - Opdracht 4: Governance
 Deze opdracht gaat over de beleid, rolverdeling en taken binnen Avans. Door een pdf door te lezen met de taakverdelingen en verantwoordelijkheden 
+
+# 7 - Opdracht 5: Risicoanalyse en -assessment
+**Deel B**<br>Voor deel b van deze opdracht moeten we ons verdiepen in IT en OT. Hiervoor moet ook een presentatie gemaakt worden.
+
+**Information Technology (IT)** is een term die gebruikt word als er gepraat word over de studie of gebruik van computers of andere telecommunicatieapparaten wat informatie opslaat, creëert of uitwisselt. Deze informatie kan iets zijn zoals foto- , tekst-, video- of spraakbestanden. De term word ook vaak gebruikt als er over een datanetwerk word gepraat.
+
+**Operation Technology (OT)** is de term die gebruikt word voor het software- of hardwarematig monitoren of besturen van industriële apparatuur. OT is vitaal op lekken zoals energiecentrales of fabrieken en zelfs kassasystemen.
+
+Terwijl IT meer data-operaties gericht is, is OT meer gericht op echte hardware en het correct beheren van. Wat het verbind is dat het beide over dezelfde infrastructuur communiceert, zoals routers, switches of wireless access points. Hier heeft OT toch weer een verschil mee met hoe moduleer- en weerbaar de hardware moet zijn. Een router moet bijvoorbeeld op rails worden gezet of een hardere case hebben om tegen een stootje te kunnen.
+
+Voorbeelden van IT systemen zijn meer “interne” systemen zoals servers, communicatie protocollen, email of data centers. Voorbeelden van OT systemen zijn meestal meer “out and about”, zoals systemen in warenhuizen, buiten op parkeerplekken zoals parkeer- en pinautomaten of sensoren op olie platformen en mijnbouwoperaties.
+
+Waar het dus bij IT meer draait om het veilig en in stand houden van de data en communicatie zelf, draait het bij OT meer om het in tact houden van en de monitoring van de uitrusting. Waar fysieke en digitale factoren beide erg belangrijk zijn, hebben fysieke problemen een visueel aspect, wat makkelijker gespot kan worden. 
+
+Als het gaat om IT is alles digitaal, wat zonder een goed monitorsysteem lastig word om in de gaten te houden. Nog steeds is IT makkelijker te hanteren dan OT omdat het minder invloed heeft van fysieke aspecten. Fysieke veranderingen of invloeden zijn soms lastig te voorspellen. Een aardbeving, water lek, of gewoon slijtage kan grote gevolgen hebben op een OT systeem. Hierom is een OT systeem moeilijker te hanteren dan een IT systeem.
+

@@ -6,6 +6,7 @@ tags:
 banner:
 publish: "false"
 ---
+
 # What?
 A presentation has 3 parts usually:
 - Tell them what you’re going to tell them (intro)
