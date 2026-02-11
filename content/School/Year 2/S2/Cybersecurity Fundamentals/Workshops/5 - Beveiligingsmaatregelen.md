@@ -39,6 +39,15 @@ Het gebruik van meerdere lagen zorgt dus voor meerdere beveiligingsmaatregelen t
 
 > ISO27002:2022.
 
-\[batterij van laptop leeg, vul de rest later aan]
+# Security concepten
+- **Secure-by-design**: iets is veilig bij het ontwerp van het systeem.
+- **Secure-by-default**: standaard staan niet alle poorten en services open, waardoor het standaard veilig is
+- **Privacy-by-design**: iets is ontworpen om het privacy secure te houden
+- **Privacy-by-default**: standaard is je privacy instellingen goed ingesteld
+
+# Effectiviteit van Maatregelen
+\[nog niet af]
+
+
 # Sources
 - https://en.wikipedia.org/wiki/Defence_in_depth
