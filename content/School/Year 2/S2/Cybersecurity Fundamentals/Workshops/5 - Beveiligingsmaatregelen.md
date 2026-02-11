@@ -8,7 +8,12 @@ publish: "true"
 ---
 
 >[!important] Opdracht
+>**Opdracht A**<br>Verdiep je in het onderwerp door bronnen te raadplegen. Werkverdeling mag, maar zorg ervoor dat je weet wat de ander doet en discuseer informatie.
+>1. Neem de iso27002:2022 / IEC62443 door en werk voor 1 maatregel per categorie uit hoe je dat binnen een organisatie zou kunnen implementeren.
+>2. Neem het NIST cybersecurity framework door en frclecteer op hoe dit bijdraagt aan het verbeteren van de cybersecurity binnen een organisatie
 >
+>**Opdracht B**<br>Werk deze opdracht uit in een groep
+>3. Je hebt een bow-tie diagram gemaakt op basis van een casus. Hiervoor waren nog geen maatregelen bedacht. Ga eerst op onderzoek uit voor iedere consequentie en bedreiging wat voor soort maatregelen hier genomen kan worden. Zorg ervoor dat je de gevonden maatregelen indeeld in het DiD-model
 # Intro
 Leg de hacker driehoek goed uit in je portfolio met een foto als toelichting.
 
