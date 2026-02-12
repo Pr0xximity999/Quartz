@@ -21,6 +21,8 @@ Een cybersecurity expert moet weten welke tools je kan gebruiken voor verschille
 In deze opdracht moest je informatie vinden over groepsgenoten op het internet, deze info analyseren en beredeneren wat voor positie ze hebben in het team. 
 
 Het lastige was vooral om de persoonlijkheid van iemand online te vinden, aangezien veel groepsgenoten niet veel persoonlijke belevingen op hun sociale media zetten.
+
+Achteraf bleek dat ik voor deze opdracht het [osint framework](https://osintframework.com/) kon gebruiken, waar veel handige tools een resources op staan. In het vervolg zal ik deze website toepassen.
 ## 2.2.1 - Joey
 Joey had het meeste informatie beschikbaar, vooral door zijn Facebook kon ik familieconnecties vinden, waaronder zijn moeder die veel kinderfoto’s van hem had gepost. Daarnaast vond ik zijn Instagram account, maar deze was wel privé. Door zijn LinkedIn kon ik zijn werk plek vinden.
 
@@ -68,8 +70,10 @@ De wetten die wij gevolgen hebben zijn:
 
 Al deze wet-en regelgevingen hebben allemaal belangrijke vereisten, zoals dat digitale dienstverleners maatregelen moeten nemen om hun ICT infrastructuur te beveiligen tegen incidenten (WBNI) of dat Europese bedrijven een communicatielijn moeten hebben om incidenten te rapporteren als ze voorvallen (CBW).  <br>Daarnaast geeft het wetten dat verwerking van persoonsgegevens altijd van gunst moet zijn voor de mens, ongeacht van nationaliteit of verblijfplaats (AVG) of richtlijnen hoe het beste een ISMS opgezet kan worden (ISO 27001).
 
-# 5 - Opdracht 4: Weerbaar tegen cybercrime
-Als student wordt ik niet echt betrokken bij de cyberveiligheid. Nu als een Informatica student zit het wel in mijn studie, maar als algemene student niet echt. Nu gebruikt avans wel [[Soft Controls]] die ik merk:
+\[Nog af maken]
+
+# 5 - Opdracht 4 (Workshop 3): Weerbaar tegen cybercrime
+Als student wordt ik niet echt betrokken bij de cyberveiligheid. Nu als een Informatica student zit het wel in mijn studie, maar als algemene student niet echt. Nu gebruikt Avans wel [[Soft Controls]] die ik merk:
     
 - Voorbeeldgedrag
     - Transparantie
@@ -97,10 +101,7 @@ Als student wordt ik niet echt betrokken bij de cyberveiligheid. Nu als een Info
     
 3. **Aanspreekbaarheid** Als student zou ik aanraden om de sfeer zo te maken dat een student ook leraren kan aanspreken op mogelijke cyberfouten die de student en leraar maken. Op die manier leert iedereen van de fouten en wordt er een nadruk gelegd op verbetering. Dit kan het makkelijker maken voor een student om ook weer dingen durven te vragen en zorgt uiteindelijk voor een positieve feedback loop.
 
-# 6 - Opdracht 4: Governance
-Deze opdracht gaat over de beleid, rolverdeling en taken binnen Avans. Door een pdf door te lezen met de taakverdelingen en verantwoordelijkheden 
-
-# 7 - Opdracht 5: Risicoanalyse en -assessment
+# 7 - Opdracht 5 (Workshop 4): Risicoanalyse en -assessment
 **Deel B**<br>Voor deel b van deze opdracht moeten we ons verdiepen in IT en OT. Hiervoor moet ook een presentatie gemaakt worden.
 
 **Information Technology (IT)** is een term die gebruikt word als er gepraat word over de studie of gebruik van computers of andere telecommunicatieapparaten wat informatie opslaat, creëert of uitwisselt. Deze informatie kan iets zijn zoals foto- , tekst-, video- of spraakbestanden. De term word ook vaak gebruikt als er over een datanetwerk word gepraat.
