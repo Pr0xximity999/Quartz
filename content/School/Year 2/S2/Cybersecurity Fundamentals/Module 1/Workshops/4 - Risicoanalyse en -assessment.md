@@ -24,7 +24,7 @@ publish: "true"
 >3. Verdiep je in genoemde standaarden voor risicoanalyse. Vergelijk deze en beargumenteer op welke wijze je de risico analyse en -assessment gaat uitvoeren. Maak een uitvoering van 1 A4’tje lang hoe je dit bij een bedrijf zal doen. 
 >4. Onderzoek de bow-tie methodiek en maak een diagram op basis van een van de onderstaande casussen, waarbij 1 top event “loss of control” word genomen. Houd hierbij rekening met de CIA driehoek: verlies van integriteit, vertrouwelijkheid en beschikbaarheid. Schrijf al de aannames die je doet op.
 # Intro
-Zoals [[School/Year 2/S2/Cybersecurity Fundamentals/Workshops/3 - Governance van Cybersecurity|voorheen]] besproken, is governance de regels en cultuur binnen een organisatie die de veiligheid van een bedrijf bepalen.
+Zoals [[School/Year 2/S2/Cybersecurity Fundamentals/Module 1/Workshops/3 - Governance van Cybersecurity|voorheen]] besproken, is governance de regels en cultuur binnen een organisatie die de veiligheid van een bedrijf bepalen.
 
 ## De Hack-Driehoek
 Een hack kan alleen plaatsvinden op het moment dat aan alle drie de voorwaarden voldaan word. Deze voorwaarden kunnen ook gebruikt worden ter verdediging. Deze drie punten zijn:

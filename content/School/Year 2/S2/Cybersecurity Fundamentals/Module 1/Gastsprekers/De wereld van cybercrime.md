@@ -17,7 +17,7 @@ Om de 2 dagen komt een rapportage over cybercrime info op ccinfo.nl
 # Wattes crime?
 Cybercrime is een hack uit de motivatie om er geld of iets anders van waarde mee te verdienen. Bedrijven worden hier vooral mee aangevallen, maar burgers zijn hier vaak te dupe van.
 
-Cyberwar is een hack die word uitgevoerd om iets of iemand te ontwrichten, zoals het breken van een [[School/Year 2/S2/Cybersecurity Fundamentals/Gastsprekers/Wat cybercriminaliteit met ons doet#Waarom ik?|supply chain]]. Deze aanvallen zijn vooral gericht op overheden en vitale infrastructuur, maar opnieuw, zijn de burgers hier ook vaak te dupe van.
+Cyberwar is een hack die word uitgevoerd om iets of iemand te ontwrichten, zoals het breken van een [[School/Year 2/S2/Cybersecurity Fundamentals/Module 1/Gastsprekers/Wat cybercriminaliteit met ons doet#Waarom ik?|supply chain]]. Deze aanvallen zijn vooral gericht op overheden en vitale infrastructuur, maar opnieuw, zijn de burgers hier ook vaak te dupe van.
 
 # Cyberwar
 Storingen zijn vaak gevolgen van een hack. Vaak word niet gezegd wat er aan de hand is. “Stroom storing door de russen” zie je niet in het nieuws, wel dat er een storing is *zonder* reden. Oudere mensen die macht hebben vragen dan aan, bijvoorbeeld Peter, wat ze moeten doen.
@@ -32,7 +32,7 @@ Desinformatie! In Noord Korea hebben ze vaak geen eten en leven van dag tot dag.
 Het Amphia ziekenhuis in Breda en Tilburg waren tijdens corona aangevallen door Franse hackers. Ze eiste geld op of anders werd het ziekenhuis plat gelegd. Peter had een digitale muizenval opgezet om de hackers te pakken, of een zogeheten “honey pot”.
 >https://wijhelpenziekenhuizen.nl
 
-Soms sturen criminelen filmpjes naar Peter voor zijn website om te flexen wat ze kopen met hun geld. Een Russische hacker deed dit vaak, de eigenaar van “[[School/Year 2/S2/Cybersecurity Fundamentals/Gastsprekers/Wat cybercriminaliteit met ons doet#Waarom en wie doen dit?|evil corp]]”. De enigste reden dat hij niet gepakt kon worden door Peter is omdat Rusland hem niet uitleverde, want Rusland. Iedereen wilt nu hacker worden in Rusland, want als je Russische vijanden aanvalt, support de Russische overheid je. zoiets in Nederland zal je in de cel belanden omdat het niet toegestaan is.
+Soms sturen criminelen filmpjes naar Peter voor zijn website om te flexen wat ze kopen met hun geld. Een Russische hacker deed dit vaak, de eigenaar van “[[School/Year 2/S2/Cybersecurity Fundamentals/Module 1/Gastsprekers/Wat cybercriminaliteit met ons doet#Waarom en wie doen dit?|evil corp]]”. De enigste reden dat hij niet gepakt kon worden door Peter is omdat Rusland hem niet uitleverde, want Rusland. Iedereen wilt nu hacker worden in Rusland, want als je Russische vijanden aanvalt, support de Russische overheid je. zoiets in Nederland zal je in de cel belanden omdat het niet toegestaan is.
 
 Jongeren zijn in de cybercrime space vooral gevaarlijk omdat ze niet weten wat ze doen. Vaak word er een hack door een “script kiddie” uitgevoerd omdat ze niet weten dat het niet mocht. Vaak kan je ook niks doen tegen deze jongeren omdat ze ergens aan de andere kant van de wereld zit.
 >Een VPN gaat je niet tegenhouden

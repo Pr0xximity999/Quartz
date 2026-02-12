@@ -17,8 +17,8 @@ Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, m
 # New entries/updates
 | date       | file                                                                                                                                  | Language                          | Notes |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ----- |
-| 02-02-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Gastsprekers/Wat cybercriminaliteit met ons doet\|Wat cybercriminaliteit met ons doet]] | #language/dutch #taal/nederlands  |       |
-| 03-02-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Gastsprekers/De wereld van cybercrime\|De wereld van cybercrime]]                       | #language/dutch #taal/nederlands  |       |
+| 02-02-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Module 1/Gastsprekers/Wat cybercriminaliteit met ons doet\|Wat cybercriminaliteit met ons doet]] | #language/dutch #taal/nederlands  |       |
+| 03-02-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Module 1/Gastsprekers/De wereld van cybercrime\|De wereld van cybercrime]]                       | #language/dutch #taal/nederlands  |       |
 
 
 

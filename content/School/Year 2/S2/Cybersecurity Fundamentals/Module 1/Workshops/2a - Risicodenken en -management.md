@@ -7,18 +7,20 @@ banner:
 publish: "true"
 ---
 
->[!important] Opdracht
->Doel: Je vertrouwd maken met de wet- en regelgeving en normen die belangrijk zijn voor cybersecurity. Door het onderzoek naar deze richtlijnen ga je begrijpen waarom vereisten nodig zijn, waaraan organisaties moeten voldoen om een effectieve cybersecurity strategie te ontwikkelen en implementeren
+
+>[!important] Opdracht: Wetgeving en Normen
+>Doel: Je bekend en vertrouwd maken met wet- en regelgevingen en normen die belangrijk zijn voor cybersecurity. Door dit onderzoek zul je begrijpen aan welke richtlijnen en vereisten organisaties moeten voldoen om een effectieve cybersecuritystrategie te ontwikkelen en implementeren.
 >1. Onderzoek wetten en regels rond cybercrimaneliteit , zowel nationaal en internationaal.
 >	- Ieder groepslid kiest één norm of wet
->2. Focus je op wetten zoals NIST, AVG, 
+>2. Focus je op wetten zoals NIST Cybersecurity Framework, AVG, NIS2, maar ook de wet Computercriminaliteit III
 >3. Gebruik verschillende bronnen zoals overheidsinstellingen, officiële publicaties, 
->4. Beantwoord de volgende vragen:
+>4. Beantwoord de volgende vragen als leidraad voor je onderzoek:
 >	1. Welke nationale en internationale wetten zijn er?
 >	2. wat zijn de belangrijkste vereisten van deze wetten?
->	3. welke normen worden vaak gebruikt als referentie?
->	4. Wat zijn de voordelen voor organisaties om deze wetten en regels te volgen?
->	5. Wat zijn de recentelijke ontwikkelingen of updates in wet- en regelgevingen?
+>	3. welke normen worden vaak gebruikt als referentie? Op welke sectoren zijn ze van toepassing?
+>	4. Hoe worden deze normen toegepast in de praktijk binnen organisaties?
+>	5. Wat zijn de voordelen voor organisaties om deze wetten en regels te volgen?
+>	6. Wat zijn de recentelijke ontwikkelingen of updates in wet- en regelgevingen?
 >5. Verwerk de resultaten in een matrix waar de verschillende wetten, regelgevingen en normen worden vermeld met hun belangrijkste vereisten en toepassingsgebieden (sectoren, soort organisaties)
 # Intro
 Traditioneel inbreken in iemands huis vereist dat je naar dat huis toe moet. Met cybercrime hoef je niet eens je huis uit. Hacken, phishen, internet extortion, internet fraud, identity theft, child exploitation, alles kan vanuit je slaapkamer gedaan worden.
@@ -102,11 +104,17 @@ D --> A
 - Repressief: De negatieve invloed van een verstoring minimaliseren
 - Correctief: Herstellen van objecten die bij een incident beschadigt zijn
 
-Er zijn Organisatorische maatregelen(regels, wetgevingen, procedures), logische maatregelen(sensoren, techniek, monitoring) of Fysieke maatregelen (sloten, sprinklers) beschikbaar.
+Soort maatregelen kan je onderverdelen in 3 typen. Daarnaast kan het 4 plekken hebben in de beveiligingscyclus: Preventief, defectief, repressief of correctief.
+### Organisatorische maatregelen
+Organisatorische maatregelen zijn maatregelen die betrekking hebben op een organisatie, de mens of procedures. Denk hierbij aan wet- of regelgevingen.
 
-### Voorbeelden
+### Logische maatregelen
+Logische maatregelen zijn alle maatregelen die zijn opgenomen in de programmatuur van applicaties of software. Dit kunnen dus dingen zijn zoals sensoren, monitoring of de techniek van een systeem.
+### Fysieke maatregelen
+Fysieke maatregelen zijn, zoals de naam zegt, maatregelen die gemaakt zijn door apparatuur of iets anders wat je fysiek tegen houd. Sloten, sprinklers of hekken vallen hier onder.
+
+### Voorbeelden van maatregelen
 ![[Vault-data/Attachments/Risicodenken en -management voorbeelden.png]]
-![[Vault-data/Attachments/Risicodenken en -management-1.png]]
 
 # Dreiging, Gevaar
 Een dreiging is een proces of gebeurtenis die in potentie een verstorende invloed heeft op een **object** van de informatievoorziening:
@@ -131,3 +139,9 @@ Dit is ook een dreiging. Andere dingen kunnen zijn:
 - Softwarefout
 - Stroomstoring
 
+# Sources
+- https://www.ncsc.nl/wet-en-regelgeving/wet-beveiliging-netwerk-en-informatiesystemen-wbni
+- https://www.open-overheid.nl/documenten/2023/01/06/algemene-verordening-gegevensbescherming
+- https://www.nctv.nl/onderwerpen/c/cyberbeveiligingswet
+- https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cyberbeveiligingswet/
+- https://www.forumstandaardisatie.nl/open-standaarden/nen-isoiec-27001
