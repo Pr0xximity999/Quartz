@@ -145,3 +145,4 @@ Dit is ook een dreiging. Andere dingen kunnen zijn:
 - https://www.nctv.nl/onderwerpen/c/cyberbeveiligingswet
 - https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cyberbeveiligingswet/
 - https://www.forumstandaardisatie.nl/open-standaarden/nen-isoiec-27001
+- https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cyberbeveiligingswet/
