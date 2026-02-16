@@ -68,7 +68,7 @@ Mineo access and secret key present
 dns subdomain enumeration
 https://github.com/ffuf/ffuf
 ```bash
-ffuf -w /usr/share/wordlists/wfuzz/general/medium.txt -u http://IP -h "HOST: FUZZ.boxname.htb" -fs 154
+ffuf -w /usr/share/wordlists/wfuzz/general/medium.txt -u http://IP -H "HOST: FUZZ.boxname.htb" -fs 154
 ```
 
 
