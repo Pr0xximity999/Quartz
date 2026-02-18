@@ -46,7 +46,7 @@ git clone -b main https://github.com/moveit/moveit2_tutorials
 vcs import --recursive < moveit2_tutorials/moveit2_tutorials.repos
 ```
 
-## Build the workspace
+## Build and setup the colcon workspace
 Reinstall moveit2 first. keep in mind that **building the workspace will take around 20 minutes**.
 ```bash
 # Remove any old binaries first
@@ -58,4 +58,8 @@ sudo apt update && rosdep install -r --from-paths . --ignore-src --rosdistro $RO
 # Configure your colcon workspace
 cd ~/ws_moveit
 colcon build --mixin release
+
+# Source the workspace
+source ~/ws_moveit/install/setup.bash
 ```
+

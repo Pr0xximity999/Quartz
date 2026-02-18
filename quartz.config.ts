@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌙Tom's Docs",
+    pageTitle: "🌙Ivy's Docs",
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: 'google', tagId: 'G-RQ53SEPBR4'},
     locale: "en-US",
-    baseUrl: "docs.tominhisroom.dev",
-    ignorePatterns: ["private", "templates", ".obsidian", "Planning*", "planning*", "Student Assistent/", "Project Robotfleet/"],
+    baseUrl: "docs.ivorylotus.dev",
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
