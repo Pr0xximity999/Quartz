@@ -3,6 +3,8 @@ tags:
   - school/student-assistent
   - taal/engels
   - language/english
+  - operating-systems/linux/ubuntu
+  - programming-languages/ROS
 publish: "true"
 ---
 >[!important] Sources

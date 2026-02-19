@@ -3,6 +3,8 @@ tags:
   - school/student-assistent
   - taal/engels
   - language/english
+  - operating-systems/linux/ubuntu
+  - programming-languages/ROS
 publish: "false"
 ---
 # Prerequisites
@@ -62,4 +64,16 @@ colcon build --mixin release
 # Source the workspace
 source ~/ws_moveit/install/setup.bash
 ```
+
+# Writing a c++ moveit package
+Firstly you need to create a c++ package with the right dependencies:
+```bash
+# cd into the workspace
+cd ~/ws_moveit/src
+
+# Create the right package
+ros2 pkg create  --build-type ament_cmake  --dependencies moveit_ros_planning_interface rclcpp  --node-name node_name package_name
+```
+
+The dependencies will add the right deps to the `package.xml` and `CMakelist.txt`.
 
