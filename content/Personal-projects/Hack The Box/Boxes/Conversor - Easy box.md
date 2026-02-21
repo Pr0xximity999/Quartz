@@ -4,7 +4,7 @@ banner:
 publish: "false"
 ---
 ```
-nmap -p -sV -sC 10.129.15.10
+nmap -p- -sV -sC 10.129.15.10
 ```
 - port 22: ssh 8.9p1 ubuntu 3ubuntu0.13
 - port 80: apache 2.4.52

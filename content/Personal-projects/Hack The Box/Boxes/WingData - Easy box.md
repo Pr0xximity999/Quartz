@@ -56,4 +56,13 @@ ftp login `wacky`, password `!#7Blushing^*Bride5`, same for ssh.
 
 only root privilege there is, is running a python script. the python script bulk-extracts tarballs.
 
+it inputs any file and extracts it with root perms.
+
+the python script runs `tar.extractall()` using `filter=data` as its filter…[cve moment](https://www.penligent.ai/hackinglabs/cve-2025-4517-the-python-tar-extraction-bug-that-breaks-trust-boundaries-in-real-automation/)
+
+https://github.com/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC
+
+
+
+
 
