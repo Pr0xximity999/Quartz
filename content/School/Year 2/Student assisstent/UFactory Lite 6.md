@@ -20,19 +20,19 @@ publish: "true"
 ```bash
 # Skip this step if you already have a target workspace
 cd ~
-mkdir -p dev_ws/src
+mkdir -p ufactory_ws/src
 ```
 
 ```bash
 # Remember to source ros2 environment settings first
-cd ~/dev_ws/src
+cd ~/ufactory_ws/src
 git clone https://github.com/xArm-Developer/xarm_ros2.git --recursive -b jazzy
-cd ~/dev_ws/src/xarm_ros2
+cd ~/ufactory_ws/src/xarm_ros2
 git pull --recurse-submodules
 ```
 
 ```bash
-cd ~/dev_ws/src/
+cd ~/ufactory_ws/src/
 rosdep update
 rosdep install --from-paths . --ignore-src --rosdistro jazzy -y
 ```
@@ -52,7 +52,7 @@ Ignore it and move on. It works fine, somehow
 ## Building
 ```bash
 # Remember to source ros2 and moveit2 environment settings first
-cd ~/dev_ws/
+cd ~/ufactory_ws/
 # build all packages
 colcon build
 
