@@ -62,3 +62,6 @@ publish: "true"
 - [NEN-Connect (ISO27001, NEN7510, e.d.)](https://avans.libguides.com/az/nen-connect)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [NIS2-richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
+
+# Beleid
+- [Hoe stuur je op effectieve informatiebeveiliging? (NCSC)](https://www.ncsc.nl/risicomanagement/hoe-stuur-je-op-effectieve-informatiebeveiliging)
