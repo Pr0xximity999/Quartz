@@ -6,7 +6,6 @@ tags:
 banner:
 publish: "true"
 ---
-
 # Intro
 Wet- en regelgevingen worden onderverdeeld in 2 hoofdrichtingen:
 - Wetgeving voor handhaving en vervolging:
