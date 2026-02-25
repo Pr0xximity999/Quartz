@@ -6,7 +6,7 @@ tags:
   - language/english
   - personal-project/server
 banner:
-publish: "true"
+publish: true
 ---
 # Introduction
 [Nginx](https://nginx.org/), pronounced “engine-x” is a server utility used as:

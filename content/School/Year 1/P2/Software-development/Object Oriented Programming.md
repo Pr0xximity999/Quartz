@@ -5,7 +5,7 @@ tags:
   - language/english
   - software-dev/OOP
   - school/robotics-prototyping
-publish: "true"
+publish: true
 ---
 Object Oriented Programming, or OOP, is a programming concept that revolves around making (you guessed it) objects that interact with each other on a software level.
 

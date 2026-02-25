@@ -7,7 +7,7 @@ tags:
   - taal/engels
   - guide
   - school/smart-energy
-publish: "true"
+publish: true
 ---
 >[!tip] This page is under construction
 >Over time i will add more information here, I'll put this page in [[index#New entries/updates]] if there's any updates

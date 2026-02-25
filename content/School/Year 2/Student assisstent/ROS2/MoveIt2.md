@@ -5,7 +5,7 @@ tags:
   - language/english
   - operating-systems/linux/ubuntu
   - programming-languages/ROS
-publish: "false"
+publish: false
 ---
 # Prerequisites
 - ROS2 [Jazzy](https://docs.ros.org/en/ros2_documentation/jazzy/Installation.html)

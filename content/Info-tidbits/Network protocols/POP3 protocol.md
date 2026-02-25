@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
   - internet-protocols/pop
-publish: "true"
+publish: true
 ---
 # Intro
 >**POP3**: Post Office Protocol (version 3)

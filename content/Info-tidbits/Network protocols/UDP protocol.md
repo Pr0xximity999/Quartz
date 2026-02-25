@@ -3,7 +3,7 @@ tags:
   - taal/engels
   - language/english
   - internet-protocols/udp
-publish: "true"
+publish: true
 ---
 If [[Info-tidbits/Network protocols/TCP protocol|TCP]] was a safe way to send data, UDP (User Datagram Protocol) is an unsafe one.<br>UDP does not do a three way handshake, only sending the data and not checking if it actually reached it destination. It does not have flow control, so many messages can be sent at once without controlling the stream.
 

@@ -4,7 +4,7 @@ tags:
   - language/english
   - school/finland
 banner:
-publish: "false"
+publish: false
 ---
 >[!important] For the case study (part 1)
 >- Write down every stakeholder in your system on a blank piece of paper. Push yourself to think past the obvious.

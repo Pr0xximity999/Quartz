@@ -4,7 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
 banner:
-publish: "true"
+publish: true
 ---
 >[!important]
 >Deze lijst zal uitgebreid worden als er meer informatiebronnen gevonden zijn, dus check from time to from of er nieuwe sources bij staan :3

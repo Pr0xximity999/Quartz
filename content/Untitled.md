@@ -1,5 +1,5 @@
 ---
 tags:
 banner:
-publish: "false"
+publish: false
 ---

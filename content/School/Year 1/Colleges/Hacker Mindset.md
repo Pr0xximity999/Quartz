@@ -6,7 +6,7 @@ tags:
   - school/cyber-security
   - school/secure-backend
   - cyber-security
-publish: "true"
+publish: true
 ---
 
 >[!important] These notes arent complete

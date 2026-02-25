@@ -5,6 +5,6 @@ tags:
   - modpacks/terrafirmagreg/resources
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 banner:
 ---

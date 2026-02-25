@@ -4,7 +4,7 @@ tags:
   - school/robot-fleet
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 Your program does not always work, sometimes stuff just does not work. You need a way to remedy fixes if needed.
 

@@ -4,7 +4,7 @@ tags:
   - modpacks/terrafirmagreg/geology
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 banner:
 ---
 \[*Sourced from the in-game TFC handbook and Wikipedia* ]<br>The world of TFC is divided into large continents. Landmasses who are many kilometers wide and separated by oceans.

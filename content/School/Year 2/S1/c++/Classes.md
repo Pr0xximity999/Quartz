@@ -5,7 +5,7 @@ tags:
   - language/english
   - taal/engels
   - programming-languages/cpp
-publish: "true"
+publish: true
 ---
 # Classes
 ## Copy constructors (new)

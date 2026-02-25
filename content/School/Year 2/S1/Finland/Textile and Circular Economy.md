@@ -4,7 +4,7 @@ tags:
   - language/english
   - school/finland
 banner:
-publish: "false"
+publish: false
 ---
 # Agenda
 - [[#Global textile problem|Global textile problem]] 

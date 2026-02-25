@@ -4,7 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
 banner:
-publish: "true"
+publish: true
 ---
 # Intro
 Wet- en regelgevingen worden onderverdeeld in 2 hoofdrichtingen:

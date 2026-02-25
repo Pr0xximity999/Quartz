@@ -6,7 +6,7 @@ tags:
   - language/english
   - taal/engels
   - school/2D-graphics
-publish: "true"
+publish: true
 ---
 Activity diagrams is, just like [[School/Year 1/P1/Informatica/Use Cases and Diagrams|use case diagrams]] and [[School/Year 1/P3/Informatica/Class Diagrams|class diagrams]], part of the Unified Modeling Language (or UML).
 Activity diagrams help visualising workflows, processes or activities within a system. They show how parts of a system move and how one thing connects to another.

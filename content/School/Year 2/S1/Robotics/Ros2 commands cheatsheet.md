@@ -4,7 +4,7 @@ tags:
   - programming-languages/ROS
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 use gazebo for the virtual simulation
 

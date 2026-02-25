@@ -1,7 +1,7 @@
 ---
 tags:
 banner:
-publish: "true"
+publish: true
 ---
 
 >[!info]
