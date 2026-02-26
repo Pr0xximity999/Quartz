@@ -4,7 +4,7 @@ tags:
   - language/english
   - school/finland
 banner:
-publish: false
+publish: "false"
 ---
 Current business literature conceptualizes responsible consumer behavior through several key pillars:
 - **Life-cycle responsibility**: Acquisition, usage and disposal of products and services

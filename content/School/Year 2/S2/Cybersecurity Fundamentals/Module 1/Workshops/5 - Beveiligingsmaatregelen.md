@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: true
+publish: "true"
 ---
 
 >[!important] Opdracht

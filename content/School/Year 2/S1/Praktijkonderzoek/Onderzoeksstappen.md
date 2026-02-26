@@ -3,7 +3,7 @@ tags:
   - taal/nederlands
   - language/dutch
   - school/praktijkonderzoek
-publish: true
+publish: "true"
 ---
 # 1. Probleemanalyse
 In deze stap bepaal je welk onderzoek je wilt doen en waarom. Denk hierbij aan:

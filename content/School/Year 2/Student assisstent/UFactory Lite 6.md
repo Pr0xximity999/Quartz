@@ -3,7 +3,7 @@ tags:
   - school/student-assistent
   - taal/engels
   - language/english
-publish: true
+publish: "true"
 ---
 
 >[!important]

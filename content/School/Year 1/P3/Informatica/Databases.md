@@ -5,7 +5,7 @@ tags:
   - taal/nederlands
   - school/databases
   - school/2D-graphics
-publish: true
+publish: "true"
 ---
 
 # Relationele database

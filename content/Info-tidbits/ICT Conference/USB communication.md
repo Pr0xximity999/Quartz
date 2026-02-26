@@ -3,7 +3,7 @@ tags:
   - taal/engels
   - language/english
   - communication-protocols/usb
-publish: true
+publish: "true"
 ---
 > Speaker: Jurrie Ovrgoor - Architect at topicus (software company for managing loans and invoices)
 

@@ -5,7 +5,7 @@ tags:
   - school/college
   - language/dutch
   - taal/nederlands
-publish: true
+publish: "true"
 ---
 
 >[!abstract] Opdracht

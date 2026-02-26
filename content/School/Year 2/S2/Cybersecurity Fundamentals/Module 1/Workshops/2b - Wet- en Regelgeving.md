@@ -4,10 +4,10 @@ tags:
   - language/dutch
   - taal/nederlands
 banner:
-publish: true
+publish: "true"
 ---
 # Intro
-Wet- en regelgevingen worden onderverdeeld in 2 hoofdrichtingen:
+Wet- en regelgevingen hebben 2 hoofd richtingen:
 - Wetgeving voor handhaving en vervolging:
 	- CCV
 	- Grondwet
@@ -19,7 +19,7 @@ Wet- en regelgevingen worden onderverdeeld in 2 hoofdrichtingen:
 	- ISO27001/NIST
 	- Sectorale regelingen
 
-Deze 2 richtingen moeten voor orde zorgen. Alle bedrijven moeten zich hier aan houden, want niemand kan hier een concurrentieel voordeel aan houden.
+Deze 2 richtingen moeten voor orde zorgen. Alle bedrijven moeten hier aan houden. Niemand kan hier een concurrentieel voordeel aan houden.
 
 # Wetten en regels
 Om ervoor te zorgen dat mensen niet alles en iedereen gaan hacken, zijn hier allemaal wetten en regelgevingen aan gemaakt:
@@ -46,17 +46,13 @@ Om ervoor te zorgen dat mensen niet alles en iedereen gaan hacken, zijn hier all
 Het verdrag is het eerste dwingende instrument van internationaal recht dat informatiecriminaliteit bestrijdt.
 
 De doelen zijn:
-1. Consitutieve elementen **harmoniseren** inzake misdrijven van het nationale materiële strafrecht.
-2. **Internationale samenwerking** via grensoverschrijdende opsporingsbevoegdheden voor justitie en politie.
-3. Alle verdragstaten te voorzien in de **bestraffing van informaticamisbruiken**.
+1. Consitutieven element \[nog niet af]
 
 # Geschiedenis van de wet Computercriminaliteit
 - De huidige wet Computercriminaliteit III is sinds 1 maart **2019** van kracht.
 - De vorige wet Computercriminaliteit II was sinds 1 september **2006** van kracht.
 - De belangrijkste wijzigingen (van II) t.o.v. de vorige wet (I) uit 1993 zijn:
-	- Bij **computervredebreuk** is elke vorm van wederrechtelijk binnendringen strafbaar, ook als daarbij geen beveiliging word doorbroken.
-	- De **definitie van virussen en malware is aangescherpt**: een programma moet bedoeld zijn om schade aan te richten, maar niet per se (zoals in de oude wet) “zoor zichzelf te vermenigvuldigen in een geautomatiseerd werk”.
-	- De **Maximale straf** voor veel delicten is verhoogd. Hierdoor kan een verdachte in voorlopige hechtenis worden genomen. Verder zijn de meeste vormen van computercriminaliteit nu ook strafbaar in Nederland wanneer een Nederlander ze in het buitenland begaat. Dit is een gevolg van het Cybercrime verdrag (CCV).
+	- Bij computervredebreuk is elke vorm van wederrechtelijk binnen \[nog niet af]
 
 ## Wet computercriminaliteit III
 Belangrijkste wijzigingen vanuit II:
@@ -69,6 +65,7 @@ Belangrijkste wijzigingen vanuit II:
 	- Online services mogen plat worden gehaald door de politie als ze strafbaar zijn
 
 Komt dus op neer, de politie mag pedofielen pakken, hackers terug hacken, het verkopen van gestolen data straffen, of platforms neerhalen online, ALS ze hiervoor een geldige reden hebben. Mag ook alleen als ze een **reden** hebben, in verband met grondwet 13.
+
 
 # Oud naar nieuw
 Vroeger bestond alleen maar huisvredebreuk (inbreken of toetreden van iemands huis). Nu is er ook computervredebreuk. Je mag niet zomaar toegang hebben tot iemands computer, ook al staat deze niet op slot.
@@ -90,23 +87,7 @@ Doe je dit per ongeluk? Dan ben je nogsteeds strafbaar. Als je 80 kilometer per 
 - NERC CIP
 - NIST CYBERSECURITY Framework
 - NIST SP 1800 Series
-- NIST SP 800-171
-- NIST SP 800-53
+- \[nog niet af]
 # Information Security Management System (ISMS)
-Het ISMS is het deel van het overall management systeem dat gericht is op de aanpak van bedrijfsrisico’s m.b.t. informatiebeveiliging / security. ISMS gaat over:
-- vaststellen
-- implementeren
-- uitvoeren
-- monitoren
-- beoordelen
-- onderhouden
-- verbeteren
-van een informatiebeveiliging-management systeem.
+\[nog niet af]
 
-De leidende internationale standard voor een ISMS is de `ISO 27000` serie.
-
-Een ISMS werkt met de volgende stappen:
-1. Identificeer de risico’s die een systeem kan hebben
-2. Vergaar manieren om dit systeem de beveiligingen
-3. Creëer een plan in het geval dat een risico ook gebeurt
-4. Identificeer verantwoordelijken voor iedere stap van dit proces

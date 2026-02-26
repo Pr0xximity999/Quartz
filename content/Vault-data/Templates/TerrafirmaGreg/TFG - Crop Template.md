@@ -5,7 +5,7 @@ tags:
   - modpacks/terrafirmagreg/farming/crops
   - taal/engels
   - language/english
-publish: true
+publish: "true"
 ---
 # General info
  is a that can be planted on.

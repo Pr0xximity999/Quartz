@@ -4,7 +4,7 @@ tags:
   - language/english
   - school/finland
 banner:
-publish: false
+publish: "false"
 ---
 # Main assignment
 [[School/Year 2/S1/Finland/Textile and Circular Economy|Document]]

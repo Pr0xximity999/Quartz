@@ -3,7 +3,7 @@ tags:
   - internet-protocols/smtp
   - language/english
   - taal/engels
-publish: true
+publish: "true"
 ---
 > **SMTP**: Simple Mail Transfer Protocol
 

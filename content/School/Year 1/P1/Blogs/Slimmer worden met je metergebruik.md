@@ -4,7 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/smart-energy
-publish: true
+publish: "true"
 ---
 Na hard werken en veel code typen is mijn eerste schoolproject eindelijk af. Een mooie webpagina met visualisatie en aanpasbaarheid is het eindresultaat van een leertraject over blazor, html, c#, javascript en CSS.
 

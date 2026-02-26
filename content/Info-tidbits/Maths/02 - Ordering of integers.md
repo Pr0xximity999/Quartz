@@ -4,7 +4,7 @@ tags:
   - language/english
   - maths/integers
   - maths/operators
-publish: true
+publish: "true"
 ---
 In the previous chapter we talked about [[Info-tidbits/Maths/01 - Numbers|integers]], let's expand on that.
 

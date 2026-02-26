@@ -2,7 +2,7 @@
 tags:
   - school/robot-fleet
   - school/computer-machine-vision
-publish: true
+publish: "true"
 ---
 Some definitions:
 >**Computer graphics**: converting information to images

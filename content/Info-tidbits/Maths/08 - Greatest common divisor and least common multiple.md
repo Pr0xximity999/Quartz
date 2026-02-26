@@ -5,7 +5,7 @@ tags:
   - maths/integers
   - maths/quotient
   - maths/product
-publish: true
+publish: "true"
 ---
 
 # Greatest common divisor

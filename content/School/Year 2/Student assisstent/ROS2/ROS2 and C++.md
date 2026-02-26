@@ -6,7 +6,7 @@ tags:
   - operating-systems/linux/ubuntu
   - programming-languages/ROS
   - school/cpp
-publish: true
+publish: "true"
 ---
 >[!important] Sources
 >- [Create a simple ROS2 client and server node](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Service-And-Client.html)

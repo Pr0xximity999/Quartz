@@ -7,7 +7,7 @@ tags:
   - design/diagrams
   - design/uml
   - school/2D-graphics
-publish: true
+publish: "true"
 ---
 When making an application, you gotta know what you have to make.
 For [[School/Year 1/P2/Software-development/Object Oriented Programming|Object Oriented Programming]], this is knowing which classes interact with which and what methods these classes contain.

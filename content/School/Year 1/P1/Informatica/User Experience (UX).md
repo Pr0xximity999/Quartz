@@ -6,7 +6,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/design
-publish: true
+publish: "true"
 ---
 ## Wat is UX?
 User experience is, zoals de term al aangeeft de beleving die iemand heeft tijdens de interactie met het product tat ze gebruiken.

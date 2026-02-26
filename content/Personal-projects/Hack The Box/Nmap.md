@@ -5,7 +5,7 @@ tags:
   - language/english
   - cyber-security
 banner:
-publish: false
+publish: "false"
 ---
 # Introduction
 Network mapper, or `Nmap` is an open-source network analysis and security tool written in C, C++, Python and Lua. 

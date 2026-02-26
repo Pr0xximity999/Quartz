@@ -5,7 +5,7 @@ tags:
   - taal/nederlands
   - language/dutch
 banner:
-publish: true
+publish: "true"
 ---
 > Peter Lahousse - Adviseur cybercrime bij de politie
 

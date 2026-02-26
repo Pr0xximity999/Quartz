@@ -5,7 +5,7 @@ tags:
   - programming-languages/ROS
   - taal/engels
   - language/english
-publish: true
+publish: "true"
 ---
 > **MicroROS**: a framework for embedded and deep-embedded robot components with extremely constrained computational resources
 

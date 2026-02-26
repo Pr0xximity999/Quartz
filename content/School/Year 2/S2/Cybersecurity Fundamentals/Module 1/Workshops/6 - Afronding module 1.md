@@ -4,7 +4,7 @@ tags:
   - taal/nederlands
   - language/dutch
 banner:
-publish: false
+publish: "false"
 ---
 >[!important] Workshop opdracht
 >1. Voorheen heb je een [[School/Year 2/S2/Cybersecurity Fundamentals/Module 1/Workshops/5 - Beveiligingsmaatregelen|bow-tie diagram gemaakt]] op basis van een casus.

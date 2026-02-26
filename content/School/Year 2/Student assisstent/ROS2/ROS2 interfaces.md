@@ -5,7 +5,7 @@ tags:
   - language/english
   - operating-systems/linux/ubuntu
   - programming-languages/ROS
-publish: true
+publish: "true"
 ---
 >[!important] Sources
 >- [Custom ROS2 Interfaces](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)

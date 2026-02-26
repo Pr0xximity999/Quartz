@@ -6,7 +6,7 @@ tags:
   - modpacks/terrafirmagreg
   - modpacks/terrafirmagreg/geology/minerals
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
-publish: true
+publish: "true"
 ---
 # Rock types
 - 

@@ -6,7 +6,7 @@ tags:
   - language/english
   - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
-publish: true
+publish: "true"
 ---
 # Rock types
 - Sedimentary (Claystone)

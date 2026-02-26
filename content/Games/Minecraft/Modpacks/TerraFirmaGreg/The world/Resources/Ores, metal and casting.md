@@ -4,7 +4,7 @@ tags:
   - modpacks/terrafirmagreg/resources
   - taal/engels
   - language/english
-publish: true
+publish: "true"
 banner:
 ---
 In addition to sticks, twigs and stones, you may also encounter small pieces of ores scattered around on the ground. These pieces are important, as they are your only source of ore before obtaining a pickaxe.

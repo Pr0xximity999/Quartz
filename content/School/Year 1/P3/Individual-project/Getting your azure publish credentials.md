@@ -6,7 +6,7 @@ tags:
   - taal/engels
   - language/english
   - school/2D-graphics
-publish: true
+publish: "true"
 ---
 If you're like me and you forgot to write down the azure publish credentials when creating the resource group (using the template school provided us), you might want to know where you can find the data again (since school doesn't tell you).
 

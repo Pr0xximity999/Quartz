@@ -6,7 +6,7 @@ tags:
   - taal/engels
   - language/english
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
-publish: true
+publish: "true"
 ---
 # Rock types
 - Igneous extrusive (dacite)

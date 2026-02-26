@@ -1,7 +1,7 @@
 ---
 tags:
 banner:
-publish: false
+publish: "false"
 ---
 ```
 nmap -p- -sV -sC 10.129.15.10

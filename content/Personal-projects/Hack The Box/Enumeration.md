@@ -5,7 +5,7 @@ tags:
   - language/english
   - cyber-security
 banner:
-publish: false
+publish: "false"
 ---
 >**Enumeration**: *The action of mentioning a number of things one by one*
 

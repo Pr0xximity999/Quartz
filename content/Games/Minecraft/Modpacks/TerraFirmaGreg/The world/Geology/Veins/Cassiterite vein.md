@@ -6,7 +6,7 @@ tags:
   - language/english
   - modpacks/terrafirmagreg
 banner: "[[Vault-data/Banners/TerraFirmaGreg2.png]]"
-publish: true
+publish: "true"
 ---
 # Found in
 - Igneous Intrusive (Granite, Diorite, Gabbro)

@@ -5,7 +5,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/design
-publish: true
+publish: "true"
 ---
 > **Usability**: Een kwaliteitsattribuut dat vast stelt hoe makkelijk het is om een user interface te gebruiken. **Usability** verwijst ook naar methoden die de *ease-of-use* verbeteren tijdens het design proces.
 

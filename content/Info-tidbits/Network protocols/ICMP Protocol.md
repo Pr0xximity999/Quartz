@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: false
+publish: "false"
 ---
 The **Internet Control Message Protocol** (ICMP) is used to network devices, including routers, to communicate operational information about success or failure when communicating with another IP address. It is part of the [internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite), as defined in [RFC 792](https://datatracker.ietf.org/doc/html/rfc792)
 

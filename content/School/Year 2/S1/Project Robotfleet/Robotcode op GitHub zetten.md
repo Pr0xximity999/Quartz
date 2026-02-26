@@ -5,7 +5,7 @@ tags:
   - school/robot-fleet
   - school/eindproject
 banner:
-publish: false
+publish: "false"
 ---
 Code van de robot moet ook op de GitHub terecht komen. Vanuit de robot pushen en pullen is niet handig omdat iemand dat ingelogd moet zijn op de robot, wat een veiligheidsprobleem is. Daarom word er hier uitgelegd hoe je je bestanden van de robot kan halen en op GitHub kan zetten.
 

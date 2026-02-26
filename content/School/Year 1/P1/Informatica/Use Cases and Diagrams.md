@@ -7,7 +7,7 @@ tags:
   - design/uml
   - design/diagrams
   - school/smart-energy
-publish: true
+publish: "true"
 ---
 >[!tip]- Dit is een toevoeging op de college les
 > De college notities kan je [[School/Year 1/Colleges/Requirements|hier]] vinden

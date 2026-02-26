@@ -5,7 +5,7 @@ tags:
   - modpacks/terrafirmagreg
   - taal/engels
   - language/english
-publish: true
+publish: "true"
 banner: "[[Vault-data/Banners/TerraFirmaGreg.png]]"
 ---
 TFG! Supposedly one of minecraft’s hardest modpacks out there. It mixes together the world and survival realism of [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) with the insane mechanical complexity and “realism”(it’s all just microcrafting) of yours truly, [GregTech](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern). 

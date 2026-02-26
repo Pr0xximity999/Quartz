@@ -5,7 +5,7 @@ tags:
   - personal-project/assembly
   - personal-project/linux
   - operating-systems/linux
-publish: true
+publish: "true"
 ---
 Assembly may seem daunting, but it's alright if you know the instructions.
 

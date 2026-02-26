@@ -4,7 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
 banner:
-publish: false
+publish: "false"
 ---
 # CYBOK
 >**Cybok**: Cyber Security Body Of Knowledge

@@ -5,7 +5,7 @@ tags:
   - language/english
   - taal/engels
   - programming-languages/cpp
-publish: true
+publish: "true"
 ---
 The pre-processor is a process that evaluates certain syntax in your code and collapses it to an expression that the compiler can use.
 # Macros

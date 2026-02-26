@@ -5,7 +5,7 @@ tags:
   - language/english
   - taal/engels
   - programming-languages/cpp
-publish: true
+publish: "true"
 ---
 At default, C++ only has a certain number of datatypes (of course you can make more through the use of classes):
 - **Void**: Nothing, Used for things like methods with no return values or pointers(sometimes).
