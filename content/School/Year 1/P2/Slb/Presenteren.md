@@ -5,7 +5,7 @@ tags:
   - language/dutch
   - school/slb
   - school/robotics-prototyping
-publish: "true"
+publish: true
 ---
 soms moet je presenteren, dus is het handig om te weten *hoe* je moet presentern
 # Lichaamstaal

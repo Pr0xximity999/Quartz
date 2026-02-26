@@ -5,7 +5,7 @@ tags:
   - modpacks/terrafirmagreg/farming/crops
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 # General info
 Pumpkins are a **spreading** crop that can be planted on **farmland** and will place up to **two** pumpkin blocks on the ground next to it while it is mature.

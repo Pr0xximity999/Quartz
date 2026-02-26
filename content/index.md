@@ -5,7 +5,7 @@ tags:
   - taal/engels
   - language/english
 banner: "[[Vault-data/Banners/field-at-day.jpg]]"
-publish: "true"
+publish: true
 ---
 # introduction
 Hiiii welcome to my own little corner of the internet 🌻<Br>So this is like, my(Ivy's) digital garden to write blogs, school stuff (Mostly this rn), random information, ideas i might get or anything i feel like really. It's running on the [quartz 4 engine](https://quartz.jzhao.xyz/) and written using [obsidian](https://obsidian.md/).

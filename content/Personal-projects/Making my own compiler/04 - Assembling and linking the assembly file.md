@@ -4,7 +4,7 @@ tags:
   - personal-project/assembly
   - personal-project/programming
   - personal-project/linux
-publish: "true"
+publish: true
 ---
 Step 1 will be assembling the file we created in [[Personal-projects/Making my own compiler/03 - Writing assembly part 1|03 - Writing assembly part 1]].
 

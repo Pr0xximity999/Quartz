@@ -3,7 +3,7 @@ tags:
   - school/student-assistent
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 MoveIt does the heavy lifting for you. It will plan the motion, inverse kinematics and the collisions.
 

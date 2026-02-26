@@ -5,7 +5,7 @@ tags:
   - taal/nederlands
   - school/gastcollege
 banner:
-publish: "true"
+publish: true
 ---
 > Xander Koppelmans, https://xanderkoppelmans.nl
 

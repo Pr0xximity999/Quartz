@@ -5,7 +5,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/design
-publish: "true"
+publish: true
 ---
 >[!info] vervolging op de vorige les
 >Die kan je [[School/Year 1/P1/Informatica/Doelgroep en de gebruiker|hier]] vinden

@@ -5,7 +5,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/smart-energy
-publish: "true"
+publish: true
 ---
 >[!info] Vervolging van periode 1
 > Zie [[School/Year 1/P1/Informatica/User Experience (UX)|User Experience (UX)]] voor meer info

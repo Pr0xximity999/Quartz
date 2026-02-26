@@ -3,7 +3,7 @@ tags:
   - school/student-assistent
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 Gazebo is software that can be used to test real-life hardware in a simulated environment.
 

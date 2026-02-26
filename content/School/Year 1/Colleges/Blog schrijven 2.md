@@ -6,7 +6,7 @@ tags:
   - language/dutch
   - taal/nederlands
   - school/robotics-prototyping
-publish: "true"
+publish: true
 ---
 >[!info] Vorige blog
 >Het vorige artikel over blog schrijven staat in [[School/Year 1/Colleges/Blog schrijven 1]]

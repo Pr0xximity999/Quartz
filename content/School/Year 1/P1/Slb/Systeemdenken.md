@@ -4,7 +4,7 @@ tags:
   - taal/nederlands
   - language/dutch
   - school/smart-energy
-publish: "true"
+publish: true
 ---
 
 > **Systeem**: Een groep van componenten die elkaar direct beïnvloeden; als er een weg gehaald of veranderd word, veranderd de rest ook. Het versterkt elkaar ook

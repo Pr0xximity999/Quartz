@@ -4,7 +4,7 @@ tags:
   - language/english
   - school/finland
 banner:
-publish: "false"
+publish: false
 ---
 >**DEI**: Diversity, Equity, Inclusion
 >**CSR**: Company Social Responsibility

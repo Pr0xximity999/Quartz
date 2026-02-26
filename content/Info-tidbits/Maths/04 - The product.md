@@ -3,7 +3,7 @@ tags:
   - maths/product
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 # The product of two numbers
 Multiplying two numbers together is called the **product**.

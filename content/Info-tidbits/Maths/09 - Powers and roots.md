@@ -4,7 +4,7 @@ tags:
   - maths/integers
   - maths/powers
   - maths/roots
-publish: "true"
+publish: true
 ---
 # Powers
 A power is a number that repeatedly gets multiplied by itself.

@@ -5,7 +5,7 @@ tags:
   - personal-project
   - language/english
   - taal/engels
-publish: "true"
+publish: true
 ---
 # Info
 Quartz is software that generates web pages using markup files, you can use it to host documents or [digital gardens](https://jzhao.xyz/posts/networked-thought) and the like.

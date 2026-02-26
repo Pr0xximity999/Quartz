@@ -4,7 +4,7 @@ tags:
   - games/minecraft
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 banner:
 ---
 Clay is an extremely useful item throughout this entire pack. Early on it is used for pottery (molds, pots, jugs…) 

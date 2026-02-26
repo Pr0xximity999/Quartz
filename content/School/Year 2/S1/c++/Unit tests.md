@@ -5,7 +5,7 @@ tags:
   - school/robot-fleet
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 Code needs to run well. It also needs to run well when it doesn’t. Unit tests are tests that run tiny bits of code (usually one function or method) to test multiple scenarios and their outcome. It is the smallest unit of testable software.
 

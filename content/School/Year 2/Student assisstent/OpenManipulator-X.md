@@ -3,7 +3,7 @@ tags:
   - school/student-assistent
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 OMX info was found [here](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/quick_start_guide/)
 

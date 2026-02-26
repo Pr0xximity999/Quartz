@@ -3,7 +3,7 @@ tags:
   - school/robot-fleet
   - language/dutch
   - taal/nederlands
-publish: "true"
+publish: true
 ---
 # Voor wie?
 Technische documentatie is heel handig als je een project hebt waar veel mensen aan werken. Het is de bedoeling dat technische documentatie steeds verder word uitgebreid.

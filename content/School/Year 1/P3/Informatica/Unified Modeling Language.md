@@ -6,7 +6,7 @@ tags:
   - school/2D-graphics
   - language/english
   - taal/engels
-publish: "true"
+publish: true
 ---
 > **UML**: Unified modelling language
 > Basically it's a visualization of processes and classes of an application

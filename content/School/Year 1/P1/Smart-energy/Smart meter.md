@@ -5,7 +5,7 @@ tags:
   - guide
   - language/dutch
   - taal/nederlands
-publish: "true"
+publish: true
 ---
 >[!info]
 >If you want to know how to install the smart sensor into your home, skip ahead to [[#Installing the sensor onto the smart electrical box]]

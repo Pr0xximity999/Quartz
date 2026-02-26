@@ -5,7 +5,7 @@ tags:
   - applications/spicetify
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 Regular spotify can look kinda boring at times. Even after almost 2 decades, spotify does not have native theme customization or plugins.
 

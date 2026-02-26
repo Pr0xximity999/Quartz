@@ -5,7 +5,7 @@ tags:
   - language/english
   - taal/engels
   - programming-languages/cpp
-publish: "true"
+publish: true
 ---
 Some programs need to have multiple tasks to be run at the same time.
 

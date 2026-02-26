@@ -5,7 +5,7 @@ tags:
   - personal-project/server
   - language/english
   - taal/engels
-publish: "true"
+publish: true
 ---
 # Definition
 A VPS stands for Virtual Private Server.

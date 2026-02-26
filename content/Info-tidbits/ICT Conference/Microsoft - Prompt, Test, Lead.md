@@ -3,7 +3,7 @@ tags:
   - language/english
   - taal/engels
   - artificial-intelligence
-publish: "true"
+publish: true
 ---
 > Speaker: Simone Cammel - CTO Research Microsoft Nederland
 

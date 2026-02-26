@@ -1,5 +1,5 @@
 ---
-publish: "true"
+publish: true
 ---
 Found [here](https://brightspace.avans.nl/d2l/le/lessons/251412/topics/1712098).
 

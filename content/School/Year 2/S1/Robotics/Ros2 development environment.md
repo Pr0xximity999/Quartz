@@ -4,7 +4,7 @@ tags:
   - programming-languages/ROS
   - taal/engels
   - language/english
-publish: "true"
+publish: true
 ---
 # Ros2 workspace
 Projects inside the Ros2 environment are called workspaces. A workspace is a directory with a specific folder structure, source code is usually placed inside the `src` directory.

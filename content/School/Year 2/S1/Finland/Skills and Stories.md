@@ -1,7 +1,7 @@
 ---
 tags:
 banner:
-publish: "false"
+publish: false
 ---
 # Hard skills
 > **Hard skills**: Employee’s ability to do a specific task
