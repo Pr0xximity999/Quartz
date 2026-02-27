@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: "true"
+publish: true
 ---
 
 >[!important] Opdracht
@@ -39,20 +39,62 @@ Het gebruik van meerdere lagen zorgt dus voor meerdere beveiligingsmaatregelen t
 ![[Vault-data/Attachments/5 - Beveiligingsmaatregelen did model.png]]
 
 # Security standaarden
-**NIST Cybersecurity Framework 2.0**<br>Het NIST Cybersecurity Framework 2.0 biedt een gestructureerde aanpak voor het beheren en verbeteren van cybersecurity-risico’s. De weerbaarheid zit vooral in het beschermen tegen impact en in de onderdelen detect respond en recover.
-\[nog niet af]
+**NIST Cybersecurity Framework 2.0**<br>![[Vault-data/Attachments/5 - Beveiligingsmaatregelen.png]]<br>Het NIST Cybersecurity Framework 2.0 biedt een gestructureerde aanpak voor het beheren en verbeteren van cybersecurity-risico’s. De weerbaarheid zit vooral in het beschermen tegen impact en in de onderdelen detect respond en recover.
 
 > ISO27002:2022.
 
-# Security concepten
+## EU cybersecurity Act Annex 1 - Eisen
+De EU heeft een aantal eisen dat, onder andere, producten met digitale elementen zodanig moeten worden ontworpen, ontwikkeld en geproduceerd, dat zij een passend cyberbeveiligingsnieau hebben op basis van de risico’s.
+
+Digitale producten moeten dus gemaakt worden op een manier dat bekende kwetsbaarheden niet aanwezig zijn om uitbuiting te voorkomen. Deze producten moeten ook zo ontworpen zijn dat de gevolgen van een incident beperkt worden door het gebruik van passende mechanismen en technieken.
+
+## Hardening
+Hardening is het proces van het beveiligen van een systeem door middel van het verminderen van kwetsbaarheden. Door het verminderen van aanvalshoeken en de openstaande paden te beveiligen maak je het moeilijker om in te breken.
+## Security concepten
 - **Secure-by-design**: iets is veilig bij het ontwerp van het systeem.
 - **Secure-by-default**: standaard staan niet alle poorten en services open, waardoor het standaard veilig is
 - **Privacy-by-design**: iets is ontworpen om het privacy secure te houden
 - **Privacy-by-default**: standaard is je privacy instellingen goed ingesteld
 
-# Effectiviteit van Maatregelen
-\[nog niet af]
+# Maatregelen
+Waar het mogelijk is, moet je maatregelen nemen bij de bron van een risico. Deze maatregelen moeten passen bij de organisatie, cultuur en het risico.
 
+De **effectiviteit** van maatregelen moeten worden geëvalueerd. Het is belangrijk dat er ook word gekeken naar maatregelen om de bestaande maatregelen effectief te houden. Een voorbeeld is het gepiep die je hoort als je je gordel niet om doet.
+
+Andere voorbeelden die effectiviteit van maatregelen kan verbeteren zijn:
+- Training van medewerkers
+- Stickers met herinneringen om de deur op slot te doen
+- Cybersecurity video basismaatregelen voor leveranciers
+- een interne of externe audit
+- Automatisch locken van je laptop
+- Blokkeren van USB poorten die je niet nodig hebt
+- Regelmatig incident response plannen oefenen
+
+Maar wanneer heb je nu genoeg maatregelen getroffen? Hackers hebben maar één kwetsbaarheid nodig om binnen te komen. Een goede risico-analyse is hier belangrijk bij. Controleren of alle digitale middelen uitgestippeld zijn of goed inzicht in de hackers om je heen helpen hier ook bij.
+- Kijken naar best-practices en pakket van maatregelen
+- Kijken naar securitystandaarden en -richtlijnen
+- Gezond verstand
+
+# Cybersecurity verzekering
+Een cyberverzekering is om kosten te vergoeden in het geval van een cyberincident (verrassend). Denk hierbij aan:
+- Reparatie of vervangen van hard- en software
+- Herstelling van data
+- Terugvinden van informatie en opnieuw opbouwen van de administratie
+- Inhuren van specialisten voor herstel
+- Verlies van uren of omzet
+
+Een cyberverzekering is meestal opgebouwd uit 3 onderdelen:
+- Voorkomen van ongevallen, checken van risico’s
+- Herstellen van schade
+- Vergoeden van schade
+
+## Andere mogelijke (extra) diensten
+Andere punten die kunnen helpen met verbeterde veiligheid is:
+- Bewustwording, kennis en kunde van het personeel of de ondernemer (online trainingen)
+- Incident ondersteuning (zoals een 24/7 alarmcentrale)
+- Juridische ondersteuning (AVG)
+- Forensische diensten (voor uitzoeken wie er achter een aanval zit)
 
 # Sources
 - https://en.wikipedia.org/wiki/Defence_in_depth
+- https://www.nist.gov/cyberframework
