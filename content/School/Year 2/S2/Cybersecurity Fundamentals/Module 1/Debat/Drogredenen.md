@@ -6,6 +6,7 @@ tags:
 banner:
 publish: true
 ---
+
 # Intro
 Debatteren is soms handig of nodig om echt tot de kern te komen waarom een standpunt klopt of niet. 2 teams spreken tegen elkaar om hun standpunt te verdedigen.
 
@@ -53,4 +54,18 @@ Op basis van 1 of enkele gevallen word er gelijk een conclusie getrokken voor ee
 Je legt bij iemand anders de woorden in de mond die lastig te bewijzen zijn dat het niet zo is (lijkt op ontduiken bewijslast). De tegenstander word dan een standpunt of argument in de mond gelegd dat hij niet heeft ingenomen.
 > Politicus: “*Soms is een opvoedkundige tik noodzakelijk*.”
 > Interviewer: “*Dus jij vindt dat het slaan van kinderen - dus eigenlijk kindermishandeling - moet worden toegestaan?*”
+
+
+## Onjuist beroep op een kenmerk of eigenschap
+Als er bij een bepaald kenmerk veel betekenis word gegeven, terwijl de andere eigenschappen achterwege worden gelaten, is er sprake van een onjuist gebruik van het kenmerk- of eigenschap schema.
+> “*Die jongen houdt niet van gym, dus zal vast niet kunnen voetballen*”
+
+## Overdrijven van de voor- of nadelen
+De gevolgen van een gebeurtenis worden zwaar overdreven.
+> “*Online lesgeven zorgt ervoor dat docenten en leerlingen nooit meer ziek worden!"*”
+
+## Onjuist beroep op autoriteit
+Zich beroepen op een autoriteit kan een standpunt ondersteunen. Soms is een autoriteit echter onbetrouwbaar, omdat hij belangen bij de zaak heeft, of omdat hij geen autoriteit op het betreffende gebieDylan zijn moeder werkt bij een garage, dus hij
+zal wel weten hoe je auto’s moet repareren.d is.
+> “*Dylan zijn moeder werkt bij een garage, dus hij zal wel weten hoe je auto’s moet repareren.*”
 
