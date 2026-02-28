@@ -182,3 +182,51 @@ if(success) {
   RCLCPP_ERROR(logger, "Planning failed!");
 }
 ```
+
+## Using the xarm_planner package
+Now this solution is REALLY hacky and should be optimized in the future, but for now this will suffice.
+
+>[!important]
+>Your package should be inside the workspace that houses the xarm nodes
+
+In your `.ccp` code file, add:
+```cpp
+#include <xarm_planner/xarm_planner.h>
+```
+
+Inside your `CMakeList.txt`, add:
+```cmake
+# find dependencies
+find_package(rclcpp REQUIRED)
+find_package(ament_cmake REQUIRED)
+find_package(xarm_planner REQUIRED)
+find_package(moveit_ros_planning_interface REQUIRED)
+find_package(xarm_msgs REQUIRED)
+
+add_executable(lite6_control src/lite6_control.cpp)
+
+target_include_directories(lite6_control PUBLIC
+  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
+  $<INSTALL_INTERFACE:include/${PROJECT_NAME}>
+  ~/ufactory_ws/install/xarm_planner/include # THIS SHOULD BE THE PATH IN YOUR WORKSPACE
+  )
+
+target_compile_features(lite6_control PUBLIC c_std_99 cxx_std_17)  # Require C99 and C++17
+ament_target_dependencies(
+  lite6_control
+  rclcpp
+  xarm_planner
+  moveit_ros_planning_interface
+  xarm_msgs
+)
+```
+
+Inside the `package.xml`, add:
+```xml
+<depend>rclcpp</depend>
+<depend>xarm_planner</depend>
+<depend>moveit_ros_planning_interface</depend>
+<depend>xarm_msgs</depend>
+```
+
+Now you should be able to use the library, look at the xarm_planner examples in the `test` folder for how you should code it. it differs a bit from the standard moveit way.
