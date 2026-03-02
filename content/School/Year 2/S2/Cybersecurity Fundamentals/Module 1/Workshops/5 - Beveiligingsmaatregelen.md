@@ -6,14 +6,20 @@ tags:
 banner:
 publish: true
 ---
-
->[!important] Opdracht
+	
+>[!important] Opdracht (size alert)
 >**Opdracht A**<br>Verdiep je in het onderwerp door bronnen te raadplegen. Werkverdeling mag, maar zorg ervoor dat je weet wat de ander doet en discuseer informatie.
 >1. Neem de iso27002:2022 / IEC62443 door en werk voor 1 maatregel per categorie uit hoe je dat binnen een organisatie zou kunnen implementeren.
->2. Neem het NIST cybersecurity framework door en frclecteer op hoe dit bijdraagt aan het verbeteren van de cybersecurity binnen een organisatie
+>2. Neem het NIST cybersecurity framework door en ferclecteer op hoe dit bijdraagt aan het verbeteren van de cybersecurity binnen een organisatie
+>3. Doe een online onderzoek naar hardening van windows 11 (of wat je op je laptop hebt staan) Evalueer hoe het staat met je laptop en wat je hier van meeneemt (technisch)
+>4. Bedenkt een pakket van maatregelen om het risico dat een interne medewerker van een organisatie kwaadwillend word of omgekocht word en data steelt of systemen verwoest. Lees je eerst in op het onderwerp “insider threat”
 >
 >**Opdracht B**<br>Werk deze opdracht uit in een groep
->3. Je hebt een bow-tie diagram gemaakt op basis van een casus. Hiervoor waren nog geen maatregelen bedacht. Ga eerst op onderzoek uit voor iedere consequentie en bedreiging wat voor soort maatregelen hier genomen kan worden. Zorg ervoor dat je de gevonden maatregelen indeeld in het DiD-model
+>1. Je hebt een bow-tie diagram gemaakt op basis van een casus. Hiervoor waren nog geen maatregelen bedacht. Ga eerst op onderzoek uit voor iedere consequentie en bedreiging wat voor soort maatregelen hier genomen kan worden. Zorg ervoor dat je de gevonden maatregelen indeeld in het DiD-model
+>2. Stel een pakket van maatregelen voor alle bedreigingen en consequenties samen en zet deze in de bow-tie. Challenge elkaar en beargumenteer waarom dit het juiste pakket is. welke maatregelen pakken de bedreiging/consequentie/risico bij de bron aan en waarom?
+>3. Bepaal de nieuwe kans en impact als alle maatregelen zijn toegepast en noteer je argumentatie. Maak een nieuw risico register
+>4. Bekijk de maatregelen en bespreek met elkaar de effectiviteit hiervan. Wat kunnen redenen zijn waarom de effectiviteit afneemt? Zijn er mogelijkheden om de effectiviteit te borgen met andere maatregelen?
+>5. Maak een presentatie, zodat je deze aan management kan presenteren.
 # Intro
 Leg de hacker driehoek goed uit in je portfolio met een foto als toelichting.
 
