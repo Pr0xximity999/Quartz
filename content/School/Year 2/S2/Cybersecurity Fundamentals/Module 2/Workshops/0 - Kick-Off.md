@@ -6,6 +6,7 @@ tags:
 banner:
 publish: true
 ---
+
 >[!important] Opdracht
 >Op basis van de gastpresentatie beantwoord je als groep de volgende vragen:
 >1. Welke afdelingen of functies binnen een organisatie (behalve IT) spelen volgens jou een cruciale rol in de voorbereiding of bestrijding van een cyberaanval?
@@ -151,3 +152,11 @@ Na de hack….:
 - We communiceren regelmatig over dreigingen
 
 Een open cultuur is belangrijk in een organisatie. Mensen voelen zich vrij om fouten toe te geven. 7 collega’s hadden op een phising linkje geklikt. Iemand had zelfs op intranet een bericht erover geschreven. Dit zorgt voor een waardeerbare organisatie. Direct melden is cruciaal.
+
+RIP Kaseya. Ze belde na 2 weken of ze hulp konden aanbieden lol.
+
+De politie was geïnformeerd, maar uiteindelijk pakte de FBI het over omdat het een wereldwijd probleem was met vooral veel activiteit in Amerika.
+
+Alles was vergoed door de verzekering, behalve eigen risico. 20.000 euro. Toen vroegen ze puur om je branche en jaaromzet, maar tegenwoordig moet je door allemaal hoops springen.
+
+Hack was uitgevoerd door een Oekraïens-Russische hack groep, sommige russen waren gearresteerd, maar door de oorlog waren de russen weer vrij gelaten lol.
