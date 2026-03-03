@@ -4,7 +4,7 @@ banner:
 publish: "false"
 ---
 ```
-nmap -p- -sV -sC 10.129.1.227
+nmap -p- -sV -sC 10.129.244.79
 ```
 
 port 22: openssh 9.6p1 ubuntu 3ubuntu13.14
@@ -47,7 +47,7 @@ There has to be some way to use the pure javascript as a foothold.
 # Second website
 i can run `fetch()` to try and access local files, but CORS blocked it…it says something about `browsedinternals.htb`. 
 
-hat website runs a gitea server. version 1.24.5
+that website runs a gitea server. version 1.24.5
 it also hosts an api on /api, but thats proabably just built into the gitea server
 
 username of the server/linux machine is `larry`.

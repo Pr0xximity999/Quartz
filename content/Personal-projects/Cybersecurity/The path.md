@@ -30,7 +30,7 @@ Some want to see an **HBO certificate**. gotta get that check-mark, i suppose. B
 
 Next, a lot want to see **cybersecurity certificates** (OSCP, GPEN, OSCE, etc..). *Having at least one* of these is recommended, but getting multiple shows the desire to grow.
 
-Personally, im not that good at cybersecurity. Ive only completed 3 easy HTB boxes: [[Personal-projects/Hack The Box/Boxes/Facts - Easy box|Facts]], [[Personal-projects/Hack The Box/Boxes/Conversor - Easy box|Conversor]], and [[Personal-projects/Hack The Box/Boxes/WingData - Easy box|Wingdata]]. So yeah, gotta lock in. 
+Personally, im not that good at cybersecurity. Ive only completed 3 easy HTB boxes: [[Personal-projects/Hack The Box/Boxes/1 Facts - Easy box|Facts]], [[Personal-projects/Hack The Box/Boxes/2 Conversor - Easy box|Conversor]], and [[Personal-projects/Hack The Box/Boxes/3 WingData - Easy box|Wingdata]]. So yeah, gotta lock in. 
 Next to that, its highly adviced to learn to **document**. Make **write-ups** about the boxes, write **blogs** and generally try to understand the vulnerabilities and just **expand your knowledge** on exploitation, enumeration and documentation.
 
 Currently, getting a certificate is not really possible due to my skill level being too low, so firstly ill just focus on Hack The Box, and maybe doing bug bounties.
