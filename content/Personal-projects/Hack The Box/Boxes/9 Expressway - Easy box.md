@@ -61,6 +61,9 @@ Ending ike-scan 1.9.6: 1 hosts scanned in 0.028 seconds.
 
 Following [this informative guide](https://angelica.gitbook.io/hacktricks/network-services-pentesting/ipsec-ike-vpn-pentesting), it seems that `1 returned handshake; 0 returned notify` means that the target is configured for IKE negotiations and we can propose *transforms* to the server. Transforms are configurations like the one sent in the code block.
 
+All possible transforms:
+![[Vault-data/Attachments/9 Expressway - Easy box-1.png]]
+
 ### Getting vendor
 ```bash
 ike-scan -M --showbackoff 10.129.1.232
