@@ -104,6 +104,6 @@ Stappen:
 >[!info] Case study 2: APM Terminals (Maersk)
 >- Organisatie APM Terminals in Rotterdam
 >- Wanneer: Zomer 2017
->- Type aanval: NotPetya
+>- Type aanval: NonPetya
 >- Schade: 250-300 miljoen dollar
 >- Bron: https://archief.nipv.nl/wp-content/uploads/sites/2/2022/03/2018-IFV-H6-Cyberaanval-op-Maersk.pdf
