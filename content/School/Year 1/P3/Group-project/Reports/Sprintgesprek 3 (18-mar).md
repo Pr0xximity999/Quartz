@@ -1,0 +1,43 @@
+---
+tags:
+  - school/2D-graphics
+  - taal/nederlands
+  - language/dutch
+  - school/group-project
+---
+# Crew
+Christian - Mede-spreker (online)
+Martijn - Gespreksleider
+Sophie - Mede-spreker
+Lilah - Mede-spreken
+Thomas - Notulist
+
+# Verzekering
+Alleen de ouders zouden uitleg over verzekering krijgen, kinderen hoeven dat niet te zien.
+
+# Wees interchangeable
+iedereen moet iedereen kunnen vervangen (als iemand wegvalt moet iemand anders dat op kunnen pakken)
+
+# Traject met en zonder ziekenhuis
+Als een kind geen ziekenhuisopname heeft moet dat niet op het traject niet visueel zijn, op de lagertermijn is dit beter dat de arts dat kan instellen, maar momenteel moeten de ouders dit kunnen kiezen. (bij de intake/diagnose word het duidelijk of het kind naar het ziekenhuis moet)
+In de werkelijkheid is de route voor ieder kind ietsjes anders, dus voor langer termijn heeft ieder kind een andere route.
+Voor nu is er grofweg 2 routes (Geen of wel ziekenhuis), maar als je groter wilt denken moet de arts kunnen kiezen welke punten het kind krijgt.
+
+# Prioriteit in scrum
+Als je met scrum werkt, zorg er dan voor dat je items met de grootste prioriteit eerst doet. 
+Loop de prioriteiten nog even na, focus deze sprint op wat je echt wil laten zien.
+
+# Focus je op een user story
+Iedere sprint heeft een soort motto bijv: "de patient kan nu het traject inzien"
+Zet iedere sprint wat centraal staat, welke user story je er aan werkt. 
+Zet deze week desnoods alle taken onder een user story (misschien heb je weinig user stories maar liggen er 10 taken onder).
+# Wat laat je zien in een sprintbespreking
+Alle technische dingen die je doet zouden in dienst van een user story moeten staan. Je laat de user stories zien, en technische dingen die er onder hangen *laat je niet zien*.
+Je laat geen dingen die niet af zijn, alleen de user stories die echt afgerond zijn
+Hang onder de user stories subtaken (in jira)
+Geef je volgende sprint meer aandacht aan het visualiseren van stappen
+
+
+
+
+
