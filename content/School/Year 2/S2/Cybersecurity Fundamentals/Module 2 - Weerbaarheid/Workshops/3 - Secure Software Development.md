@@ -6,6 +6,28 @@ tags:
 banner:
 publish: true
 ---
+
+>[!important] Opdracht
+>**Opdracht 1: Cyber Resillience Act (CRA)**
+>- Verdeel de groep in een Audit en develop team.
+>- Auditteam:
+>	- Leg in je eigen woorden uit wat de CRA inhoudt
+>	- Realiseer een vragenlijst om te toetsen of de software van het developmentteam voldoet aan de CRA en of hun eigen software veilig is.
+>- Developmentteam:
+>	- Kies met elkaar een software applicatie die je een keer hebt gemaakt
+>	- Bereid de audit voor door de architectuur, ontwerpen en software code op orde te brengen.
+>	- Evalueer of de software applicatie in deze staat veilig is.
+>	- Welke secure-by-design principes jullie vooraf beter hadden moeten meenemen
+>- Gezamelijk:
+>	- Voer de audit uit met behulp van de vragenlijst en leg het resultaat en conclusie vast. Maak hiervan een paar slides voor de presentatie tijdens de terugkoppeling.
+>**Opdracht 2: Architecture Review & Design Requirements**
+>- Kies met elkaar een software applicatie die je eerder hebt gerealiseerd.
+>- Beschrijf de 3 belangrijkste design requirements die je in een nieuw project altijd zou meenemen om security by design te waarborgen.
+>- \[#nog-af-maken]
+>**Opdracht 3: Security Evaulatie**
+>- \[#nog-af-maken]
+>**Opdracht 4: Developer Security Training**
+>- \[#nog-af-maken]
 # Intro
 Wanneer is je software veilig? Kan je alleen inloggen met geldige credentials? Is het memory safe?
 
