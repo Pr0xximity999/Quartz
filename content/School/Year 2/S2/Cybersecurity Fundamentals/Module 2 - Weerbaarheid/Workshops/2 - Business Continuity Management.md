@@ -8,15 +8,15 @@ publish: true
 ---
 
 >[!important] Opdracht in tutorgroep
->Onwikkel een Business Continuity Plan in powerpoint van maximaal 15 slides voor de aan jouw groep toegekende casus. Hierin staat ten minste:
->- Wat zijn de te beschermen ‘kroonjuwelen’ van de organisatie en de bijbehorende processen?
->- Welke risico’s jullie onderkennen?
->- Wat de impact is als deze risico's zich manifesteren (BIA, zie template!)
->- Welke maatregelen en scenario’s jullie voorstellen om deze impact te adresseren in geval van crisis.
->Zoek zelf op internet naar  een “BCM Plan” Template en neem de belangrijkste onderdelen mee in je powerpoint.
->- Groep 9 → BCM casus UrbanWear Collective
->- Deadline is **donderdag 12 maart 09:00**
->- Enkele groepen worden gevraagd hun resultaat toe te lichten en met elkaar te bediscussiëren.
+>- Onwikkel een Business Continuity Plan in powerpoint van maximaal 15 slides voor de aan jouw groep toegekende casus. Hierin staat ten minste:
+>	- Wat zijn de te beschermen ‘kroonjuwelen’ van de organisatie en de bijbehorende processen?
+>	- Welke risico’s jullie onderkennen?
+>	- Wat de impact is als deze risico's zich manifesteren (BIA, zie template!)
+>	- Welke maatregelen en scenario’s jullie voorstellen om deze impact te adresseren in geval van crisis.
+>- Zoek zelf op internet naar  een “BCM Plan” Template en neem de belangrijkste onderdelen mee in je powerpoint.
+>	- Groep 9 → BCM casus UrbanWear Collective
+>	- Deadline is **donderdag 12 maart 09:00**
+>	- Enkele groepen worden gevraagd hun resultaat toe te lichten en met elkaar te bediscussiëren.
 
 
 # Intro
