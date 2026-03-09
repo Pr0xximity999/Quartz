@@ -1,11 +1,14 @@
 ---
 tags:
+  - taal/nederlands
+  - language/dutch
+  - school/cyber-security
 banner:
 publish: "true"
 ---
 
 >[!info]
->Deze les is deels gegeven in de vorm van een gastlezing, die je [[School/Year 2/S2/Cybersecurity Fundamentals/Module 1/Gastsprekers/De wereld van cybercrime|hier]] kan vinden.
+>Deze les is deels gegeven in de vorm van een gastlezing, die je [[School/Year 2/S2/Cybersecurity Fundamentals/Module 1 - Cybersecurity/Gastsprekers/De wereld van cybercrime|hier]] kan vinden.
 
 >[!important] Opdracht - Waarom is cybersecurity belangrijk voor organisaties?
 > **Doel**: Een dieper inzicht krijgen in cyberdreigingen, de impact ervan op organisaties en waarom dit zo belangrijk is voor organisaties. 
