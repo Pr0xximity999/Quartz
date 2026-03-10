@@ -1,8 +1,8 @@
 ---
 tags:
   - school/cyber-security
-  - language/dutch
-  - taal/nederlands
+  - taal/engels
+  - language/english
 banner:
 publish: true
 ---

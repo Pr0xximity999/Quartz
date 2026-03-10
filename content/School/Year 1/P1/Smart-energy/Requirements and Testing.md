@@ -99,7 +99,7 @@ Miscommunicatie zorgt voor problemen onder het ontwikkelen als iets niet naar we
 
 
 # Software Development Life Cycle(SDLC)
-![[Vault-data/Attachments/Requirements and Testing SDLC.png]]
+![[1_GU-YWDqM-ZljYHGs1iDNPg.jpg]] 
 
 - Plan van aanpak
 	- Planning
