@@ -6,6 +6,13 @@ tags:
 banner:
 publish: true
 ---
+
+>[!important] Opdracht
+>Werk de volgende vragen uit met de projectgroep. Verdiep je in het onderwerp door bronnen te raadplegen. Je mag het werk verdelen, maar zorg dat je de kennis met elkaar deelt en discussies voert over het resultaat. Het is een vrij technisch gerichte opdracht, dus help elkaar!
+>1. Voor een static code analysis (SAST) en een open source analyse uit op een serieuze applicatie. Deze mag zelf geschreven of open source zijn (van GitHub). Maak een rapport van de 5 grootste bevindingen en geef een advies om het op te lossen.
+>2. Voer een dynamische test (DAST) uit met behulp van de tool ZAP. Pak hiervoor een eigen website of een website met een bounty programma (of Avans). Maak een rapport van de 5 grootste bevindingen en geef een advies om het op te lossen.
+>3. Stel secure-by-desii
+>4. #nog-af-maken
 # Intro
 Software moet veilig zijn, er is daar geen twijfel aan.
 
@@ -142,6 +149,8 @@ Chroot zou dus path traversal voor wachtwoorden tegen moeten houden.
 
 ## Containers
 Google [[docker]]. Het is gedeelde resources en memory, maar het is zn eigen kleine omgeving die altijd op dezelfde manier draait, ongeacht van system specs. Je kan uit een container breken, maar het is technisch gezien een sandbox.
+
+
 # References
 - https://attack.mitre.org/
 - https://cwe.mitre.org/
