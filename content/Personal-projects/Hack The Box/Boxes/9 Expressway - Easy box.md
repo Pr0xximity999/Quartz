@@ -61,12 +61,9 @@ Ending ike-scan 1.9.6: 1 hosts scanned in 0.028 seconds.
 
 Following [this informative guide](https://angelica.gitbook.io/hacktricks/network-services-pentesting/ipsec-ike-vpn-pentesting), it seems that `1 returned handshake; 0 returned notify` means that the target is configured for IKE negotiations and we can propose *transforms* to the server. Transforms are configurations like the one sent in the code block.
 
-### Bruteforcing valid transformations
-```bash
-while read line; do (echo "Valid trans found: $line" && sudo ike-scan -M $line 10.129.238.52) | grep -B14 "1 returned handshake" | grep "Valid trans found" ; done < ike-dict.txt
-```
+All possible transforms:
 ![[Vault-data/Attachments/9 Expressway - Easy box-1.png]]
-Looking at the transformation list, it seems all transformations that are `5,2,*,2` are allowed.
+
 ### Getting vendor
 ```bash
 ike-scan -M --showbackoff 10.129.1.232
@@ -118,13 +115,13 @@ Needs to be ran with `sudo`, otherwise it wont work
 ```bash
 sudo -E env PATH=$PATH python ./ikeforce.py 10.129.1.232 -a -s 1
 ```
-Outputs transform: 5 2 1 2, but as learned previously i can kinda put anything in the 3rd spot
+Outputs transform: 5 2 1 2
 
 ```bash
 sudo -E env PATH=$PATH python ./ikeforce.py 10.129.238.52 -e -w ./wordlists/groupnames.dic -t 5 2 1 2
 ```
 
-`no matching enumeration technique available for this device`. All other transformations for the 3rd position say `AUTHENTICATION-FAILED`.
+`no matching enumeration technique available for this device`…oof…i guess the long list will do
 
 ### Stealing the handshake key pt. 2
 
