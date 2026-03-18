@@ -236,7 +236,7 @@ sqlmap -u 'http://zm/index.phpview=request&request=event&action=removetag&tid=1'
 
 hash time.
 Hashes:
-- hash_1 - superadmin
+- hash_1 - superadminipaddress
 - hash_2 - mark
 - hash_3 - admin
 ![[Vault-data/Attachments/10 CCTV - Easy box-2.png]]
@@ -248,3 +248,39 @@ The hashes look simmilar to the bcrypt one in [this](https://hashcat.net/wiki/do
 hashcat -m 28400 superadmin.txt /usr/share/wordlists/rockyou.txt
 ```
 
+
+It seems Bcrypt is intentionally hard to crack so i will have to research what the best way is to decrypt it…
+
+…or i just let it run with john for longer than 30 seconds.
+
+- mark: opensesame
+- admin: admin
+- superadmin: 
+
+
+ssh on mark works, but no user flag.
+
+time to enumerate while superadmin cracks.
+
+# Port 22 - SSH
+`ssh mark@cctv.htb` password `opensesame`.
+
+No user flag. Will use [linpeas](https://www.kali.org/tools/peass-ng/) to enumerate.
+
+a very recent cve ([2026-3888](https://nvd.nist.gov/vuln/detail/CVE-2026-3888)) seems to be working on the `snap-confine` package to gain root entry.
+
+It only triggers every 30 days in ubuntu 24.04 so its out of the window.
+
+snap-confine also seems to have another vulnerability: [2021-44731](https://nvd.nist.gov/vuln/detail/cve-2021-44731). This seems to be usable but i just have to find a way to exploit it.
+
+Using [this poc](https://github.com/deeexcee-io/CVE-2021-44731-snap-confine-SUID/blob/main/snap_confine_LPE.sh) from github with a slight modification on line 34, changing the hard link to a symbolic one. 
+
+Doesn’t seem to actualyl run properly.
+
+looked at the sudo version (`1.9.15p5`). There was an exploit but its patched on this machine.
+
+linpeas said something about pkexec maybe being vulnerable, so im checking out this [cve-2021-4034 poc](https://github.com/PwnFunction/CVE-2021-4034).
+
+Not working, i need root perms for that
+
+`ctr` which is containerd, can be run and may be able to privilege escalate. I do need sudo rights to be able to do anyting
