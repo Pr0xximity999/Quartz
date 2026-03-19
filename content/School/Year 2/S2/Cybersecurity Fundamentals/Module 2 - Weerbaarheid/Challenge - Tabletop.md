@@ -6,7 +6,7 @@ tags:
 banner:
 publish: false
 ---
-# Beschrijving Bedrijf
+bus# Beschrijving Bedrijf
 - Billy Bonka is de grootste chocoladebedrijf van Nederland.
 - Produceert in het binnen- en buitenland
 - Heeft een speciaal geheim chocoladerecept
@@ -266,10 +266,44 @@ In een crisisteam:
 - Is niet vitaal voor dagelijkse productie, maar wel cruciaal op langer termijn qua concurrentie productie en innovatiekracht
 - *Verlies van R&D data of vertraging kan zorgen voor gemiste marktkansen en reputatieschade*
 
+## Cybersecurity
+- Info vanuit IT systeembeheerder
+	- Systemen worden niet up-to-date gehouden
+	- Backups zijn er, maar die zijn nooit getest of die teruggezet kunnen worden.
+	- Multi-factor authenticatie is niet in gebruik
+	- Security training is nonexistent
+- CEO directeur
+	- “Wij zijn een chocoladefabriek, geen bank” is een CRAZY statement
+	- Het is duidelijk dat de CEO niet weet wat de omvang van een cyberaanval is
+	- De termen NIS2 of ISO 27001 zeggen de CEO weinig
+		- “IT regelt het wel”
+	- Geld uitgeven aan security staat niet op de takenlijst
+		- “het kost teveel”
+		- “Mijn assistente heeft al mijn wachtwoorden, anders kom ik nergens in”
+- Operator (productielijn)
+	- gebruikt standaardwachtwoorden die iedereen kent
+	- IT word eigenlijk niet ingelicht omdat dat teveel werk is
+	- Waarschuwingen worden vaak genegeerd
+		- “als ik alles moet lezen, staat de band stil”
+	- Phishing word weggewuifd alsof er niks aan de hand is
+	- Geen cybertraining gehad
+
 # Opdracht
 >[!important] Opdracht 2
 >- Maak een Business Impact Analysis (BIA): Welke processen en systemen zijn vitaal voor Billy Bonka?
 >- Ontwikkel een Business Continuity Plan (BCA) voor jullie als crisis team.
 >- Besteed ook aandacht aan de interne dreigingen (insiders) en hoe de organisatie daartegen weerbaar kan zijn.
 
+## Business Impact Analysis
+Bij Billy Bonka staat de productie en distributie van chocolade centraal. Als de productie van chocolade stopt, stop alles. Daarentegen zijn er naast de centrale chocoladeproductie zijn er ook nog een ander aantal vitale processen:
+- De orderverwerking: Het ontvangen, verwerken en bevestigen van klantbestellingen.
+	- Verstoring van de orderverwerking zorgt ervoor dat orders niet gemaakt kunnen worden, wat voor order- en reputatieverlies zal zorgen.
+- IT systemen: De IT systemen regelen alle communicatieve en digitale onderdelen van de fabriek, wat onder andere het klantbeheer, communicatieplatformen, voorraad en productieplanning en cybersecurity is.
+	- Het stilzetten van dit zal dus ook tot een totale stilstand van operaties en communicatie zorgen
 
+Hiernaast zijn er nog interne processen die niet inherent voor het stilzetten van productie of verkoop zorgt, maar wel voor problemen op langer termijn:
+- Financieel & administratief: Boekhouding, facturatie en betaling aan leveranciers.
+	- Hieruit worden leveranciers en personeel betaalt, en rapportages en belastingaangiftes vanuit geregeld
+	- Een stilstand van financiële en administratieve zaken op langer termijn zorgt verstoring in vertrouwen vanuit klanten en personeel.
+- Human Resources & Personeelsbeheer: Personeelsrooster planning, on-boarding en training van personeel.
+	- Verstoring hierin kan voor vastlopende roosters en planningen zorgen, waardoor mensen niet goed ingezet kunnen worden.
