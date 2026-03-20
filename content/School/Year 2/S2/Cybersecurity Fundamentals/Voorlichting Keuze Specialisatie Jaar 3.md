@@ -6,6 +6,7 @@ tags:
 banner:
 publish: false
 ---
+
 >[!important] Consequenties!!!
 >- Je moet je keuze al in 2.4 maken, deze staat daarna vast 
 >- Je stage moet in deze specialisatie gedaan worden
