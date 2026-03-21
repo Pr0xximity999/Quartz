@@ -13,19 +13,19 @@ publish: "true"
 >- [Create a simple ROS2 interface](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Custom-ROS2-Interfaces.html)
 
 # Setup workspace
-**Create workspace**
+**Create workspace**<br>
 ```bash
 mkdir -r ~/cpp_ws/src
 cd ~/cpp_ws/src
 ```
 
-**Create package**
+**Create package**<br>
 Add other dependencies if needed
 ```bash
 ros2 pkg create --build-type ament_cmake <PACKAGE_NAME> --dependencies rclcpp
 ```
 
-**Update `package.xml`**
+**Update `package.xml`**<br>
 ```xml
 <description>Description of the package<description>
 <maintainer email="you@email.com">Your Name</maintainer>
@@ -33,6 +33,8 @@ ros2 pkg create --build-type ament_cmake <PACKAGE_NAME> --dependencies rclcpp
 ```
 
 # Code snippets
+>[!important] Imports
+>Most of these comands either use the `rclcpp/rclcpp.hpp` or `std_msgs/msg/string.hpp` import
 
 ## Initialize Ros Client Library
 ```c++
@@ -43,17 +45,17 @@ int main(int argc, char **argv)
 ```
 
 ## Logging
-**Log info**
+**Log info**<br>
 ```c++
 RCLCPP_INFO(rclcpp::get_logger("rclcpp"), "text");
 ```
 
-**Log warning**
+**Log warning**<br>
 ```c++
 RCLCPP_WARN(rclcpp::get_logger("rclcpp"), "text");
 ```
 
-**Log error**
+**Log error**<br>
 ```c++
 RCLCPP_ERROR(rclcpp::get_logger("rclcpp"), "text");
 ```
@@ -61,41 +63,41 @@ RCLCPP_ERROR(rclcpp::get_logger("rclcpp"), "text");
 
 
 ## Nodes, Services and Topics
-**Create node**
+**Create node**<br>
 A [node](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html) is responsible for a single (modular) purpose. It will host message publishers/subscribers and service service/clients.
 ```c++
 std::shared_ptr<rclpp::Node> node = rclpp::Node::make_shared("node_name");
 ```
 
-### Service
-**Create a node service server function**
+### Services
+**Create a node service server function**<br>
 The request and response parameters are important on this one!
 ```c++
 void function(const std::shared_ptr<INTERFACE_CLASS> request,
 	const std::shared_ptr<INTERFACE_CLASS> response){}
 ```
 
-**Create a node service (service server)**
+**Create a node service (service server)**<br>
 A [service](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html) server is a way to make a function available for other nodes on the network. 
 ```c++
 rclcpp::Service<INTERFACE_CLASS>::SharedPtr service =
 	node->create_service<INTERFACE_CLASS>("service_name", &function_name)
 ```
 
-**Create client for a node (service client)**
+**Create client for a node (service client)**<br>
 A [service](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html) client talks to a service server trough a service name using its and interface type for message formats.
 ```c++
 rclcpp::Client<INTERFACE_CLASS>::SharedPtr client 
 	= node->create_client<INTERFACE_CLASS>("service_name");
 ```
 
-**Send service requests**
+**Send service requests**<br>
 ```c++
 auto request = std::make_shared<INTERFACE_CLASS>(); 
 auto result = client->async_send_request(request);
 ```
 #### Waiting
-**Client wait for server to start**
+**Client wait for server to start**<br>
 ```c++
 using namespace std::chrono_literals;
 while(!client->wait_for_service(1s))
@@ -104,10 +106,39 @@ while(!client->wait_for_service(1s))
 }
 ```
 
-**Wait for server response**
+**Wait for server response**<br>
 ```c++
 if (rclcpp::spin_until_future_complete(node, result) == rclcpp::FutureReturnCode::SUCCESS)
 {
 	// Do stuff
 }
 ```
+
+### Topics (subscriber and publishers)
+**Create a message**<br>
+```c++
+auto message = std_msgs::msg::String();
+message.data = "Hello, world!";
+```
+
+**Create a publisher**<br> 
+```c++
+auto publisher = node->create_publisher<std_msgs::msg::String("topic", 10);
+```
+
+**Publish a message**<br>
+```c++
+publisher->publish(message); // uses std_msgs::msg::string
+```
+
+**Create a subscriber callback**<br>
+```c++
+auto topic_callback = [node](std_msgs::msg::String::UniquePtr msg) -> void {
+	RCLCPP_INFO(node->get_logger(), "Message: '%s", msg->data.c_str())
+}
+```
+**Create a subscriber**<br>
+```c++
+auto subscriber = node->create_subscription<std::msgs::String>("topic", 10, topic_callback)
+```
+
