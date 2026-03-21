@@ -9,60 +9,24 @@ publish: "false"
 ---
 # Prerequisites
 - ROS2 [Jazzy](https://docs.ros.org/en/ros2_documentation/jazzy/Installation.html)
-# Getting started 
-## Installation
-Install the needed packages. This might take some time
+- [moveit 2](https://moveit.ai/install-moveit2/binary/)
+
+# Installing the `xArm-Developer` workspace, if you havent already
 ```bash
-# Source ROS2 jazzy
-source /opt/ros/jazzy/setup.bash
+# Skip this step if you already have a target workspace
+cd ~
+mkdir -p dev_ws/src
 
-# Install rosdep for systemdependencies
-sudo apt install python3-rosdep
+# Remember to source ros2 environment settings first
+cd ~/dev_ws/src
+# DO NOT omit "--recursive"，or the source code of dependent submodule will not be downloaded.
+# Pay attention to the use of the -b parameter command branch, $ROS_DISTRO indicates the currently activated ROS version, if the ROS environment is not activated, you need to customize the specified branch (foxy/galactic/humble/jazzy)
+git clone https://github.com/xArm-Developer/xarm_ros2.git --recursive -b $ROS_DISTRO
 
-# Make sure all packages are up to date
-sudo rosdep init
+# Remember to source ros2 environment settings first
+cd ~/dev_ws/src/
 rosdep update
-sudo apt update
-sudo apt dist-upgrade
-
-# Install Colcon for ROS2
-sudo apt install python3-colcon-common-extensions
-sudo apt install python3-colcon-mixin
-colcon mixin add default https://raw.githubusercontent.com/colcon/colcon-mixin-repository/master/index.yaml
-colcon mixin update default
-
-# Install vcstool
-sudo apt install python3-vcstool
-```
-
-## Create a workspace for moveit2 tutorials and testing
-```bash
-# Create workspace
-mkdir -p ~/ws_moveit/src
-
-# Import tutorials
-cd ~/ws_moveit/src
-git clone -b main https://github.com/moveit/moveit2_tutorials
-
-# Download the rest of the moveit sourcecode
-vcs import --recursive < moveit2_tutorials/moveit2_tutorials.repos
-```
-
-## Build and setup the colcon workspace
-Reinstall moveit2 first. keep in mind that **building the workspace will take around 20 minutes**.
-```bash
-# Remove any old binaries first - Removed because xarm needs this
-#sudo apt remove ros-$ROS_DISTRO-moveit*
-
-# Install all dependencies into the workspace, plus moveit
-sudo apt update && rosdep install -r --from-paths . --ignore-src --rosdistro $ROS_DISTRO -y
-
-# Configure your colcon workspace
-cd ~/ws_moveit
-colcon build --mixin release
-
-# Source the workspace
-source ~/ws_moveit/install/setup.bash
+rosdep install --from-paths . --ignore-src --rosdistro $ROS_DISTRO -y
 ```
 
 # Writing a c++ moveit package
@@ -272,6 +236,7 @@ To run the code correctly, the launch file from the xarm_planner test program wi
 
 Inside `xarm_planner/launch`, create a file called `lite6_control.launch.py` and add the following code:
 ```python
+#!/usr/bin/env python3
 import json
 from launch import LaunchDescription
 from launch.actions import OpaqueFunction
@@ -280,8 +245,17 @@ from launch.launch_description_sources import PythonLaunchDescriptionSource
 from launch.substitutions import LaunchConfiguration, PathJoinSubstitution
 from launch_ros.substitutions import FindPackageShare
 
-
 def launch_setup(context, *args, **kwargs):
+    prefix = LaunchConfiguration('prefix', default='')
+    hw_ns = LaunchConfiguration('hw_ns', default='lite')
+    limited = LaunchConfiguration('limited', default=False)
+    effort_control = LaunchConfiguration('effort_control', default=False)
+    velocity_control = LaunchConfiguration('velocity_control', default=False)
+    add_gripper = LaunchConfiguration('add_gripper', default=False)
+    add_vacuum_gripper = LaunchConfiguration('add_vacuum_gripper', default=False)
+    dof = LaunchConfiguration('dof', default='6')
+    robot_type = LaunchConfiguration('robot_type', default='lite')
+
     node_executable = 'lite6_control'
     node_parameters = {}
 
@@ -290,6 +264,15 @@ def launch_setup(context, *args, **kwargs):
     robot_planner_node_launch = IncludeLaunchDescription(
         PythonLaunchDescriptionSource(PathJoinSubstitution([FindPackageShare('xarm_planner'), 'launch', '_robot_planner.launch.py'])),
         launch_arguments={
+            'prefix': prefix,
+            'hw_ns': hw_ns,
+            'limited': limited,
+            'effort_control': effort_control,
+            'velocity_control': velocity_control,
+            'add_gripper': 'false',
+            'add_vacuum_gripper': add_vacuum_gripper,
+            'dof': dof,
+            'robot_type': robot_type,
             'node_executable': node_executable,
             'node_parameters': json.dumps(node_parameters)
         }.items(),
@@ -298,6 +281,7 @@ def launch_setup(context, *args, **kwargs):
     return [
         robot_planner_node_launch
     ]
+
 
 def generate_launch_description():
     return LaunchDescription([
