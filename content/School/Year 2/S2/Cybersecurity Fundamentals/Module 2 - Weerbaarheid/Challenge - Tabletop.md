@@ -6,7 +6,7 @@ tags:
 banner:
 publish: false
 ---
-bus# Beschrijving Bedrijf
+# Beschrijving Bedrijf
 - Billy Bonka is de grootste chocoladebedrijf van Nederland.
 - Produceert in het binnen- en buitenland
 - Heeft een speciaal geheim chocoladerecept
