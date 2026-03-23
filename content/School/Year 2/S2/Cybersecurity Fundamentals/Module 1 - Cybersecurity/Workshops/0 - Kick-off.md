@@ -9,7 +9,7 @@ publish: "false"
 # CYBOK
 >**Cybok**: Cyber Security Body Of Knowledge
 
-![[Vault-data/Attachments/0 - Kick-off CYbok.png]]
+![[Vault-data/Attachments/0 - Kick-off CYbok.png|697]]
 
 # Verwachtingen
 Dit is de eerste uitvoering van deze keuzemodule, hiervoor was het puur een minor. Inzet en groei staan centraal deze periode. Maak aantekeningen!!! je onthoud niet alles

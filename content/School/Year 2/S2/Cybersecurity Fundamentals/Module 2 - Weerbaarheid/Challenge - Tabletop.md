@@ -93,7 +93,6 @@ Verantwoordelijk voor:
 	- Productie
 	- Logistiek
 	- kwaliteitscontrole
-	- logistiek
 	- engineering
 	- onderhoud
 	- supply chain
