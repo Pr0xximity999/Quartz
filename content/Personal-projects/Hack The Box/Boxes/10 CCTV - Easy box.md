@@ -280,4 +280,15 @@ No user flag. Will use [linpeas](https://www.kali.org/tools/peass-ng/) to enumer
 trying [linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester). Not a single exploit worked
 
 
-root login is turned on for ssh, as well as pubkey auth. The same is true for the mark account though
+root login is turned on for ssh, as well as pubkey auth. The same is true for the mark account though.
+
+Ubuntu version: `24.04.4 LTS (Noble Numbat)`
+Linux version `6.8.0-101-generic x86_64`
+
+Both are not vulnerable.
+
+going over linpeas again.
+
+tmux runs version 3.4…nothing.
+
+chfn seems to have some info about “SuSE_9.3/10”…seems there’s a really old cve open for it: [CVE-2005-3503](https://nvd.nist.gov/vuln/detail/CVE-2005-3503). Found [this](https://www.exploit-db.com/exploits/1299) exploit. Seems the text is made as a DOX text file instead of unix, as per [this](https://unix.stackexchange.com/questions/721844/linux-bash-shell-script-error-cannot-execute-required-file-not-found) post. Converting it.
