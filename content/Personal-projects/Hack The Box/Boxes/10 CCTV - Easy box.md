@@ -236,7 +236,7 @@ sqlmap -u 'http://zm/index.phpview=request&request=event&action=removetag&tid=1'
 
 hash time.
 Hashes:
-- hash_1 - superadminipaddress
+- hash_1 - superadmin
 - hash_2 - mark
 - hash_3 - admin
 ![[Vault-data/Attachments/10 CCTV - Easy box-2.png]]
@@ -261,6 +261,8 @@ It seems Bcrypt is intentionally hard to crack so i will have to research what t
 ssh on mark works, but no user flag.
 
 time to enumerate while superadmin cracks.
+
+Update: after 4 hours and still no hit, i’ve decided to stop the cracking process.
 
 # Port 22 - SSH
 `ssh mark@cctv.htb` password `opensesame`.
@@ -292,3 +294,28 @@ going over linpeas again.
 tmux runs version 3.4…nothing.
 
 chfn seems to have some info about “SuSE_9.3/10”…seems there’s a really old cve open for it: [CVE-2005-3503](https://nvd.nist.gov/vuln/detail/CVE-2005-3503). Found [this](https://www.exploit-db.com/exploits/1299) exploit. Seems the text is made as a DOX text file instead of unix, as per [this](https://unix.stackexchange.com/questions/721844/linux-bash-shell-script-error-cannot-execute-required-file-not-found) post. Converting it.
+
+
+…im too deep in the sauce, let’s take a step back and start from the beginning.
+
+In the home folder is the usual stuff, plus a hidden folder with gpg keys, and a wget known host file which points to github and all its subdomains.
+
+the gpg keys, i don’t know if i can use them. But they are there:
+- `pubring.kbx`
+- `trustdb.gpg`
+
+Looking at the open ports with `ss -tulpn`. Putting the ports trough [speedguide.net](https://www.speedguide.net/)
+- 9081: Could be an SQL port
+- 8765: ultraseek-http
+- 8888: common web servies port, could be anything
+- 33060: MySQL port
+- **8554**: LSC Smart Conected Indor IP camera. Talks over RTSP protocol without needing authorization
+- 53: good ‘ol dns
+- 7999: used for a mailing worm apperantly? 
+- 1935: Real Time Messaging Protocol…or playstation 4 game port. Mostly used for Flash stuff
+- 3306: MyQSL again
+
+
+Looking into port 8554.
+
+The RTSP (Real Time Streaming Protocol) is used to look at video and audio feeds. 
