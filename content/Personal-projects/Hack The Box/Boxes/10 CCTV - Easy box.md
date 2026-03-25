@@ -306,7 +306,7 @@ the gpg keys, i don’t know if i can use them. But they are there:
 
 Looking at the open ports with `ss -tulpn`. Putting the ports trough [speedguide.net](https://www.speedguide.net/)
 - 9081: Could be an SQL port
-- 8765: ultraseek-http
+- 8765: ultraseek-http(?)
 - 8888: common web servies port, could be anything
 - 33060: MySQL port
 - **8554**: LSC Smart Conected Indor IP camera. Talks over RTSP protocol without needing authorization
@@ -319,3 +319,60 @@ Looking at the open ports with `ss -tulpn`. Putting the ports trough [speedguide
 Looking into port 8554.
 
 The RTSP (Real Time Streaming Protocol) is used to look at video and audio feeds. 
+
+It should be vulnerable to CVE-2024-51362
+
+It’s not opened to the internet, but i could forward its port trough ssh to see if i can access it.
+```bash
+ssh -L 8554:localhost:8554 mark@cctv.htb
+```
+
+scanning the port with nmap shows that 9554 runs an http service with the name `IDentifier NameTracer Pro httpd`. So apperantly that is not a camera?
+
+okay, but using this method might be handy, let me rtry again with other interesting ports.
+
+```bash
+ssh -L 8765:localhost:8765 mark@cctv.htb
+```
+
+WHOAH ok that one has a whole ass website on it. “motionEye”. Requires a user/password combo that i do not currently have.
+
+# Port 8765 - motioneye
+Trying default credentials.
+
+Credentials User with an empty password works. I can see a camera!!
+
+![[Vault-data/Attachments/10 CCTV - Easy box-3.png]]
+
+Dinky ass looking feed. Even an old crt has a higher refresh rate.
+
+Looking at an [exploit](https://www.exploit-db.com/exploits/52481) concering [cve-2025-60787](https://nvd.nist.gov/vuln/detail/CVE-2025-60787).
+
+…typing `configUiValid = function() { return true; };` into the console lets you bypass the login form???? 
+
+Okay but thats for user login, i need admin. So that CVE wont work.
+
+Let’s see what i can find using my perms.
+
+Looking in burpsuite, i see a path pointing towards the camera’s data.
+
+Looking inside the folder, i found a bunch of photos that represent the feed i found. Also it looks like there’s a failed attempt at a revshell in here. 
+![[Vault-data/Attachments/10 CCTV - Easy box-4.png]]
+
+It seems that the last one worked, as there is a symlink pointing to a bash script.
+
+![[Vault-data/Attachments/10 CCTV - Easy box-5.png]]
+
+Interesting. This will be useful.
+
+There’s a different path that has a different command that does: <br>![[Vault-data/Attachments/10 CCTV - Easy box-6.png|541]]
+
+which is the same `$(touch /tmp/test).%Y-%m-%d-%H-%M-%S` that i found inside of the cve-2025-60787 exploit i was looking at.
+
+…i need to get admin.
+
+googling a bit, it seems the admin password is stored as a sha1 password inside `/etc/motioneye/motion.conf`. How secure.
+
+using hashcat to crack the password. It is not regular sha1 so i will try some candidates.
+
+All candidates do not hit the password when using rockyou, so i might need to try some other kinda table.

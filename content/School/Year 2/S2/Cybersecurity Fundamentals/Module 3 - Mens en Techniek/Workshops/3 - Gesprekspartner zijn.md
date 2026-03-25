@@ -6,6 +6,7 @@ tags:
 banner:
 publish: true
 ---
+
 >[!important] Opdracht - Advies over implementatie van security beleid kaders \[1/2]
 >**Context**:<br>
 >Je werkt als adviseur voor een organisatie die net begonnen is met de implementatie van een informatiebeveiligingssysteem volgens het gekozen framework. 
@@ -17,11 +18,12 @@ publish: true
 >- **CIS Controls**: Praktische stappen om cyberaanvallen te voorkomen.
 >**Stakeholders en Teams:** De focus ligt op het security team, maar ook andere afdelingen spelen een rol in het proces (IT, management, compliance, etc)
 
->[!important] Opdracht - Advies over implementatie van security beleid kaders \[1/2]
+>[!important] Opdracht - Advies over implementatie van security beleid kaders \[2/2]
 >**Geef advies over**:
 >- De activiteiten van het security team in elke fase van het managementproces
 >- De samenwerking tussen het security team en andere stakeholders om de doelen te bereiken
 >- De ondersteuning van management en teams bij het integreren van veilige werkmethoden in hun dagelijkse processen
+>- Concrete voorbeelden van implementatie van maatregelen, zoals awareness-trainingen, technische maatregelen en beleidsmatige maatregelen
 >Het advies is gericht aan het hoger management (directieniveau) van de organisatie en is opgesteld als een ‘interne memo’ en mag maximaal 3 A4-tjes groot zijn. De kern van het advies wordt daarnaast weergegeven op één informatieve slide
 
 # Crisismanagement
