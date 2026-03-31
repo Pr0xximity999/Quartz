@@ -35,7 +35,7 @@ Minio has a CLI client, `mc`.
 # Web enumeration
 
 ## Directories
-[Gobuster](https://en.wikipedia.org/wiki/MinIO)
+[Gobuster](https://www.kali.org/tools/gobuster/)
 
 ```bash
 gobuster dir --url http://facts.htb --wordlist /usr/share/wordlists/dirb/common.txt

