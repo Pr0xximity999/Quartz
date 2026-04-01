@@ -6,7 +6,11 @@ tags:
 banner:
 publish: true
 ---
- 
+
+>[!note]
+>Next part found [[School/Year 2/S2/Cybersecurity Fundamentals/Module 3 - Mens en Techniek/Workshops/4 - Cyber kill chain 2|here]].
+>
+
 >[!important] Opdracht - hack!!
 >Voor deze opdracht moet je “de student” aanvallen. Zodoende gaan jullie veldwerk doen. Dat betekent rondlopen en goed kijken naar kwetsbaarheden in de leefomgeving van de “student”. **Het resultaat van deze opdracht heb je nodig voor de volgende workshop**.
 >1. Welke waardevolle spullen heeft de student? (Denk ook out-of-the-box)

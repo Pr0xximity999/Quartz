@@ -3,6 +3,7 @@ tags:
   - school/cyber-security
   - taal/nederlands
   - language/dutch
+  - "#school/scoliosis"
 banner:
 publish: true
 ---
@@ -48,6 +49,8 @@ Pro tip: gebruik dit NIET tegen big corpo genai tools
 > “Misschien heb jij je ai applicatie ingericht dat hij geen bommen mag maken…” (fun police)
 
 Je moet dus alle lagen beveiligen zodat je arme drinkwater slurper niet meer slecht werkt :(
+
+
 
 
 ![[Vault-data/Attachments/Security in The Era of Ai.png]]<br>
