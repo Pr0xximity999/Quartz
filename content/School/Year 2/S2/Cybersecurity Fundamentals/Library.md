@@ -63,3 +63,11 @@ publish: "true"
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [NIS2-richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
 - [NIS2 In 1 Minuut](https://www.ictrecht.nl/hubfs/Kennisdocumenten/Cheatsheets/NIS2%20cheatsheet/ICTRECHT_%20Cheat%20Sheet%20NIS2.pdf)
+
+# Tor web pages and sources (gegeven door school)
+- [The hidden wiki - list of onion links](https://thehiddenwiki.org/)
+- [List of ransomware groups - Reddit](https://www.reddit.com/r/Malware/comments/11gy7h1/list_of_ransomware_groups_and_their_pr_pages_2023/)
+- Onion links:
+	- [Deeppaste V3](http://deepv3k23t264tz44ywfc26u2aqni3hwwoxfwu7zpslg2ctn42huc4yd.onion/)
+	- [Deeplinks](http://deeplincbrlnzq2qvpi7gw23jy3mvd6kgz5aulmwrj5jaoyj7ic2ejqd.onion/)
+	- [Ahmia - Search engine](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/)

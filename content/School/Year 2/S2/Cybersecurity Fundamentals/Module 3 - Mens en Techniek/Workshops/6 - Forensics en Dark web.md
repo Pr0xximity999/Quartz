@@ -17,14 +17,14 @@ publish: true
 >	1. Wat stel je veilig met welke tools?
 >	2. Stel je laptop veilig met de tools en sla de bestanden op een USB disk met FTK Imager.
 >	3. Controleer of je de gemaakte images kan lezen / mounten (ook met FTP Imager).
->5. Durft je opdracht 5 crime-diggers aan? Kijk hoe ver je komt.
+>5. Durft je opdracht 3 crime-diggers aan? Kijk hoe ver je komt.
 
 >[!important] Opdracht (Niet-technisch)
 >Neem het lesmateriaal door en ga aan de slag met de volgende opdrachten:
->1. Voer opdrachten 1 en 2 uit op BrightSpace
->2. Onderzoek de tor-webpagina en ga op het darkweb en schrijf op wat je hebt geleerd.
->3. Vind je dat het darkweb verboden moet worden?
->4. Onderzoek het Mitre Att&ck Framework (opdracht 4)
+>6. Voer opdrachten 1 en 2 uit op BrightSpace
+>7. Onderzoek de tor-webpagina en ga op het darkweb en schrijf op wat je hebt geleerd.
+>8. Vind je dat het darkweb verboden moet worden?
+>9. Onderzoek het Mitre Att&ck Framework (opdracht 4)
 >	1. https://attack.mitre.org/groups/ - onderzoek een aantal groepen
 >	2. https://attack.mitre.org/software/ - onderzoek een aantal malware
 >	3. https://attack.mitre.org/matrices/enterprise/ - onderzoek van iedere stap inde cyber kill chain een drietal tactieken hoe hackers te werk gaan
@@ -168,3 +168,4 @@ Er zijn monitoring tools beschikbaar voor het dark web, zoals:
 	- [DarkOwl](https://www.darkowl.com/)
 	- [Datadome](https://datadome.co/)
 	- [Chainalysis](https://www.chainalysis.com/)
+- [The hidden wiki - Onion sites](https://thehiddenwiki.org/)
