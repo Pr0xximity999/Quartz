@@ -8,7 +8,7 @@ publish: true
 ---
 
 >[!note]
->Next part found [[School/Year 2/S2/Cybersecurity Fundamentals/Module 3 - Mens en Techniek/Workshops/4 - Cyber kill chain 2|here]].
+>Next part found [[School/Year 2/S2/Cybersecurity Fundamentals/Module 3 - Mens en Techniek/Workshops/5 - Cyber kill chain 2|here]].
 >
 
 >[!important] Opdracht - hack!!
