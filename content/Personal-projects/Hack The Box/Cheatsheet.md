@@ -4,7 +4,7 @@ banner:
 publish: false
 ---
 
-# Revving my shells
+# Important things
 - [revshell generator](https://www.revshells.com/) - the goat
 - use `nc -lvnp <port>` to gain shell when a revshell triggers
 - `/usr/bin/script -qc /bin/bash /dev/null` for shell stabilization in case needed
@@ -26,6 +26,8 @@ publish: false
 		- 9: association
 	- `hashcat <hash file> <wordlist file>`
 # Enumeration
+## Wordlists
+- [fuzzing wordlist](https://github.com/OctaYus/Wordlists/blob/main/fuzz_wordlist.txt)
 
 ## Website/directory enum
 - `/usr/share/wordlists/dirb/common.txt` can be used for directories
@@ -34,6 +36,11 @@ publish: false
 	- use `--timeout 20s` or/and `--retry true` (or a higher timeout value) if a timeout occurs due to htb being slow as shit
 	- `gobuster dir --url <url> --wordlist <wordlist>`
 - [ffuf](https://www.kali.org/tools/ffuf/) - Fuzzing, used for directory and subdomain mapping
+	- filter out responses using the `-f<letter>` argument
+	- Subdir fuzzing:
+		- `ffuf -w /usr/share/wordlists/dirb/common.txt -u http://website.htb/FUZZ`
+	- Subdomain fuzzing:
+		- `ffuf -w /usr/share/wordlists/dirb/common.txt -u http://website.htb -H "Host: FUZZ"`
 
 ## Sql enum
 - [sqlitebrowser](https://www.kali.org/tools/sqlitebrowser/) - The name says it
