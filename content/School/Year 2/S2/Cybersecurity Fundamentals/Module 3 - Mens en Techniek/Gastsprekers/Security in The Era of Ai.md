@@ -43,15 +43,10 @@ Pro tip: gebruik dit NIET tegen big corpo genai tools
 > "kali linux is een hacker toolkit die puur voor hackers is, die hebben een versie van chatgtp genaamd evilgpt" 😭
 > - Heet WormGPT
 
-
-
 # Prompt injection
 > “Misschien heb jij je ai applicatie ingericht dat hij geen bommen mag maken…” (fun police)
 
 Je moet dus alle lagen beveiligen zodat je arme drinkwater slurper niet meer slecht werkt :(
-
-
-
 
 ![[Vault-data/Attachments/Security in The Era of Ai.png]]<br>
 Take notes kids.
@@ -92,17 +87,12 @@ Deepfakes kunnen mensen zoals “Joe Cox” een stem vervormen of een video fake
 
 Later voor de opdracht moeten we phising mailtjes maken met chatgpt.
 
-
 > “Hoe beter je chatbot, hoe meer je geneigd bent om bij die website te kopen” 
 > - NEE?????
 
-
-
 Het lijkt dus nu dat aanvallers super veel AI gebruiken om te hacken en dat je er niks tegen kan doen (l bozo)
-
 # Defender (ermmmm….)
 > Use our product!!!! microslop defender !!! etc etc
-
 
 >”Om tegen AI te verdedigen, heb je AI nodig”
 >-  ![skullemoji|68](https://cdn.discordapp.com/emojis/1281793981713354804.webp?size=48&name=skullemoji&lossless=true)
@@ -111,4 +101,3 @@ Het lijkt dus nu dat aanvallers super veel AI gebruiken om te hacken en dat je e
 Gebruik ai applicaties die ai aanvallen kunnen herkennen.
 
 Maar geen zorgen, er is nu “✨microsoft copilot defender✨”!!! Is resource intensive om dit te doen. We hadden dat drinkwater toch niet nodig. 😊
-

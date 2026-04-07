@@ -20,14 +20,27 @@ publish: true
 >	- Welke secure-by-design principes jullie vooraf beter hadden moeten meenemen
 >- Gezamelijk:
 >	- Voer de audit uit met behulp van de vragenlijst en leg het resultaat en conclusie vast. Maak hiervan een paar slides voor de presentatie tijdens de terugkoppeling.
+>	
 >**Opdracht 2: Architecture Review & Design Requirements**
 >- Kies met elkaar een software applicatie die je eerder hebt gerealiseerd.
 >- Beschrijf de 3 belangrijkste design requirements die je in een nieuw project altijd zou meenemen om security by design te waarborgen.
->- \[#nog-af-maken]
+>- Maak een architectuur review van jullie huidige software die en identificeer ten minste 2 designkeuzes die security verbeteren en die 2 risico’s opleveren. Motiveer met een onderbouwing waarom een keuze veilig of onveilig is. 
 >**Opdracht 3: Security Evaulatie**
->- \[#nog-af-maken]
+>- Kies met elkaar een software applicatie die jullie een keer eerder hebben gerealiseerd.
+>- Voer een attack surface analyse uit: Maak een diagram van alle invoer/uitvoer punten en bepaal waar een aanvaller zou kunnen binnenkomen.
+>- Maak een threat model en beschrijf 3-5 realistische dreigingen
+>- Geef per dreiging aan welke maatregel je kan implementeren of welke maatregel je al heb geïmplementeerd. Lever zowel een ontwerp als een beargumenteerde toelichting van deze maatregelen.
+>- Wat valt je op in de samenwerking tussen de technische en niet-technische studenten?
+>- Maak van het resultaat een aantal slides voor de presentatie tijdens de terugkoppeling
 >**Opdracht 4: Developer Security Training**
->- \[#nog-af-maken]
+>- Kies met elkaar een software applicatie die je al eerder hebt gerealiseerd
+>- Stel een voorstel van een ontwerp van een mini trainingsmodule (max 1 A4) op die toekomstige developers van jullie team kunnen volgen om veilig(er) te programmeren. Welke onderwerpen worden behandeld en waarom?
+>- Welke secure coding practices moeten verplicht aan bod komen?
+>- Hoe zorgen jullie dat het toepasbaar en meetbaar is in het project?
+>- De module moet op maat zijn voor jullie softwarecontext, niet een generieke lijst.
+>- Maak voor het resultaat een aantal slides voor de presentatie tijdens de terugkoppeling
+
+
 # Intro
 Wanneer is je software veilig? Kan je alleen inloggen met geldige credentials? Is het memory safe?
 
@@ -36,7 +49,7 @@ Wanneer is je software veilig? Kan je alleen inloggen met geldige credentials? I
 > “Soms is [[piracy]] terecht” \- Marcel
 
 - Sanitation van je input is belangrijk als je [[remote code execution]] (RCE) wilt voorkomen
-- Sand-boxing - het afbakenen naar een speciale omgeving met limited access (Docker, Flatpak)
+- Sandboxing - het afbakenen naar een speciale omgeving met limited access ([[docker|Docker]], [[flatpak|Flatpak]])
 
 # Veilige software
 Software is veilig als het de opgestelde security goals heeft bereikt. Deze goals zullen vaak de [[BIV/CIA]] zijn:
