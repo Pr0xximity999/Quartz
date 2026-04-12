@@ -1,0 +1,16 @@
+---
+tags:
+  - games/satisfactory/parts
+  - taal/engels
+  - language/english
+banner:
+publish: false
+---
+# Info
+Primarily used to build power lines
+# Created in
+Crafting Bench:
+- 2 [[Games/Satisfactory/Basic Parts/Wire|Wire]] > 1 Cable
+Constructor:
+- 2 [[Games/Satisfactory/Basic Parts/Wire|Wire]] > 1 Cable (30 p/min)
+# Used in

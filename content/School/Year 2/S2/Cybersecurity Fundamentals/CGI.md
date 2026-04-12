@@ -55,7 +55,7 @@ Een deel van deze vragen is van tevoren bekend, zodat jij je goed kunt voorberei
 
 Je kan het zien als de verdediging bij het afstuderen. Je resultaat wordt ook achteraf bekendgemaakt.
 
->[!important] Voorbeeldvragen
+>[!important] Standaardvragen
 >- **Module 1: Cybersecurity**
 >	- Hoe ziet volgens jou de wereld van cybercrime eruit?
 >	- Op welke manier richt je de cybersecurity-governance in bij een organisatie
