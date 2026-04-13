@@ -12,5 +12,5 @@ Used for building. Good for stable Foundations.
 Crafting Bench:
 - 3 [[Games/Satisfactory/Raw Materials/Limestone|Limestone]] > 1 Concrete
 Constructor:
-- 3 [[Games/Satisfactory/Raw Materials/Limestone|Limestone]] > 1 Concrete (15 p/min)
+- 3 [[Games/Satisfactory/Raw Materials/Limestone|Limestone]] > 1 Concrete (15)
 # Used in

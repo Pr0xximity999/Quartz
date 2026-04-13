@@ -12,5 +12,5 @@ Primarily used to build power lines
 Crafting Bench:
 - 2 [[Games/Satisfactory/Basic Parts/Wire|Wire]] > 1 Cable
 Constructor:
-- 2 [[Games/Satisfactory/Basic Parts/Wire|Wire]] > 1 Cable (30 p/min)
+- 2 [[Games/Satisfactory/Basic Parts/Wire|Wire]] > 1 Cable (30)
 # Used in

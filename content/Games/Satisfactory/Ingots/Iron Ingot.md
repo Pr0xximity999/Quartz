@@ -19,5 +19,5 @@ Crafting bench:
 - 3 Iron Ingot > 2 [[Games/Satisfactory/Basic Parts/Iron Plate|Iron Plate]]
 - 1 Iron Ingot > 1 [[Games/Satisfactory/Basic Parts/Iron Rod|Iron Rod]]
 Constructor:
-- 3 Iron Ingot > 2 [[Games/Satisfactory/Basic Parts/Iron Plate|Iron Plate]] (20 p/min)
-- 1 Iron Ingot > 1 [[Games/Satisfactory/Basic Parts/Iron Rod|Iron Rod]] (15 p/min)
+- 3 Iron Ingot (30) > 2 [[Games/Satisfactory/Basic Parts/Iron Plate|Iron Plate]] (20)
+- 1 Iron Ingot (15) > 1 [[Games/Satisfactory/Basic Parts/Iron Rod|Iron Rod]] (15)

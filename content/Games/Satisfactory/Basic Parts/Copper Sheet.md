@@ -12,7 +12,7 @@ Primarily used for Pipelines due to its high corrosion resistance.
 Crafting Bench:
 - 2 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]] > 1 Copper sheet
 Constructor:
-- 2 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]] > 1 Copper sheet (10 p/min)
+- 2 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]] (20) > 1 Copper sheet (10)
 # Used in
 Assembler:
-- 6 Copper sheet, 52 [[Games/Satisfactory/Basic Parts/Screws|Screws]] > 3 [[Games/Satisfactory/Basic Parts/Rotor|Rotor]] (11.25 p/min)
+- 6 Copper sheet, 52 [[Games/Satisfactory/Basic Parts/Screws|Screws]] > 3 [[Games/Satisfactory/Adv. Parts/Rotor|Rotor]] (11.25)

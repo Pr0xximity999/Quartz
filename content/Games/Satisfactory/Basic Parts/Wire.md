@@ -12,9 +12,9 @@ One of the most basic parts.
 Crafting Bench:
 - 1 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]] > 2 Wire
 Assembler:
-- 1 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]] > 2 Wire (30 p/min)
+- 1 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]] (15) > 2 Wire (30)
 # Used in
 Crafting Bench:
 - 2 Wire > 1 [[Games/Satisfactory/Basic Parts/Cable|Cable]]
 Constructor:
-- 2 Wire > 1 [[Games/Satisfactory/Basic Parts/Cable|Cable]] (30 p/min)
+- 2 Wire > 1 [[Games/Satisfactory/Basic Parts/Cable|Cable]] (30)

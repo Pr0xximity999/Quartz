@@ -10,5 +10,5 @@ publish: false
 Project Part #1. Ship via the Space Elevator to complete phases of Project Assembly
 # Created in
 Assembler:
-- 1 [[Games/Satisfactory/Adv. Parts/Reinforced Iron Plate|Reinforced Iron Plate]], 1 [[Games/Satisfactory/Basic Parts/Rotor|Rotor]] > 1 Smart Plating (2 p/min)
+- 1 [[Games/Satisfactory/Adv. Parts/Reinforced Iron Plate|Reinforced Iron Plate]], 1 [[Games/Satisfactory/Adv. Parts/Rotor|Rotor]] > 1 Smart Plating (2)
 # Used in
