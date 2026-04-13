@@ -5,6 +5,7 @@ tags:
   - taal/nederlands
   - school/2D-graphics
   - school/planning
+publish: false
 ---
 # Inhoud
 - [[#Week 1]] 

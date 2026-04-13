@@ -8,10 +8,10 @@ publish: "true"
 ---
 
 >[!important] Opdracht in Tutorgroep
-> - Analyseer het informatiebeveiligingsbeleid van Avans op rollen, taken en verantwoordelijkheden. (Kijk op brightspace)
-> - Vul de [OCIA](https://www.ask-advise.nl/organisatie-cultuur/vragenlijst-ocai-model-cameron-quinn/) vragenlijst in voor Avans Hogeschool (tot in hoeverre het mogelijk is met de beveiliging van het bestand)
+> - Analyseer het informatiebeveiligingsbeleid van School op rollen, taken en verantwoordelijkheden. (Kijk op brightspace)
+> - Vul de [OCIA](https://www.ask-advise.nl/organisatie-cultuur/vragenlijst-ocai-model-cameron-quinn/) vragenlijst in voor je school (tot in hoeverre het mogelijk is met de beveiliging van het bestand)
 > - Hoe word jij als student betrokken bij IB/cyberveiligheid? Richt je hierbij vooral op soft controls (wat zie jij terug, wat mis jij?)
-> - Maak een advies voor de CISO van Avans t.a.v. het gebruik van soft controls in de vorm van een posterpresentatie.
+> - Maak een advies voor de CISO van je school t.a.v. het gebruik van soft controls in de vorm van een posterpresentatie.
 > 
 
 

@@ -4,7 +4,7 @@ tags:
   - language/dutch
   - taal/nederlands
 banner:
-publish: "false"
+publish: false
 ---
 # 1 - Inleiding
 # 2 - Kick-off

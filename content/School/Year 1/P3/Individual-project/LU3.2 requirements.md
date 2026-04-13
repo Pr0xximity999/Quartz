@@ -7,9 +7,7 @@ tags:
   - school/secure-backend
 ---
 
-This is the list of all requirements. Found [here](https://brightspace.avans.nl/d2l/le/lessons/201949/topics/1566722).
-
-Example code from school can be found [here](https://github.com/AvansICT/ICT1.3-2D-Graphics-Secure-Communication-SecureBackend-CodeSnippets).
+This is the list of all requirements.
 
 - [x] set swagger to only run in dev environment.
 
