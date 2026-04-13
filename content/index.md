@@ -20,7 +20,6 @@ Also check out my other website https://ivorylotus.dev  :3
 | date       | file                                                                                          | Language                       | Notes          |
 | ---------- | --------------------------------------------------------------------------------------------- | ------------------------------ | -------------- |
 | 10-04-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]] | #taal/engels #language/english |                |
-| 12-04-2026 | [[Games/Satisfactory/Ingots/Iron Ingot\|Satisfactory part descriptions]]                      | #taal/engels #language/english | Multiple files |
 | 13-04-2026 | [[Info-tidbits/Interior Design\|Interior Design]]                                             | #taal/engels #language/english |                |
 
 
