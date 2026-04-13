@@ -24,7 +24,7 @@ Interior design can be broken down into 6 points/steps
 
 # 1. Lighting
 >[!important] Dimmers
->Just buy a dimmer and install it! They’re cheap and really easy to install. Trust me, it WILL improve things massively not needing to have general lighting turned up all the way, all the time.
+>Just buy a dimmer and install it! They’re cheap and really easy to install. Trust me, it WILL improve things massively not needing to have general lighting turned up all the way, all the time. Or get a smart bulb if you’re feeling fancy :3
 
 You can have the best furnished home ever. But bad lighting will still ruin it all.
 
