@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: false
+publish: true
 ---
 >[!Info] PSA: Don’t overthink it
 >You don’t have to overthink every little detail described here, but use it as a guide or helping hand when designing and furnishing your rooms! Have a little fun with it, do your own thing! As long as you’re happy with it :3
