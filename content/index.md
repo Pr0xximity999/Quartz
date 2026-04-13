@@ -17,14 +17,11 @@ Also check out my other website https://ivorylotus.dev  :3
 
 
 # New entries/updates
-| date       | file                                                                                                                                                                   | Language                         | Notes          |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------- |
-| 04-03-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]]                                                                          | #taal/engels #language/english   |                |
-| 04-03-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]]                                                                          | #taal/engels #language/english   |                |
-| 04-03-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Module 2 - Weerbaarheid/Workshops/0 - Kick-Off\|0 - Kick-Off]]                                                           | #taal/nederlands #language/dutch |                |
-| 04-03-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Module 2 - Weerbaarheid/Workshops/1 - Georganiseerd Bouwen Aan Weerbaarheid\|1 - Georganiseerd Bouwen Aan Weerbaarheid]] | #taal/nederlands #language/dutch |                |
-| 09-03-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Module 2 - Weerbaarheid/Workshops/2 - Business Continuity Management\|2 - Business Continuity Management]]               | #taal/nederlands #language/dutch |                |
-| 09-03-2026 | [[School/Year 2/S2/Cybersecurity Fundamentals/Module 2 - Weerbaarheid/Workshops/3 - Secure Software Development\|3 - Secure Software Development]]                     | #taal/nederlands #language/dutch | SDLC jumpscare |
+| date       | file                                                                                          | Language                       | Notes          |
+| ---------- | --------------------------------------------------------------------------------------------- | ------------------------------ | -------------- |
+| 10-04-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]] | #taal/engels #language/english |                |
+| 12-04-2026 | [[Games/Satisfactory/Ingots/Iron Ingot\|Satisfactory part descriptions]]                      | #taal/engels #language/english | Multiple files |
+| 13-04-2026 | [[Info-tidbits/Interior Design\|Interior Design]]                                             | #taal/engels #language/english |                |
 
 
 >[!important]- Important note
