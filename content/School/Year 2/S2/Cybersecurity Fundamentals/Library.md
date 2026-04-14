@@ -8,6 +8,10 @@ publish: "true"
 ---
 >[!important]
 >Deze lijst zal uitgebreid worden als er meer informatiebronnen gevonden zijn, dus check from time to from of er nieuwe sources bij staan :3
+# Tools
+- [Whois domain lookup](https://whois.domaintools.com/)
+- [Cyberchef - Cryptography and data conversion tools](https://gchq.github.io/CyberChef/)
+- [MITRE - ATT&CK Framework](https://attack.mitre.org/)
 # Overige informatie sources
 - [OSINT Framework - What information can you find and how to use it?](https://osintframework.com/)
 # Interessante video’s
