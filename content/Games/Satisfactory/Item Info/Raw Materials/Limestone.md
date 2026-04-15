@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: false
+publish: true
 ---
 # Info
 A basic resource primarily used for stable Foundations.
@@ -12,6 +12,6 @@ A basic resource primarily used for stable Foundations.
 
 # Used in
 Crafting Bench:
-- 3 Limestone > 1 [[Games/Satisfactory/Basic Parts/Concrete|Concrete]]
+- 3 Limestone > 1 [[Games/Satisfactory/Item Info/Basic Parts/Concrete|Concrete]]
 Constructor:
-- 3 Limestone > 1 [[Games/Satisfactory/Basic Parts/Concrete|Concrete]] (15 p/min)
+- 3 Limestone > 1 [[Games/Satisfactory/Item Info/Basic Parts/Concrete|Concrete]] (15 p/min)

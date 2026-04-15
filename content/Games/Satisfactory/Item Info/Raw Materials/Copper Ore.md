@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: false
+publish: true
 ---
 # Info
 A basic resource primarily used for electricity.
@@ -12,6 +12,6 @@ A basic resource primarily used for electricity.
 
 # Used in
 Crafting Bench:
-- 1 Copper Ore > 1 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]]
+- 1 Copper Ore > 1 [[Games/Satisfactory/Item Info/Ingots/Copper Ingot|Copper Ingot]]
 Smelter:
-- 1 Copper ore > 1 [[Games/Satisfactory/Ingots/Copper Ingot|Copper Ingot]] (30 p/m)
+- 1 Copper ore > 1 [[Games/Satisfactory/Item Info/Ingots/Copper Ingot|Copper Ingot]] (30 p/m)
