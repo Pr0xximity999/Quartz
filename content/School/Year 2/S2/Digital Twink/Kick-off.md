@@ -55,3 +55,16 @@ Herkansingen in week 11
 # Project
 - Vanaf week 5
 - Dagelijks t/m week 9
+
+
+# PVO
+Tweewekelijks overleg
+- Afvaardiging van 4 studenten
+- Modulecoordinator
+
+Onderwepen
+- Operationele zaken
+- Niet vakinhoudeljk
+
+# LWS
+Deze periode ligt de focus op het in kaart brengen van je kwaliteiten en valkuilen, 
