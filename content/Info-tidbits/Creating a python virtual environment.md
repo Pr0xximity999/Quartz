@@ -4,7 +4,7 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: false
+publish: true
 ---
 >[!important] Sources used!
 >- https://docs.python.org/3/library/venv.html

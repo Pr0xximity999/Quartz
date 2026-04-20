@@ -222,7 +222,6 @@ schrijf het meer als een onderzoek die anderen kunnen lezen en reproduceren. nie
 	- De andere klassen mochten wel werk onderverdelen en werden zelfs bij het assessment gevraagd wie wat deed
 	- Ik zit in Finland dus samenwerken is bijna onmogelijk
 ### Wiki zelf
-[link](https://brightspace.avans.nl/d2l/lms/dropbox/user/folder_user_view_feedback.d2l?db=184868&grpid=0&isprv=0&bp=0&ou=251412)
 1. Vorm wiki: Door de locatie van de wiki zijn er geen punten
 	- 0.5/2 punten
 	- De wiki zelf is gestructureerd opgesteld?
@@ -237,7 +236,6 @@ schrijf het meer als een onderzoek die anderen kunnen lezen en reproduceren. nie
 		- En ook meetbare waarden aan MCA HV8
 
 ### Assessment
-[link](https://brightspace.avans.nl/d2l/lms/dropbox/user/folder_user_view_feedback.d2l?db=184869&grpid=0&isprv=0&bp=0&ou=251412)
 1. Onderzoeksopzet
 	- 4/10 punten
 	- “Is beperkt maar wel bruikbaar”

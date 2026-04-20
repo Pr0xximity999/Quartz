@@ -5,6 +5,7 @@ tags:
   - taal/nederlands
   - school/robotics-prototyping
   - school/planning
+publish: false
 ---
 >[!important] **LET OP: Vanaf week 3 maak je de opdrachten nog steeds (met een twist)** 
 > Wat er hier veranderd is dat  je niet op elke opdracht los reflecteerd. 

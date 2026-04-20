@@ -8,6 +8,10 @@ publish: "true"
 ---
 >[!important]
 >Deze lijst zal uitgebreid worden als er meer informatiebronnen gevonden zijn, dus check from time to from of er nieuwe sources bij staan :3
+# Tools
+- [Whois domain lookup](https://whois.domaintools.com/)
+- [Cyberchef - Cryptography and data conversion tools](https://gchq.github.io/CyberChef/)
+- [MITRE - ATT&CK Framework](https://attack.mitre.org/)
 # Overige informatie sources
 - [OSINT Framework - What information can you find and how to use it?](https://osintframework.com/)
 # Interessante video’s
@@ -59,7 +63,7 @@ publish: "true"
 
 # Wet- en regelgeving
 - [AVG (GDPR) – Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/de-avg-in-het-kort)
-- [NEN-Connect (ISO27001, NEN7510, e.d.)](https://avans.libguides.com/az/nen-connect)
+- [NEN-Connect (ISO27001, NEN7510, e.d.)](https://connect.nen.nl/Portal)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [NIS2-richtlijn](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/)
 - [NIS2 In 1 Minuut](https://www.ictrecht.nl/hubfs/Kennisdocumenten/Cheatsheets/NIS2%20cheatsheet/ICTRECHT_%20Cheat%20Sheet%20NIS2.pdf)
