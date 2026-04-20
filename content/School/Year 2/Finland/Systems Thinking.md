@@ -6,6 +6,7 @@ tags:
 banner:
 publish: "false"
 ---
+
 >[!important] For the case study (part 1)
 >- Write down every stakeholder in your system on a blank piece of paper. Push yourself to think past the obvious.
 >- Add any technologies or objects that are relevant. Again, push past the obvious.

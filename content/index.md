@@ -17,10 +17,12 @@ Also check out my other website https://ivorylotus.dev  :3
 
 
 # New entries/updates
-| date       | file                                                                                          | Language                       | Notes          |
-| ---------- | --------------------------------------------------------------------------------------------- | ------------------------------ | -------------- |
-| 10-04-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]] | #taal/engels #language/english |                |
-| 13-04-2026 | [[Info-tidbits/Interior Design\|Interior Design]]                                             | #taal/engels #language/english |                |
+| date       | file                                                                                          | Language                         | Notes |
+| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------- | ----- |
+| 10-04-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]] | #taal/engels #language/english   |       |
+| 13-04-2026 | [[Info-tidbits/Interior Design\|Interior Design]]                                             | #taal/engels #language/english   |       |
+| 20-04-2026 | [[School/Year 2/S2/Digital Twink/Workshop digital twin\|Workshop digital twin]]               | #taal/nederlands #language/dutch |       |
+| 20-04-2026 | [[School/Year 2/S2/Digital Twink/Systems thinking\|Systems thinking]]                         | #taal/nederlands #language/dutch |       |
 
 
 >[!important]- Important note

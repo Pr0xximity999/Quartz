@@ -7,7 +7,7 @@ banner:
 publish: "false"
 ---
 # Main assignment
-[[School/Year 2/S1/Finland/Textile and Circular Economy|Document]]
+[[School/Year 2/Finland/Textile and Circular Economy|Document]]
 This weeks assignment consists of 3 elements:
 - The team will give a suggestion of what kind of a digital solution the project should use for the container.
 - The team will think about what kinds of information the digital solution should contain
@@ -40,7 +40,7 @@ Use your creativity and remember to give arguments for your decisions in the pre
 >- Make it visually pleasing, simple but attractive
 
 # Systems thinking
-[[School/Year 2/S1/Finland/Systems Thinking|Document]]
+[[School/Year 2/Finland/Systems Thinking|Document]]
 >[!important] For the case study (part 1)
 >- Write down every stakeholder in your system on a blank piece of paper. Push yourself to think past the obvious.
 >- Add any technologies or objects that are relevant. Again, push past the obvious.
