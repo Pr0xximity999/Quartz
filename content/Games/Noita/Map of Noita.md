@@ -4,6 +4,6 @@ tags:
   - taal/engels
   - language/english
 banner:
-publish: false
+publish: true
 ---
 ![[Games/Noita/Map|Map]]
