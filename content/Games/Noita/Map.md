@@ -280,7 +280,7 @@ Referring to using the evil eye to climb ^6UF627FO
 
 Lake ^hV6HmKUE
 
-Bring scroll here ^vxNpBqDd
+Bring scroll here, spawn portal ^vxNpBqDd
 
 Alchemist's note ^HGIKduWY
 
@@ -296,6 +296,8 @@ Essence of fire
 
 West
 Wall ^cRP5xbRe
+
+May spawn a little shop ^oM3FLuAS
 
 ## Embedded Files
 9311da3504b009982226701d2790b9ff2d5d69e4: [[Vault-data/Attachments/Pasted Image 20260504212419_358.png]]
@@ -517,6 +519,10 @@ a1458ab1bbb479a36d1d36f5839c58971099db75: [[Vault-data/Attachments/Pasted Image 
 e5276b01113937a79384647f31f114d12aefaead: [[Vault-data/Attachments/Pasted Image 20260509003557_087.png]]
 
 1b99bf3ef8509c509b9b3f7932bac65cc0af83ed: [[Vault-data/Attachments/Pasted Image 20260509003638_511.png]]
+
+3fcd87e188d92f933f2e2af72339315e749997b5: [[Vault-data/Attachments/Pasted Image 20260510212839_486.png]]
+
+754a91618f8d825bf0ea6ceee2900abb64a7aebd: [[Vault-data/Attachments/Pasted Image 20260510213647_082.png]]
 
 %%
 ## Drawing
