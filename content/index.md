@@ -29,6 +29,7 @@ Also check out my other website https://ivorylotus.dev  :3
 | 06-04-2026 | [[School/Year 2/S2/Digital Twink/3D visualisatie/Workshop 3 - 3D modellen\|Workshop 3 - 3D modellen]]          | #taal/engels #language/english   |                             |
 | 18-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W1 -  Reinforcement Learning\|W1 -  Reinforcement Learning]] | #taal/engels #language/english   |                             |
 | 19-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W2 - Policy Q Learning\|W2 - Policy Q Learning]]             | #taal/engels #language/english   |                             |
+| 19-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W3 - MARL\|W3 - MARL]]                                       | #taal/engels #language/english   |                             |
 
 
 >[!important]- Important note
