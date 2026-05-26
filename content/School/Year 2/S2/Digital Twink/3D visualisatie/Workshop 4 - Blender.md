@@ -7,7 +7,7 @@ tags:
 banner:
 publish: true
 ---
-# Intro
+c# Intro
 Blender is a very versatile tool created to making, animating, texturing, sculpting, rendering, simulating or scripting 3D models (and more). It has been made from the ground up and has evolved a lot over the years.
 
 Because of the nature of blender, it is really hard to get a good grasp trough text, so i’d suggest looking up a video on how to use blender to its fullest potential. 
