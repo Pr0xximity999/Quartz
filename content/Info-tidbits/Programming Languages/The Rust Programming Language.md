@@ -42,6 +42,9 @@ Some other things that are expressions are:
 So to recap:
 - An **expression** is an instruction that evaluates to some value
 - A **statement** is an instruction that does some action but does *not* evaluate to some value
+
+## Conditions and If Statements
+Everything that evaluates to a boolean can be used in if statements. You don’t need the brackets around the condition, but it’s a crime to not do it. 
 # Variables
 variables are denoted by the keyword `let`, followed by either the name of the variable or the `mut` keyword. Mutability will be covered [[#Mutability|later]].
 
@@ -86,5 +89,5 @@ let x = 5; #Immutable
 let mut y = 5; #Mutable
 ```
 
-# Conditions and If Statements
-Everything that evaluates to a boolean can be used in if statements. You don’t need the brackets around the condition, but it’s a crime to not do it. 
+# Ownership
+Rust is a memory-safe language without the need for a garbage collector. This is achieved by ensuring the user handles variables and their memory usage correctly. This form of data management is called **ownership**.
