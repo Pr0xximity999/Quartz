@@ -91,3 +91,22 @@ let mut y = 5; #Mutable
 
 # Ownership
 Rust is a memory-safe language without the need for a garbage collector. This is achieved by ensuring the user handles variables and their memory usage correctly. This form of data management is called **ownership**.
+
+Ownership works differently from either having a garbage collector free memory or doing it manually; Enforcing a system of who owns a piece of memory by a set of rules. If any of these rules are violated, the program won’t compile.
+
+This might be a bit tricky to get into, but once you get the hang of it its not that bad.
+
+>[!example] The Stack and the Heap
+>As many might know, the stack and heap are parts of memory available to written code at runtime. Both serve different purposes and work slightly different.
+><br> **The stack** stores values like how stuff would be stacked on top of each other: last in, first out. The last plate in a stack goes on top and that goes out first too. Adding or removing data to the stack is called *pushing onto or popping off the stack*. All data in the stack must be a known, fixed size. Data with an unknown size at compile time that might change will be stored on the heap instead.
+><br>**The heap** is a less organized collection. Data needs to reserve space and the allocator finds an empty spot for it, allocates it, and returns a *pointer* to where that data is located. This process is called **allocating on the heap**, or just *allocating*. Because this pointer is a known, fixed size, it can be stored on the stack.
+><br>Accessing data on the heap is generally slower than accessing data on the stack because it needs to follow the address to get there. Most processors are faster if they jump around less in memory. Think of it like a server needing to move around a bunch to faraway tables opposed to moving to tables close by; It takes time.
+><br>Calling a function will push the values given to that function (including pointers on the heap) and the function’s local variables onto the stack. When the function is finished, the data gets popped off again.
+><br>Keeping track of what parts of code are using what data on the heap, minimizing the amount of duplicate data on the heap, and cleaning up unused data on the heap to prevent a full memory are all things ownership addresses. Understanding ownership means you don’t have to think about the stack and heap a lot, but understanding that the main purpose is to manage heap data can help explain why it works the way it does.
+
+## Ownership rules
+Rust’s ownership rules are good to keep in mind as the rest of this information is read:
+- Each value in Rust has an *owner*
+- There can only be one owner at a time
+- When the owner goes out of scope, the value will be dropped (deallocated)
+
