@@ -15,6 +15,7 @@ Automated systems might miss some more complex or contextual security flaws that
 
 # Secure code review vs Regular code review
 This differs from a standard code review by only focusing on security concerns like input validation, input sanitation, authentication and authorization mechanisms or potential attack vectors.
-	# Sources
+
+# Sources
 - [Secure Code Review Cheatsheet - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Code_Review_Cheat_Sheet.html)
 - [Secure Code Review - HackTheBox](https://www.hackthebox.com/blog/secure-code-reviews)

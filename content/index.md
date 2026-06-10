@@ -17,23 +17,25 @@ Also check out my other website https://ivorylotus.dev  :3
 
 
 # New entries/updates
-| date       | file                                                                                                                     | Language                         | Notes                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | --------------------------- |
-| 10-04-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]]                            | #taal/engels #language/english   |                             |
-| 13-04-2026 | [[Info-tidbits/Interior Design\|Interior Design]]                                                                        | #taal/engels #language/english   |                             |
-| 20-04-2026 | [[School/Year 2/S2/Digital Twink/Workshop digital twin\|Workshop digital twin]]                                          | #taal/nederlands #language/dutch |                             |
-| 23-04-2026 | [[Info-tidbits/Docker]]                                                                                                  | #taal/engels #language/english   | docking, piping an mounting |
-| 24-04-2026 | [[Info-tidbits/Programming Languages/The Rust Programming Language\|The Rust Programming Lanauge]]                       | #taal/engels #language/english   | Estrogen 👍                 |
-| 25-04-2026 | [[School/Year 2/S2/Digital Twink/3D visualisatie/Workshop 1 - Unity Basics\|Workshop 1 - Unity Basics]]                  | #taal/engels #language/english   |                             |
-| 27-04-2026 | [[School/Year 2/S2/Digital Twink/3D visualisatie/Workshop 2 - Visuals\|Workshop 2 - Visuals]]                            | #taal/engels #language/english   |                             |
-| 06-04-2026 | [[School/Year 2/S2/Digital Twink/3D visualisatie/Workshop 3 - 3D modellen\|Workshop 3 - 3D modellen]]                    | #taal/engels #language/english   |                             |
-| 18-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W1 -  Reinforcement Learning\|W1 -  Reinforcement Learning]]           | #taal/engels #language/english   |                             |
-| 19-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W2 - Policy Q Learning\|W2 - Policy Q Learning]]                       | #taal/engels #language/english   |                             |
-| 19-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W3 - MARL\|W3 - MARL]]                                                 | #taal/engels #language/english   |                             |
-| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/Secure Component Analysis\|Secure Component Analysis]] | #taal/engels #language/english   |                             |
-| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/Secure Code Review\|Secure Code Review]]               | #taal/engels #language/english   |                             |
-| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/SAST and DAST\|SAST and DAST]]                         | #taal/engels #language/english   |                             |
-| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Workshops/WS 3 - Code reviews, Secure tooling en Pentesting\|Workshop 3 - Audit]]               | #taal/engels #language/english   |                             |
+| date       | file                                                                                                                                                      | Language                         | Notes                       |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
+| 10-04-2026 | [[Info-tidbits/Creating a python virtual environment\|Creating a python virtual environment]]                                                             | #taal/engels #language/english   |                             |
+| 13-04-2026 | [[Info-tidbits/Interior Design\|Interior Design]]                                                                                                         | #taal/engels #language/english   |                             |
+| 20-04-2026 | [[School/Year 2/S2/Digital Twink/Workshop digital twin\|Workshop digital twin]]                                                                           | #taal/nederlands #language/dutch |                             |
+| 23-04-2026 | [[Info-tidbits/Docker]]                                                                                                                                   | #taal/engels #language/english   | docking, piping an mounting |
+| 24-04-2026 | [[Info-tidbits/Programming Languages/The Rust Programming Language\|The Rust Programming Lanauge]]                                                        | #taal/engels #language/english   | Estrogen 👍                 |
+| 25-04-2026 | [[School/Year 2/S2/Digital Twink/3D visualisatie/Workshop 1 - Unity Basics\|Workshop 1 - Unity Basics]]                                                   | #taal/engels #language/english   |                             |
+| 27-04-2026 | [[School/Year 2/S2/Digital Twink/3D visualisatie/Workshop 2 - Visuals\|Workshop 2 - Visuals]]                                                             | #taal/engels #language/english   |                             |
+| 06-04-2026 | [[School/Year 2/S2/Digital Twink/3D visualisatie/Workshop 3 - 3D modellen\|Workshop 3 - 3D modellen]]                                                     | #taal/engels #language/english   |                             |
+| 18-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W1 -  Reinforcement Learning\|W1 -  Reinforcement Learning]]                                            | #taal/engels #language/english   |                             |
+| 19-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W2 - Policy Q Learning\|W2 - Policy Q Learning]]                                                        | #taal/engels #language/english   |                             |
+| 19-05-2026 | [[School/Year 2/S2/Digital Twink/Machine Learning/W3 - MARL\|W3 - MARL]]                                                                                  | #taal/engels #language/english   |                             |
+| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/Secure Component Analysis\|Secure Component Analysis]]                           | #taal/engels #language/english   |                             |
+| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/Secure Code Review\|Secure Code Review]]                                         | #taal/engels #language/english   |                             |
+| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/SAST and DAST\|SAST and DAST]]                                                   | #taal/engels #language/english   |                             |
+| 09-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Workshops/WS 3 - Code reviews, Secure tooling en Pentesting\|Workshop 3 - Audit]]            | #taal/engels #language/english   |                             |
+| 10-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/The CIA Triad\|The CIA Triad]]                                                   | #taal/engels #language/english   |                             |
+| 10-06-2026 | [[School/Year 2/S2/Digital Twink/Secure Software Development/Study Notes/Designing and Building Secure Software\|Designing and Building Secure Software]] | #taal/engels #language/english   |                             |
 
 
 >[!important]- Important note
