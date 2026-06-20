@@ -46,6 +46,7 @@ publish: false
 - [sqlitebrowser](https://www.kali.org/tools/sqlitebrowser/) - The name says it
 - [sqlmap](https://www.kali.org/tools/sqlmap/) - Autmated sql injection testing and mapping for sql servers
 ## Internal services enum
+- `uname -a` for full kernel name
 - `sudo -l` to see what sudo perms the current user has
 - `ss -tulpn` to see what services are running with open ports
 - `ls -l /etc/shadow` to show all passwords (if you got the perms)
@@ -64,6 +65,7 @@ publish: false
 		- Default is 3
 	- `-p-` to scan all possible ports
 	- `-sV` for version checking
+	- `-sU` for UDP port scanning
 	- `-sC` for banner grabbing
 		- [Banner grabbing(nmap)](https://nmap.org/nsedoc/scripts/banner.html)
 		- [Banner grabbing (wikipedia)](https://en.wikipedia.org/wiki/Banner_grabbing)
