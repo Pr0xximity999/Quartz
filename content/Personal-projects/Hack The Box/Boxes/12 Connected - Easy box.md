@@ -5,7 +5,7 @@ publish: false
 ---
 TCP scan
 ```bash
-nmap -p- -sV -sC
+nmap -p- -sV -sC connected.htb
 ```
 
 # Box info
@@ -82,7 +82,7 @@ Some more enumeration:
 	- version 20.17.0
 
 ## Asterisk
-Googling asterisk privilege escalation. lands me on [CVE-2026-23741](https://nvd.nist.gov/vuln/detail/CVE-2026-23741). This version *should* be vulnerable. The CVE says a part of asterisk runs as root, which sources contents of /etc/asterisk/ast_debug_tools.conf, I can write in this folder. Editing this config file should let me run bash code since it supports that semantic.
+Googling asterisk privilege escalation. lands me on [CVE-2026-23741](https://nvd.nist.gov/vuln/detail/CVE-2026-23741). This version *should* be vulnerable. The CVE says a part of asterisk runs as root, which sources contents of `/etc/asterisk/ast_debug_tools.conf`, I can write in this folder. Editing this config file should let me run bash code since it supports that semantic.
 
 i wrote `/bin/bash` to the file `ast_debug_tools.conf`. now lets see how i can make it run that files. I need to somehow trigger a crash, or at least make the core dumper run.
 
@@ -124,3 +124,30 @@ safe_asterisk is running as root. This means that any config file should also ru
 asterisk mostly runs httpd instances. But root also runs one. hmmm…
 ![[Vault-data/Attachments/12 Connected - Easy box-1.png]]
 
+## Httpd
+Apache server version 2.4.6
+httpd seems to be the http daemon used by apache. It is also a [terminal command](https://httpd.apache.org/docs/current/programs/httpd.html).
+
+Looking for the httpd folder using `find / -name 'httpd.conf'`: `/etc/httpd`. Found the config file at `conf/httpd.conf`. Sifting trough it.
+- Every user is switched to asterisk. A rule is set for it.
+- ServerAdmin root@sangoma.localhost
+
+Nothing really noteworthy.
+
+
+Trying the trick of setting the user id of a python script to root also does not work.
+
+Going to check and see if i can find some misconfiguration inside of asterisk.
+## Asterisk part 2
+[This reddit post](https://www.reddit.com/r/Asterisk/comments/1f4wwf3/common_security_misconfigurations_in_asterisk/) asks about some common security misconfigurations. Top comment and the post itself says that SIP should be closed off from the internet. Which is port 5060. From my previous scans, i saw that it is open to the internet. Let me check it out.
+
+Looking at [this guide](https://hacktricks.wiki/en/network-services-pentesting/pentesting-voip/basic-voip-protocols/sip-session-initiation-protocol.html). Or well, skimming it.
+
+nmap has a sip methods script you can run.
+```bash
+nmap -sU -p 5060 --script sip-methods connected.htb
+```
+
+Nothing noteworthy. SIP is a dead end i think. I don’t think i have to set up an entire call thingie to access it.
+
+Maybe fwconsole will have something noteworthy

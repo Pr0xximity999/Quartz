@@ -8,6 +8,10 @@ publish: false
 - [revshell generator](https://www.revshells.com/) - the goat
 - use `nc -lvnp <port>` to gain shell when a revshell triggers
 - `/usr/bin/script -qc /bin/bash /dev/null` for shell stabilization in case needed
+
+# Guide sources
+- https://hacktricks.wiki/en/index.html
+- https://angelica.gitbook.io/hacktricksThis reddit post
 # Linux 
 ## OS info
 - ![[Vault-data/Attachments/Enumeration tips file perms.png]]
