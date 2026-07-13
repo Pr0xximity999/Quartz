@@ -13,6 +13,10 @@ publish: false
 # API
 - [x] Database connection
 - [x] API base
+- [ ] logging
+	- [x] request logging
+	- [x] fix the cors issue
+	- [ ] pass the rev-proxy header for correct ip logging
 - [ ] Modular structure
 - [ ] authentication
 

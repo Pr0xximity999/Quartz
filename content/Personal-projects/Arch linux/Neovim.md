@@ -7,7 +7,6 @@ tags:
   - applications/tui
 publish: "true"
 banner: "[[Vault-data/Banners/field-illustration.jpg]]"
-banner_x: 0
 ---
 Neovim: the scary TUI(Text User Interface) text editor that doesn’t use a mouse. It always seemed interesting to me, though i never had the motivation to fully commit to it.
 
@@ -96,7 +95,7 @@ Plugins go inside the plugins folder, and you can manage lazy with the command `
 Very empty, but it works. I’ll quit by writing `:q`. Let’s install some plugins, starting with a nicer theme. Since my other apps use the everforest theme, i went with that one for this as well([source](https://github.com/neanias/everforest-nvim)).
 
 ## Setting up a theme
-Inside of `~/.config/nvim/lua/plugins/`, the file `colorscheme.lua`(this name is important) will be added containing the code as mentioned inside the [everforest-nvim](https://github.com/neanias/everforest-nvim) GitHub page.
+Inside of `~/.config/nvim/lua/plugins/`, the file `colorscheme.lua` will be added containing the code as mentioned inside the [everforest-nvim](https://github.com/neanias/everforest-nvim) GitHub page.
 
 ```lua
 return{
@@ -122,10 +121,25 @@ saving this file using `:w` will automatically update lazy:
 Press ENTER or type command to continue
 ```
 
-Adding `vim.cmd("colorscheme everforest")` to the main `lazy.lua` file will enable the colorscheme.
-![[Pasted image 20251024233737.png]]
+Adding `require("everfores").load()` to the main `init.lua` file will enable the colorscheme.
+![[Vault-data/Attachments/Neovim.png]]
 
 Looking better :3
+
+## File fuzzy-finding and grepping
+Since there is no file browser added to my neovim configuration(yet), i will add a package called [telescope.nvm](https://github.com/nvim-telescope/telescope.nvim). Telescope will give us the ability to quickly search for files or file contents.
+
+After adding the right install file, add these lines of code do your `init.lua` to initialize some keybinds:
+```lua
+local builtin = require("telescope.builtin")
+vim.keymap.set("n", "<C-o>", builtin.find_files, {})
+vim.keymap.set("n", "<leader>fg", builtin.live_grep, {})
+```
+
+This will add the keybind ctrl-o for opening files and leader + fg for grepping. My leader key is set to `\\` with the command `vim.g.mapleader = "\\"`.
+
+Pressing ctrl-o now opens up a nice search field.
+
 
 ## Qml language server
 Since i work on [[Personal-projects/Arch linux/Quickshell|Quickshell]], it would be nice to have a language server set up. Installing the qml language server and grammar support requires [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter?tab=readme-ov-file) and [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig). nvim-treesitter is a plugin based on [treesitter](https://github.com/nvim-treesitter/nvim-treesitter?tab=readme-ov-file), which is a syntax parser tool (parsing language syntax, basically). nvim-lspconfig is a collections of LSP (Language Server Protocol) server configurations for neovim.
