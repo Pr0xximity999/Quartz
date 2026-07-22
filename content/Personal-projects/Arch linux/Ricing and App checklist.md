@@ -8,17 +8,21 @@ tags:
 publish: "true"
 ---
 - [ ] global shared theme
-- [ ] neovim
-	- [ ] theme
-	- [ ] indentation
-	- [ ] intellisense
-	- [ ] typing suggestions
+- [x] neovim
+	- [x] theme
+	- [x] indentation
+	- [x] intellisense
+	- [x] typing suggestions
 - [ ] quickshell
 	- [ ] topbar
 	- [ ] music player
 	- [ ] notifications
+		- [ ] Notification center
 	- [ ] discord intergration
 	- [ ] theme switcher
+	- [ ] Power center (shutdown / sleep / lock etc)
+	- [ ] Calendar (google calendar intergration)
+	- [ ] Volume indicator + audio sink settings + audio sources
 - [ ] kitty
 	- [ ] theme
 	- [ ] typing suggestions
