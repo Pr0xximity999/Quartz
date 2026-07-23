@@ -20,8 +20,6 @@ $$-4, -7,-18,-24,-65 -73, -273,-584, -3499349.$$
 0 (zero) is a special number, it's *neither positive or negative*. Zero lays in between positive and negative.
 # Integers
 **Integers**, or **whole numbers**, are numbers like 1 2 45 765 2343, -5, -76, -1023 and also 0.
-Integers are split into 3 categories:
-
 # Decimals
 A **decimal number** is a number with a comma(or dot) inside it, they're not whole numbers. Numbers like: $5.5$, $10.734$, and $0.235$ are decimal numbers. 
 

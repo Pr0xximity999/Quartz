@@ -68,11 +68,9 @@ The explanation goes as follows:<br>
 Take this division of primes with their exponents:
 
 $$
-2^{a_1} \times 3^{a_2} \times 5^{a_3} \times 7^{a_4} \div 2^{b_1} \times 3^{b_2} \times 5^{b_3} \times 7^{b_4}
+2^{b_1} \times 3^{b_2} \times 5^{b_3} \times 7^{b_4} \div 2^{a_1} \times 3^{a_2} \times 5^{a_3} \times 7^{a_4}
 $$
-
->[!note] next article
->The next article will go over [[Info-tidbits/Maths/08 - Greatest common divisor and least common multiple|the greatest common divisor and least common multiple]]<br>Let's write it as a fraction and omit the multiplication symbols for clarity:<br>
+<br>Let's write it as a fraction and omit the multiplication symbols for clarity:<br>
 
 $$
 \frac {2^{b_1} 3^{b_2} 5^{b_3} 7^{b_4}} {2^{a_1} 3^{a_2} 5^{a_3} 7^{a_4}} ...
