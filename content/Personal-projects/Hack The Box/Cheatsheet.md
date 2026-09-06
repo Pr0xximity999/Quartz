@@ -13,6 +13,8 @@ publish: false
 - https://hacktricks.wiki/en/index.html
 - https://angelica.gitbook.io/hacktricksThis reddit post
 # Linux 
+## Environmental variables
+- `printenv`
 ## OS info
 - ![[Vault-data/Attachments/Enumeration tips file perms.png]]
 - https://juggernaut-sec.com/weak-file-permissions/
