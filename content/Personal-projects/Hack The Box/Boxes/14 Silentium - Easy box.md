@@ -149,8 +149,8 @@ ben cannot run root.
 - tcp/80 - http server
 - tcp/1025 - alternative smtp port (local)
 - tcp/35661 - unknown (local)
-- tcp/3000 - http server port, usually (local)
-- tcp/3001 - http API port, usually (local)
+- tcp/3000 - http flowise server
+- tcp/3001 - http gogs server. Self hosted git server (local)
 
 `ps aux` tells me mailhog runs as the ben user, so im not sure if that can be exploited. It also tells me that port 3000, 1025 and 8025 run in a docker container. I’m guessing that’s the mailhog environment then. maybe port 3000 is its web interface? I’ll try to tunnel to it.
 
@@ -160,5 +160,110 @@ The whole UI is a bit simple, the only button i can really interact with is enab
 
 Scanning it with nmap reveals it to be a golang http server. Although just going to the url reveals a 404 page.
 
+Continued the next day. It seems that the 35661 port has been re-randomized. it now is 33323. This might mean something.
+
+Inside the cookies of the website, it has a password hash for meye. No idea what it is, but im going to try to crack the hash. The hash doesnt seem to be able to be cracked.
+
+I think meye is motioneye. Not sure though. There is no motioneye port open.
+Restarting the website does not return the motioneye password hash. I dont know where it went.
+
+## Gogs server
+port 3001 is a gogs server. which is a self-hosted git webpage. It runs as root. It might be worth looking into.
+
+I have no idea if this works, as i dont have the gogs version. But there seems to be RCE capabilities in gogs 0.14.2, which si the latest support release: `CVE-2026-52806`. It works because branch names arent sanitized properly, letting you input arbitrary code right into the name. I found a [POC](https://github.com/portbuster1337/CVE-2026-52806) for that CVE, but it did not work. It DID however, give me the version number.
+
+Gogs 0.13.3 is vulnerable to [CVE-2025-8110](https://nvd.nist.gov/vuln/detail/CVE-2026-52806). another RCE exploit via path traversal. Though it does seem its only capability is to delete a file.
+
+Tried two metasploit exploits for the heck of it. Doesn’t work. Also found this [exploit-db](https://www.exploit-db.com/exploits/52348) file for (CVE-2024-39930), it seemed to work, but trying to log in on ssh says that gogs does not provide shell access. Dead end again, i suppose. Must be that gogs ssh server has been disabled.
+
+## User Ben
+The only thing that seems to be left is that mysterious golang server on port 33323 that randomly changes ports on reboot. Going to continue tomorrow again.
 
 
+The port changed to 45527 now. Ill see what i can get out of nmap.
+
+NMAP says its supposedly a golang server but it’s not sure. I don’t really know what to do with this information. Maybe i can telnet into it?
+
+Telnet returns a badrequest, closed by foreign host. I really dont know if this is something.
+
+Looking at the `printenv` env variables. Nothing.
+
+Screw it, im running linpeas
+### Linpeas output
+the output makes me realize i havent done a lot of directory searching. Maybe i could also check out the /var/www directory.
+
+I see some CVEs it should be vulnerable for, but thsoe are all kernel level shit, so thats wayy out of scope for an easy box.
+
+It really seems interesting to explore the /var folder and see what i can find.
+
+That’s it, really. Dang lol.
+
+### folder enum
+The silentium website resides there. Theres litterally 3 files: html, css and js
+
+Trying to see if i can find the gogs file.
+
+i think its in /opt/gogs. Though some files are permission denided. The stuff i can see, i cannot edit. I can see the database path and ip: localhost:5432, sqlite file in /opt/gogs/data/gogs.db. No password it seems, username gogs. I dont know why a sqlite path has a host though, since its a file.
+
+Secret key is sdsrcxSm0iC7wDO.
+
+I dont know if i can actually use the secret key for something. Google tells me its used for hashing stuff and encrypting cookies.
+
+Im going to try that rebase vuln again.
+
+create a repo named “test”
+```bash
+# Create the repo
+mkdir test
+cd test
+git init -b master
+
+# Init the main branch
+touch file
+git add -A
+git commit -m "init"
+
+# Make a featre branch
+git switch -c feature
+echo bye >> file2
+git add -A
+git commit -m "change"
+
+# Update the main branch
+git switch master
+echo hi >> file
+git add -A
+git commit -m "update"
+
+# Create a malicious branch
+git update-ref 'refs/heads/test' master
+
+# Check if the branch exists with
+git for-each-ref --format='%(refname:short)' refs/heads/
+
+# Add the remote
+git remote add origin http://testtest:test@localhost:3001/testtest/test.git
+
+# Push it all
+git push origin master feature \
+  'refs/heads/test:refs/heads/test'
+```
+- Go to the repo in gogs > settings > advanced settings
+	- Enable pull requests
+	- Allow rebase
+	- save
+- Create a pull request
+	- Base: exec branch
+	- Head: feature
+
+It refuses to merge. It says the two branches have different histories.
+
+
+wait.
+CVE-2025-8110. when i looked it up i accidentally landed on CVE-2026-24135 and did NOT Notice. Hold on.
+
+[No](https://github.com/zAbuQasem/gogs-CVE-2025-8110/blob/main/CVE-2025-8110.py)…
+
+![[Vault-data/Attachments/14 Silentium - Easy box.png]]
+NO.
+im crine
