@@ -14,7 +14,7 @@ Docker can essentially be used in every step of the SDLC:
 - You can quickly prototype applications
 - Apps can be designed around a docker environment
 - The CI/CD pipeline can be made for a docker environment
-- Test processes can also be ran inside docker
+- Test processes can also be ran inside docker 
 - New updates can be pushed to new image versions
 # Basics
 The base process of docker is the docker engine. Docker talks to this proces.
