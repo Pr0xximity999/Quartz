@@ -1,14 +1,15 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "🌙Ivy's Docs"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   prefetch: viewport
   analytics:
-    provider: plausible
+    provider: google
+    tagId: G-RQ53SEPBR4
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: docs.ivorylotus.dev
   ignorePatterns:
     - private
     - templates
@@ -17,28 +18,28 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Lora
+      body: Lora
+      code: Roboto Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
+        light: "var(--background-primary-light)"
+        lightgray: "#fcf5e4"
         gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        darkgray: "var(--text-normal-light)"
+        dark: "var(--text-normal-light)"
+        secondary: "var(--text-muted-light)"
+        tertiary: "var(--text-accent-hover-light)"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
+        light: "var(--background-primary-dark)"
+        lightgray: "var(--background-primary-alt-dark)"
         gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        darkgray: "var(--text-normal-dark)"
+        dark: "var(--text-normal-dark)"
+        secondary: "var(--text-muted-dark)"
+        tertiary: "var(--text-accent-hover-dark)"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
   links:
@@ -64,14 +65,13 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
-  - source: "@quartz-community/github-flavored-markdown"
-    enabled: true
-    order: 30
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
       enableInHtmlEmbed: false
-      enableCheckbox: true
+    order: 30
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
@@ -104,13 +104,13 @@ plugins:
       theme: tokyo-night
       mode: both
   - source: "@quartz-community/explicit-publish"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
