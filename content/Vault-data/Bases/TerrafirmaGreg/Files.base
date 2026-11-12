@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Games/Minecraft/Modpacks/TerraFirmaGreg")
+    order:
+      - file.name
+      - file.folder
+    columnSize:
+      file.name: 125

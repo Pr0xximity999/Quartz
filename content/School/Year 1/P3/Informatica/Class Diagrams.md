@@ -1,0 +1,99 @@
+---
+tags:
+  - school/informatica
+  - school/datamodel
+  - language/english
+  - taal/engels
+  - design/diagrams
+  - design/uml
+  - school/2D-graphics
+publish: "true"
+---
+When making an application, you gotta know what you have to make.
+For [[School/Year 1/P2/Software-development/Object Oriented Programming|Object Oriented Programming]], this is knowing which classes interact with which and what methods these classes contain.
+One way of doing this is via modelling it in a subset of the Unified Modeling language(UML) called class diagrams.
+Another type of UML diagram is a [[School/Year 1/P1/Informatica/Use Cases and Diagrams|use case diagram]]
+
+UML is not a programming language, it is a visual modelling language made for Object Oriented software. UML is widely used all around the globe.
+
+# UML Class Diagrams
+An UML diagram can also be called a class diagram.
+A class diagram can mean different things, but in UML it means the following:
+> "*A class diagram is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.*"
+
+So basically, it is a static(non-changing) representation of how classes, attributes(properties) and methods interact with each other and also their relations to one another.
+## Structural diagram
+A structural diagram contains things like:
+- classes
+- objects 
+- components
+- how the software will be deployed.
+Structural diagrams show the 'static' view of the program. It will always be like this and will not change during runtime.
+## Behavioural diagram
+A behavioural diagram contains things like:
+- use cases
+- how things will play out (sequences)
+- communication between things
+- the state of things
+- the activity of things
+Behavioural diagrams show the 'active' view of the program. It can change during runtime and shows the flow of the application.
+
+
+# The structure of a class diagram
+## Datatypes
+Datatypes are written like this: ``name:type``
+So for example: ``fruit:string`` is a string with the name fruit.
+If you want to assign a value to a variable, you use the ``=`` icon.
+For example: ``fruit="apple"``
+
+## Classes
+Classes are a collection of objects (or 'instances') with similar properties.
+You could compare it to a blueprint.
+A class consist of:
+- The **name** of the class
+- The description of the properties of the objects inside the class
+	- **Attributes**: Information that's contained within
+	- **Operations**: The behaviour of the object (what can it do)
+A class can look 3 different ways, all with a different level of detail:
+
+![[Vault-data/Attachments/Pasted image 20241203173648.png]]
+### Attributes and operations(functions)
+Attributes and operations are the properties inside a class.
+Attributes go on top, properties go below them.
+An attribute or operation can have an accessor modifier which shows how outside classes interact with them:
+- **Public (+)**: Can be seen an interacted with by outside classes.
+- **Private (-)**: Cannot be seen and interacted with by outside classes.
+- **Protected (#)**: Can only be seen and interacted with by classes that inherit the class.
+Operations are written like this: ``name(params):return``. If the operation has parameters, you put those inside the brackets. If the operation has a return value, you put them behind the brackets (beginning with a ``:``). If the operation has no return value, you type ``void``
+### instances
+Instances are objects that are derived from classes. They're written like this:
+![[Vault-data/Attachments/Pasted image 20241203174148.png]]
+Notice how the second person has no name, it is still an instance from the class ``person``.
+## Relations between classes (arrows and such)
+There are a bunch of different associations, so i will just put a handy image in here.<br>
+![[Vault-data/Attachments/Pasted image 20241203175917.png]]
+
+Associations mean the classes can call one another's methods.
+An arrow means one class knows the other, but not the other way around.
+
+Below the line, you put the name of the relation.<br>Above the line, you put the roles of the two classes.<br>Assocations can also be a property of the class
+Some examples would look like this:<Br>![[Vault-data/Attachments/Pasted image 20241203180318.png]]<br>
+![[Vault-data/Attachments/Pasted image 20241203180923.png]]
+
+## Multiplicity
+Sometimes a class can have more than one relation to the same class. This is called multiplicity. The way of notation multiplicity is being done by the following list:
+- **None**: The class contains exactly one relation
+- **Number**: The class contains the number of relations given(1,2,3,etc..)
+- **Asterisk(\*)**: The class can contain zero or more relations
+- **Range(2..5)**: The class can contain a number between the given range
+
+Examples:<br>(All these examples have 1 car, since there's none given)
+<br>![[Vault-data/Attachments/Pasted image 20241203182310.png]]<br>The car moves 1 person
+
+![[Vault-data/Attachments/Pasted image 20241203182332.png]]<Br>The car moves exactly 5 people
+
+![[Vault-data/Attachments/Pasted image 20241203182346.png]]<br>The car moves between 0 and an infinite amount of people
+
+![[Vault-data/Attachments/Pasted image 20241203182429.png]]<br>The car moves between 1 and an intfinite amount of people
+
+![[Vault-data/Attachments/Pasted image 20241203182449.png]]<Br>The car moves between 1 and 5 people

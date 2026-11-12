@@ -1,0 +1,65 @@
+---
+tags:
+  - school/ux
+  - school/robotics-prototyping
+  - language/dutch
+  - taal/nederlands
+  - school/design
+publish: "true"
+---
+>[!info] vervolging op de vorige les
+>Die kan je [[School/Year 1/P1/Informatica/Doelgroep en de gebruiker|hier]] vinden
+
+
+Een goed design geeft een juist beeld over hoe je de applicatie moet bouwen.
+
+# Less is more
+Probeer het zo simpel en eenvoudig te houden, zodat het makkelijker te lezen is
+
+## Waarom
+Als je het clean en simpel houd is het makkelijker te besturen. Door duidelijk en bondig te laten zien hoe je het gebruikt word het een fijnere experience.
+
+Het draait dus om:
+- De visuele ervaring
+- De auditieve ervaring
+- De tactiele ervaring
+- "Het brein van de gebruiker moet het een fijne ervaring vinden"
+
+# Gestalt principes
+> **Gestalt principes**: Het gestalt is wat je als eerst ziet, je kijkt later pas naar de details.
+
+## Voorgrond / achtergrond
+Je kijkt eerst naar de vorm van alles, je ogen interpreteren bepaalde vormen en contouren als eerst, dit is dus belangrijker dat de details.
+Er zit dan ook weer een volgorde in wat je als eerst ziet, zoals grote rode text op een website.
+### Voorbeeld
+Je kijkt eerder naar lichtere dingen dan donkerde dingen, zoals een popup.
+
+## Continuering
+Continuering is het aanvullen van vormen waar er niks is, witruimte kan hierdoor vorm geven. Soms stopt iets na een deel maar kan je brein het voor de rest aanvullen.
+Continueren gaat meer over rends, paden en lijnen.
+
+### Voorbeeld
+Soms zie je een half plaatje, of een half blokje text. Je weet wel dat het dus doorloopt.
+
+## Gelijkenis
+onze ogen en brein die vinden het fijn om soortgelijke objecten te zien.
+Door soortgelijke icoontjes gebruiken word het fijner om dingen te vinden. Groeperen werkt goed mee voor de user experience van de gebruiker.
+
+### Voorbeeld
+Dezelfde kleur en style icoontjes maakt het makkelijker om groepen te vinden voor bijvoorbeeld de textbox buttons voor als je een twitter post maakt.
+
+## Closure
+Je ogen kunnen vormen en objecten af maken zonder dat het geheel er is/
+Vergeleken met continuering, gaat closure meer over vormen en objecten.
+
+## Groepering
+Objecten die omsloten zijn beschouwen we als een groep. onze ogen en brein hebben de neiging om groepen te willen zien.
+Afhankelijk van hoe je elementen inkleurt kan je andere groepen maken.
+Door element groepen dingen als een kader of een marge te geven kan je ook makkelijk groepen maken.
+
+## Mental load
+Vermeid rommelige onderwerpen, toon alleen wat nodig is als het nodig is.
+Een aantal goede manierer om dit te doen zijn:
+- tooltip popups/ hover tooltips etc.
+- sidebar menus/sidebar panels.
+- Ribbons / dropdowns
